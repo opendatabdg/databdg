@@ -1,0 +1,5 @@
+nilai_ipm,status_pembangunan_manusia
+< 50 ,Rendah
+50 >= IPM < 60 ,Menengah Bawah
+60 >= IPM < 80 ,Menengah Atas
+>= 80,Tinggi

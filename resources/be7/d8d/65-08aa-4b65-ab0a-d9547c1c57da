@@ -1,0 +1,37 @@
+Bulan,Nama,Nilai,Satuan
+01,Penguapan,3.9,mm
+01,Tekanan Udara,923.3,mb
+01,Kelembapan Nisbi,79,%
+02,Penguapan,3.7,mm
+02,Tekanan Udara,922.1,mb
+02,Kelembapan Nisbi,80,%
+03,Penguapan,4.2,mm
+03,Tekanan Udara,923.4,mb
+03,Kelembapan Nisbi,79,%
+04,Penguapan,3.2,mm
+04,Tekanan Udara,922.7,mb
+04,Kelembapan Nisbi,82,%
+05,Penguapan,3.3,mm
+05,Tekanan Udara,922.9,mb
+05,Kelembapan Nisbi,82,%
+06,Penguapan,3.4,mm
+06,Tekanan Udara,922.1,mb
+06,Kelembapan Nisbi,78,%
+07,Penguapan,3.1,mm
+07,Tekanan Udara,923.2,mb
+07,Kelembapan Nisbi,77,%
+08,Penguapan,4.2,mm
+08,Tekanan Udara,923.9,mb
+08,Kelembapan Nisbi,71,%
+09,Penguapan,4.4,mm
+09,Tekanan Udara,923.8,mb
+09,Kelembapan Nisbi,70,%
+10,Penguapan,4.4,mm
+10,Tekanan Udara,924.5,mb
+10,Kelembapan Nisbi,73,%
+11,Penguapan,4,mm
+11,Tekanan Udara,922.5,mb
+11,Kelembapan Nisbi,74,%
+12,Penguapan,3.5,mm
+12,Tekanan Udara,922.5,mb
+12,Kelembapan Nisbi,80,%

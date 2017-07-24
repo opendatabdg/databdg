@@ -1,0 +1,76 @@
+nama_skpd,II-a,II-b,III-a,III-b,IV-a,IV-b,V-a
+Sekretariat Daerah,1,0,0,0,0,0,0
+Asisten Pemerintahan,0,1,0,0,0,0,0
+Bagian Pemerintahan Umum,0,0,1,0,3,0,0
+Bagian Hukum dan HAM,0,0,1,0,3,0,0
+Bagian Organisasi dan Pemb. Aparatur Daerah,0,0,1,0,3,0,0
+Bagian Kerjasama Daerah,0,0,1,0,2,0,0
+Asisten Administrasi Perekonomian dan Pemb.,0,1,0,0,0,0,0
+Bagian Pembangunan dan SDA,0,0,1,0,3,0,0
+Bagian Perekonomian,0,0,1,0,3,0,0
+Bagian Kesra dan Kemasyarakatan,0,0,1,0,3,0,0
+Asisten Administrasi Umum,0,1,0,0,0,0,0
+Bagian Umum dan Perlengkapan,0,0,1,0,3,0,0
+Bagian Tata Usaha Setda,0,0,1,0,3,0,0
+Staf Ahli Walikota,0,5,0,0,0,0,0
+Sekretariat DPRD,0,1,4,0,8,0,0
+Inspektorat,0,1,4,0,3,0,0
+Badan Kepegawaian Daerah,0,1,1,4,10,0,0
+Badan Kesbang & Pemberdayaan Masy.,0,1,1,2,7,0,0
+Badan Pelayanan Perijinan Terpadu,0,1,1,4,3,0,0
+Badan Pemberdayaan Perempuan & KB,0,1,1,3,8,1,0
+Badan Pengelolaan Lingkungan Hidup,0,1,1,4,10,0,0
+Badan Perencanaan Pemb. Daerah,0,1,1,6,16,1,0
+Dinas Bina Marga & Pengairan,0,1,1,5,21,10,0
+Dinas Kebudayaan & Pariwisata,0,1,1,4,10,0,0
+Dinas Kependudukan & Pencatatan Sipil,0,1,1,4,10,0,0
+Dinas Kesehatan,0,1,1,4,44,31,0
+Dinas Komunikasi & Informatika,0,1,1,4,10,2,0
+Dinas Koperasi & UKM Perindag,0,1,1,5,17,2,0
+Dinas Pelayanan Pajak,0,1,1,4,19,5,0
+Dinas Pemakaman dan Pertamanan,0,1,1,4,12,1,0
+Dinas Pemuda & Olahraga,0,1,1,3,9,1,0
+Dinas Pencegahan & Penanggulangan Kebakaran,0,1,1,4,11,1,0
+Dinas Pendidikan,0,1,1,4,23,25,71
+Dinas Pengelolaan Keuangan & Aset Daerah,0,1,1,4,13,0,0
+Dinas Perhubungan,0,1,1,4,13,3,0
+Dinas Pertanian & Ketahanan Pangan,0,1,1,5,13,3,0
+Dinas Sosial,0,1,1,4,9,0,0
+Dinas Tata Ruang & Cipta Karya,0,1,1,6,15,1,0
+Dinas Tenaga Kerja,0,1,1,4,10,0,0
+Satuan Polisi Pamong Praja,0,1,0,5,10,0,0
+Rumah Sakit Khusus Gigi & Mulut,0,0,1,0,4,0,0
+Rumah Sakit Khusus Ibu & Anak,0,0,1,0,3,0,0
+Rumah Sakit Umum Daerah,0,0,1,4,9,0,0
+Kantor Perpustakaan & Arsip Daerah,0,0,1,0,4,0,0
+Kecamatan Andir,0,0,1,1,11,29,0
+Kecamatan Antapani,0,0,1,1,9,17,0
+Kecamatan Arcamanik,0,0,1,1,9,22,0
+Kecamatan Astana Anyar,0,0,1,1,11,28,0
+Kecamatan Babakan Ciparay,0,0,1,1,10,29,0
+Kecamatan Bandung Kidul,0,0,1,1,9,18,0
+Kecamatan Bandung Kulon,0,0,1,1,13,40,0
+Kecamatan Bandung Wetan,0,0,1,1,8,16,0
+Kecamatan Batununggal,0,0,1,1,12,38,0
+Kecamatan Bojongloa Kaler,0,0,1,1,8,28,0
+Kecamatan Bojongloa Kidul,0,0,1,1,11,26,0
+Kecamatan Buahbatu,0,0,1,1,9,22,0
+Kecamatan Cibeunying Kaler,0,0,1,1,8,14,0
+Kecamatan Cibeunying Kidul,0,0,1,1,11,27,0
+Kecamatan Cibiru,0,0,1,1,8,20,0
+Kecamatan Cicendo,0,0,1,1,10,30,0
+Kecamatan Cidadap,0,0,1,1,8,16,0
+Kecamatan Cinambo,0,0,1,1,7,21,0
+Kecamatan Coblong,0,0,1,1,12,30,0
+Kecamatan Gedebage,0,0,1,1,8,20,0
+Kecamatan Kiaracondong,0,0,1,1,11,29,0
+Kecamatan Lengkong,0,0,1,1,12,33,0
+Kecamatan Mandalajati,0,0,1,1,9,21,0
+Kecamatan Panyileukan,0,0,1,1,9,20,0
+Kecamatan Rancasari,0,0,1,1,8,21,0
+Kecamatan Regol,0,0,1,1,9,35,0
+Kecamatan Sukajadi,0,0,1,1,10,25,0
+Kecamatan Sukasari,0,0,1,1,9,20,0
+Kecamatan Sumur Bandung,0,0,1,1,9,20,0
+Kecamatan Ujungberung,0,0,1,1,9,25,0
+Komisi Pemilihan Umum,0,0,1,0,4,0,0

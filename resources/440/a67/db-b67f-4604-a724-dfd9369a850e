@@ -1,0 +1,23 @@
+Nama_pemberi_layanan,Jumlah ,jenis_kasus,banyak_kasus
+Dokter Umum,15,Rajal,1751
+Klinik,32,Rajal,11727
+"RS, Pemerintah",7,ranap,18950
+"RS, Pemerintah",7,rajal,239519
+"RS, Swasta",8,ranap,14501
+"RS, Swasta",8,rajal,74740
+"RS, TNI / POLRI",3,ranap,9236
+"RS, TNI / POLRI",3,rajal,195022
+"RS, Khusus",4,ranap,2784
+"RS, Khusus",4,rajal,26785
+"Balai LabKes, Daerah",2,ranap,97552
+BP4 Bandung,1,rajal,2311
+"RSK Ginjal Ny, Habibie",1,ranap,109
+"RSK Ginjal Ny, Habibie",1,rajal,572
+"RB, Astana Anyar",1,ranap,114
+"RB, Astana Anyar",1,rajal,509
+Dinkes Gigi,1,rajal,9061
+Optikal ,14,rajal,8018
+Apotik dan Instalasi Farmasi ,22,ranap,48813
+Apotik dan Instalasi Farmasi ,22,rajal,444375
+Puskesmas ,73,ranap,18
+Puskesmas ,73,rajal,237899

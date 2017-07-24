@@ -1,0 +1,13 @@
+wilayah,jumlah,keadaan
+Bandung Utara,2,baik
+Bandung Timur,3,baik
+Bandung Barat,1,baik
+Bandung Tengah,1,baik
+Bandung Utara,-,cukup
+Bandung Timur,1,cukup
+Bandung Barat,-,cukup
+Bandung Tengah,5,cukup
+Bandung Utara,3,kurang
+Bandung Timur,2,kurang
+Bandung Barat,7,kurang
+Bandung Tengah,1,kurang

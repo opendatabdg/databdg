@@ -1,0 +1,35 @@
+Nomor Polisi,Merk Kendaraan,Jenis Kendaraan,Kapasitas (M3),Tahun,Pengemudi
+D 8833 A,Isuzu FTR 3,LH,10,2001,Rustam
+D 8126 CM,Isuzu FTR 33,LH,10,2002,Sopian
+D 8244 C,Hino,LH,10,2006,Arip
+D 8242 C,Hino,LH,10,2006,Mimin
+D 8357 C,Hino,LH,11,2007,Damas
+D 8358 C,Hino,LH,12,2007,Apit
+D 8359 C,Hino,LH,13,2007,Rusmana
+D 8360 C,Hino,LH,14,2007,Endang Supriatna
+D 8361 C,Hino,LH,15,2007,Mulyadi
+D 8363 C,Hino,LH,16,2007,Hermanto
+D 8510 C,Hino,LH,17,2010,Asep S
+D 8556 A,Toyota Dyna,LH,18,2000,Wahyu
+D 8253 C,Isuzu / NKR 71 ,LH,19,2006,Cahya
+D 8254 C,Isuzu / NKR 71 ,LH,20,2006,Jaenal
+D 8508 A,Hino, LH,21,2010,Robi
+D 8675 EK,Isuzu,LH,22,2014,Heri
+D 8728 A,Hino,Dump Truk,23,1990,Alit
+D 8249 C,Hino,Dump Truk,24,2006,Rudi
+D 8364 C,Hino,Dump Truk,25,2007,Dadang
+B 9632 EQ,Isuzu ,Dump Truk,26,2012,Budi
+D 8289 BO,Isuzu Bison,Dump Truk,27,1994,Sukandar
+D 8011 B,Mitsubishi,Dump Truk,28,2002,Mulyadi
+D 8007 C,Mitsubisi,Dump Truk,29,2002,
+D 8158 C,Toyota Dyna,Dump Truk,30,2005,Saepuloh
+D 8030 EK,Mitsubishi,Dump Truk,31,2014,
+D 8031 EK,Mitsubishi,Dump Truk,32,2014,Supriatna
+D 8040 EK,Mitsubishi,Dump Truk,33,2014,
+D 8088 C,Hino,Compactor,34,2013,
+D 8103 C,Isuzu,Compactor,35,2013,Acep
+D 8095 C,Isuzu,Compactor,36,2013,Suryana
+D 8099 C,Isuzu,Compactor,37,2013,Ajat
+D 8634 EN,Mitsubishi,Compactor,38,2013,
+D 8087 C,Isuzu,Mobil Sapu,,,
+W 70,Komatsu,Loader,,1980,

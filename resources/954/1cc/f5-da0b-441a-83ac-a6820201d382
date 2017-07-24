@@ -1,0 +1,837 @@
+Nama Lembaga,Jenis Satuan,Alamat,Kelurahan,Kecamatan,Usia,Usia0-2Thn_LakiLaki,Usia0-2Thn_Perempuan,Usia3-4Thn_LakiLaki,Usia3-4Thn_Perempuan,Usia5-6Thn_LakiLaki,Usia5-6Thn_Perempuan,Usia>6Thn_LakiLaki,Usia>6Thn_Perempuan,Pendidik_LakiLaki,Pendidik_Perempuan
+AL AMIN,KOBER,Jl. Halteu Selatan No.71 RT./,Dungus Cariang,Andir,0-2 Tahun,0,0,0,0,0,0,0,0,0,0
+ANGGREK,KOBER,Jl. Terusan Dadali RT.4/2,Maleber,Andir,0-2 Tahun,0,0,8,14,10,12,9,13,0,6
+AN-NUR,KOBER,Jl. Maleber Utara Gg. Bakti IV No. 398 RT.05/8,Maleber,Andir,0-2 Tahun,0,0,0,0,19,25,0,0,0,7
+ASTER,KOBER,Jl. Rajawali Timur Gg. Kebon Jukut IV  RT.02/6,Ciroyom,Andir,0-2 Tahun,0,0,2,21,4,18,0,0,0,3
+BUNDA RINA SCHOOL,KOBER,Jl. Garuda blok 92 RT.2/5,Garuda,Andir,0-2 Tahun,0,0,6,4,10,16,0,0,0,6
+BUNGA ALAMI,KOBER,Jl. Babakan Cianjur No.3 RT.05/6,Campaka,Andir,0-2 Tahun,0,0,26,14,0,0,0,0,0,5
+DADALI,KOBER,Jl. Maleber Utara No. 85/187A RT.02/3,Garuda,Andir,0-2 Tahun,0,0,3,7,3,10,3,7,1,2
+IMANDA,KOBER,Jl. Halteu Utara VI No. 1 RT.4/2,Dungus Cariang,Andir,0-2 Tahun,9,9,0,0,8,15,31,38,1,9
+KARTINI,KOBER,Jl. Maleber Utara gg Bakti 2 RT.01/4,Garuda,Andir,0-2 Tahun,0,0,0,0,12,11,16,17,0,6
+SAUYUNAN,KOBER,Jl. Maleber Utara RT.02/6,Maleber,Andir,0-2 Tahun,0,0,7,14,7,11,10,9,0,5
+STEP ONE,KOBER,Jl. Laksmud Nurtanio No.65  RT.09/2,Dungus Cariang,Andir,0-2 Tahun,0,0,13,8,6,8,0,0,1,6
+THE FLORENCE INSTITUTE,KOBER,Jl. Laks. M. Nurtanio No. 39 RT./,Garuda,Andir,0-2 Tahun,0,0,0,0,0,0,0,0,0,0
+AR-RIZKY,KOBER,Jl. Maleber Utara Gg. Bakti 3 RT.05/6,Garuda,Andir,0-2 Tahun,0,0,0,0,14,16,5,10,0,5
+GEMBIRA,KOBER,Jl. Kebonjati Gg. Minyak Tanah No. 13/70 RT.8/11,Ciroyom,Andir,0-2 Tahun,1,2,2,6,7,0,0,0,0,2
+ASTER RW.06,KOBER,Jl. Rajawali Timur Gg. Kebon Jukut IV RT.02/6,Ciroyom,Andir,0-2 Tahun,0,0,11,7,12,10,0,0,0,3
+MEKAR ARUM,KOBER,Jl. Maleber Barat No. 157/187B RT.3/3,Maleber,Andir,0-2 Tahun,0,0,5,6,13,8,2,0,0,3
+MATAHARI,KOBER,Jl. Srigunting II RT.4/7,Maleber,Andir,0-2 Tahun,0,0,7,8,7,3,0,0,0,8
+AL-MUSLIMUN,KOBER,Jl. Sindangsari I No. 11 RT.02/8,Antapani Wetan,Antapani,0-2 Tahun,0,0,7,13,30,16,1,0,0,4
+BAITUL MU'MIN,KOBER,Jl. Purwokerto No. 1A RT.04/11,Antapani Kidul,Antapani,0-2 Tahun,0,0,2,3,10,14,0,0,0,4
+CINEAS SEKOLAH TUMBUH KEMBANG,KOBER,Jl. Purwakarta No. 126 RT.01/1,Antapani Kidul,Antapani,0-2 Tahun,0,0,0,0,15,15,0,0,1,6
+DAARUL HIKMAH,KOBER,Jl. Cikampek Raya No.17 RT.03/8,Antapani Tengah,Antapani,0-2 Tahun,0,0,0,0,10,6,0,0,0,5
+SALSABILA AR-ROHIM,KOBER,Jl. Purwakarta 3 No. 32 RT.03/1,Antapani Tengah,Antapani,0-2 Tahun,1,1,10,9,7,11,0,1,0,6
+TARUM SARI,KOBER,Jl. Tarumasari RT.01/5,Antapani Kulon,Antapani,0-2 Tahun,0,0,6,13,16,16,0,0,0,6
+TUNAS BENING,KOBER,Jl. Sindangsari I RT.05/8,Antapani Wetan,Antapani,0-2 Tahun,0,0,8,5,16,7,0,0,0,3
+WARNA SARI,KOBER,Jl. Sariwates Indah 1 RT.03/13,Antapani Kidul,Antapani,0-2 Tahun,0,0,15,15,12,9,0,0,0,9
+AMANAH,KOBER,Jl. Kadipaten XII No.1 RT.02/2,Antapani Kidul,Antapani,0-2 Tahun,0,0,8,10,2,1,5,5,0,4
+PSY CENTER,KOBER,Jl. Indramayu No. 31 RT.01/6,Antapani Kidul,Antapani,0-2 Tahun,0,0,3,6,5,4,0,1,0,4
+BUNGA ALAM,KOBER,Jl. Cikampek 4 No. 9 RT.04/7,Antapani Tengah,Antapani,0-2 Tahun,0,0,0,3,7,2,2,1,0,3
+LARE ALIT,KOBER,Jl. Terusan Jakarta No. 214 RT.01/14,Antapani Tengah,Antapani,0-2 Tahun,1,3,7,5,1,2,0,0,1,6
+AL-ISHLAH,KOBER,Jl. Cibodas Baru No.6 RT.04/22,Antapani Tengah,Antapani,0-2 Tahun,4,6,10,14,6,1,0,0,1,6
+AISYIYAH SUMBERSARI,KOBER,Jl. Sumber Sari No.65 RT.04/8,Cisaranten Kulon,Arcamanik,0-2 Tahun,0,0,13,13,14,21,0,0,1,11
+AL-HIDAYAH,KOBER,Jl. Permata Bumi RT.01/03,Cisaranten Kulon,Arcamanik,0-2 Tahun,0,0,10,5,10,15,0,0,0,8
+AR-RASYADA,KOBER,Jl. Sarimas Selatan Blk. No. 23 RT./,Sukamiskin,Arcamanik,0-2 Tahun,0,0,0,0,11,19,0,0,1,4
+AZZAHRA,KOBER,Jl. Pacuan Kuda No.204 RT.01/8,Sukamiskin,Arcamanik,0-2 Tahun,0,0,7,7,12,9,0,0,1,5
+CENDRAWASIH,KOBER,Jl. Bojong Awi Kaler No.121 RT.04/3,Cisaranten Bina Harapan,Arcamanik,0-2 Tahun,0,0,7,10,10,2,0,0,1,5
+INSAN KAMIL,KOBER,Jl. Blok Sawah Luhur Kav.3 Gandasari RT./,Cisaranten Kulon,Arcamanik,0-2 Tahun,0,0,0,0,16,14,0,0,0,6
+MUTIARA MANIK,KOBER,Jl. Cisaranten Kulon RT./,Cisaranten Kulon,Arcamanik,0-2 Tahun,0,0,0,0,22,14,0,0,0,4
+NUSA INDAH,KOBER,Jl. Cisaranten Kulon No.38  RT.01/1,Cisaranten Kulon,Arcamanik,0-2 Tahun,0,0,6,4,12,8,0,0,0,3
+PERMATA BUNDA,KOBER,Jl. Cisaranten Kulon No.122 RT.02/7,Cisaranten Kulon,Arcamanik,0-2 Tahun,0,0,9,6,3,4,0,0,0,3
+PMCB,KOBER,Jl. Cisaranten Kulon RT.04/2,Cisaranten Kulon,Arcamanik,0-2 Tahun,0,0,1,4,19,22,0,0,0,3
+PRATISTHA,KOBER,Jl. Ski Air No.20 RT.01/1,Cisaranten Endah,Arcamanik,0-2 Tahun,0,0,7,7,0,0,0,0,0,4
+SALSABILLA,KOBER,Jl. Cisaranten Baru No.22 RT.02/1,Cisaranten Kulon,Arcamanik,0-2 Tahun,0,0,11,8,5,1,0,0,0,5
+SAUNG BARUDAK,KOBER,Jl. A. H. Nasution No. 96A RT.02/2,Sukamiskin,Arcamanik,0-2 Tahun,0,0,13,9,9,5,0,0,1,3
+SEKAR ARUM,KOBER,Jl. Banjirsari No.43 Blk. SMPN XVII RT./,Sukamiskin,Arcamanik,0-2 Tahun,0,0,0,0,13,14,0,0,1,4
+TERATAI,KOBER,Jl. Cicukang RT.03/8,Cisaranten Endah,Arcamanik,0-2 Tahun,0,0,0,0,31,28,0,0,0,6
+ULIL ALBAB,KOBER,Jl. Ulil Albab No. 16 RT.01/3,Cisaranten Endah,Arcamanik,0-2 Tahun,0,0,0,0,23,20,0,0,1,8
+ZUHROTUL AZHAR,KOBER,Jl. Pesantren No. 34 RT.01/4,Sukamiskin,Arcamanik,0-2 Tahun,0,0,0,0,29,24,0,0,0,5
+AL-AMIN,KOBER,Jl. Pancatengah 3  RT.3/5,Cisaranten Kulon,Arcamanik,0-2 Tahun,0,0,13,11,2,10,0,0,0,4
+BINA INSAN CENDIKIA,KOBER,Jl. Cisaranten Kulon IV No. 34 RT.6/5,Cisaranten Kulon,Arcamanik,0-2 Tahun,0,0,2,6,8,9,0,0,0,6
+FATHUR ROCHMAN,KOBER,Jl. Cisaranten Kulon RT.4/3,Cisaranten Kulon,Arcamanik,0-2 Tahun,0,0,1,5,3,9,0,0,1,3
+MUTIARA BUNDA PLAYSCHOOL,KOBER,Jl. Padang Golf No. 8 RT.04/1,Sukamiskin,Arcamanik,0-2 Tahun,0,0,8,10,43,30,9,9,1,26
+GARUDA,KOBER,Jl. A. H. Nasution KM. 09 No. 7 RT.01/1,Cisaranten Bina Harapan,Arcamanik,0-2 Tahun,0,0,7,5,8,14,0,0,0,4
+PMCB,KOBER,Jl. Cisaranten kulon No. 123 RT.4/2,Cisaranten Kulon,Arcamanik,0-2 Tahun,0,0,0,0,9,5,3,4,0,3
+ADINDA,KOBER,Jl. Kopo Gg. Syukur No.19 RT.01/4,Panjunan,Astanaanyar,0-2 Tahun,0,0,0,0,17,14,0,0,0,3
+AL-FATHONAH,KOBER,Jl. Pagarsih Gg. H. Idrus No.33 RT.06/9,Cibadak,Astanaanyar,0-2 Tahun,0,0,0,0,3,13,0,0,1,6
+AL-FATHU,KOBER,Jl. Peta Gg. Buah No. 156/95  RT.02/4,Pelindung Hewan,Astanaanyar,0-2 Tahun,0,0,2,2,6,7,3,2,0,3
+AMALIA,KOBER,Jl. Soekarno Hatta No. 27/201B RT.02/2,Karasak,Astanaanyar,0-2 Tahun,0,0,11,10,13,16,0,0,0,4
+BAITURROHMAH,KOBER,Jl. Kopo No. 23 RT.04/1,Panjunan,Astanaanyar,0-2 Tahun,0,0,0,0,4,8,0,0,0,2
+BINA AULAD,KOBER,Jl. Liogenteng I No. 67/94 RT.02/5,Nyengseret,Astanaanyar,0-2 Tahun,0,0,0,0,8,6,5,7,1,3
+CAHAYA IBU,KOBER,Jl. Tegallega Barat No.183/95 RT.04/3,Pelindung Hewan,Astanaanyar,0-2 Tahun,0,0,7,18,15,25,0,0,1,4
+FITRASARI,KOBER,Jl. Pagarsih Gg. H. Idrus No. 33 RT.06/9,Cibadak,Astanaanyar,0-2 Tahun,0,0,0,0,18,14,0,0,0,5
+GEMILANG,KOBER,Jl. Moh. Toha No. 214 RT.04/6,Karasak,Astanaanyar,0-2 Tahun,0,0,12,13,0,0,0,0,1,4
+NURSYAMSIAH,KOBER,Jl. Pabaki Gg. Maksudi II No. 32 RT.5/3,Panjunan,Astanaanyar,0-2 Tahun,0,0,0,0,15,19,0,0,1,3
+NURUL IMAN,KOBER,Jl. Kebon Manggu Gg. Lebe No. 16 RT.04/9,Karang Anyar,Astanaanyar,0-2 Tahun,0,0,0,3,5,7,0,0,0,2
+SAUYUNAN,KOBER,Jl. KH. Wahid Hasyim No. 15-17 RT.01/1,Panjunan,Astanaanyar,0-2 Tahun,0,0,9,7,10,6,10,8,0,6
+SEMBILAN,KOBER,Jl. Cibadak No.193 RT.08/3,Cibadak,Astanaanyar,0-2 Tahun,0,0,0,0,16,9,0,0,2,7
+SILIH ASIH,KOBER,Jl. H. Safari Gg. Silih Asih No.11/90 RT.09/7,Cibadak,Astanaanyar,0-2 Tahun,0,0,0,0,14,6,0,0,0,4
+TAWAKKAL,KOBER,Jl. Moch. Toha Gg. Junaedi Dalam V No. 3 RT.07/10,Pelindung Hewan,Astanaanyar,0-2 Tahun,0,0,0,0,28,26,0,0,0,5
+NURUL FALAH,KOBER,Jl. Kopo Gg. Maksudi IV RT.06/4,Panjunan,Astanaanyar,0-2 Tahun,0,0,1,1,9,8,11,3,0,5
+AL-ISLAM,KOBER,Jl. Cibolerang Terusan Holis No. 38 RT.03/10,Margahayu Utara,Babakan Ciparay,0-2 Tahun,0,0,11,6,37,34,0,0,0,6
+AL-MIFTAAH,KOBER,Jl. Caringin Gg. Lumbung RT.03/3,Babakan Ciparay,Babakan Ciparay,0-2 Tahun,0,0,10,10,20,15,0,0,2,3
+AL-MUHAJIRIN,KOBER,Jl. Kopo Cirangrang Timur No. 26B RT.04/3,Cirangrang,Babakan Ciparay,0-2 Tahun,0,0,4,2,14,8,13,6,0,3
+AN-NAJAH,KOBER,Jl. Holis Caringin Gg. H. Pakih No. 321  RT.02/9,Babakan,Babakan Ciparay,0-2 Tahun,0,0,5,17,0,0,0,0,0,5
+ANNISA,KOBER,Jl. Satria Raya IV No. 5 RT.04/8,Margahayu Utara,Babakan Ciparay,0-2 Tahun,0,0,0,0,13,13,0,0,2,2
+AN-NUR,KOBER,Jl. Babakan Ciparay Gg. Marta  RT.05/3,Sukahaji,Babakan Ciparay,0-2 Tahun,0,0,0,0,18,22,0,0,0,3
+AR-ROHIM,KOBER,Jl. Soekarno Hatta Blok Ager Sari RT.09/10,Babakan,Babakan Ciparay,0-2 Tahun,0,0,0,0,5,5,10,8,0,4
+AZ ZAHRA,KOBER,Jl. Soekarno-Hatta Gg. H. Hasan II RT.01/7,Babakan Ciparay,Babakan Ciparay,0-2 Tahun,0,0,0,0,11,24,0,0,1,5
+BAKTI IBU,KOBER,Jl. Jamika Gg. Mama dipa RT.02/5,Sukahaji,Babakan Ciparay,0-2 Tahun,0,0,3,9,19,19,0,0,1,4
+BUNDA BALITA,KOBER,Jl. Makam Caringin No.76 RT.01/2,Margahayu Utara,Babakan Ciparay,0-2 Tahun,1,4,4,4,9,6,0,0,0,4
+CLCC,KOBER,Jl. Dian Permai Raya No. 2A RT./,Babakan,Babakan Ciparay,0-2 Tahun,0,0,0,0,0,0,0,0,0,6
+HARAPAN BUNDA,KOBER,Jl. Caringin Gg. Lumbung II No. 53 RT.05/3,Babakan Ciparay,Babakan Ciparay,0-2 Tahun,0,0,3,3,6,12,0,0,0,4
+HARAPAN BUNDA,KOBER,Jl. Babakan Ciparay Gg. Bu Asih 251 RT.2/2,Sukahaji,Babakan Ciparay,0-2 Tahun,0,0,0,0,14,13,0,0,1,2
+JASMIN,KOBER,Jl. Caringin Gg. Masjid At-Taqorrub RT.06/4,Margahayu Utara,Babakan Ciparay,0-2 Tahun,0,0,2,0,30,25,9,7,0,6
+KOTA AL-HIDAYAH SSI,KOBER,Jl. Sumber Mulya 16-6 SSI RT.5/7,Babakan Ciparay,Babakan Ciparay,0-2 Tahun,0,0,7,2,37,35,0,0,0,14
+MAMELSY,KOBER,Jl. Cibolerang No. 21 RT.01/5,Margasuka,Babakan Ciparay,0-2 Tahun,0,0,0,0,9,16,0,0,1,6
+NURUL HUDA,KOBER,Jl. Cibuntu Selatan RT.07/5,Babakan,Babakan Ciparay,0-2 Tahun,0,0,0,0,26,19,0,0,1,4
+ROLLIES,KOBER,Jl. Situgunting Barat RT.10/1,Sukahaji,Babakan Ciparay,0-2 Tahun,0,0,4,3,17,13,0,0,0,4
+TUNAS PRESTASI,KOBER,Jl. Soekarno-Hatta Gg. Assalam RT.07/5,Babakan Ciparay,Babakan Ciparay,0-2 Tahun,0,0,0,0,18,12,0,0,0,5
+HATI KUDUS,KOBER,Jl. Caringin Cikungkurak I No. 44 RT.4/6,Babakan Ciparay,Babakan Ciparay,0-2 Tahun,0,0,6,6,12,7,8,8,3,9
+ASMI AISYA,KOBER,Jl. Soekarno Hatta Gg. H. Hassan II RT.02/7,Babakan Ciparay,Babakan Ciparay,0-2 Tahun,0,0,0,0,13,10,5,6,0,2
+NURUL HIKMAH,KOBER,Jl. Aki Padma No. 42 RT.04/7,Babakan,Babakan Ciparay,0-2 Tahun,0,0,0,0,46,49,0,0,0,5
+BODHI SINAR TERANG,KOBER,Jl. Jenderal Sudirman No. 565-567 RT.02/1,Sukahaji,Babakan Ciparay,0-2 Tahun,3,2,3,10,5,5,0,4,1,9
+TARBIYATUL AKHLAQ,KOBER,Jl. Babakan Ciparay Gg. Pa Sarmadi RT.04/9,Babakan Ciparay,Babakan Ciparay,0-2 Tahun,0,0,0,0,26,22,0,0,1,4
+AL-HAKIM TWH,KOBER,Jl. Kujangsari RT.06/7,Kujangsari,Bandung Kidul,0-2 Tahun,0,0,6,6,5,5,5,10,0,5
+AL-MUHAJIRIN,KOBER,Jl. Komp. Sapta Taruna PU RT.06/8,Kujangsari,Bandung Kidul,0-2 Tahun,0,0,0,0,16,16,0,0,1,5
+CEMPAKA,KOBER,Jl. Sekelimus Barat RT.02/5,Batununggal,Bandung Kidul,0-2 Tahun,0,0,0,0,12,20,0,0,0,6
+DAARUR RAHMAH,KOBER,Jl. H. Bardan 7 No. 322 A RT.05/4,Kujangsari,Bandung Kidul,0-2 Tahun,0,0,10,4,6,13,0,0,0,5
+MILERITA,KOBER,Jl. Terusan Buahbatu Gg. Kujang I No.133 RT.05/7,Kujangsari,Bandung Kidul,0-2 Tahun,0,0,0,0,14,17,0,0,0,5
+MUTIARA,KOBER,Jl. Batununggal No. 3B RT.01/12,Batununggal,Bandung Kidul,0-2 Tahun,0,0,0,2,18,35,4,4,0,5
+NURUL INAYAH,KOBER,Jl. H. Bardan III No. 309B RT./,Kujangsari,Bandung Kidul,0-2 Tahun,0,0,6,6,10,11,14,9,0,7
+NURUT TAQWA,KOBER,Jl. Ciparay Gg. Masjid Jami RT.04/2,Kujangsari,Bandung Kidul,0-2 Tahun,0,0,5,9,4,6,0,0,1,4
+PERMATA BUNDA,KOBER,Jl. Batununggal No. 71-B RT./,Batununggal,Bandung Kidul,0-2 Tahun,0,0,0,0,10,30,0,0,0,2
+DAYA WANITA,KOBER,Jl. Sekelimus VII No. 18 RT.02/6,Batununggal,Bandung Kidul,0-2 Tahun,0,0,6,0,0,19,0,0,0,4
+NURUL HUDA,KOBER,Jl. Moch. Toha GG. Naradireja No. 129 RT.03/4,Wates,Bandung Kidul,0-2 Tahun,0,0,7,8,1,13,2,0,0,3
+AL MUSYAWARAH,KOBER,Jl. Pasir Komp. Bojong Raya RT.05/5,Caringin,Bandung Kulon,0-2 Tahun,0,0,5,0,10,35,0,0,1,6
+AL-BASRI,KOBER,Jl. Cijerah RT.01/4,Cijerah,Bandung Kulon,0-2 Tahun,0,0,1,5,10,14,0,0,0,3
+ALKAF,KOBER,Jl. Cibuntu Timur No. 13 RT.5/3,Warung Muncang,Bandung Kulon,0-2 Tahun,0,0,0,8,0,24,0,49,1,4
+AN-NISA,KOBER,Jl. Jenderal Soedirman No.819 RT.4/6,Cijerah,Bandung Kulon,0-2 Tahun,0,0,11,8,0,0,0,0,0,5
+AN-NUUR,KOBER,Gg. Resmi Asih Perum Cijerah 2 Blok 18 No.71 RT./,Gempol Sari,Bandung Kulon,0-2 Tahun,0,0,0,0,23,21,0,0,0,6
+ARROYAN,KOBER,Jl. Dirgantara V No. 10 RT.07/5,Gempol Sari,Bandung Kulon,0-2 Tahun,0,0,5,3,5,7,7,5,0,4
+AULIA,KOBER,Jl. Cibuntu Barat RT.07/4,Cibuntu,Bandung Kulon,0-2 Tahun,0,0,21,20,14,7,0,0,0,7
+BINA BAKTI,KOBER,Jl. Holis Cibuntu Selatan Gg. Hj. Hasan Mugni RT.04/7,Warung Muncang,Bandung Kulon,0-2 Tahun,0,0,0,0,22,26,0,0,0,5
+BINA INSANI,KOBER,Jl. Kapur Bojong Mekar Sari No. 280 RT.03/10,Cibuntu,Bandung Kulon,0-2 Tahun,0,0,0,0,4,4,4,3,0,3
+BINTARI KASIH ,KOBER,Jl. Cibuntu Sayuran No.11 RT.09/6,Warung Muncang,Bandung Kulon,0-2 Tahun,0,0,17,15,15,19,0,0,2,5
+BUNDA HARAPAN,KOBER,Jl. Cigondewah Kidul No. 13 RT.04/4,Cigondewah Kidul,Bandung Kulon,0-2 Tahun,0,0,13,18,24,20,0,0,0,5
+CAHAYA BINTANG,KOBER,Jl. Gempol Sari  RT.02/1,Gempol Sari,Bandung Kulon,0-2 Tahun,0,0,0,0,26,16,0,0,0,8
+CITRA PRIANGAN,KOBER,Komp. KPKB No. 25 RT.9/6,Cigondewah Rahayu,Bandung Kulon,0-2 Tahun,0,0,2,9,11,2,0,0,0,3
+HOLIS SEPULUH,KOBER,Jl. Holis 424 RT.02/2,Caringin,Bandung Kulon,0-2 Tahun,0,0,0,0,0,0,19,31,0,2
+LITTLE CHILDREN CLASS,KOBER,Komp. Taman Holis Indah E-1 No. 8 RT./,Cigondewah Kaler,Bandung Kulon,0-2 Tahun,0,0,0,0,0,0,0,0,0,0
+MAN BA'UL ULUM,KOBER,Jl. Cijerah Gg. Pasantren No. 172  RT.06/8,Cibuntu,Bandung Kulon,0-2 Tahun,0,0,0,0,14,21,0,0,1,7
+MAWALI,KOBER,Jl. Cibuntu Tengah No. 2 RT.6/10,Warung Muncang,Bandung Kulon,0-2 Tahun,0,0,0,0,9,6,10,4,0,4
+NURUL HIDAYAH LEARNING CENTER,KOBER,Jl. Cijerah Gg. Al-Ikhsan RT.05/5,Cibuntu,Bandung Kulon,0-2 Tahun,3,0,5,3,11,13,0,0,0,3
+SABIQ,KOBER,Jl. Ters. H. Alpi RT.09/8,Cibuntu,Bandung Kulon,0-2 Tahun,0,0,0,0,27,15,0,0,1,6
+TUNAS BANGSA,KOBER,Jl. Cibuntu Timur RT.01/5,Warung Muncang,Bandung Kulon,0-2 Tahun,0,0,0,0,0,0,0,0,0,8
+TUNAS CERIA,KOBER,Jl. Reungas No. 71 RT.4/6,Gempol Sari,Bandung Kulon,0-2 Tahun,0,0,0,0,5,15,2,8,0,4
+WINNIES KLUB,KOBER,Komp. Taman Holis Indah RT./,Cigondewah Kaler,Bandung Kulon,0-2 Tahun,0,0,0,0,0,0,0,0,0,0
+ASSU'ADA,KOBER,Jl. Cijerah Gg. Pesantren No. 83 RT.07/6,Cibuntu,Bandung Kulon,0-2 Tahun,0,0,7,5,13,4,0,0,0,4
+AL-FATH,KOBER,Jl. Cigondewah RT.02/5,Cigondewah Rahayu,Bandung Kulon,0-2 Tahun,8,6,15,12,14,10,0,0,0,4
+IWING FAMILY,KOBER,Jl. Holis No. 36 RT.03/3,Cibuntu,Bandung Kulon,0-2 Tahun,0,0,4,3,15,14,3,1,1,3
+AL-FATH,KOBER,Jl. Cigondewah RT.02/5,Cigondewah Rahayu,Bandung Kulon,0-2 Tahun,8,6,15,12,14,10,0,0,0,4
+WIDI ASIH,KOBER,Kp. Harikukun RT.03/7,Cigondewah Kaler,Bandung Kulon,0-2 Tahun,0,0,0,0,16,20,20,32,0,7
+USWATUN HASANAH,KOBER,Jl. Batu Rengat No. 57 RT.04/1,Cigondewah Kaler,Bandung Kulon,0-2 Tahun,0,0,0,0,6,4,12,16,1,5
+ANAK CERDIK YPIRA,KOBER,Jl. Cijerah Gg. Pelita Belakang No. 7 RT.06/2,Cijerah,Bandung Kulon,0-2 Tahun,0,0,0,0,15,16,0,0,0,4
+NUSA INDAH,KOBER,Jl. Suryani Dalam III RT.3/2,Warung Muncang,Bandung Kulon,0-2 Tahun,0,0,20,21,0,0,0,0,0,4
+AZ-ZAHRA,KOBER,Jl. Cihampelas Cimaung No. 238/25B RT.04/7,Taman Sari,Bandung Wetan,0-2 Tahun,0,0,11,9,11,9,11,16,1,3
+CAMBRIDGE INTERNATIONAL SCHOOL,KOBER,Jl. Sultan Tirtayasa No. 15 RT.05/5,Citarum,Bandung Wetan,0-2 Tahun,0,0,19,35,0,0,0,0,0,9
+KOBER TT,KOBER,Jl. Maulana Yusuf No. 8  RT.04/4,Citarum,Bandung Wetan,0-2 Tahun,8,13,31,31,0,0,0,0,0,11
+KRISTEN BAPTIS,KOBER,Jl. Wastukencana No.40 RT.02/16,Taman Sari,Bandung Wetan,0-2 Tahun,0,0,1,4,0,0,0,0,0,6
+MUTIARA IBU,KOBER,Jl. Kebon Bibit Utara II No. 150/58 RT.05/5,Taman Sari,Bandung Wetan,0-2 Tahun,3,1,6,8,7,2,0,0,0,2
+PELITA INDONESIA,KOBER,Jl. Cilaki No. 53 RT.02/4,Cihapit,Bandung Wetan,0-2 Tahun,0,0,8,9,0,0,0,0,0,4
+SEQUOIA SCHOOL,KOBER,Jl. Bengawan No.56 RT.04/1,Cihapit,Bandung Wetan,0-2 Tahun,4,1,11,20,3,3,0,0,1,8
+SMART STEPS,KOBER,Jl. Sulanjana 11A RT.01/3,Taman Sari,Bandung Wetan,0-2 Tahun,0,22,0,49,0,18,0,8,7,33
+TOWN FOR KIDS,KOBER,Jl. Cimanuk No. 8-10 RT.02/7,Cihapit,Bandung Wetan,0-2 Tahun,0,0,0,0,28,23,0,0,0,6
+YAHYA,KOBER,Jl. LLRE. Martadinata No. 71A RT.03/7,Citarum,Bandung Wetan,0-2 Tahun,0,0,15,4,0,0,0,0,1,4
+SADAR INSANI,KOBER,Jl. Nangkasuni RT.03/18,Taman Sari,Bandung Wetan,0-2 Tahun,0,0,0,0,0,0,0,0,0,2
+AL-BAROKAH,KOBER,Jl. Cihampelas Gg. Cimaung No. 169 RT.06/7,Taman Sari,Bandung Wetan,0-2 Tahun,0,0,0,0,0,0,0,0,1,3
+AL MA'MUR,KOBER,Jl. Binong Jati Gg. Saad I  RT.05/4,Binong,Batununggal,0-2 Tahun,0,0,10,16,30,26,0,0,0,3
+AL-FITHRAH,KOBER,Jl. H. Munajat No. 114/126 RT.04/7,Kebon Gedang,Batununggal,0-2 Tahun,0,0,0,3,10,5,16,15,0,5
+AL-FUTUH,KOBER,Jl. Samoja Dalam RT.10/9,Samoja,Batununggal,0-2 Tahun,0,0,2,12,23,33,0,0,0,8
+AL-RASYADA,KOBER,Jl. Cianjur No. 34  RT.02/5,Kacapiring,Batununggal,0-2 Tahun,0,0,1,1,9,5,0,0,1,4
+ANUGRAH,KOBER,Jl. Cintaasih No. 193/122 RT.04/13,Cibangkong,Batununggal,0-2 Tahun,0,0,4,9,4,12,13,18,0,4
+AR-ROHMAN,KOBER,Jl. Ibrahim Adjie Gg. Binong Kulon IX RT.10/1,Binong,Batununggal,0-2 Tahun,0,0,0,0,7,9,0,0,0,2
+AULIA MAHARANI,KOBER,Jl. Karees Timur RT./,Samoja,Batununggal,0-2 Tahun,0,0,0,0,28,32,0,0,0,4
+AZ-ZAHWA,KOBER,Jl. Maleer Selatan  RT./,Gumuruh,Batununggal,0-2 Tahun,0,0,0,0,21,11,0,0,0,5
+BATUNUNGGAL,KOBER,Jl. Babakan Jati No.92 RT.02/11,Gumuruh,Batununggal,0-2 Tahun,0,0,0,0,37,24,0,0,0,5
+CEMPAKA 10,KOBER,Jl. Kembang Sepatu RT.07/10,Samoja,Batununggal,0-2 Tahun,0,0,10,9,12,4,1,1,0,8
+CITRA,KOBER,Jl. Cintaasih Selatan No. 04 (Gedung Sosial) RT.1/13,Cibangkong,Batununggal,0-2 Tahun,0,0,0,0,20,21,0,0,0,7
+GEMBIRA,KOBER,Jl. Karees Sapuran No. 39/121 RT.03/1,Samoja,Batununggal,0-2 Tahun,0,0,6,4,6,6,13,7,0,4
+GRANTIKA BONDANK 59,KOBER,Jl. Kebon Gedang No. 59 RT.01/8,Maleer,Batununggal,0-2 Tahun,0,0,0,0,23,22,0,0,3,6
+IGNATIUS SLAMET RIYADI,KOBER,Jl. Gatot Subroto No. 221 RT./,Cibangkong,Batununggal,0-2 Tahun,0,0,6,5,0,0,0,0,1,3
+MELATI BINONG,KOBER,Jl. Binongjati II  RT.02/6,Binong,Batununggal,0-2 Tahun,0,0,3,2,3,9,0,0,0,3
+NURUL AZZAM,KOBER,Jl. Babakan Jati No. 25 RT.2/6,Gumuruh,Batununggal,0-2 Tahun,0,0,5,2,5,6,7,11,0,4
+NURUL MUBTADI-IN,KOBER,Jl. Babakan Dese  RT.03/6,Kebon Waru,Batununggal,0-2 Tahun,0,0,3,7,8,15,0,0,1,4
+NURUSSAKINAH,KOBER,Jl. Binongjati RT.01/4,Binong,Batununggal,0-2 Tahun,4,5,3,5,10,11,0,0,1,3
+PELANGI,KOBER,Jl. Cibangkong RT.03/3,Cibangkong,Batununggal,0-2 Tahun,0,0,3,4,10,15,0,0,0,3
+PUTRA-PUTRI AISYIYAH,KOBER,Jl. Syamsi 1 No. 45 RT.04/1,Kebon Waru,Batununggal,0-2 Tahun,0,0,8,8,17,13,0,0,0,6
+SAKURA RW 08,KOBER,Jl. Karees Timur No. 188/121 RT./,Samoja,Batununggal,0-2 Tahun,0,0,0,0,16,20,0,0,0,5
+TAMAN BERMAIN BUNDA,KOBER,Jl. Gatot Subroto Gg. Maleer V RT.05/1,Maleer,Batununggal,0-2 Tahun,0,0,6,6,6,4,3,7,0,6
+UMMUL MU'MININ,KOBER,Jl. Binongjati II RT.06/6,Binong,Batununggal,0-2 Tahun,0,0,0,0,8,10,23,21,0,2
+TUNAS BANGSA AL-MUKARROM,KOBER,Jl. Cibangkonglor RT.05/5,Maleer,Batununggal,0-2 Tahun,0,0,4,1,21,15,0,0,0,3
+ANGGREK,KOBER,Jl. Kebon Gedang III RT.04/7,Maleer,Batununggal,0-2 Tahun,0,0,14,22,0,0,0,0,0,3
+TUNAS HARAPAN AISYIYAH,KOBER,Jl. Kebon Gedang II No. 26 RT.01/11,Maleer,Batununggal,0-2 Tahun,0,0,13,10,0,0,0,0,0,3
+HIKMAT III,KOBER,Jl. Majalengka No. 30A RT.03/5,Kacapiring,Batununggal,0-2 Tahun,0,0,4,4,6,7,0,0,0,2
+AL KINDI,KOBER,Jl. Babakan Tarogong Gg. Sindang Asih 6 RT.07/4,Suka Asih,Bojongloa Kaler,0-2 Tahun,0,0,2,4,16,10,0,0,0,4
+ANANDA AL-JABBARI,KOBER,Jl. Citarip Barat No. 217B RT.07/9,Kopo,Bojongloa Kaler,0-2 Tahun,0,0,4,6,0,0,0,0,1,5
+ANNADIAH ALKAMAL,KOBER,"Jl. Babakan Ciparay, Situgunting Timur No. 16A/195A RT.02/8",Suka Asih,Bojongloa Kaler,0-2 Tahun,0,0,0,0,12,18,0,0,0,3
+ASTER,KOBER,Jl. Babakan Tarogong Gg. Tanjung No.6 RT.05/5,Suka Asih,Bojongloa Kaler,0-2 Tahun,0,0,0,0,16,26,0,0,1,5
+ASY-SYIFA,KOBER,Jl. Kopo Gang Sukaleueur III No. 124/198A RT.03/7,Babakan Asih,Bojongloa Kaler,0-2 Tahun,0,0,4,9,10,9,5,3,0,6
+CERDAS,KOBER,Jl. Pagarsih Gg. Siti Mariah No. 450/86 RT.06/1,Jamika,Bojongloa Kaler,0-2 Tahun,0,0,12,13,0,0,0,0,0,3
+CERIA,KOBER,Jl. Luna IV No. 25  RT.13/4,Jamika,Bojongloa Kaler,0-2 Tahun,0,0,6,4,0,0,0,0,0,2
+CERMIN,KOBER,Jl. Soekarno Hatta Gg. Pusri RT.10/4,Kopo,Bojongloa Kaler,0-2 Tahun,0,0,8,7,2,3,0,0,0,7
+DEWI PRAMANIK,KOBER,Jl. Kopo RT.02/1,Suka Asih,Bojongloa Kaler,0-2 Tahun,0,0,17,15,10,10,0,0,0,6
+GEMBIRA,KOBER,Jl. Pagarsih Gg. Holili No. 182/87A RT.09/9,Jamika,Bojongloa Kaler,0-2 Tahun,0,0,8,6,4,6,0,0,0,4
+NURNAIMA,KOBER,Jl. Luna IV No. 6/23B RT.11/4,Jamika,Bojongloa Kaler,0-2 Tahun,0,0,2,1,10,13,12,5,0,4
+USWATUN HASANAH,KOBER,Jl. Babakan Tarogong No. 147 RT.06/5,Babakan Asih,Bojongloa Kaler,0-2 Tahun,0,0,2,4,20,16,0,0,1,3
+JIHADUL BANAT,KOBER,Jl. Sukamulya 11 RT.05/9,Suka Asih,Bojongloa Kaler,0-2 Tahun,2,1,4,5,9,9,0,0,0,5
+BHAKTI BUNDA,KOBER,Jl. Sukarma 8 RT.03/3,Babakan Asih,Bojongloa Kaler,0-2 Tahun,0,0,10,13,0,0,0,0,0,2
+MANDIRI,KOBER,Jl. Kopo Gg. Babakan Rahayu Blok F No. 31 RT.04/6,Kopo,Bojongloa Kaler,0-2 Tahun,0,0,8,5,20,28,0,0,0,3
+NURUL HIKMAH,KOBER,Jl. Babakan Ciparay 27 Gg. Mama Apin RT.03/2,Kopo,Bojongloa Kaler,0-2 Tahun,0,0,1,1,1,10,8,6,2,3
+AL-IHSAN,KOBER,Jl. Pilar Kencana No. 72 RT.07/10,Suka Asih,Bojongloa Kaler,0-2 Tahun,0,0,11,10,11,13,0,1,0,5
+FAJAHIRA,KOBER,Jl. Terusan Pasir Koja Gg. Sukapakir Tengah No. 11 RT.06/5,Jamika,Bojongloa Kaler,0-2 Tahun,0,0,5,1,9,10,0,0,0,3
+MELATI,KOBER,Jl. Babakan Tarogong 231  RT.1/5,Suka Asih,Bojongloa kaler,0-2 Tahun,0,0,6,7,2,2,0,0,2,2
+AN-NADIAH AL-KAMAL,KOBER,Jl. Babakan Ciparay Situgunting Timur No. 16 RT.2/3,Suka Asih,Bojongloa Kaler,0-2 Tahun,0,0,0,0,1,9,17,13,0,2
+MASAGI INDONESIA,KOBER,Jl. Babakan Tarogong Gg. Sindang Asih IV RT.8/4,Babakan Tarogong,Bojongloa Kaler,0-2 Tahun,0,0,1,2,5,5,1,1,1,2
+AISYIYAH,KOBER,Jl. Kopo Gg. Pa Eman No. 15 RT.03/6,Situsaeur,Bojongloa Kidul,0-2 Tahun,0,0,0,0,20,20,0,0,0,2
+AL BANA,KOBER,Jl. Karasak Lama Gg. Cadas Ngampar No. 72 RT.05/9,Kebon Lega,Bojongloa Kidul,0-2 Tahun,0,0,5,5,9,8,0,0,0,4
+AL-HUDA,KOBER,Jl. Leuwi Panjang RT.09/1,Kebon Lega,Bojongloa Kidul,0-2 Tahun,0,0,23,13,0,0,0,0,0,4
+ANGGACARANG,KOBER,Jl. Kmp. Anggacarang RT.01/5,Mekar Wangi,Bojongloa Kidul,0-2 Tahun,0,0,4,2,19,16,0,0,1,5
+ASHOFIAH,KOBER,Jl. Cibaduyut Raya Belakang No. 139 RT.01/6,Cibaduyut,Bojongloa Kidul,0-2 Tahun,0,0,0,0,11,9,13,11,0,3
+BERMARTABAT,KOBER,Jl. Ciparay Tengah RT.05/5,Cibaduyut Kidul,Bojongloa Kidul,0-2 Tahun,0,0,10,12,8,12,0,0,0,6
+BPK PENABUR SINGGASANA,KOBER,Jl. Indra Prahasta No.2 RT.03/3,Mekar Wangi,Bojongloa Kidul,0-2 Tahun,0,0,26,28,0,0,0,0,0,7
+CAHAYA RESTU,KOBER,Jl. Leuwi Panjang Gg. Amung No. 29 RT.12/3,Situsaeur,Bojongloa Kidul,0-2 Tahun,0,0,0,1,15,10,6,4,0,2
+HUSNUL KHOTIMAH,KOBER,Jl. Inhoftank RT.06/2,Kebon Lega,Bojongloa Kidul,0-2 Tahun,0,0,5,19,0,0,0,0,0,3
+KADEUDEUH,KOBER,Jl. Kopo Gg. Parasdi Dlm IV No.21 RT.6/7,Situsaeur,Bojongloa Kidul,0-2 Tahun,0,0,39,38,32,28,0,0,0,9
+KENANGA,KOBER,Jl. Terusan Ma Eja Blok Lumbung RT.03/2,Cibaduyut,Bojongloa Kidul,0-2 Tahun,0,0,10,18,11,7,7,9,1,5
+MELATI ,KOBER,Jl. Warna Cinta  RT.03/3,Mekar Wangi,Bojongloa Kidul,0-2 Tahun,0,0,0,0,19,20,0,0,1,5
+NURUL JANNAH,KOBER,Jl. Leuwi Anyar Utara No. 53 RT.4/4,Situsaeur,Bojongloa Kidul,0-2 Tahun,0,0,2,3,14,17,0,0,1,4
+AL-HAIDAR,KOBER,Jl. Kebonkalapa RT.01/2,Mekar Wangi,Bojongloa Kidul,0-2 Tahun,0,0,1,0,24,18,5,7,0,8
+BUNGA TERATAI,KOBER,"Jl. Inhoftank, Blok Desa XII No. 48 RT.02/4",Kebon Lega,Bojongloa Kidul,0-2 Tahun,0,0,3,3,7,12,3,2,1,5
+AS-SYIFA,KOBER,Jl. Sauyunan Raya No. 25 RT.7/7,Kebon Lega,Bojongloa Kidul,0-2 Tahun,0,0,4,3,13,11,5,2,0,3
+MAULANA ROHMAN,KOBER,Gg. Curug Candung Dalam RT.03/5,Mekar Wangi,Bojongloa Kidul,0-2 Tahun,0,0,5,4,16,6,0,0,2,4
+AL-UMARIYAH,KOBER,Jl. KH. Wahid Hasyim No. 433 RT.08/7,Kebon Lega,Bojongloa Kidul,0-2 Tahun,0,2,8,16,1,1,0,0,0,4
+HARAPAN KASIH,KOBER,Jl. Mekar Kencana No. 02A RT.01/01,Mekar Wangi,Bojongloa Kidul,0-2 Tahun,0,0,39,42,0,2,0,0,0,8
+AL-FALAH,KOBER,Komp. Kawaluyaan Indah XIV/11 Soekarno-Hatta RT.01/4,Jati Sari,Buahbatu,0-2 Tahun,0,0,0,0,11,10,0,0,0,2
+AL-MUHAJIRIN,KOBER,Komp. Kawaluyaan I No.5 RT.08/6,Jati Sari,Buahbatu,0-2 Tahun,0,0,0,0,24,34,0,0,0,4
+AN NIDA,KOBER,Jl. Neptunus Barat Blok A-8 No.7 RT.06/11,Sekejati,Buahbatu,0-2 Tahun,0,0,15,17,0,0,0,0,0,5
+BAITURRAHIM,KOBER,Jl. Margahayu Raya Uranus Utama Blok C.III RT.08/6,Sekejati,Buahbatu,0-2 Tahun,0,0,14,12,16,12,0,0,2,5
+BANY RAHMAH,KOBER,Jl. Cijawura Hilir No. 7 RT.07/8,Cijaura,Buahbatu,0-2 Tahun,0,0,2,3,6,9,0,0,0,4
+AGNIYA,KOBER,Jl. Cijawura Girang V RT.1/13,Sekejati,Buahbatu,0-2 Tahun,0,0,3,9,15,10,0,0,0,9
+BUNGA,KOBER,Jl. Tirtasari II No. 2 RT.07/20,Margasari,Buahbatu,0-2 Tahun,0,0,0,0,37,27,0,0,0,4
+FADHILLAH,KOBER,Jl. Kampung Rancabolang RT.04/4,Sekejati,Buahbatu,0-2 Tahun,0,0,3,7,12,14,0,0,1,4
+MARGACINTA,KOBER,Jl. Ibrahim Adjie No. 46-106A RT.3/2,Cijaura,Buahbatu,0-2 Tahun,0,0,7,5,37,31,0,0,0,6
+MAWAR,KOBER,Jl. Jatisari I No. 76 RT.04/1,Jati Sari,Buahbatu,0-2 Tahun,0,0,6,7,7,13,9,14,0,4
+MAWAR - 13,KOBER,Jl. Margawangi VII Komp. Margawangi RT.01/13,Cijaura,Buahbatu,0-2 Tahun,18,5,4,3,0,0,0,0,0,8
+MAWAR 12,KOBER,Jl. Cijawura Hilir No.348A RT.06/12,Cijaura,Buahbatu,0-2 Tahun,0,0,0,0,27,13,0,0,0,9
+MELATI ,KOBER,Gg. H. Hasan RT.02/10,Margasari,Buahbatu,0-2 Tahun,0,0,0,0,26,24,0,0,1,4
+NUSA BANGSA,KOBER,Jl. Cijawura Hilir I  RT.06/8,Cijaura,Buahbatu,0-2 Tahun,0,0,0,0,0,0,0,0,0,0
+ALIMAN SHALIHAN,KOBER,Jl. Cijawura Girang V Gg. Iik Amiharja RT.6/7,Margasari,Buahbatu,0-2 Tahun,0,0,9,2,3,3,6,7,1,4
+RUMAH BINTANG ISLAMIC PRESCHOOL,KOBER,Jl. Radiology Kav. 41 Komp. Al-Islam RT.05/7,Sekejati,Buahbatu,0-2 Tahun,0,0,6,4,19,17,0,0,2,6
+RUMAHKU SURGAKU,KOBER,Jl. Cijawura Hilir No. 51 RT.03/8,Cijaura,Buahbatu,0-2 Tahun,0,0,3,3,5,5,0,0,1,4
+AL MUNAJAH,KOBER,Jl. Pluto Selatan 1 No. 38A RT.01/13,Margasari,Buahbatu,0-2 Tahun,1,0,0,2,26,8,0,0,2,5
+AL HUSNA,KOBER,Jl. Kawaluyaan No. 20 RT.07/6,Jati Sari,Buahbatu,0-2 Tahun,0,0,3,7,15,21,9,0,0,4
+AL-MURNASANIYYAH,KOBER,Gg. Murnasan III RT.1/10,Margasari,Buahbatu,0-2 Tahun,0,0,2,1,6,5,0,0,0,4
+AL BATTANI,KOBER,Jl. Cigadung Wetan No.3  RT.05/5,Cigadung,Cibeunying Kaler,0-2 Tahun,0,0,0,0,18,17,0,0,2,4
+ALIT MAHARDIKA,KOBER,Jl. Cigadung Selatan II No. 18 RT.06/8,Cigadung,Cibeunying Kaler,0-2 Tahun,0,4,6,12,0,0,0,0,0,5
+AL-MANNAN CENDEKIA,KOBER,Jl. Cigadung Raya Barat No. 24 RT.02/2,Cigadung,Cibeunying Kaler,0-2 Tahun,0,0,2,4,15,18,0,0,0,5
+ATINIDI,KOBER,Jl. Gagak No. 112 RT.10/3,Sukaluyu,Cibeunying Kaler,0-2 Tahun,2,3,8,7,0,0,0,0,1,4
+AVICENNA,KOBER,Jl. Cikutra Baru 3 No.19 RT.02/7,Neglasari,Cibeunying Kaler,0-2 Tahun,4,3,3,3,0,0,0,0,0,6
+BINTANG SEMBILAN,KOBER,Jl. Pesantren Cigadung 31 RT.02/6,Cigadung,Cibeunying Kaler,0-2 Tahun,0,0,0,0,21,33,0,0,0,8
+CERIA,KOBER,Jl. Sukaluyu I No. 21 RT.04/6,Cihaurgeulis,Cibeunying Kaler,0-2 Tahun,0,0,27,58,0,0,0,0,0,9
+FLAMBOYAN,KOBER,Jl. Kawung Ungu No.16 RT.02/8,Sukaluyu,Cibeunying Kaler,0-2 Tahun,0,0,2,8,0,6,0,0,0,5
+HAPPY HOUSE,KOBER,Jl. Pahlawan No 59 RT.08/8,Sukaluyu,Cibeunying Kaler,0-2 Tahun,0,0,3,0,9,17,0,0,0,5
+HARAPAN BAKTI,KOBER,Jl. Cigadung Raya Barat No. 43 RT.03/3,Cigadung,Cibeunying Kaler,0-2 Tahun,11,12,0,0,0,0,0,0,0,7
+MAWAR,KOBER,Jl. Jalaprang No.69 RT.02/9,Sukaluyu,Cibeunying Kaler,0-2 Tahun,0,0,10,13,13,10,0,0,0,3
+MIFTAHULHUDA,KOBER,Jl. Sukamantri II No. 91/144D RT.04/2,Sukaluyu,Cibeunying Kaler,0-2 Tahun,0,0,5,0,21,24,0,0,0,5
+NURUL HIKMAH,KOBER,Jl. Cikutra Terusan Citra Green Garden RT.03/5,Neglasari,Cibeunying Kaler,0-2 Tahun,0,0,3,9,10,9,0,0,0,5
+SHOLIHUL BILAD,KOBER,Jl. Babakan Sembung RT./,Cigadung,Cibeunying Kaler,0-2 Tahun,0,0,0,0,26,27,0,0,1,6
+AL-MU'MIN,KOBER,Jl. Cigadung Raya Barat No. 2 RT.01/4,Cigadung,Cibeunying Kaler,0-2 Tahun,0,0,3,2,4,3,4,5,0,3
+DAARUL AMAL,KOBER,Jl. Brigjen Katamso Gg. Akur No. 25 RT.03/9,Cihaurgeulis,Cibeunying Kaler,0-2 Tahun,0,0,5,6,11,8,0,0,0,5
+GOLDEN KIDS (ANAK HARAPAN),KOBER,Jl. Terusan Cisokan No. 07 RT.2/8,Cihaurgeulis,Cibeunying Kaler,0-2 Tahun,0,0,8,5,24,14,0,0,2,3
+AISHA,KOBER,Jl. Bungursari IV No. 12  RT.07/5,Pasirlayung,Cibeunying Kidul,0-2 Tahun,0,0,12,9,12,9,0,0,0,6
+AISYIYAH MANDIRI AL-MUTHAHHIR,KOBER,Jl. Sekepondok 2 No. 71A RT.02/10,Padasuka,Cibeunying Kidul,0-2 Tahun,0,0,12,11,0,0,9,12,0,4
+AL BALAD,KOBER,Jl. Babakan Baru No. 35 RT.03/11,Sukapada,Cibeunying Kidul,0-2 Tahun,0,0,0,0,26,10,0,0,0,6
+AL-AMIN,KOBER,Jl. Awi Buluh Gg. Bunga I No. 338 RT.1/11,Cicadas,Cibeunying Kidul,0-2 Tahun,1,2,3,6,9,14,0,0,0,4
+AL-IKHLAS,KOBER,Jl. Jenderal Ahmad Yani Belakang No. 825 RT.01/2,Padasuka,Cibeunying Kidul,0-2 Tahun,0,0,0,0,0,0,0,0,3,1
+AN NUUR,KOBER,Jl. Cikaso Selatan Gg. Bahagia RT.04/2,Sukamaju,Cibeunying Kidul,0-2 Tahun,0,0,0,0,15,17,0,0,3,5
+ANGGREK MERAH,KOBER,Jl. Asep Berlian Gg. Proklamasi No. 3 RT.03/1,Cikutra,Cibeunying kidul,0-2 Tahun,0,0,3,5,7,5,10,13,0,5
+AS SYAADAH,KOBER,Jl. A. Yani Gg. Bahagia RT.7/1,Sukamaju,Cibeunying Kidul,0-2 Tahun,0,0,2,4,12,7,0,0,0,4
+AZZAHRA,KOBER,Jl. Pasirlayung Utara VI/1 RT.02/2,Pasirlayung,Cibeunying Kidul,0-2 Tahun,0,0,0,0,11,13,0,0,0,4
+BAITURRAHMAN,KOBER,Jl. Lemah Neundeut II RT.02/8,Cikutra,Cibeunying Kidul,0-2 Tahun,1,0,2,2,10,14,0,0,0,4
+BINTANG GEMERLAP,KOBER,Jl. Babakan Sukatma RT./,Sukapada,Cibeunying Kidul,0-2 Tahun,0,0,0,0,15,17,0,0,0,2
+CERDAS CERIA,KOBER,Jl. Cicadas Pasar II No. 16/142D RT.02/4,Cikutra,Cibeunying Kidul,0-2 Tahun,0,0,3,4,14,24,4,6,0,3
+FALAASIFAH,KOBER,Jl. Sekepanjang I No.60/142 RT.03/7,Cikutra,Cibeunying Kidul,0-2 Tahun,0,0,0,1,13,4,0,0,2,6
+GASALITA,KOBER,Jl. Lemah Neundeut I No.29/142B RT.03/7,Cikutra,Cibeunying Kidul,0-2 Tahun,0,1,4,6,1,0,0,0,0,3
+HIKMAT,KOBER,Jl. Babakan Cihapit No.19 Padasuka RT.06/6,Pasirlayung,Cibeunying Kidul,0-2 Tahun,0,0,0,0,10,10,0,0,0,4
+LENTERA,KOBER,Jl. Pasirleutik Komp. DU F44 RT.06/09,Sukapada,Cibeunying Kidul,0-2 Tahun,0,0,5,6,5,6,0,0,0,3
+MUNAJAH,KOBER,Jl. Terusan Cimuncang No. 47 RT.03/13,Pasirlayung,Cibeunying Kidul,0-2 Tahun,0,0,0,0,42,41,0,0,0,7
+MUTIARA,KOBER,Jl. Cibunar No.4 Cisadea  RT.02/5,Sukamaju,Cibeunying Kidul,0-2 Tahun,0,0,8,3,1,2,0,0,0,2
+NURUL AMAL,KOBER,Jl. Babakan Baru No. 11 RT.4/7,Sukapada,Cibeunying Kidul,0-2 Tahun,0,0,11,15,0,0,0,0,0,1
+SITI MASITOH,KOBER,Jl. Neglasari Selatan V No. 30  RT.06/4,Sukapada,Cibeunying Kidul,0-2 Tahun,0,0,0,0,7,9,0,0,0,3
+TUNAS AISYIYAH,KOBER,Jl. Asep Berlian No. 32 RT.02/5,Cikutra,Cibeunying Kidul,0-2 Tahun,0,0,26,21,0,0,0,0,0,6
+TUNAS BANGSA,KOBER,Jl. Babakan Cihapit No. 6A RT.02/8,Pasirlayung,Cibeunying Kidul,0-2 Tahun,0,0,7,5,17,26,0,0,1,6
+TUNAS HARAPAN,KOBER,Jl. Babakan Baru No. 32 RT.3/2,Sukapada,Cibeunying Kidul,0-2 Tahun,0,4,7,3,10,16,0,0,1,4
+USWATUN RAHMAH,KOBER,Jl. Puri Asri RT.09/11,Sukapada,Cibeunying Kidul,0-2 Tahun,0,0,7,2,2,7,8,7,0,4
+RIYADHUL JANNAH,KOBER,Jl. H. Syahroni No. 27 RT.04/2,Cikutra,Cibeunying kidul,0-2 Tahun,0,0,0,0,0,0,0,0,0,2
+AL-FAJAR,KOBER,Jl. Asep Berlian No. 21 RT.06/4,Cicadas,Cibeunying kidul,0-2 Tahun,0,0,2,10,0,0,0,0,0,7
+DARUSSALAM,KOBER,Jl. Asep Berlian Gg. Bunga VII No. 168/143A RT.04/15,Cicadas,Cibeunying Kidul,0-2 Tahun,0,0,8,7,12,14,1,0,1,4
+CENDIKIA,KOBER,Jl. Bojong Koneng No. 139 RT.05/14,Sukapada,Cibeunying Kidul,0-2 Tahun,0,0,0,0,14,16,0,0,1,3
+AL IKHLAS,KOBER,Jl. Cilengkrang II RT.02/10,Palasari,Cibiru,0-2 Tahun,0,0,0,0,0,0,0,0,0,0
+AL JABAR,KOBER,Jl. Ters. Permai V No. 33 A RT.02/8,Cipadung,Cibiru,0-2 Tahun,0,0,7,7,1,0,0,0,0,3
+AL-MANAR,KOBER,Jl. Gudang Sikat RT.01/2,Pasir Biru,Cibiru,0-2 Tahun,0,0,0,0,0,0,0,0,1,2
+AL-AZIIZ,KOBER,Jl. Cilengkrang II RT.01/7,Palasari,Cibiru,0-2 Tahun,0,0,0,0,10,7,0,0,1,5
+ANGGREK CERIA,KOBER,Jl. Cilengkrang I RT.3/6,Cisurupan,Cibiru,0-2 Tahun,0,0,2,7,16,13,12,17,0,10
+ARAFAH,KOBER,Jl. Palasari 5 No. 18 RT.02/7,Palasari,Cibiru,0-2 Tahun,0,0,7,15,4,6,0,0,0,5
+AROFAH,KOBER,Jl. Cikuda RT.05/11,Pasir Biru,Cibiru,0-2 Tahun,0,0,9,7,5,9,0,0,0,3
+AR-RAHMAN ROSADA,KOBER,Jl. Cibiru Tonggoh No. 2 RT.03/8,Pasir Biru,Cibiru,0-2 Tahun,0,0,4,3,5,5,0,0,0,3
+AR-ROBBANI JENIUS,KOBER,Jl. A.H. Nasution Kp. Mekarjati No.9 RT.06/5,Pasir Biru,Cibiru,0-2 Tahun,0,0,0,0,13,17,0,0,0,5
+ATTARBIYAH,KOBER,Kp. Cigagak RT.02/15,Cipadung,Cibiru,0-2 Tahun,0,0,0,8,9,5,0,0,0,4
+BAITURRAHMAN,KOBER,Jl. Cilengkrang I RT.1/3,Palasari,Cibiru,0-2 Tahun,0,0,2,4,5,5,0,0,0,5
+CERIA AL-MU'MINUN,KOBER,Jl. Cilengkrang II  RT.05/2,Palasari,Cibiru,0-2 Tahun,6,2,14,6,12,10,0,0,1,5
+HIDAYATUL KHOWAS,KOBER,Jl. Raya Cibiru No.24 RT.02/1,Pasir Biru,Cibiru,0-2 Tahun,0,2,3,3,6,5,0,0,1,7
+ISTIQOMAH,KOBER,Ds. Cipadung RT.02/11,Cipadung,Cibiru,0-2 Tahun,0,0,2,6,1,8,0,0,0,3
+JUWITA,KOBER,Jl. Desa Cipadung No. 137 RT.3/13,Cipadung,Cibiru,0-2 Tahun,0,0,4,9,0,0,0,0,0,1
+MAWAR,KOBER,Jl. Cigagak No. 49 RT.03/15,Cipadung,Cibiru,0-2 Tahun,0,0,8,10,11,13,0,0,0,6
+MEKAR BHAKTI,KOBER,Jl. Babakan Dangeur RT.06/4,Pasir Biru,Cibiru,0-2 Tahun,0,2,2,7,5,10,0,0,0,6
+NURUL IKHLAS,KOBER,Jl. Cilengkrang II RT./,Palasari,Cibiru,0-2 Tahun,0,0,0,0,13,13,0,0,1,4
+PAUD ALAM TERPADU BINTANG CENDEKIA AL-MUHYIDIN,KOBER,Jl. Jati RT.05/6,Pasir Biru,Cibiru,0-2 Tahun,0,0,3,4,6,11,0,0,2,8
+PUTRA CERDAS,KOBER,Jl. Cilengkrang II Kebon Kalapa RT.04/14,Cipadung,Cibiru,0-2 Tahun,0,0,18,22,11,7,0,0,0,5
+RAY RAKA,KOBER,Jl. Cigagak Wetan RT./,Palasari,Cibiru,0-2 Tahun,0,0,0,0,14,10,0,0,0,4
+RIZAN PUTRA,KOBER,"Jl. Cilengkrang I,  RT.07/12",Palasari,Cibiru,0-2 Tahun,0,0,0,0,20,30,0,0,3,5
+RUMAH LEBAH 1,KOBER,Jl. Embah Jaksa No. 126B/237  RT.05/12,Cipadung,Cibiru,0-2 Tahun,0,0,1,0,10,16,0,0,0,6
+SABILILLAH,KOBER,Jl. Cilengkrang I Cigagak No. 300 RT.02/7,Cisurupan,Cibiru,0-2 Tahun,0,0,0,0,16,13,2,0,1,4
+TERATAI RW. 10,KOBER,Komp. Komp. Wijayakusuma RT.08/10,Palasari,Cibiru,0-2 Tahun,0,0,12,14,11,13,0,0,0,5
+TUNAS MELATI,KOBER,ds. Cipadung No. 13A RT.03/3,Cipadung,Cibiru,0-2 Tahun,0,0,2,3,4,6,5,3,0,5
+INKLUSI UMMU RAHMAH,KOBER,Komp. Komp. Vijaya Kusuma Blok A4 No. 7 RT.03/11,Palasari,Cibiru,0-2 Tahun,0,0,0,0,0,0,0,0,0,6
+WIJAYAKUSUMAH,KOBER,Jl. Embah Jaksa No. 30 RT.06/1,Cipadung,Cibiru,0-2 Tahun,0,0,14,11,13,12,0,0,0,4
+NURUL AMAL,KOBER,Kp. Mekarsari  RT.04/1,Palasari,Cibiru,0-2 Tahun,0,0,3,4,11,17,10,7,0,9
+AL-IKHLAS,KOBER,Jl. Cilengkrang I Pasir Luhur Cipulus RT.02/10,Cisurupan,Cibiru,0-2 Tahun,0,0,6,8,5,6,11,14,1,5
+RUMAH LEBAH,KOBER,Jl. Embah Jaksa No. 126/237 RT.5/12,Cipadung,Cibiru,0-2 Tahun,0,0,4,9,4,10,0,0,0,6
+ARUY,KOBER,Jl. Cipedes Hegar Belakang No. 33 RT.04/3,Pajajaran,Cicendo,0-2 Tahun,0,0,1,1,11,5,8,6,1,3
+FAMILY FEST,KOBER,Jl. Dakota Regency D1. Sukaraja II RT.03/5,Sukaraja,Cicendo,0-2 Tahun,0,0,12,6,0,0,0,0,0,3
+HIGH SCOPE INDONESIA (BINA PERSADA MANDIRI),KOBER,Jl. Dr. Sukimin No. 9 RT.3/1,Pasirkaliki,Cicendo,0-2 Tahun,4,3,16,16,9,6,1,2,0,7
+HIKMATUL AULIYA,KOBER,Jl. Sukaraja No.7 RT./,Pajajaran,Cicendo,0-2 Tahun,0,0,0,0,15,16,0,0,1,3
+KARTINI,KOBER,Jl. Sukawarna No. 3  RT.04/1,Pajajaran,Cicendo,0-2 Tahun,0,0,5,6,6,0,0,0,0,4
+KASIH BUNDA,KOBER,Jl. Baladewa No. 129  RT.05/9,Pajajaran,Cicendo,0-2 Tahun,0,0,8,6,4,25,0,0,0,3
+PELANGI,KOBER,Komp. UD. Supadio I  RT.06/12,Husein Sastranegara,Cicendo,0-2 Tahun,0,0,15,15,0,0,0,0,0,4
+PERMATA HATI,KOBER,Jl. Citepus II RT.07/6,Pajajaran,Cicendo,0-2 Tahun,0,0,0,0,21,16,5,5,1,3
+SAMIAJI MANDIRI,KOBER,Jl. Semar Dalam No.76/66 RT.08/5,Arjuna,Cicendo,0-2 Tahun,0,0,4,4,8,8,0,0,0,6
+THE FLORENCE INSTITUTE,KOBER,Jl. Laks. M. Nurtanio No. 39 RT./,Pajajaran,Cicendo,0-2 Tahun,0,0,0,0,0,0,0,0,0,0
+ANAK BANGSA CERIA,KOBER,Jl. Citepus III No. 4 RT.06/10,Pajajaran,Cicendo,0-2 Tahun,0,0,1,2,11,7,0,0,0,5
+PASCAL MONTESSORI,KOBER,Jl. Pasirkaliki No. 143 RT.-/-,Pamoyanan,Cicendo,0-2 Tahun,0,0,7,8,2,2,0,0,0,3
+AL-FATAH/AL-HASAN,KOBER,Jl. Gunung Batu No. 31 RT.01/9,Sukaraja,Cicendo,0-2 Tahun,0,0,5,4,2,3,0,0,0,3
+SENYUM ANANDA,KOBER,Jl. Babakan Cianjur No. 19 RT.08/2,Sukaraja,Cicendo,0-2 Tahun,0,0,6,7,26,30,14,19,1,7
+ANGKASA,KOBER,Jl. Suparmin No.2 RT.02/2,Pajajaran,Cicendo,0-2 Tahun,0,0,11,16,9,12,0,0,0,4
+KARTINI,KOBER,Jl. Sukawarna II No. 3 RT.04/01,Pajajaran,Cicendo,0-2 Tahun,0,0,4,7,11,15,1,0,0,3
+BINA MANDIRI,KOBER,Jl. Budi No. 70 Cimindi RT.5/3,Sukaraja,Cicendo,0-2 Tahun,0,0,7,13,0,0,0,0,0,3
+HIKMAYANTI STUDY CENTER,KOBER,Jl. Bukit Raya Atas No. 121A RT.08/3,Ciumbuleuit,Cidadap,0-2 Tahun,0,0,9,8,13,15,0,0,3,7
+ISMILE,KOBER,Jl. Hegarmanah  RT.03/7,Hegarmanah,Cidadap,0-2 Tahun,0,0,9,17,0,0,0,0,1,1
+KARTIKA ,KOBER,Jl. Hegarmanah No. 152 RT.03/7,Hegarmanah,Cidadap,0-2 Tahun,0,0,33,36,0,0,0,0,0,6
+NURUL 'ULUM,KOBER,Kp. Nyalindung No. 23 RT.01/9,Ciumbuleuit,Cidadap,0-2 Tahun,0,0,0,0,9,5,0,0,0,0
+PELITA,KOBER,Jl. Gunung Agung Dalam No. 58 RT.01/5,Ciumbuleuit,Cidadap,0-2 Tahun,0,0,0,0,8,13,0,0,1,4
+WISANA,KOBER,Jl. Cidadap Girang No. 8 RT.06/5,Ledeng,Cidadap,0-2 Tahun,0,0,3,6,20,18,0,0,0,5
+KLAB ABC,KOBER,Jl. Cipaku Indah XI No. 2 RT.02/4,Ledeng,Cidadap,0-2 Tahun,0,0,11,18,11,8,0,0,0,11
+NURUL 'AZMI,KOBER,Kp. Cikadu RT.05/11,Ciumbuleuit,Cidadap,0-2 Tahun,0,0,5,4,10,10,0,0,0,5
+MIFTAHUL FALAH,KOBER,Jl. Hegarmanah Cikendi RT.05/9,Hegarmanah,Cidadap,0-2 Tahun,0,0,0,2,8,1,10,16,2,1
+MAHDIYYAH,KOBER,Kp. Cipicung Hilir No. 101 RT.03/2,Ciumbuleuit,Cidadap,0-2 Tahun,0,0,6,0,16,31,0,0,3,1
+AL-FIRDAUS,KOBER,Kp. Bengkok RT.02/1,Ciumbuleuit,Cidadap,0-2 Tahun,0,0,12,4,9,5,0,0,0,3
+KASIH SAYANG BUNDA,KOBER,Jl. Kapten Abdul Hamid No. 82A RT.03/1,Ledeng,Cidadap,0-2 Tahun,0,0,13,9,7,12,3,4,1,7
+ABADI KIDS,KOBER,Jl. Cipaku II No. 11 RT.1/2,Ledeng,Cidadap,0-2 Tahun,0,0,7,5,8,7,5,3,0,4
+AL-HADI,KOBER,Jl. Ciumbuleuit No. 30A RT.07/10,Hegarmanah,Cidadap,0-2 Tahun,0,0,3,6,12,10,0,0,0,4
+PERMATA HATI,KOBER,Jl. Rancabentang I RT.02/6,Ciumbuleuit,Cidadap,0-2 Tahun,7,3,6,3,3,3,0,0,0,5
+AJILDAN,KOBER,Jl. Bukit Jarian RT.02/11,Hegarmanah,Cidadap,0-2 Tahun,0,0,0,0,35,40,0,0,1,5
+DAARUL AMANAH,KOBER,Jl. Bebedahan RT.02/3,Babakan Penghulu,Cinambo,0-2 Tahun,0,0,0,0,7,13,7,6,0,7
+KARSA MANDIRI,KOBER,Jl. Cirenggot No. 14 RT.04/4,Sukamulya,Cinambo,0-2 Tahun,0,0,7,9,8,10,0,0,1,6
+MUTIARA INSAN,KOBER,Jl. Rancameong RT.03/4,Babakan Penghulu,Cinambo,0-2 Tahun,0,0,36,46,0,0,0,0,0,5
+PANCARAN IMAN,KOBER,Jl. Golf III No.57 RT.05/4,Cisaranten Wetan,Cinambo,0-2 Tahun,0,0,10,7,11,2,0,0,0,5
+WIDYA DHARMA,KOBER,Jl. AH. Nasution Komplek Yon Zipur-9 RT.03/2,Pakemitan,Cinambo,0-2 Tahun,0,0,4,8,6,9,0,0,0,3
+INSAN MANDIRI,KOBER,Jl. Kaum Kidul No. 26 RT.4/1,Sukamulya,Cinambo,0-2 Tahun,0,0,0,0,12,7,9,8,0,4
+AL HIDAYAH,KOBER,Jl. Gelatik Dalam RT.03/4,Sadang Serang,Coblong,0-2 Tahun,0,0,9,4,11,16,0,0,0,6
+AL-FIRDAUS,KOBER,Jl. Kanayakan Dalam-Cihaur No. 13A RT.03/8,Dago,Coblong,0-2 Tahun,0,0,3,4,7,4,0,0,1,2
+AL-MANAR,KOBER,Jl. Puter No. 5  RT.01/8,Sadang Serang,Coblong,0-2 Tahun,0,0,16,8,0,0,0,0,3,9
+AN-NUR,KOBER,Jl. Mesjid An-Nur Kp. Pasirkoja RT.07/16,Sadang Serang,Coblong,0-2 Tahun,0,0,5,5,20,25,0,0,0,5
+AS-SUNNAH PERSIS,KOBER,Jl. Sadang Luhur No. 1F RT.02/15,Sekeloa,Coblong,0-2 Tahun,0,0,5,12,9,15,0,2,0,6
+AT-TAQWA,KOBER,Jl. Bagusrangin II No. 108 RT.04/7,Lebak Gede,Coblong,0-2 Tahun,0,0,1,7,4,8,0,0,1,3
+ATTAUFIQ,KOBER,Jl. Tubagus Ismail No. 41 RT.01/11,Sekeloa,Coblong,0-2 Tahun,0,0,3,12,11,14,0,0,0,4
+AZ-ZAHRA,KOBER,Jl. Ir. H. Juanda No. 23/158A RT.6/9,Dago,Coblong,0-2 Tahun,0,0,6,6,34,26,6,7,0,6
+BINTANG PURI WIDYA,KOBER,Jl. Bangbayang No.11 RT.1/7,Dago,Coblong,0-2 Tahun,0,0,4,9,9,4,1,0,2,4
+BUNDA GANESA,KOBER,Jl. Gelap Nyawang No.2 RT.04/4,Lebak Siliwangi,Coblong,0-2 Tahun,0,0,37,36,0,0,0,0,1,17
+CERDAS ROHANI,KOBER,Jl. Sadang Sari No. 2  RT.09/14,Sekeloa,Coblong,0-2 Tahun,0,0,4,5,5,6,0,0,0,6
+CERIA,KOBER,Jl. Dago Pojok Kp. Tanggulan 24 RT.04/3,Dago,Coblong,0-2 Tahun,0,0,0,0,0,0,0,0,0,0
+FATAHILLAH,KOBER,Jl. Cisitu Lama I No. 90/154C  RT.08/11,Dago,Coblong,0-2 Tahun,0,0,0,0,14,15,0,0,0,4
+ISMAIL,KOBER,Jl. Cisitu Indah Dalam No. 10/160C RT.08/12,Dago,Coblong,0-2 Tahun,0,0,2,2,9,8,0,0,0,4
+KENANGAN RW. 03,KOBER,Jl. Dago Pojok No. 23 RT.02/3,Dago,Coblong,0-2 Tahun,0,0,0,0,12,28,0,0,0,3
+MENTARI,KOBER,Jl. Ir. H. Juanda Kp. Cirapuhan RT.09/1,Dago,Coblong,0-2 Tahun,1,5,4,11,15,11,0,0,0,8
+PERMATA HATI,KOBER,"Jl. Cisitu Indah V, Masjid Al-Jihad H2 RT.04/4",Dago,Coblong,0-2 Tahun,0,0,5,6,8,3,7,7,0,11
+QURROTA A'YUN,KOBER,Jl. Sukasari 2 No. 194/E  RT.05/2,Sekeloa,Coblong,0-2 Tahun,0,0,7,8,12,18,0,0,0,4
+SALMAN AL-FARISI,KOBER,Jl. Tubagus Ismail VIII Bandung RT.01/12,Sekeloa,Coblong,0-2 Tahun,0,0,9,13,0,0,0,0,0,4
+TILIL CERIA,KOBER,Jl. puyuh no. 02 RT.1/8,Sadang Serang,Coblong,0-2 Tahun,0,0,3,5,8,10,4,10,0,3
+TUTOR TIME INTERNATIONAL PRESCHOOL AND KINDERGARTEN,KOBER,Jl. Dipatiukur 7 RT.4/8,Lebak Gede,Coblong,0-2 Tahun,7,3,15,12,10,7,0,0,1,7
+YASMIN,KOBER,Jl. Cisitu Lama No. 54 RT.05/10,Dago,Coblong,0-2 Tahun,0,0,8,14,26,9,0,0,2,4
+SEKAR BUNDA,KOBER,Jl. Taman Hewan No. 20 RT.5/7,Lebak Siliwangi,Coblong,0-2 Tahun,0,0,0,0,10,21,0,0,0,0
+GALENIA,KOBER,Jl. Badak Singa No. 8 RT.2/4,Lebak Siliwangi,Coblong,0-2 Tahun,10,5,20,12,14,12,0,0,0,24
+AL-AMANAH,KOBER,Jl. Gedebage Selatan No. 52B RT.05/2,Rancabolang,Gedebage,0-2 Tahun,0,0,10,15,10,15,0,0,1,4
+AL-A'ROF,KOBER,Jl. Rancakamurang RT.02/8,Cisaranten Kidul,Gedebage,0-2 Tahun,0,0,2,12,23,25,0,0,0,7
+AL-BINA,KOBER,Jl. Palem VI RT.02/8,Rancabolang,Gedebage,0-2 Tahun,0,0,0,0,0,0,0,0,0,0
+ANNUR 09,KOBER,Jl. Riung karya Juang III No. 09 RT.05/9,Cisaranten Kidul,Gedebage,0-2 Tahun,2,0,7,6,3,6,0,0,1,10
+GAGAS TALENTA,KOBER,Jl. Riung Ampuh No. 13A RT.03/9,Cisaranten Kidul,Gedebage,0-2 Tahun,0,2,9,6,12,5,0,0,0,6
+HIDAYATUL AZIS,KOBER,Jl. Derwati No. 24 RT.03/3,Rancabolang,Gedebage,0-2 Tahun,0,0,15,10,20,10,0,0,0,5
+KREATIF CEMERLANG,KOBER,Komp. Riung Gede Permai E2 RT.7/14,Cisaranten Kidul,Gedebage,0-2 Tahun,0,0,5,2,6,7,0,0,0,7
+LABIB,KOBER,Komp. Griya Cempaka Arum Blok M Culdesak RT.01/6,Rancanumpang,Gedebage,0-2 Tahun,4,5,10,11,4,4,0,0,0,6
+MEKARSARI UPT PK-PNFI III,KOBER,Jl. Riung Bakti Komp. Riung Bandung RT.01/11,Cisaranten Kidul,Gedebage,0-2 Tahun,0,0,0,0,8,22,0,0,0,2
+MELATI,KOBER,Jl. Adi Gardenia No.60 RT.06/5,Rancabolang,Gedebage,0-2 Tahun,0,0,6,9,26,16,0,0,0,12
+MELATI HARAPAN BUNDA,KOBER,Jl. Adi Chrysantium No.1 RT.06/5,Rancabolang,Gedebage,0-2 Tahun,0,0,3,3,39,29,0,0,0,9
+MUTIARA HATI,KOBER,Jl. Riung Tineung No. 36 RT.07/9,Cisaranten Kidul,Gedebage,0-2 Tahun,0,0,4,5,11,10,0,0,0,6
+NUR INSANI,KOBER,Jl. Adi Bakung No.8 RT.02/5,Rancabolang,Gedebage,0-2 Tahun,0,0,2,6,8,9,0,0,1,7
+PAUD ANGGREK,KOBER,Jl. Mulya No. 21 Komp. Bumi Pitaloka RT.03/3,Rancanumpang,Gedebage,0-2 Tahun,0,0,4,9,6,4,0,0,0,4
+SINAR MUTIARA 1,KOBER,Jl. Rancanumpang RT.01/1,Rancanumpang,Gedebage,0-2 Tahun,0,0,3,0,8,14,0,0,0,5
+TUNAS HARAPAN,KOBER,Jl. Moh. Bisri No 82 RT.04/3,Cisaranten Kidul,Gedebage,0-2 Tahun,0,0,7,2,1,7,0,0,1,5
+TUNAS UNGGULAN,KOBER,Komp. Bumi Adipura Cemara Blok E-1 RT.04/7,Rancabolang,Gedebage,0-2 Tahun,0,0,8,8,18,17,0,0,0,8
+CEMPAKA,KOBER,Jl. Muadz Bin Jabal Griya Cempaka Arum RT.1/7,Cimencrang,Gedebage,0-2 Tahun,0,0,3,9,8,5,3,2,0,5
+KREATIF CEMERLANG,KOBER,Komp. Riung Gede Permai No. E2 RT.07/14,Cisaranten Kidul,Gedebage,0-2 Tahun,0,0,2,8,9,9,0,0,0,3
+AL-BANA,KOBER,Jl. Rancabayawak  RT.02/2,Cisaranten Kidul,Gedebage,0-2 Tahun,0,0,2,8,9,10,5,2,1,6
+GALILEO,KOBER,Komp. Perum Riung Gede Permai Blok E.3 RT./,Cisaranten Kidul,Gedebage,0-2 Tahun,0,0,0,0,0,0,0,0,0,0
+INSAN CERIA,KOBER,Jl. Riung Bakti III No. 175/IVE Komp. Riung Bandung RT.01/11,Cisaranten Kidul,Gedebage,0-2 Tahun,0,0,2,3,1,3,4,7,2,3
+AL-JIHAD,KOBER,Jl. Wirawan Raya No. 2 RT.02/12,Cisaranten Kidul,Gedebage,0-2 Tahun,0,0,7,20,0,0,0,0,0,5
+PAUD BERKEBUN TANPOPO,KOBER,Jl. Riung Arum Raya No. 40 RT.6/10,Cisaranten Kidul,Gedebage,0-2 Tahun,3,3,2,5,4,3,2,2,0,3
+AL HIDAYAH,KOBER,Komp. KPAD Pindad Timur No. K.2324 RT.03/8,Sukapura,Kiaracondong,0-2 Tahun,0,0,0,0,22,10,0,0,1,5
+AL-BASYSYAR,KOBER,Jl. Mekarsari XII No. 5  RT.01/17,Babakan Sari,Kiaracondong,0-2 Tahun,0,0,3,4,12,5,0,0,1,3
+ANAK SHOLEH,KOBER,Jl. Mekarsari Dalam I No. 38/20 RT.01/16,Babakan Sari,Kiaracondong,0-2 Tahun,0,0,7,6,5,8,7,8,0,3
+AR-RODHIAH,KOBER,Jl. Kampus VII No. 20 RT.09/4,Babakan Sari,Kiaracondong,0-2 Tahun,0,0,9,8,7,5,0,0,0,5
+BAITUSSALAM,KOBER,Jl. Mekar Sari I No. 81 RT.01/16,Babakan Sari,Kiaracondong,0-2 Tahun,0,0,8,6,4,10,0,0,0,3
+CATTLEYA,KOBER,Jl. Warung jambu. RT.04/1,Kebon Kangkung,Kiaracondong,0-2 Tahun,0,0,12,9,10,9,0,0,0,4
+DAARUL FIKRI,KOBER,Jl. Lemah Hegar No. 29B  RT.09/4,Sukapura,Kiaracondong,0-2 Tahun,0,0,0,0,12,27,0,0,0,3
+FLAMBOYAN,KOBER,Jl. Papanggungan XIII RT.08/9,Kebon Kangkung,Kiaracondong,0-2 Tahun,0,0,11,18,15,12,0,0,0,6
+GLOBAL CENDEKIA SCHOOL,KOBER,Jl. Kampus I No. 39  RT.01/8,Babakan Sari,Kiaracondong,0-2 Tahun,0,0,2,11,14,8,0,0,2,9
+INSAN KAMIL,KOBER,Jl. Sari Indah V No. 8 RT.08/12,Babakan Sari,Kiaracondong,0-2 Tahun,0,0,6,5,11,11,0,0,0,5
+INTISABI NURUL YAQIN,KOBER,Jl. Setrawangi No. 17A RT.03/15,Babakan Surabaya,Kiaracondong,0-2 Tahun,0,0,15,16,3,6,0,0,0,5
+LES PINTAR,KOBER,Jl. Kampus VI No.1E RT.06/8,Babakan Sari,Kiaracondong,0-2 Tahun,0,0,10,6,7,13,0,0,0,7
+LITLLE SMART,KOBER,Jl. Atlas Raya No.12 Antapani RT.04/13,Babakan Surabaya,Kiaracondong,0-2 Tahun,0,0,0,0,38,34,0,0,0,6
+MERPATI,KOBER,Jl. Babakan sari I RT.04/6,Babakan Sari,Kiaracondong,0-2 Tahun,0,0,8,7,11,8,0,0,0,9
+NURUL IMAN,KOBER,Jl. Desa No. 23 RT.03/3,Babakan Sari,Kiaracondong,0-2 Tahun,0,0,1,2,10,22,0,0,0,3
+PERMATA IBU,KOBER,Jl. Babakan Sari II No. 18 RT.09/7,Babakan Sari,Kiaracondong,0-2 Tahun,0,0,5,7,9,10,0,0,0,8
+SRIKANDI,KOBER,Jl. Sulaksana Gg. Sulaksana No. 105 RT.4/11,Cicaheum,Kiaracondong,0-2 Tahun,0,0,0,0,4,16,0,0,0,3
+SRIKANDI,KOBER,Komp. Bumi Kiara Dalam RT.04/4,Kebon Kangkung,Kiaracondong,0-2 Tahun,0,0,0,0,17,17,0,0,0,4
+TERPADU AR-RAFI,KOBER,Jl. Sekejati III No. 20 RT.8/11,Sukapura,Kiaracondong,0-2 Tahun,2,0,2,2,6,15,0,0,0,4
+TUNAS BAKTI,KOBER,Jl. Babakan Sari III No.318 RT.07/9,Babakan Sari,Kiaracondong,0-2 Tahun,0,0,0,0,12,4,0,0,0,3
+SMART KIDS,KOBER,Jl. Kebonjayanti No. 148/134 B RT.07/2,Kebon Jayanti,Kiaracondong,0-2 Tahun,0,0,7,8,8,13,0,0,0,4
+AZ-ZAHRA BEHEYSYTI,KOBER,Jl. Kampus II No. 4 RT.2/8,Babakan Sari,Kiaracondong,0-2 Tahun,1,6,3,3,2,9,0,0,0,5
+HUSNUL KHOTIMAH,KOBER,Jl. Arum Sari VIII No. 17 RT.05/12,Babakan Sari,Kiaracondong,0-2 Tahun,0,0,0,0,8,8,30,13,0,6
+AL FATAH,KOBER,Jl. Kebon Kangkung IV  RT.04/6,Kebon Kangkung,Kiaracondong,0-2 Tahun,0,0,7,5,6,5,0,0,0,2
+AR RAFI',KOBER,Jl. Sekejati III No. 20 RT.08/11,Sukapura,Kiaracondong,0-2 Tahun,0,0,1,0,8,6,2,1,1,3
+HARAPAN MEKAR,KOBER,Jl. Kebon Jayanti  RT.03/08,Kebon Jayanti,Kiaracondong,0-2 Tahun,0,0,8,9,11,7,6,9,1,5
+AL FAJR,KOBER,Jl. Patuha No. 36 RT.02/4,Lingkar Selatan,Lengkong,0-2 Tahun,0,0,0,0,17,11,0,0,0,2
+AL-ARIEF,KOBER,Jl. Sadakeling Blk No.18 RT.05/3,Burangrang,Lengkong,0-2 Tahun,0,0,0,0,10,11,0,0,0,4
+CEMERLANG,KOBER,Jl. Macan No. 2-A RT.03/5,Burangrang,Lengkong,0-2 Tahun,0,0,1,3,9,26,0,0,0,4
+EDELWEIS,KOBER,Jl. Lemah Hegar Ujung RT.07/4,Paledang,Lengkong,0-2 Tahun,0,0,2,1,12,10,0,0,0,2
+GAGAS CERIA,KOBER,Jl. Malabar No. 84 RT.02/08,Malabar,Lengkong,0-2 Tahun,0,0,64,60,0,0,1,0,0,20
+HIMMATUL 'ALIYYAH,KOBER,Jl. Wangsareja No.5 RT.2/4,Paledang,Lengkong,0-2 Tahun,0,0,0,7,19,11,9,4,0,4
+KARTIKA X-2,KOBER,Jl. Jend. Gatot Subroto 160 RT.06/8,Lingkar Selatan,Lengkong,0-2 Tahun,0,0,8,8,0,0,0,0,0,3
+METAMORFOSA,KOBER,Jl. Rebab No.21 RT.01/2,Turangga,Lengkong,0-2 Tahun,1,1,14,9,8,8,0,0,1,5
+NUSA INDAH,KOBER,Jl. Karapitan No. 13 B RT.01/2,Burangrang,Lengkong,0-2 Tahun,6,3,8,9,2,1,0,0,0,2
+PASCAL MONTESSORI,KOBER,Jl. Talaga Bodas No. 15 RT.01/8,Malabar,Lengkong,0-2 Tahun,4,4,13,21,14,8,0,0,1,9
+PELITA ILMU,KOBER,Jl. Karapitan Blk No. 41 RT.09/2,Burangrang,Lengkong,0-2 Tahun,0,0,12,8,14,25,0,0,0,3
+PEWARIS BANGSA,KOBER,Jl. Ketapang Tengah No. 5 RT.3/1,Malabar,Lengkong,0-2 Tahun,2,0,6,4,2,3,0,0,0,4
+RUMAH IBU,KOBER,Jl. Babakan Wates II No.35/207A RT.05/6,Turangga,Lengkong,0-2 Tahun,0,0,5,5,10,8,0,0,0,2
+TUMBUH CERDAS,KOBER,Jl. Buahbatu No. 90 RT.07/9,Burangrang,Lengkong,0-2 Tahun,0,0,0,0,13,19,0,0,0,4
+ULUL ALBAB,KOBER,Jl. H. Nawawi No. 3  RT.03/3,Burangrang,Lengkong,0-2 Tahun,0,0,5,3,8,6,0,0,1,4
+ALZAHRA,KOBER,Jl. Cipaera Selatan RT.04/4,Malabar,Lengkong,0-2 Tahun,0,0,8,6,15,21,0,0,1,3
+STAR KIDS,KOBER,Jl. Karawitan No. 56 RT.06/5,Turangga,Lengkong,0-2 Tahun,0,0,3,6,5,4,0,0,0,7
+RUMAH IBU,KOBER,Jl. Babakan Wates II No. 35/207A RT.05/6,Turangga,Lengkong,0-2 Tahun,1,2,1,5,5,4,3,4,0,4
+AL-HIDAYAH,KOBER,Jl. Saledri No. 02 RT.01/01,Lingkar Selatan,Lengkong,0-2 Tahun,0,3,7,11,2,6,0,0,0,4
+KOBER TT,KOBER,Jl. Galunggung 36 RT.2/6,Lingkar Selatan,Lengkong,0-2 Tahun,7,4,19,14,4,3,4,4,2,8
+CEMPAKA,KOBER,Jl. Cikadut Dalam  RT./,Karang Pamulang,Mandalajati,0-2 Tahun,0,0,0,0,21,15,0,0,0,6
+NURUL UMMI CERIA,KOBER,Jl. Sekepeer Kp. Pasempar No. 44 RT.2/3,Sindang Jaya,Mandalajati,0-2 Tahun,0,0,5,8,4,5,0,0,0,3
+AL-HIKMAH,KOBER,Jl. Sukaasih No. 260A RT.05/9,Sindang Jaya,Mandalajati,0-2 Tahun,0,0,9,9,3,15,13,13,5,8
+DEVIANA,KOBER,Komp. Giri Mande B6 No. 8 RT.06/4,Karang Pamulang,Mandalajati,0-2 Tahun,0,0,14,11,2,3,0,0,0,3
+KASIH BUNDA,KOBER,Jl. Sukaasih IV No. 25B RT.01/9,Sindang Jaya,Mandalajati,0-2 Tahun,0,0,0,0,9,6,0,0,0,5
+ALAMANDA,KOBER,Jl. Jatihandap Timur Bandung 40193 RT.04/15,Jatihandap,Mandalajati,0-2 Tahun,0,0,12,4,12,12,0,0,0,6
+ABATATSA,KOBER,Komp. Taman Sari Bukit Bandung Blok IE/4 RT.01/11,Sindang Jaya,Mandalajati,0-2 Tahun,0,0,3,2,22,19,0,0,1,6
+FLAMBOYAN,KOBER,Jl. Babakan Sekebiru RT.02/1,Karang Pamulang,Mandalajati,0-2 Tahun,0,0,0,16,17,0,0,0,1,6
+BAITURRAHMAN,KOBER,Jl. Sukaasih II No.4 RT.02/7,Sindang jaya,Mandalajati,0-2 Tahun,0,0,0,0,19,7,0,0,0,4
+BINTANG KECIL,KOBER,Jl. Jatihandap RT.04/5,Jatihandap,Mandalajati,0-2 Tahun,0,0,0,0,20,27,0,0,0,5
+BAITURRAHMAN,KOBER,Jl. Sukaasih Raya No. 30 RT.02/7,Sindang Jaya,Mandalajati,0-2 Tahun,0,7,5,3,7,7,6,0,0,5
+PERINTIS,KOBER,Jl. Sukaasih Atas Kp. Sekepeer  RT.02/5,Sindang Jaya,Mandalajati,0-2 Tahun,0,0,9,7,15,6,0,0,0,6
+PERMATA ILMU,KOBER,Jl. Cikadut No. 252 RT.06/3,Karang Pamulang,Mandalajati,0-2 Tahun,0,0,8,8,0,0,0,0,0,5
+CEMARA,KOBER,Jl. Kancahnangkub RT.01/13,Jatihandap,Mandalajati,0-2 Tahun,0,0,6,6,4,4,0,0,0,4
+NURI,KOBER,Jl. Arcamanik No. 90 RT.04/3,Sindang Jaya,Mandalajati,0-2 Tahun,0,0,4,5,8,19,6,2,0,5
+PERMATA HATI,KOBER,Jl. Jatihandap Gg. H Idris No. 19  RT.2/7,Jatihandap,Mandalajati,0-2 Tahun,0,0,9,14,23,14,0,0,1,7
+AR RIFQI,KOBER,Komp. Bumi Panyileukan Blok K8 No. 29 RT.03/10,Cipadung Kidul,Panyileukan,0-2 Tahun,0,0,0,0,0,0,0,0,1,7
+DWI LESTARI,KOBER,Komp. Bumi Panyileukan Blok C.1/12 RT.07/2,Cipadung Kidul,Panyileukan,0-2 Tahun,0,0,0,0,8,12,0,0,0,6
+PUTRA KARYA,KOBER,Jl. Pamekar Raya No.93 Komp. Panghegar Permai RT.03/4,Mekar Mulya,Panyileukan,0-2 Tahun,0,0,0,0,16,11,0,0,0,5
+MELATI,KOBER,Jl. Panyawangan 2 No.8 Panghegar Permai RT./,Cipadung Kulon,Panyileukan,0-2 Tahun,0,0,0,0,0,0,0,0,1,6
+RIUNG PUTRA,KOBER,Komp. Bumi Panyileukan Blok F9 No. 26 RT.05/5,Cipadung Kidul,Panyileukan,0-2 Tahun,0,1,5,4,10,5,0,0,0,4
+BEYNA CERIA,KOBER,Jl. Pamekar Timur 3 No. 12 RT.02/3,Mekar Mulya,Panyileukan,0-2 Tahun,0,0,11,17,9,13,0,0,0,5
+AL-AMANAH MEKARMULYA,KOBER,Jl. Mekarmulya RT.4/1,Mekar Mulya,Panyileukan,0-2 Tahun,0,0,11,5,11,14,0,0,2,4
+AL-AMANAH,KOBER,Jl. Mekar Mulya No. 1 RT.04/1,Mekar Mulya,Panyileukan,0-2 Tahun,0,0,1,2,42,34,0,0,2,8
+MEKAR INDAH,KOBER,Jl. Pamekar Raya No. 96 RT.01/4,Mekar Mulya,Panyileukan,0-2 Tahun,0,0,10,8,0,2,0,0,0,9
+AL-IKHLASH,KOBER,Jl. Padepokan IV No. 21 RT.06/9,Cipadung Kulon,Panyileukan,0-2 Tahun,0,0,2,9,6,7,0,0,0,3
+ANAK SHOLEH,KOBER,Komp. Bumi Panyileukan Q2 No. 5 RT.7/11,Cipadung Kidul,Panyileukan,0-2 Tahun,0,0,0,0,3,3,6,13,0,4
+AS-SAKINAH,KOBER,Jl. Inten Mulia VIII No. 16-17 RT.5/12,Derwati,Rancasari,0-2 Tahun,0,0,4,4,9,7,0,4,1,2
+KARYA SANTOSA,KOBER,Jl. Santosa Asih RT.08/5,Cipamokolan,Rancasari,0-2 Tahun,0,0,3,3,12,8,0,0,0,3
+ASHFIYA,KOBER,Jl. Batu Karang No. 2-4 Sentosa Asih RT.11/5,Cipamokolan,Rancasari,0-2 Tahun,0,0,0,0,20,10,0,0,0,6
+MEKAR,KOBER,Jl. Cibogo Endah No. 8 RT.8/5,Mekar Jaya,Rancasari,0-2 Tahun,0,0,0,0,8,13,14,24,0,4
+NUANSA,KOBER,Jl. Nuansa Mas Blok C No. 6-7  RT.12/9,Cipamokolan,Rancasari,0-2 Tahun,0,0,3,1,0,0,0,0,0,6
+GELATIK,KOBER,"Jl. Gedebage Selatan, Rancabolang RT.03/8",Derwati,Rancasari,0-2 Tahun,0,0,0,0,12,14,0,0,0,3
+RUMAH BERMAIN ANANDA,KOBER,Jl. Merkuri Timur No. 32 Margahayu Raya RT.4/18,Manjahlega,Rancasari,0-2 Tahun,2,0,3,3,3,3,0,0,0,4
+ABATASA,KOBER,Jl. Pasir Suci No. 7 Komp. Pasir Pogor RT.01/8,Mekar Jaya,Rancasari,0-2 Tahun,0,0,0,0,31,13,0,0,0,0
+AL-KAUTSAR,KOBER,Jl. Saluyu Indah III No.130 RT.03/10,Derwati,Rancasari,0-2 Tahun,0,0,0,0,12,10,0,0,0,2
+TULUS MURNI,KOBER,Jl. Saturnus Barat I No.6 Margahayu Raya RT.03/15,Manjahlega,Rancasari,0-2 Tahun,0,0,5,17,0,0,0,0,0,6
+AL IKHLAS,KOBER,Jl. Manjahlega RT.05/13,Manjahlega,Rancasari,0-2 Tahun,0,0,6,8,20,16,0,0,0,5
+SEDAP MALAM,KOBER,Jl. Aria Utama No. 5 Komp. Aria Graha RT.02/2,Cipamokolan,Rancasari,0-2 Tahun,0,0,0,0,0,0,0,0,0,7
+BINTANG-BINTANG,KOBER,Jl. Saluyu C XI No. 11 Riung Bandung RT.8/9,Cipamokolan,Rancasari,0-2 Tahun,0,0,7,2,10,6,3,2,0,4
+LESTARI,KOBER,Jl. Saluyu 12A No. 38-40 Riung Bandung RT.1/7,Cipamokolan,Rancasari,0-2 Tahun,0,0,5,7,12,17,0,0,0,4
+SAKINAH,KOBER,Jl. Batu Raden II No. 72  RT.02/7,Mekar Jaya,Rancasari,0-2 Tahun,0,0,2,1,18,26,0,0,0,5
+MELATI AISYIYAH,KOBER,Jl. Gede Bage Selatan RT./,Derwati,Rancasari,0-2 Tahun,0,0,0,0,16,10,0,0,0,4
+ABATATSA,KOBER,Jl. Pasir Suci No.7 Komp. Pasir Pogor  RT.01/8,Mekar Jaya,Rancasari,0-2 Tahun,0,0,0,0,18,19,0,0,0,6
+AMALIAH,KOBER,Jl. Saturnus Utara No. 8 RT.04/11,Manjahlega,Rancasari,0-2 Tahun,0,0,0,0,7,10,0,0,0,5
+PELANGI CERIA,KOBER,Jl. Derwati No. 125 RT.01/6,Derwati,Rancasari,0-2 Tahun,0,0,13,17,0,0,0,0,1,6
+GROWING STAR,KOBER,Jl. Mars Utara No. 25 RT.03/2,Manjahlega,Rancasari,0-2 Tahun,0,0,28,17,34,27,0,0,0,11
+KASIH BUNDA,KOBER,Jl. Raya Derwati No. 26 RT.04/2,Derwati,Rancasari,0-2 Tahun,0,0,1,2,13,14,0,0,0,6
+AL-KAHFI SCHOOL OF LIFE,KOBER,Komp. Bandung Indah Raya Blok C-13 No. 22 RT.05/1,Mekar Jaya,Rancasari,0-2 Tahun,0,0,0,0,0,0,0,0,0,0
+SUPERKIDS PRE-SCHOOL,KOBER,Jl. Mars Selatan No.3 RT.01/7,Manjahlega,Rancasari,0-2 Tahun,0,0,3,6,16,6,0,0,0,8
+HAMIDAH,KOBER,Jl. Derwati Gg. Hj. Hamidah RT.01/5,Derwati,Rancasari,0-2 Tahun,0,0,3,5,12,11,0,0,0,5
+AT-TAUFIQ,KOBER,Jl. Manjahlega RT.03/13,Manjahlega,Rancasari,0-2 Tahun,0,0,4,3,2,8,2,2,0,3
+BINAR INDONESIA PRE-SCHOOL,KOBER,Jl. Rancabolang No. 241 RT.6/16,Manjahlega,Rancasari,0-2 Tahun,5,4,16,5,18,14,11,16,2,13
+KENANGA,KOBER,Jl. Ibu Inggit Garnasih No. 66 RT.01/6,Ciateul,Regol,0-2 Tahun,0,0,1,3,0,0,0,0,0,3
+YUMNA,KOBER,Jl. Kota Baru III No. 13 RT./,Ciateul,Regol,0-2 Tahun,0,0,3,3,23,12,0,0,1,9
+AL-MARJAN,KOBER,Jl. Pasirjaya VI No. 20 RT.02/6,Pasirluyu,Regol,0-2 Tahun,0,0,0,6,0,11,0,3,0,4
+PAUD MODERN AYURINI,KOBER,Jl. Dewi Sri No. 23 Srimahi RT.08/6,Ancol,Regol,0-2 Tahun,0,0,0,0,19,11,0,0,0,5
+ASSALAAM,KOBER,Jl. Sasak Gantung No. 11A RT.06/4,Balong Gede,Regol,0-2 Tahun,0,0,13,11,0,0,0,0,0,3
+BUSTANUL WILDAN,KOBER,Jl. Pasirluyu Selatan RT.01/3,Pasirluyu,Regol,0-2 Tahun,0,0,1,0,18,20,0,0,0,4
+BAKTI KUSUMA,KOBER,Jl. Pasirluyu Gg. Masjid RT.05/5,Pasirluyu,Regol,0-2 Tahun,0,0,0,0,0,0,0,0,0,4
+HASANAH,KOBER,Jl. Pasirluyu Selatan RT.1/3,Pasirluyu,Regol,0-2 Tahun,0,0,0,0,11,12,1,6,0,4
+AZ- ZAHRA AISYIYAH 2,KOBER,Jl. Sukajadi RT.05/11,Sukabungah,Sukajadi,0-2 Tahun,1,1,0,0,0,0,0,0,2,5
+AL-AMANAH,KOBER,Jl. Sukajadi NO.51 RT.04/5,Sukabungah,Sukajadi,0-2 Tahun,0,0,0,0,26,20,0,0,1,7
+INDRIYASANA,KOBER,Jl. Unpar 2 No. 10  RT.04/7,Sukawarna,Sukajadi,0-2 Tahun,0,5,10,6,14,16,0,0,1,7
+TAMAN BERMAIN ANAKKU,KOBER,Jl. Dangdeur Indah II No.2 RT.05/1,Sukagalih,Sukajadi,0-2 Tahun,0,0,5,8,8,12,0,0,0,7
+AZ ZAHRA AISYIYAH,KOBER,Jl. Gang Sukabakti VI No. 375 RT.05/3,Sukabungah,Sukajadi,0-2 Tahun,0,0,0,0,33,21,0,0,0,3
+NURKAMALA,KOBER,Jl. Cipedes Tengah No. 42B/133 RT.02/5,Sukagalih,Sukajadi,0-2 Tahun,0,0,0,0,22,13,0,0,1,9
+NOOR RAKHMAH,KOBER,Jl. Cipedes Selatan No. 85 RT.04/1,Sukabungah,Sukajadi,0-2 Tahun,0,0,10,15,16,20,6,8,0,9
+BHINEKA,KOBER,Jl. Cemara No.81 RT.8/2,Pasteur,Sukajadi,0-2 Tahun,2,1,3,2,3,5,0,0,1,6
+SEMI PALAR,KOBER,Jl. Sukamulya No. 77-79  RT.04/1,Sukagalih,Sukajadi,0-2 Tahun,0,0,9,5,0,0,0,0,1,3
+NUURUSSHOBAH,KOBER,Jl. Sukajadi No. 416 RT.05/11,Pasteur,Sukajadi,0-2 Tahun,0,0,0,0,15,15,17,15,1,3
+CERDAS,KOBER,Jl. Cibogo/ Sarimadu RT.05/7,Sukawarna,Sukajadi,0-2 Tahun,0,0,9,9,15,13,0,0,0,5
+KIBAR AULADI,KOBER,Jl. Sukajadi No. 99/182A Gg. Marjaban RT.02/4,Sukabungah,Sukajadi,0-2 Tahun,0,0,4,9,8,11,0,0,1,3
+AL MUSLIM,KOBER,Jl. Cipedes Tengah Gg. H. Muslim No. 33 RT./,Cipedes,Sukajadi,0-2 Tahun,0,0,1,1,3,14,0,0,0,3
+AL-IKHLAS,KOBER,Jl. Karang Tineung Dalam No. 84/181 RT./,Cipedes,Sukajadi,0-2 Tahun,0,0,13,20,9,11,0,0,1,6
+ALWAN,KOBER,Jl. Cipedes Tengah No. 24 RT.06/5,Cipedes,Sukajadi,0-2 Tahun,0,0,2,1,15,19,0,0,1,4
+RUMAH PELANGI,KOBER,Jl. Jurang Gg. Akinari No. 731/181 RT.06/6,Pasteur,Sukajadi,0-2 Tahun,0,0,10,4,18,18,0,0,0,4
+PELITA,KOBER,Jl. Cibogo No. 5A RT.04/3,Sukawarna,Sukajadi,0-2 Tahun,0,0,0,0,0,0,0,41,0,4
+SMART CARACTER,KOBER,Jl. Cemara 4 No. 23 RT.01/1,Pasteur,Sukajadi,0-2 Tahun,0,0,1,0,9,8,0,0,0,2
+AL-HIDAYAH,KOBER,Jl. Sukamulya Indah Dalam I Kp. Kendal Gede RT.02/2,Sukagalih,Sukajadi,0-2 Tahun,0,0,0,0,12,20,0,0,0,2
+NURUL HUDA,KOBER,Jl. Dangdeur Indah No. 20 RT.05/1,Sukagalih,Sukajadi,0-2 Tahun,0,0,2,1,8,14,3,4,1,3
+INDRIYASANA,KOBER,Jl. Unpar 2 No. 10 RT.4/7,Sukawarna,Sukajadi,0-2 Tahun,0,0,10,10,0,0,0,0,0,3
+NURUL HUDA,KOBER,Jl. Sukarasa Blok IV No. 17 RT.01/3,Sarijadi,Sukasari,0-2 Tahun,0,0,9,6,0,0,0,0,0,4
+PENDIDIKAN ALAM TERBUKA BINA INSANI,KOBER,Jl. Gegerkalong Girang Baru No. 9 RT./,Isola,Sukasari,0-2 Tahun,0,0,0,0,13,7,0,0,0,4
+AN NUUR,KOBER,Jl. Sindang Sirna II No.343 RT.06/6,Gegerkalong,Sukasari,0-2 Tahun,0,0,0,1,12,6,0,0,0,4
+HASAN HUSAIN,KOBER,Jl. Cipedes No. 9 RT.03/2,Sukarasa,Sukasari,0-2 Tahun,0,0,5,8,5,1,1,2,0,3
+AL-MURABBI,KOBER,Jl. Prof. Dr. Ir. Sutami No. 10 RT.05/4,Sukarasa,Sukasari,0-2 Tahun,0,0,16,12,12,5,0,0,0,7
+HUWAIDA,KOBER,Jl. Sarimanah Blok 15 RT.01/7,Sarijadi,Sukasari,0-2 Tahun,0,0,0,0,10,15,0,0,0,4
+GARASI ANAK MUSLIM,KOBER,Jl. Sadagori 245A KPAD RT.07/2,Gegerkalong,Sukasari,0-2 Tahun,0,0,0,0,3,7,3,8,0,6
+KANCIL CENDIKIA,KOBER,Jl. Perintis No. 29 Blok 14 RT.02/5,Sarijadi,Sukasari,0-2 Tahun,0,0,10,14,14,10,0,0,0,8
+ARMIA,KOBER,Jl. Sarimadu Barat No. 125  RT.05/6,Sarijadi,Sukasari,0-2 Tahun,0,0,11,11,0,0,0,0,0,7
+BAITURRAHMAN PUSDIKKU TNI AD,KOBER,Jl. Sindang Sirna No. 6 PUSDIKKU AD RT.5/5,Gegerkalong,Sukasari,0-2 Tahun,0,0,4,5,22,22,0,0,0,6
+MUTIARA BUNDA,KOBER,Jl. Sarijadi Blok 6 No. 32 RT.7/3,Sarijadi,Sukasari,0-2 Tahun,0,0,8,9,9,6,0,0,1,6
+TERANA PELITA,KOBER,Jl. Tirtasari III No. 9 RT.12/9,Sarijadi,Sukasari,0-2 Tahun,0,0,1,8,8,5,0,0,1,6
+AT-TAUFIQ,KOBER,Jl. Gegerkalong Girang No. 40A RT.1/6,Isola,Sukasari,0-2 Tahun,1,1,7,7,5,4,0,0,0,5
+AL-AQSHO,KOBER,Jl. Sarijadi No. 75 RT.03/5,Sarijadi,Sukasari,0-2 Tahun,0,0,5,7,0,0,0,0,1,5
+LANGIT ITU LUAS,KOBER,"Jl. Dr. Setiabudhi Km. 0,2 No. 31 RT.2/2",Isola,Sukasari,0-2 Tahun,0,0,6,17,2,13,0,0,0,3
+ADE IRMA,KOBER,Jl. Kartika Raya No. 1 RT.04/4,Gegerkalong,Sukasari,0-2 Tahun,0,0,10,10,3,3,0,0,0,4
+BAITI KIDS,KOBER,Jl. Gegerkalong Girang No. 32 RT.01/6,Isola,Sukasari,0-2 Tahun,0,0,0,0,14,12,0,0,0,3
+PELITA BUNDA,KOBER,Jl. Gegerkalong Girang No. 108C RT.05/1,Gegerkalong,Sukasari,0-2 Tahun,0,0,0,0,0,0,0,0,0,0
+AL-AMANAH,KOBER,Jl. Gegerkalong Hilir No. 190A RT.02/8,Gegerkalong,Sukasari,0-2 Tahun,0,0,0,0,0,0,0,0,0,6
+FAIDHATUL ILMI,KOBER,Jl. Sarimanah 2 No. 3 Blok IX No. 15 RT.01/4,Sarijadi,Sukasari,0-2 Tahun,0,0,7,5,11,16,4,5,0,9
+ARAFAH,KOBER,Jl. Sariasih II No. 21C RT.06/10,Sarijadi,Sukasari,0-2 Tahun,0,0,9,4,7,23,7,6,0,8
+AR-RIZKY,KOBER,Kp. Dangdeur RT.5/4,Sukarasa,Sukasari,0-2 Tahun,0,0,2,2,11,11,0,0,1,2
+AL-MUBAROK,KOBER,Jl. Babakan Ciamis No.34 RT.05/7,Babakan Ciamis,Sumur Bandung,0-2 Tahun,0,0,0,0,28,22,0,0,0,4
+TUNAS MANDIRI,KOBER,Jl. Sunda Gg. Cibunut No. 18 RT.07/7,Kebon Pisang,Sumur Bandung,0-2 Tahun,0,0,0,0,18,26,0,0,1,3
+GSSI,KOBER,Jl. Lombok No. 7 B/S RT.01/3,Merdeka,Sumur Bandung,0-2 Tahun,0,0,8,4,0,1,0,0,0,9
+IPHI,KOBER,Jl. Tongkeng No. 48' RT.02/7,Merdeka,Sumur Bandung,0-2 Tahun,0,0,0,0,25,21,0,0,0,6
+TAMAN CERIA RW.07,KOBER,Gg. Banceuy No. 51 RT.04/7,Braga,Sumur Bandung,0-2 Tahun,0,0,5,4,15,18,0,1,0,5
+LITTLE 1 ACADEMY MERDEKA,KOBER,Jl. Merdeka No. 39 RT.04/02,Babakan Ciamis,Sumur Bandung,0-2 Tahun,7,13,6,14,0,0,0,0,1,2
+MATAHARI PLUS RAHARJA,KOBER,Komp. Griya Winaya B. 10 No. 39 RT.3/5,Pasir Wangi,Ujungberung,0-2 Tahun,0,0,3,3,8,10,8,1,1,2
+BINA PEMULA- NUR ASIAH,KOBER,Jl. Samiaji No. 70 RT.04/2,Pasir Wangi,Ujungberung,0-2 Tahun,0,0,2,2,8,9,0,0,0,4
+ATMANATA,KOBER,Jl. Andir Kaler No. 4 RT.5/3,Cigending,Ujungberung,0-2 Tahun,0,0,0,2,15,13,0,0,0,5
+KOBER PLUS MATAHARI RAHARJA,KOBER,Komp. Griya Winaya B. 10 No. 39 RT.3/5,Pasir Wangi,Ujungberung,0-2 Tahun,0,0,3,3,8,10,8,1,1,2
+MELATI PUTIH,KOBER,Gg. Andir Kaler RT.06/3,Cigending,Ujungberung,0-2 Tahun,0,0,3,3,10,9,0,0,0,4
+PELANGI,KOBER,Jl. Ciporeat mandalawangi No. 19 RT.05/7,Pasanggrahan,Ujungberung,0-2 Tahun,0,0,14,11,0,0,0,0,1,4
+AR-RIDHO,KOBER,Jl. Sukup Lama No.114 RT.08/11,Cigending,Ujungberung,0-2 Tahun,0,0,0,0,29,21,0,0,0,3
+DARUSSALAM,KOBER,Jl. Neglarasa Neglasari RT.04/5,Pasanggrahan,Ujungberung,0-2 Tahun,0,0,0,0,12,9,0,0,0,3
+BINA INSANI,KOBER,Komp. Pasanggrahan Indah Blok 2 No. 33 RT.02/14,Pasanggrahan,Ujungberung,0-2 Tahun,0,0,0,0,19,17,0,0,0,6
+STRAWBERRY,KOBER,Komp. Griya Jati Putra No. 129 Ciseupan RT.05/10,Pasirjati,Ujungberung,0-2 Tahun,0,0,7,16,5,7,0,0,0,2
+HARUMAN,KOBER,Jl. Kaum Kaler No. 17 RT.02/5,Cigending,Ujungberung,0-2 Tahun,0,0,5,7,10,12,0,0,0,5
+BUNDA ASUH NANDA,KOBER,Komp. Ujungberung Indah Blok 15 No. 26 RT.04/11,Cigending,Ujungberung,0-2 Tahun,0,0,16,11,0,0,0,0,1,5
+BERMARTABAT,KOBER,Jl. Laksana No. 7A RT.07/11,Cigending,Ujungberung,0-2 Tahun,0,0,9,9,3,8,0,0,1,3
+TUNAS HARAPAN,KOBER,Jl. Nagrog III RT.03/9,Pasirjati,Ujungberung,0-2 Tahun,0,0,7,5,1,4,3,0,1,2
+KEMBANG PURA,KOBER,Jl. Nagrog II No.7 RT.01/8,Pasirjati,Ujungberung,0-2 Tahun,0,0,0,0,6,10,0,0,1,4
+AR-ROHMAH,KOBER,Kp. Paledang RT.02/06,Pasanggrahan,Ujungberung,0-2 Tahun,0,0,2,3,11,29,8,4,0,6
+KLAB ANAK MENTARI,KOBER,Jl. AH. Nasution Gg. Andir Wetan No. 83B RT.02/1,Pasanggrahan,Ujungberung,0-2 Tahun,0,0,8,8,11,13,0,0,0,4
+AISYIYAH PASANGGRAHAN,KOBER,Jl. AH. Nasution Blk.45 RT.02/1,Pasanggrahan,Ujungberung,0-2 Tahun,0,0,2,8,18,25,0,0,0,6
+BAITURRAHMAN,KOBER,Jl. Sukup Lama  RT.5/1,Cigending,Ujungberung,0-2 Tahun,0,0,6,7,35,25,0,0,1,6
+FATHUL KHAIR,KOBER,Jl. Babakan Gaya Kaler No. 37 RT.2/1,Pasirjati,Ujungberung,0-2 Tahun,0,0,1,2,8,10,4,6,0,3
+BRILIAN,KOBER,Jl. Kosar 147 Cijambe RT.08/7,Pasir Endah,Ujungberung,0-2 Tahun,0,0,0,0,9,10,0,0,0,5
+MUTIARA,KOBER,Komp. Simpay Asih RT.05/5,Pasir Endah,Ujungberung,0-2 Tahun,0,0,4,6,5,5,0,0,0,3
+AL BAROKAH,KOBER,Jl. Cigending RT.03/9,Cigending,Ujungberung,0-2 Tahun,0,0,6,8,5,10,0,0,0,4
+NUR ALIF,KOBER,Komp. Bukit Indah Pasanggrahan RT.02/13,Pasanggrahan,Ujungberung,0-2 Tahun,0,0,13,8,11,8,0,0,0,4
+BINA INSAN CEMERLANG,KOBER,Jl. Ciporeat Mandala IV No. 42 RT.01/7,Pasanggrahan,Ujungberung,0-2 Tahun,0,0,14,16,4,9,0,0,0,6
+YASMI,KOBER,Jl. Nagrog I No. 54 RT.03/7,Pasirjati,Ujungberung,0-2 Tahun,0,0,9,6,0,0,0,0,0,5
+MAWAR MERAH,KOBER,Jl. Cagak Cinangka RT.03/5,Pasir Wangi,Ujungberung,0-2 Tahun,0,0,3,15,15,7,0,0,0,5
+CINTA IBU,KOBER,Jl. Ciseupan RT./,Pasirjati,Ujungberung,0-2 Tahun,0,0,3,4,6,7,0,0,1,3
+MELODY,KOBER,Jl. Nagrog RT.02/7,Pasirjati,Ujungberung,0-2 Tahun,0,0,0,0,10,18,2,1,0,2
+MIFTAHUL JANNAH,KOBER,Jl. Neglasari 2  RT.03/5,Pasanggrahan,Ujungberung,0-2 Tahun,0,0,0,0,15,11,2,2,1,4
+CERIA,KOBER,Jl. Cigending RT.05/3,Pasir Wangi,Ujungberung,0-2 Tahun,0,0,2,18,29,34,0,0,5,3
+SALSABILA,KOBER,Jl. Nagrog III Gg. Keramat RT.01/9,Pasirjati,Ujungberung,0-2 Tahun,0,0,3,1,14,5,0,0,1,4
+EDELWEIS,KOBER,Jl. Terusan Sukup Baru No. 31 RT.07/6,Pasir Endah,Ujungberung,0-2 Tahun,0,0,7,2,15,16,5,4,0,5
+AR-RAAFI,KOBER,Jl. Nagrog Kp. Telokdengklok No. C 87 RT.03/12,Pasanggrahan,Ujungberung,0-2 Tahun,0,0,9,12,18,11,0,0,0,4
+AR-RIDHO,KOBER,Komp. Ujung Berung Indah Blok K I RT.08/11,Cigending,Ujungberung,0-2 Tahun,0,0,0,0,16,21,0,0,1,5
+ANAK CERDAS,KOBER,Jl. Ciporeat RT.2/8,Pasanggrahan,Ujungberung,0-2 Tahun,0,0,8,8,5,0,0,0,0,4
+NUR FADILLAH,KOBER,Jl. Tanjakan Panjang No. 11 RT.1/9,Pasir Wangi,Ujungberung,0-2 Tahun,0,0,10,12,5,11,8,9,0,7
+MELATI CERIA,POS PAUD,Jl. Kakap No. 18 RT.02/3,Ciroyom,Andir,0-2 Tahun,0,0,0,2,12,11,0,0,0,4
+CENDRAWASIH RW 04,POS PAUD,Jl. Maleber Inpress Raya RT.03/4,Maleber,Andir,0-2 Tahun,0,0,15,7,4,10,0,0,0,6
+CEMPAKA,POS PAUD,Jl. Ciroyom Gang III  RT.03/8,Ciroyom,Andir,0-2 Tahun,0,0,10,5,6,6,0,0,0,7
+CERIA,POS PAUD,Jl. Flamingo No.21 RT.04/3,Garuda,Andir,0-2 Tahun,0,0,12,24,5,3,0,0,0,10
+DADALI,POS PAUD,Jl. Dadali III RT.02/5,Garuda,Andir,0-2 Tahun,0,0,6,14,10,14,0,0,0,5
+DAHLIA,POS PAUD,Jl. Rajawali Timur RT.1/7,Ciroyom,Andir,0-2 Tahun,0,0,1,2,26,26,2,2,0,0
+ELITAMA,POS PAUD,Jl. Jend. Sudirman Blk. 684 RT.01/1,Garuda,Andir,0-2 Tahun,0,1,11,13,5,7,0,0,1,3
+KENANGA,POS PAUD,Jl. Maleber Utara RT.04/8,Maleber,Andir,0-2 Tahun,0,0,10,12,27,23,0,0,0,5
+MAWAR MEKAR,POS PAUD,Jl. Bojong Koneng RT.03/6,Campaka,Andir,0-2 Tahun,0,0,7,10,11,8,0,0,1,5
+SARTIKA,POS PAUD,Jl. Paledang No. 390 RT.06/2,Campaka,Andir,0-2 Tahun,0,0,18,12,22,20,0,0,0,5
+SEJAHTERA,POS PAUD,Jl. Andir Swadaya No. 9  RT.09/10,Ciroyom,Andir,0-2 Tahun,0,0,5,10,34,40,0,0,1,10
+TULIP,POS PAUD,Jl. Rajawali Timur Gg. Taruna V RT.05/4,Ciroyom,Andir,0-2 Tahun,0,0,8,19,11,8,0,0,0,4
+FLAMBOYAN 2,POS PAUD,Jl. Bangkalan No. 2 RT.02/8,Antapani Kidul,Antapani,0-2 Tahun,0,1,0,14,2,4,0,0,0,5
+SIMPAY SARI,POS PAUD,Jl. Parakansaat RT.3/23,Antapani Tengah,Antapani,0-2 Tahun,0,0,22,32,3,3,0,0,0,4
+MAWAR MEKAR,POS PAUD,Jl. Karang Asem No. 10A RT.06/9,Antapani Kidul,Antapani,0-2 Tahun,1,2,10,17,1,0,0,0,0,4
+AZZAHRA,POS PAUD,Jl. Plered No. 15 RT.01/11,Antapani Tengah,Antapani,0-2 Tahun,1,3,2,6,12,16,0,0,0,5
+EDELWEIS RW.14,POS PAUD,Jl. Jatiwangi Raya No. 17 RT.01/14,Antapani Tengah,Antapani,0-2 Tahun,0,0,3,6,2,3,1,3,0,6
+AR-RAHMAN,POS PAUD,Jl. Randusari VII RT.2/17,Antapani Kidul,Antapani,0-2 Tahun,0,0,0,0,0,0,0,0,0,4
+ARUMSARI RW.05,POS PAUD,Jl. Antapani 9 RT.04/5,Antapani Kidul,Antapani,0-2 Tahun,0,0,0,0,29,29,0,0,0,13
+FLAMBOYAN,POS PAUD,Jl. Subang 2 RT.01/3,Antapani Tengah,Antapani,0-2 Tahun,0,0,0,0,21,21,0,0,0,14
+HARAPAN BUNDA RW.17,POS PAUD,Jl. Kawali 6 RT.05/17,Antapani Tengah,Antapani,0-2 Tahun,0,0,0,0,38,40,0,0,0,7
+INTAN SARI,POS PAUD,Jl. Sindang Sari III RT.06/9,Antapani Wetan,Antapani,0-2 Tahun,7,6,15,16,17,18,0,0,0,10
+MAWAR SARI,POS PAUD,Jl. A. Yani Gg. Sukanegla RT.05/1,Antapani Kulon,Antapani,0-2 Tahun,1,0,8,9,19,23,0,0,0,8
+PELANGI,POS PAUD,Jl. Malangbong VI No. 46 RT.06/3,Antapani Wetan,Antapani,0-2 Tahun,0,0,16,11,0,0,0,0,0,6
+PELANGI IBU,POS PAUD,Jl. Kadipaten 5 No. 1 RT.04/3,Antapani Kidul,Antapani,0-2 Tahun,0,0,8,14,5,3,0,0,0,5
+TERATAI RW 06,POS PAUD,Jl. Rengasdengklok 2 - 3 RT.04/6,Antapani Kidul,Antapani,0-2 Tahun,10,11,18,17,16,10,0,0,0,7
+TULIP RW 01,POS PAUD,Jl. Cicalengka 3 No. 32 RT.01/1,Antapani Kidul,Antapani,0-2 Tahun,1,2,7,14,5,1,0,0,0,6
+IRMASARI,POS PAUD,Jl. Jayapura No. 1 RT.5/10,Antapani Kidul,Antapani,0-2 Tahun,1,2,5,16,8,8,0,0,0,7
+TUNAS MANDIRI,POS PAUD,Jl. Sariwates Raya No. 34 RT.3/14,Antapani Kidul,Antapani,0-2 Tahun,0,0,6,6,7,7,5,7,0,4
+ANGGREK,POS PAUD,Jl. Parakansaat RT.5/11,Cisaranten Endah,Arcamanik,0-2 Tahun,0,0,5,5,13,8,0,0,1,6
+BOUGENVILLE,POS PAUD,Jl. Sarimas Raya No. I RT.02/2,Sukamiskin,Arcamanik,0-2 Tahun,0,0,2,3,8,11,0,0,0,7
+JAMBU,POS PAUD,Jl. Ters. Pesantren RT.05/11,Sukamiskin,Arcamanik,0-2 Tahun,0,0,0,0,13,22,0,0,0,3
+MEKARJAYA,POS PAUD,Jl. Mekarjaya RT.5/5,Sukamiskin,Arcamanik,0-2 Tahun,0,0,2,6,8,9,5,4,0,3
+NURI,POS PAUD,Jl. Arcamanik RT.04/3,Sukamiskin,Arcamanik,0-2 Tahun,0,0,2,1,14,13,0,0,1,5
+SEDAP MALAM,POS PAUD,Jl. A. H. Nasution Gg. Pawenang I RT.02/5,Cisaranten Bina Harapan,Arcamanik,0-2 Tahun,0,0,0,0,35,40,0,0,0,6
+ANGGREK,POS PAUD,Jl. Pelindung Hewan No. 46 RT.02/9,Pelindung Hewan,Astanaanyar,0-2 Tahun,0,0,0,0,30,24,0,0,2,7
+ASH-SHOBAR,POS PAUD,Jl. Kopo Cirangrang Gg. Mesjid Ash-Shobar RT.5/4,Margasuka,Babakan Ciparay,0-2 Tahun,0,0,0,0,5,6,5,3,0,4
+FLAMBOYAN III,POS PAUD,Jl. Moh. Toha Gg. Murdasan No. 23 RT.03/03,Wates,Bandung Kidul,0-2 Tahun,0,0,5,4,6,2,1,1,0,4
+CEMPAKA IX,POS PAUD,Jl. Sekelimus Selatan Gg. Anyelir RT.04/9,Batununggal,Bandung Kidul,0-2 Tahun,0,0,3,6,7,7,0,0,0,4
+NURUL INAYAH,POS PAUD,Jl. H. Bardan III No. 309B RT./,Kujangsari,Bandung Kidul,0-2 Tahun,0,0,6,6,10,11,14,9,0,7
+BANI SALEH,POS PAUD,Jl. Sukamanah RT.01/2,Mengger,Bandung Kidul,0-2 Tahun,0,0,0,0,20,20,12,10,0,4
+MELATI BUNDA,POS PAUD,Jl. Arhanudri Dalam RT.05/10,Batununggal,Bandung Kidul,0-2 Tahun,0,0,9,8,17,6,0,0,0,5
+AR-RACHMAT,POS PAUD,Jl. Gotong Royong RT.03/6,Kujangsari,Bandung Kidul,0-2 Tahun,0,0,3,6,19,24,0,0,0,6
+CEMPAKA 08,POS PAUD,Jl. Sekelimus Utara Gg. Cengkir RT.04/8,Batununggal,Bandung Kidul,0-2 Tahun,0,0,1,5,11,19,0,2,0,7
+CEMPAKA V,POS PAUD,Jl. Sekelimus Barat RT.02/5,Batununggal,Bandung Kidul,0-2 Tahun,0,0,0,0,4,12,6,16,0,6
+AL-IKHLAS,POS PAUD,Jl. Ciparay Gg. Pasantren I RT.04/3,Kujangsari,Bandung Kidul,0-2 Tahun,0,0,0,0,14,13,9,8,0,3
+MELATI I,POS PAUD,Jl. Terusan Buahbatu No. 115 RT.02/1,Kujangsari,Bandung Kidul,0-2 Tahun,0,0,0,3,1,14,0,0,0,3
+PUSPA INDAH,POS PAUD,Jl. Terusan Batununggal I No.28 RT.05/4,Mengger,Bandung Kidul,0-2 Tahun,0,0,1,10,16,14,0,0,1,9
+CITRA KARTINI,POS PAUD,Jl. Cibuntu Timur RT.01/5,Warung muncang,Bandung Kulon,0-2 Tahun,0,0,4,7,7,8,0,0,0,2
+GEMILANG,POS PAUD,Jl. Perum Cijerah Blok 22 Gg. Sayuran 2 RT.2/2,Gempol Sari,Bandung Kulon,0-2 Tahun,0,0,0,2,10,15,5,3,0,5
+AL MUHABBAH,POS PAUD,Jl. Cigondewah RT.01/9,Cigondewah Kaler,Bandung Kulon,0-2 Tahun,0,0,13,9,33,65,0,0,0,9
+ANAK CERDIK YPIRA,POS PAUD,Jl. Cijerah Gg. Pelita Blk. No.7 RT.06/2,Cijerah,Bandung Kulon,0-2 Tahun,0,0,0,0,11,33,0,0,0,6
+ASTER,POS PAUD,Jl. Terusan Haji Alpi No. 43 RT.09/4,Cibuntu,Bandung Kulon,0-2 Tahun,0,0,0,0,5,9,10,6,0,4
+BINA PRESTASI,POS PAUD,Jl. Cibuntu Tengah  RT.10/6,Warung Muncang,Bandung Kulon,0-2 Tahun,0,0,0,0,37,30,0,0,0,5
+CITRA WAHYU,POS PAUD,Komp. Taman Holis Indah C-5 No. 77 RT.04/1,Cigondewah Rahayu,Bandung Kulon,0-2 Tahun,0,0,18,19,24,21,0,0,0,7
+SIWI ASRI,POS PAUD,Jl. Margaasri III Komplek Bumi Asri RT.1/8,Gempol Sari,Bandung Kulon,0-2 Tahun,0,0,9,3,1,2,0,0,0,5
+AL-LATHIIF,POS PAUD,Jl. Saninten No. 1 RT.01/5,Cihapit,Bandung Wetan,0-2 Tahun,0,0,1,8,0,0,0,0,0,3
+ANGGREK,POS PAUD,Jl. Tamansari Bawah No.7A RT.01/20,Taman Sari,Bandung Wetan,0-2 Tahun,0,0,11,3,10,13,0,0,0,6
+KARANGSARI,POS PAUD,Jl. Tamansari Gg. Unen Soemantri  RT.06/13,Taman Sari,Bandung Wetan,0-2 Tahun,0,0,5,10,9,6,0,0,0,6
+TRESNASARI,POS PAUD,Jl. Kebon Kembang Gg. Pancasila RT.07/12,Taman Sari,Bandung Wetan,0-2 Tahun,13,13,12,16,15,5,8,8,0,9
+ANGGREK,POS PAUD,Jl. Kebon Gedang III RT.04/7,Maleer,Batununggal,0-2 Tahun,0,0,17,22,15,13,0,0,0,5
+ANYELIR,POS PAUD,Jl. Kebon Gedang Raya RT.03/8,Maleer,Batununggal,0-2 Tahun,0,0,6,3,8,7,18,28,0,6
+CEMPAKA RW. 03,POS PAUD,Jl. Binong Jati  RT.01/3,Binong,Batununggal,0-2 Tahun,0,0,0,0,58,80,0,0,0,8
+MAWAR RW.06,POS PAUD,Jl. Gumuruh RT.05/06 RT.05/6,Gumuruh,Batununggal,0-2 Tahun,0,0,8,19,7,12,0,0,0,5
+MITRA RW.05,POS PAUD,Jl. Cibangkong RT.02/5,Cibangkong,Batununggal,0-2 Tahun,0,0,1,2,12,6,0,0,1,4
+MUTIARA BUNDA,POS PAUD,Jl. Sukabumi Dalam 34 RT.05/6,Kacapiring,Batununggal,0-2 Tahun,0,0,0,0,19,23,0,0,0,6
+NUSA INDAH,POS PAUD,Jl. Jembatan Opat RT.01/6,Maleer,Batununggal,0-2 Tahun,0,0,0,0,19,31,0,0,0,3
+KENANGA,POS PAUD,Jl. Cetarip Tengah VII 6 RT.2/9,Kopo,Bojongloa Kaler,0-2 Tahun,0,0,9,15,12,9,0,0,0,6
+MELATI,POS PAUD,Jl. Siti Mariah RT.09/2,Jamika,Bojongloa Kaler,0-2 Tahun,0,0,8,8,10,27,0,0,0,6
+SEROJA,POS PAUD,Jl. Babakan Ciparay Gg. Pa Abid RT.04/1,Kopo,Bojongloa Kaler,0-2 Tahun,0,0,4,2,10,14,13,20,1,8
+SRI ASIH BINA INSANI RW. 07,POS PAUD,Jl. Cetarip Barat No. 40 RT.07/7,Kopo,Bojongloa Kaler,0-2 Tahun,0,0,18,16,17,18,0,0,0,6
+BAITUL MUTTAQIEN,POS PAUD,Komp. Muara Bandung RT.4/1,Kebon Lega,Bojongloa Kidul,0-2 Tahun,0,0,8,10,11,12,1,1,1,4
+BUNGA TERATAI,POS PAUD,Jl. Inhoftank No. 42C - 201A No. 83 RT.02/3,Kebon Lega,Bojongloa Kidul,0-2 Tahun,0,0,0,0,14,18,0,0,0,6
+BINTANG HARAPAN,POS PAUD,Jl. Margacinta Dalam RT.05/4,Cijaura,Buahbatu,0-2 Tahun,0,0,4,7,10,7,0,0,1,5
+NURUL AMANAH,POS PAUD,Jl. Ciwastra Kantor RW. 16 RT.3/16,Margasari,Buahbatu,0-2 Tahun,0,0,6,6,8,7,5,8,0,6
+PANDANWANGI,POS PAUD,Jl. Komp. Pandanwangi Kencana Wangi  RT.02/9,Cijaura,Buahbatu,0-2 Tahun,0,9,17,15,0,0,0,0,0,12
+REMBULAN 14,POS PAUD,Jl. Bojong Mekar RT.06/14,Cigadung,Cibeunying Kaler,0-2 Tahun,0,0,3,4,11,9,0,0,0,6
+SUKALUYU,POS PAUD,Jl. Rereng Wulung RT.01/11,Sukaluyu,Cibeunying Kaler,0-2 Tahun,0,0,10,10,0,0,0,0,0,0
+CIHAURGEULIS,POS PAUD,Jl. Sukaluyu I No. 21 RT.04/6,Cihaurgeulis,Cibeunying Kaler,0-2 Tahun,0,0,26,31,20,22,0,0,0,8
+AL-HIKMAH,POS PAUD,Jl. Bojong Koneng Gg. Rukun No.3 RT.02/13,Sukapada,Cibeunying Kidul,0-2 Tahun,0,0,0,0,17,17,0,0,0,5
+CEMPAKA,POS PAUD,Jl. Babakan Baru RT.06/8,Sukapada,Cibeunying Kidul,0-2 Tahun,0,0,0,0,7,9,13,8,0,3
+SAUYUNAN,POS PAUD,Jl. Sekepondok RT.07/3,Padasuka,Cibeunying Kidul,0-2 Tahun,0,0,3,9,5,13,0,0,1,5
+SETIA MANDIRI,POS PAUD,Jl. Babakan Andir No.72 RT.07/2,Padasuka,Cibeunying Kidul,0-2 Tahun,0,0,4,1,9,2,0,0,0,4
+ARUM SARI,POS PAUD,Jl. Cilengkrang I RT.6/6,Cisurupan,Cibiru,0-2 Tahun,0,0,3,10,11,7,0,0,0,4
+TERATAI RW.10,POS PAUD,Komp. Vijayakusuma RT.08/10,Palasari,Cibiru,0-2 Tahun,0,0,6,6,5,5,5,5,0,6
+QUWWATUL'AZMI,POS PAUD,Jl. Desa Cipadung No. 88 RT.03/4,Cipadung,Cibiru,0-2 Tahun,0,0,10,2,2,7,0,0,0,4
+CEMPAKA,POS PAUD,Jl. Manisi No. 28 RT.02/9,Cipadung,Cibiru,0-2 Tahun,0,0,0,0,7,12,7,8,0,6
+DAHLIA,POS PAUD,Komp. Komp. Tirtawening No. 13 RT.01/2,Cisurupan,Cibiru,0-2 Tahun,0,0,10,17,16,7,0,0,0,3
+FLAMBOYAN,POS PAUD,Jl. Sukasari No. 28 RT.02/10,Pasir Biru,Cibiru,0-2 Tahun,0,0,10,17,10,12,0,0,0,5
+MATAHARI,POS PAUD,Jl. Manisi Atas Jati Kaler RT.03/7,Pasir Biru,Cibiru,0-2 Tahun,0,0,5,7,18,15,0,0,0,9
+MELATI,POS PAUD,Jl. Manglayang Baru II No. 282 RT.06/3,Palasari,Cibiru,0-2 Tahun,0,0,0,0,34,26,0,0,0,9
+SARI BIRU,POS PAUD,Komp. Komplek Yayasan Kebun Binatang RT.05/8,Pasir Biru,Cibiru,0-2 Tahun,0,0,1,0,10,9,6,1,0,8
+BKB KEMAS DEWI SARTIKA,POS PAUD,Jl. Muhamad RT.4/6,Pamoyanan,Cicendo,0-2 Tahun,2,2,9,2,6,5,1,0,0,5
+BUROQ,POS PAUD,Jl. Komud. Supadio Cicukang II RT.07/7,Husein Sastranegara,Cicendo,0-2 Tahun,0,0,9,8,7,11,0,0,0,5
+PAJAR CERIA,POS PAUD,Jl. Pajajaran 102B RT.03/7,Pajajaran,Cicendo,0-2 Tahun,0,0,8,2,13,8,5,4,0,4
+MUTIARA INSANI,POS PAUD,Jl. Citepus III No. 1 RT.3/10,Pajajaran,Cicendo,0-2 Tahun,0,0,4,8,6,6,0,0,0,4
+BINA MANDIRI,POS PAUD,Jl. Budhi No. 70 RT.05/3,Sukaraja,Cicendo,0-2 Tahun,0,0,3,7,4,6,0,0,0,7
+KARTINI,POS PAUD,Jl. Balai RW 01 Sukawarna II RT.02/1,Pajajaran,Cicendo,0-2 Tahun,0,0,16,5,12,9,0,0,0,6
+KUNCUP HARAPAN,POS PAUD,Jl. Cipedes II RT.02/4,Pajajaran,Cicendo,0-2 Tahun,0,0,0,0,10,16,0,0,0,3
+DARUSSHOLIHIN,POS PAUD,Jl. Rancabentang Dalam RT.03/6,Ciumbuleuit,Cidadap,0-2 Tahun,0,0,0,0,0,0,0,0,0,0
+KENCANA,POS PAUD,Jl. Rancabentang  RT.01/6,Ciumbuleuit,Cidadap,0-2 Tahun,20,12,29,46,26,17,0,0,0,5
+AL-HADIYYAH,POS PAUD,Jl. Bukit Jarian  RT./,Hegarmanah,Cidadap,0-2 Tahun,0,0,0,0,23,18,0,0,2,6
+RUMAH PELANGI,POS PAUD,Jl. Bebedahan RT.02/2,Babakan Penghulu,Cinambo,0-2 Tahun,0,0,6,2,5,8,4,6,0,3
+DAHLIA,POS PAUD,Jl. Rumah Sakit No. 71 RT.3/6,Sukamulya,Cinambo,0-2 Tahun,0,0,11,16,7,7,0,0,0,6
+AMANAH,POS PAUD,Jl. Andir Kidul No. 26 RT.03/3,Pakemitan,Cinambo,0-2 Tahun,0,0,1,3,7,4,0,0,0,4
+PLAMBOYAN,POS PAUD,Jl. Cinambo Indah RT.03/5,Pakemitan,Cinambo,0-2 Tahun,0,0,7,10,5,8,0,0,0,5
+TAMAN ANANDA,POS PAUD,Jl. Cisaranten Wetan No. 143 RT.01/5,Cisaranten Wetan,Cinambo,0-2 Tahun,0,0,3,11,9,9,0,0,0,6
+TERATAI RW 04,POS PAUD,Jl. Cihampelas RT.06/4,Cipaganti,Coblong,0-2 Tahun,8,5,20,14,0,0,0,0,0,6
+BINTANG MADANI,POS PAUD,Jl. Cibeunying I RT.03/14,Sadang Serang,Coblong,0-2 Tahun,1,1,11,9,8,15,0,0,0,5
+KENANGA,POS PAUD,Jl. Dago Pojok No. 23 RT.02/3,Dago,Coblong,0-2 Tahun,1,1,3,10,7,8,1,1,0,3
+KASIH IBU,POS PAUD,Kp. Pasir Kaliki Barat RT.04/15,Sadang Serang,Coblong,0-2 Tahun,0,0,8,9,8,5,4,6,1,4
+SEJAHTERA,POS PAUD,Jl. Sekeloa Tengah RT.4/4,Sekeloa,Coblong,0-2 Tahun,0,0,0,0,37,0,0,0,0,3
+TERATAI RW04,POS PAUD,Jl. Cihampelas  RT.6/4,Cipaganti,Coblong,0-2 Tahun,0,1,7,4,8,9,1,0,0,7
+MAWAR,POS PAUD,Jl. Gagak Barat Karang Asih RT.3/13,Sadang Serang,Coblong,0-2 Tahun,0,0,6,6,8,7,0,0,0,3
+NUSA INDAH,POS PAUD,Jl. Dago Elos I RT.01/2,Dago,Coblong,0-2 Tahun,1,0,14,0,5,0,0,0,1,3
+PELANGI TAMAN PELESIRAN,POS PAUD,Jl. Pelesiran No. 163A/35B RT.06/6,Cipaganti,Coblong,0-2 Tahun,0,0,0,0,0,0,0,0,0,4
+TAMAN POSYANDU NIRWANA,POS PAUD,Jl. Ir. H. Juanda Gg. Dago Jati III No.5/162A RT.3/6,Dago,Coblong,0-2 Tahun,5,3,5,10,8,4,0,0,0,5
+TUNAS DAHLIA CIHAMPELAS,POS PAUD,Jl. Cihampelas Belakang 276 Gg. Abah Jaya RT.01/2,Cipaganti,Coblong,0-2 Tahun,0,0,8,8,6,4,0,0,0,4
+TUNAS MANDIRI CIHAMPELAS,POS PAUD,Jl. Cihampelas No. 61/35B RT.02/5,Cipaganti,Coblong,0-2 Tahun,0,0,7,13,2,6,0,0,0,5
+NUSA INDAH,POS PAUD,Jl. Ranca Pacing RT.2/4,Cisaranten Kidul,Gedebage,0-2 Tahun,0,0,0,0,5,5,7,13,0,4
+LABIB,POS PAUD,Komp. Griya Cempaka Arum Blok M Culdesak RT.01/6,Rancanumpang,Gedebage,0-2 Tahun,4,5,10,11,4,4,0,0,0,6
+NURVITA,POS PAUD,Jl. Hj. Munajat RT.01/1,Rancanumpang,Gedebage,0-2 Tahun,0,0,9,7,10,9,0,0,0,4
+PELITA HATI RW. 09,POS PAUD,Jl. Riung Lestari No. 1 RT.04/9,Cisaranten Kidul,Gedebage,0-2 Tahun,0,0,0,0,0,0,0,0,0,3
+DAHLIA,POS PAUD,Jl. Warung Jambu RT.2/2,Kebon Kangkung,Kiaracondong,0-2 Tahun,0,0,2,4,16,23,0,0,0,6
+TERATAI TUNAS BANGSA,POS PAUD,Jl. PSM KPAD Pindad Utara RT.4/10,Kebon Jayanti,Kiaracondong,0-2 Tahun,0,0,12,10,7,7,0,0,0,5
+MELATI,POS PAUD,Jl. Babakan Sari 3 RT.01/09,Babakan Sari,Kiaracondong,0-2 Tahun,0,0,19,30,0,6,0,0,0,8
+AR-RODHIAH,POS PAUD,Jl. Kampus VII No. 19 RT.07/08,Babakan Sari,Kiaracondong,0-2 Tahun,0,0,10,5,5,5,0,0,0,4
+KARTINI,POS PAUD,Jl. Jenderal Ahmad Yani Gg. Sukaresmi RT.06/05,Cicaheum,Kiaracondong,0-2 Tahun,0,0,9,13,10,14,0,0,0,6
+ATLAS FLAMBOYAN,POS PAUD,Jl. Atlas VII Barat No. 4 RT.04/13,Babakan Surabaya,Kiaracondong,0-2 Tahun,0,0,10,10,9,8,0,0,1,4
+LOKATMALA,POS PAUD,Jl. Embah Malim No. 04 RT.02/4,Babakan Sari,Kiaracondong,0-2 Tahun,0,0,7,1,7,6,0,0,0,5
+MEKAR SARI,POS PAUD,Jl. Mekar Sari No. 46 RT.05/13,Babakan Sari,Kiaracondong,0-2 Tahun,0,0,0,0,5,5,10,6,0,3
+TUNAS JAYANTI,POS PAUD,Jl. Kebon Jayanti RT.01/2,Kebon Jayanti,Kiaracondong,0-2 Tahun,0,0,0,0,11,14,10,14,0,3
+ANGGREK,POS PAUD,Jl. Babakan Sari 2 RT.09/07,Babakan Sari,Kiaracondong,0-2 Tahun,0,0,3,5,7,7,0,0,0,6
+ASTER,POS PAUD,Jl. Sukapura No.1 RT.03/2,Sukapura,Kiaracondong,0-2 Tahun,0,0,11,18,28,25,0,0,0,9
+BKB KEMAS BINANGKIT RW.02,POS PAUD,Jl. Jend. A. Yani Gg. Rd. Jibja No.182 RT.07/2,Cicaheum,Kiaracondong,0-2 Tahun,0,0,3,5,21,29,0,0,1,11
+BOUGENVIL,POS PAUD,Jl. Sukapura No.6 RT.01/5,Sukapura,Kiaracondong,0-2 Tahun,0,0,5,7,28,29,0,0,0,6
+PERTIWI RW.12 SUKAKARYA,POS PAUD,Jl. Sukakarya RT.02/12,Cicaheum,Kiaracondong,0-2 Tahun,0,0,13,13,26,26,0,0,1,5
+RENGGANIS,POS PAUD,Jl. Gatot Subroto Karees Kulon RT.5/5,Malabar,Lengkong,0-2 Tahun,1,0,8,10,2,1,0,0,0,4
+NURUL HIKMAH,POS PAUD,Jl. Suryalaya III No.27A RT.06/4,Cijagra,Lengkong,0-2 Tahun,0,0,3,7,43,36,0,0,0,9
+TUNAS HARAPAN,POS PAUD,Jl. Karapitan Gg. Uni No. 01 RT.02/1,Burangrang,Lengkong,0-2 Tahun,0,0,3,8,7,2,0,0,0,5
+CEMPAKA,POS PAUD,Jl. Karees Kulon RT.09/06,Malabar,Lengkong,0-2 Tahun,0,0,10,4,5,11,0,0,1,2
+KASIH IBU,POS PAUD,Jl. Situ Bagendit No.8 RT.03/3,Cijagra,Lengkong,0-2 Tahun,0,0,13,16,1,0,0,0,0,3
+PELANGI,POS PAUD,Jl. Lengkong Tengah RT.02/5,Cikawao,Lengkong,0-2 Tahun,0,0,13,11,24,20,0,0,0,5
+PERMATA BUNDA,POS PAUD,Jl. Berlian Komp. Sesko TNI RT.9/6,Cijagra,Lengkong,0-2 Tahun,0,0,0,4,5,8,0,0,0,6
+FLAMBOYAN,POS PAUD,Jl. Batubara Raya Komp. PT. KAI RT.01/11,Turangga,Lengkong,0-2 Tahun,0,0,7,16,8,3,0,0,0,7
+MAWAR MERAH ,POS PAUD,Komp. Giri Mande No. 1 RT.01/5,Karang Pamulang,Mandalajati,0-2 Tahun,0,3,9,10,2,1,0,0,0,6
+MAWAR PUTIH,POS PAUD,Komp. Giri Mande RT.08/4,Karang Pamulang,Mandalajati,0-2 Tahun,0,0,0,0,0,0,0,0,0,6
+ASTER,POS PAUD,Jl. Jati Indah No.99 RT.04/16,Jatihandap,Mandalajati,0-2 Tahun,1,3,8,3,10,11,0,0,0,8
+AT-THOLIBIIN,POS PAUD,Jl. Jatihandap No. 133 RT.03/10,Jatihandap,Mandalajati,0-2 Tahun,0,0,0,2,18,11,1,0,1,5
+BAROKATUL ULLUM,POS PAUD,Jl. Jatihandap  RT.06/7,Jatihandap,Mandalajati,0-2 Tahun,0,0,1,5,8,4,9,8,0,4
+HIKMATUL INSAN,POS PAUD,Jl. H. Saodah RT.02/8,Jatihandap,Mandalajati,0-2 Tahun,0,0,6,9,7,6,0,0,0,6
+ISTIQOMAH,POS PAUD,Jl. Sinom RT.04/13,Jatihandap,Mandalajati,0-2 Tahun,0,0,0,0,24,21,0,0,1,8
+KENANGA,POS PAUD,Jl. Jatihandap Kp. Sasak Batu RT.04/12,Jatihandap,Mandalajati,0-2 Tahun,3,2,3,12,0,0,0,0,0,3
+NURI,POS PAUD,Jl. Arcamanik Pasenpar No. 85 RT.04/3,Sindang Jaya,Mandalajati,0-2 Tahun,0,0,4,3,14,12,0,0,1,6
+NUSA INDAH,POS PAUD,Jl. Arcamanik RT.03/10,Pasir Impun,Mandalajati,0-2 Tahun,0,0,2,0,9,17,0,0,0,5
+PERMATA HATI,POS PAUD,Jl. H. Idris No. 19 Jatihandap RT.02/7,Jatihandap,Mandalajati,0-2 Tahun,0,0,0,0,16,14,0,0,0,11
+ROS,POS PAUD,Jl. Pasir Impun No.94 RT.04/10,Karang Pamulang,Mandalajati,0-2 Tahun,0,0,14,11,5,10,0,0,0,4
+SEDAP MALAM,POS PAUD,Jl. H. Umar No. 231 RT.06/5,Pasir Impun,Mandalajati,0-2 Tahun,1,2,9,9,3,9,0,0,0,11
+AL-HUDA,POS PAUD,Jl. Jatihandap RT.09/6,Jatihandap,Mandalajati,0-2 Tahun,3,2,8,8,1,3,0,0,0,5
+CEMARA,POS PAUD,Jl. Kancahnangkub RT.01/13,Jatihandap,Mandalajati,0-2 Tahun,0,0,12,1,11,8,0,0,0,7
+MAWAR,POS PAUD,Jl. Mekar Mulya No. 26 RT.1/5,Mekar Mulya,Panyileukan,0-2 Tahun,0,0,24,20,25,28,4,0,0,5
+CERIA,POS PAUD,Jl. Sindangsari No. 24 RT.2/4,Cipadung Kulon,Panyileukan,0-2 Tahun,0,0,1,2,1,6,1,2,0,3
+CERIA,POS PAUD,Jl. Sindangsari RT.02/4,Cipadung Kulon,Panyileukan,0-2 Tahun,1,3,8,11,2,5,0,0,6,0
+ANGGREK,POS PAUD,Jl. Bumipatra Asri Blok L RT.1/2,Cipadung Wetan,Panyileukan,0-2 Tahun,0,0,1,1,7,11,9,9,0,6
+MEKAR INDAH 2,POS PAUD,Jl. Pamekar Raya No. 96 RT.01/4,Mekar Mulya,Panyileukan,0-2 Tahun,0,0,17,15,0,0,0,0,0,6
+CINTA BUNDA,POS PAUD,Jl. Sidang Sari IV RT.03/3,Cipadung Kulon,Panyileukan,0-2 Tahun,0,0,10,18,19,26,0,0,0,9
+AL-FATONAH,POS PAUD,Jl. Babakan Haji Imron RT.02/14,Cipadung Kidul,Panyileukan,0-2 Tahun,0,0,6,16,16,16,6,5,0,8
+MAWAR,POS PAUD,Jl. H. Idris Mekar Mulya 25 RT.09/6,Mekar Mulya,Panyileukan,0-2 Tahun,0,0,0,0,54,52,0,0,0,8
+STRAWBERRY,POS PAUD,Jl. Soekarno Hatta Pasar Induk Gedebage No. 819 RT.04/6,Mekar Mulya,Panyileukan,0-2 Tahun,0,0,0,2,11,9,2,6,0,3
+AL-IKHLASH,POS PAUD,Jl. Saturnus Ujung RT.05/13,Manjahlega,Rancasari,0-2 Tahun,0,0,2,5,19,13,7,4,0,4
+FLAMBOYAN,POS PAUD,Jl. Kebon Jeruk 1 RT.01/7,Derwati,Rancasari,0-2 Tahun,0,0,0,0,6,14,0,0,1,6
+MAWAR 04,POS PAUD,Jl. Puri Asih IV Santosa Asih RT.06/4,Cipamokolan,Rancasari,0-2 Tahun,0,0,25,30,10,9,0,0,0,9
+NURUL GHOFUR,POS PAUD,Jl. Empang RT.01/6,Mekar Jaya,Rancasari,0-2 Tahun,0,0,4,6,8,13,0,0,0,5
+MEKAR JAYA,POS PAUD,Jl. Manjahlega RT.01/12,Manjahlega,Rancasari,0-2 Tahun,0,0,12,14,10,11,0,0,0,4
+MAWAR,POS PAUD,Jl. Denki Selatan V No. 24  RT.05/2,Ciseureuh,Regol,0-2 Tahun,0,0,12,6,22,23,0,0,1,5
+DELIMA,POS PAUD,Jl. Pasirluyu Bandung RT.05/5,Pasirluyu,Regol,0-2 Tahun,4,4,16,23,7,7,0,0,1,12
+IZHAR,POS PAUD,Jl. Nursaid RT.3/6,Balong Gede,Regol,0-2 Tahun,0,1,6,7,3,3,0,0,0,5
+FLAMBOYAN,POS PAUD,Komp. PLN Ciateul RT.01/9,Ciateul,Regol,0-2 Tahun,0,0,5,4,9,5,1,1,0,4
+BUNGA KENANGA,POS PAUD,Jl. Srimahi Dalam II No. 23 RT.04/1,Ancol,Regol,0-2 Tahun,0,0,4,3,8,4,0,0,0,4
+ROSE,POS PAUD,Jl. Moch. Toha Gg. Empang Ciburuy RT.06/6,Ciseureuh,Regol,0-2 Tahun,0,0,7,1,8,7,0,1,0,6
+ANGGREK,POS PAUD,Gg. Ijan Balai Gotong RT.1/1,Pungkur,Regol,0-2 Tahun,0,0,0,0,18,19,19,13,0,7
+ZAINUL HAYAT,POS PAUD,Jl. Pungkur No. 133A RT.5/5,Balong Gede,Regol,0-2 Tahun,0,0,7,5,9,6,0,0,0,7
+BALE WINAYA,POS PAUD,Jl. Ciateul Tengah No. 29 RT.08/6,Pungkur,Regol,0-2 Tahun,0,0,0,7,0,18,0,25,0,9
+BOUGENVILLE,POS PAUD,Jl. Pasundan No. 51 RT.03/4,Balong Gede,Regol,0-2 Tahun,0,0,16,14,14,8,0,0,3,11
+IZHAR,POS PAUD,Jl. Nursaid RT.3/6,Balong Gede,Regol,0-2 Tahun,0,1,6,7,3,3,0,0,0,5
+MELATI,POS PAUD,Jl. Dr. Junjunan No.1 RT.01/12,Sukabungah,Sukajadi,0-2 Tahun,0,0,0,0,47,48,0,0,0,5
+SUKMAWATI,POS PAUD,Jl. Babakan Jeruk II No. 35 RT.3/6,Sukagalih,Sukajadi,0-2 Tahun,0,0,12,14,0,0,19,16,0,4
+TUNAS MANDIRA,POS PAUD,Jl. Sukagalih No.135 RT.02/1,Sukabungah,Sukajadi,0-2 Tahun,0,0,10,14,13,10,0,0,0,5
+MUTIARA HATI,POS PAUD,Jl. Bangun Resik III RT.3/7,Sukabungah,Sukajadi,0-2 Tahun,0,0,0,0,14,22,0,0,0,5
+BOUGENVILLE,POS PAUD,Jl. Sukajadi Gg. Eme Atas RT.07/4,Sukabungah,Sukajadi,0-2 Tahun,0,0,0,0,23,26,0,0,0,3
+CEKAS,POS PAUD,Jl. Sarimadu No. 25 RT.5/2,Sukawarna,Sukajadi,0-2 Tahun,0,0,8,14,15,28,15,10,0,6
+MELATI BANGSA RW 03,POS PAUD,Jl. Jurang Gg. Sukatma RT.03/3,Pasteur,Sukajadi,0-2 Tahun,0,0,9,13,13,5,0,0,0,4
+MELATI PUTIH,POS PAUD,Jl. Sarimanis IV Gedung Serbaguna RT.4/6,Sarijadi,Sukasari,0-2 Tahun,2,2,17,18,4,9,0,0,0,7
+MIANA V,POS PAUD,Jl. Terusan Pak Gatot Raya 813 RT.02/2,Gegerkalong,Sukasari,0-2 Tahun,0,0,12,15,16,24,0,0,0,8
+BANI SHALEH UPT PK PNFI VIII,POS PAUD,Jl. Ajudan Jendral No. 271  RT.04/7,Gegerkalong,Sukasari,0-2 Tahun,6,9,7,9,11,13,0,0,1,7
+CEMPAKA PAKUAN,POS PAUD,Jl. Kebon Sirih No. 1A RT.01/1,Babakan Ciamis,Sumur Bandung,0-2 Tahun,0,0,0,0,0,0,0,0,0,4
+KENANGA,POS PAUD,Jl. Ajitunggal RT.06/6,Pasir Endah,Ujungberung,0-2 Tahun,0,0,0,0,0,0,24,28,0,6
+MAWAR,POS PAUD,Jl. Cijambe Kulon  RT.04/1,Pasir Endah,Ujungberung,0-2 Tahun,0,0,0,0,60,40,0,0,0,7
+NUR FAUZAN,POS PAUD,Jl. Haruman IV RT.03/6,Cigending,Ujungberung,0-2 Tahun,0,0,4,9,41,52,0,0,0,11
+WALLAGRI ASIH,POS PAUD,Jl. Wallagri Mulya No. 1 RT.01/3,Pasanggrahan,Ujungberung,0-2 Tahun,0,0,3,7,3,7,0,0,0,4
+SINAR FAMILI 7,POS PAUD,Jl. Paratag Gg. Bukatanah II RT.02/7,Pasir Wangi,Ujungberung,0-2 Tahun,0,0,0,0,13,9,0,0,0,7
+ANGGREK 7,POS PAUD,Jl. Vijaya Kusuma I No. 100 RT.2/7,Pasir Endah,Ujungberung,0-2 Tahun,1,1,15,25,12,10,0,0,0,13
+LABIB,TAAM,Jl. Cihaurkuku No. 11 RT.1/1,Antapani Wetan,Antapani,0-2 Tahun,0,0,0,0,0,0,0,0,0,0
+AT-TAQWAA,TAAM,Jl. Bunisari No. 14-16 RT.04/7,Antapani Wetan,Antapani,0-2 Tahun,0,0,8,12,7,8,0,0,1,3
+FATHUL KHOIR,TAAM,Jl. Cihaurkuku No. 11b RT.01/1,Antapani Wetan,Antapani,0-2 Tahun,0,0,11,16,18,15,0,0,1,6
+BANI UMAR,TAAM,Jl. Caringin Gg. Ekawarga 03 RT.1/1,Babakan Ciparay,Babakan Ciparay,0-2 Tahun,0,0,0,0,22,12,14,12,2,2
+TUNAS PRESTASI ,TAAM,Jl. Soekarno Hatta Gg. Assalam No. 78 RT.07/5,Babakan Ciparay,Babakan Ciparay,0-2 Tahun,0,0,0,0,12,14,0,0,1,4
+ANAK CERDIK YPIRA (TAAM),TAAM,Jl. Cijerah Gg. Pelita Blk. No.7 RT.06/2,Cijerah,Bandung Kulon,0-2 Tahun,0,0,0,0,13,17,0,0,0,4
+AL-ARIEF,TAAM,Jl. Kebon Bibit Utara RT.4/5,Taman Sari,Bandung Wetan,0-2 Tahun,0,0,5,10,8,10,0,0,0,3
+HUSNUL KHOTIMAH,TAAM,Jl. Sagitarius No. 16 RT.06/9,Gumuruh,Batununggal,0-2 Tahun,0,0,9,6,9,14,0,0,0,4
+MELATI AISYIYAH,TAAM,Jl. Bbk. Tarogong Gg. Laksana I No. 22 RT.02/5,Babakan Tarogong,Bojongloa Kaler,0-2 Tahun,0,0,0,0,0,0,0,0,0,0
+HIDAYATUSSALIM,TAAM,Jl. Soekarno Hatta Gg. Panineungan III No. 227/196A RT.05/3,Kopo,Bojongloa Kaler,0-2 Tahun,0,0,12,8,8,3,0,0,2,4
+NURUL FALAH,TAAM,Jl. Bbk. Tarogong Gg. Laksana I No. 22 RT.02/5,Babakan Tarogong,Bojongloa Kaler,0-2 Tahun,0,0,0,0,11,9,0,0,0,4
+AL-IKHLAS,TAAM,Jl. Cipagalo Girang RT.02/7,Margasari,Buahbatu,0-2 Tahun,0,0,0,7,4,10,0,0,1,4
+AL-MU'MIN,TAAM,Jl. Margacinta No. 420 RT.02/3,Margasari,Buahbatu,0-2 Tahun,0,0,1,0,12,12,0,0,1,5
+AL-HIDAYAH (TAAM),TAAM,Jl. Pramuka XV RT.06/13,Cicadas,Cibeunying Kidul,0-2 Tahun,0,0,4,3,10,8,0,0,0,4
+RUSYDAH (TAAM),TAAM,Jl. Neglasari Utara RT.01/4,Sukapada,Cibeunying Kidul,0-2 Tahun,0,0,3,2,5,10,0,0,0,4
+AL-HIDAYAH (SPS),TAAM,Jl. Manisi VI Kebon Terong RT.4/3,Pasir Biru,Cibiru,0-2 Tahun,0,0,2,2,6,4,7,8,0,4
+AISYAH MIFTAHUL KHAER,TAAM,Jl. Bima No. 10 RT.04/4,Arjuna,Cicendo,0-2 Tahun,0,0,0,0,20,7,2,1,0,4
+AL-IKHLASH (TAAM),TAAM,Jl. Sekeloa Selatan II No. 19 RT.1/14,Lebak Gede,Coblong,0-2 Tahun,0,0,3,1,10,18,0,0,0,4
+DARUSSA'ADAH,TAAM,Jl. Cihaur 10 RT.02/8,Dago,Coblong,0-2 Tahun,0,0,3,4,4,3,0,0,0,3
+AL FALAH,TAAM,Jl. Dago Pojok No. 31/161C RT.04/5,Dago,Coblong,0-2 Tahun,0,0,2,4,0,0,0,0,0,0
+AMALIYAH (TAAM),TAAM,Jl. Tubagus Ismail III RT.03/8,Sekeloa,Coblong,0-2 Tahun,0,0,0,0,11,9,0,0,0,4
+AL-MUSLIM (TAAM),TAAM,Jl. Lengkong Tengah II No. 143/17d  RT.04/5,Cikawao,Lengkong,0-2 Tahun,3,2,8,14,9,13,0,0,1,5
+BAITUSSALAM (TAAM),TAAM,Jl. Cilentah Dalam III No.33 RT.06/8,Burangrang,Lengkong,0-2 Tahun,0,0,0,0,15,13,0,0,0,3
+BINTANG,TAAM,Jl. Sersan Sodik Gang Padatawakal No. 125/170B RT.01/3,Isola,Sukasari,0-2 Tahun,0,0,7,6,4,3,0,0,0,6
+HASAN HUSAIN,TAAM,Jl. Cipedes Atas No. 9 RT.3/4,Sukarasa,Sukasari,0-2 Tahun,0,0,9,5,7,9,0,0,1,2
+FAIDHATUL ILMI (TAAM),TAAM,Jl. Sarimanah II No. 03 Blok 09/15 RT./,Sarijadi,Sukasari,0-2 Tahun,0,0,10,15,4,6,0,0,0,5
+PRATISTHA,TPA,Jl. Ski Air No.20 RT.01/1,Cisaranten Endah,Arcamanik,0-2 Tahun,0,0,4,9,4,2,0,0,0,5
+CAHAYA BINTANG,TPA,Jl. Gempol Sari  RT.02/1,Gempol Sari,Bandung Kulon,0-2 Tahun,0,0,0,0,0,0,0,0,0,8
+SMART STEPS,TPA,Jl. Sulanjana 11A RT.01/3,Taman Sari,Bandung Wetan,0-2 Tahun,0,22,0,49,0,18,0,8,7,33
+AL-HUSNA,TPA,Jl. Cijawura Girang V RT.1/13,Sekejati,Buahbatu,0-2 Tahun,6,5,0,0,0,0,0,0,0,3
+AYAHBUNDAKU,TPA,Jl. Sukanegla (Ters. Citra Green Garden) No.19 RT.3/5,Neglasari,Cibeunying Kaler,0-2 Tahun,4,5,4,3,0,0,0,0,0,5
+AVICENNA,TPA,Jl. Cikutra Baru 3 No.19 RT.02/7,Neglasari,Cibeunying Kaler,0-2 Tahun,0,0,0,0,0,0,0,0,0,4
+PUTRA CERDAS,TPA,Jl. Cilengkrang II Kebon Kalapa RT.04/14,Cipadung,Cibiru,0-2 Tahun,0,0,13,10,8,6,0,0,0,5
+BINTANG PURI WIDYA,TPA,Jl. Bangbayang No.11 RT.1/7,Dago,Coblong,0-2 Tahun,0,0,4,9,9,4,1,0,2,4
+BUNDA GANESA,TPA,Jl. Gelap Nyawang No.2 RT.04/4,Lebak Siliwangi,Coblong,0-2 Tahun,10,3,11,10,10,10,0,0,0,9
+DUTA FIRDAUS,TPA,Jl. Kanayakan Dalam No. 6 RT.05/8,Dago,Coblong,0-2 Tahun,3,2,2,8,7,2,0,0,0,7
+SALMAN AL-FARISI,TPA,Jl. Tubagus Ismail VIII Bandung RT.01/12,Sekeloa,Coblong,0-2 Tahun,13,9,6,7,0,16,0,0,0,12
+UMMU SALAMAH,TPA,Jl. Sadang Luhur IV No. 1 RT.03/15,Sekeloa,Coblong,0-2 Tahun,0,0,0,0,0,0,0,0,0,11
+CAHAYA IBU,TPA,Jl. Gedebage Selatan  RT.05/2,Rancabolang,Gedebage,0-2 Tahun,0,0,0,0,0,0,0,0,0,0
+PELITA BUNDA,TPA,Jl. Gedebage Selatan RT.05/9,Cisaranten Kidul,Gedebage,0-2 Tahun,9,7,4,4,0,1,0,0,0,9
+BHINNEKA INCLUSIVE SCHOOL,TPA,Jl. Pangkur No. 15 RT.01/9,Turangga,Lengkong,0-2 Tahun,1,0,2,0,2,3,13,0,0,4
+AL LATHIEF,TPA,Jl. Cipedes Selatan No.85 RT.04/1,Cipedes,Sukajadi,0-2 Tahun,3,5,1,2,0,0,0,0,1,3
+BHINNEKA,TPA,Jl. Cemara No.81 RT.8/2,Pasteur,Sukajadi,0-2 Tahun,0,1,1,2,0,1,0,0,0,2
+FAIDHATUL ILMI,TPA,Jl. Sarimanah 2 No. 3 Blok IX No. 15 RT.01/4,Sarijadi,Sukasari,0-2 Tahun,0,0,7,5,11,16,4,5,0,9
+BUNDA ASUH NANDA,TPA,Komp. Ujungberung Indah Blok 15 No. 26 RT.04/11,Cigending,Ujungberung,0-2 Tahun,1,0,5,4,0,0,0,0,0,2

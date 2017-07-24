@@ -1,0 +1,55 @@
+NO,KELURAHAN,NAMA POSYANDU,STRATA,BANGUNAN KHUSUS POSYANDU,JUMLAH KADER,KADER TERLATIH,S,D/S,PELAYANAN KEGIATAN TERINTEGRASI,DANA SEHAT
+1,Situsaeur,Kasih Ibu,Madya,Tidak,11,,90,76/90,PAUD dan Pemanfaatan Lahan Pekarangan,Ada
+2,Situsaeur,Sartika,Purnama,Tidak,7,,72,61/72,Pemanfaatan Lahan Pekarangan,Ada
+3,Situsaeur,Cempaka I,Purnama,Ada,10,,70,67/70,Pemanfaatan Lahan Pekarangan,Ada
+4,Situsaeur,Cempaka II,Purnama,Ada,5,,50,50/50,Pemanfaatan Lahan Pekarangan,Ada
+5,Situsaeur,Ketilang,Purnama,Tidak,4,,112,104/112,Pemanfaatan Lahan Pekarangan,Ada
+6,Situsaeur,Merpati,Purnama,Tidak,5,,56,53/56,PAUD dan Pemanfaatan Lahan Pekarangan,Ada
+7,Situsaeur,Gelatik,Purnama,Tidak,7,,105,87/105,PAUD dan Pemanfaatan Lahan Pekarangan,Ada
+8,Situsaeur,Anggrek,Purnama,Tidak,6,,75,70/75,Pemanfaatan Lahan Pekarangan,Ada
+9,Situsaeur,Teratai,Mandiri,Tidak,13,,93,81/93,Paud,Ada
+10,Situsaeur,Kadeudeuh I,Purnama,Tidak,12,,90,86/90,PAUD dan Pemanfaatan Lahan Pekarangan,Ada
+11,Situsaeur,Kadeudeuh II,Purnama,Ada,7,,129,108/129,Pemanfaatan Lahan Pekarangan,Ada
+12,Situsaeur,Anyelir,Mandiri,Tidak,9,,75,65/75,Pemanfaatan Lahan Pekarangan,Ada
+13,Kebonlega,Harapan Bunda,Purnama,Ada,12,5,137,1,,Ada
+14,Kebonlega,Harapan Bunda I,Purnama,Ada,8,4,82,0.85,,Tidak
+15,Kebonlega,Harapan Bunda II,Purnama,Ada,7,5,80,0.75,,Tidak
+16,Kebonlega,Dahlia,Madya,Tidak,9,5,86,0.75,BKL,Tidak
+17,Kebonlega,Tunas Harapan,Purnama,Tidak,7,5,92,0.74,,Tidak
+18,Kebonlega,Mawar I,Purnama,Tidak,5,4,110,0.8,,Ada
+19,Kebonlega,Mawar II,Purnama,Tidak,5,4,110,0.8,,Ada
+20,Kebonlega,Melati I,Mandiri,Tidak,5,5,175,0.8,,Ada
+21,Kebonlega,Melati II,Purnama,Tidak,5,5,130,0.9,,Ada
+22,Kebonlega,Cemara I,Purnama,Tidak,5,5,95,0.85,,Tidak
+23,Kebonlega,Cemara II,Purnama,Ada,5,2,71,0.85,,Tidak
+24,Kebonlega,Melati,Mandiri,Tidak,5,5,45,0.8,,Ada
+25,Kebonlega,Aster,Purnama,Ada,10,3,100,0.8,,Tidak
+26,Kebonlega,Kupu-kupu,Purnama,Ada,10,5,105,0.7,,Tidak
+27,Kebonlega,Gladiool,Madya,Tidak,5,3,18,0.8,BKL,Ada
+28,Cibaduyut,Nusa Cempaka I,Madya,Tidak,5,2,,,,
+29,Cibaduyut,Kenanga,Mandiri,Tidak,10,4,,,,
+30,Cibaduyut,Mutiara,Mandiri,Ada,6,2,,,,
+31,Cibaduyut,Bhakti Ibu,Madya,Ada,5,2,,,,
+32,Cibaduyut,Kembang Sepatu,Madya,Tidak,5,1,,,,
+33,Cibaduyut,Sauyunan,Madya,Tidak,6,2,,,,
+34,Cibaduyut,Kasih Ibu,Madya,Tidak,5,1,,,,
+35,Cibaduyut,Restu Ibu,Madya,Ada,5,2,,,,
+36,Cibaduyut Kidul,Mekar,Mandiri,Ada,12,9,132,0.9015,Posbindu,Ada
+37,Cibaduyut Kidul,Melati,Madya,Ada,8,4,56,0.5536,Posbindu,Tidak
+38,Cibaduyut Kidul,Asy-Syifa,Madya,Ada,7,5,66,1,,Tidak
+39,Cibaduyut Kidul,Anyelir,Madya,Tidak,11,7,61,1,,Tidak
+40,Cibaduyut Kidul,Mawar 1,Madya,Tidak,8,8,115,0.713,,Tidak
+41,Cibaduyut Kidul,Mawar 2,Madya,Tidak,8,5,89,0.8652,PAUD/ Posbindu,Tidak
+42,Cibaduyut Kidul,Mawar Mekar,Madya,Ada,11,8,160,0.8,Posbindu,Ada
+43,Cibaduyut Wetan,Melati,Purnama,Ada,7,7,60,56/60,BKL,Tidak
+44,Cibaduyut Wetan,Kenanga,Purnama,Tidak,7,7,114,92/114,,Tidak
+45,Cibaduyut Wetan,Mawar,Madya,Tidak,6,6,120,82/120,,Tidak
+46,Cibaduyut Wetan,Anggrek Bulan,Purnama,Tidak,8,8,58,50/58,,Tidak
+47,Mekarwangi,Nusa Indah,Purnama,Tidak,7,3,55,55/55,PAUD,Tidak
+48,Mekarwangi,Melati I,Purnama,Tidak,7,3,103,83/103,,Tidak
+49,Mekarwangi,Melati II,Purnama,Tidak,7,3,114,90/114,PAUD dan BKL,Tidak
+50,Mekarwangi,Kasih Ibu,Purnama,Tidak,6,3,55,50/55,,Tidak
+51,Mekarwangi,Mawar Mekar I,Purnama,Tidak,5,3,105,85/105,,Tidak
+52,Mekarwangi,Mawar Mekar II,Purnama,Tidak,5,3,40,40/40,PAUD dan BKL,Tidak
+53,Mekarwangi,Kamboja,Purnama,Tidak,5,3,61,61/61,BKL dan Pengobatan Gratis,Tidak
+54,Mekarwangi,Cempaka,Purnama,Tidak,10,3,85,73/85,BKL,Tidak

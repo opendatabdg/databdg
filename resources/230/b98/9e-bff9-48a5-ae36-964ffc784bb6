@@ -1,0 +1,28 @@
+nomor_polisi,merk_kendaraan,jenis,kapasitas,tahun,wilayah_operasional,asal_bantuan
+D 8105 C,Isuzu,Compactor,10 ,2013,BANDUNG BARAT,Pemerintah Provinsi Jawa Barat
+D 8096 C,Isuzu,Compactor,6 ,2013,BANDUNG BARAT,Pemerintah Provinsi Jawa Barat
+D 8103 C,Isuzu,Compactor,10 ,2013,BANDUNG SELATAN,Pemerintah Provinsi Jawa Barat
+D 8099 C,Isuzu,Compactor,6 ,2013,BANDUNG SELATAN,Pemerintah Provinsi Jawa Barat
+D 8095 C,Isuzu,Compactor,6 ,2013,BANDUNG SELATAN,Pemerintah Provinsi Jawa Barat
+D 8102 C,Isuzu,Compactor,10 ,2013,BANDUNG TIMUR,Pemerintah Provinsi Jawa Barat
+D 8104 C,Isuzu,Compactor,10 ,2013,BANDUNG TIMUR,Pemerintah Provinsi Jawa Barat
+D 8097 C,Isuzu,Compactor,6 ,2013,BANDUNG TIMUR,Pemerintah Provinsi Jawa Barat
+D 8101 C,Isuzu,Compactor,10 ,2013,BANDUNG UTARA,Pemerintah Provinsi Jawa Barat
+D 8098 C,Isuzu,Compactor,6 ,2013,BANDUNG UTARA,Pemerintah Provinsi Jawa Barat
+D 8092 C,Hino,LH,10 ,2013,BANDUNG BARAT,Pemerintah Kota Bandung
+D 8088 C,Hino,Compactor,10 ,2013,BANDUNG SELATAN,Pemerintah Kota Bandung
+D 8089 C,Hino,LH,10 ,2013,BANDUNG TIMUR,Pemerintah Kota Bandung
+D 8087 C,Isuzu,Road Sweeper,6 ,2013,BANDUNG SELATAN,Pemerintah Kota Bandung
+D 8032 EK,Mitsubishi,Dump Truk,6 ,2014,BANDUNG BARAT,Bantuan dari Pengusaha
+D 8035 EK,Mitsubishi,Dump Truk,6 ,2014,BANDUNG BARAT,Bantuan dari Pengusaha
+D 8038 EK,Mitsubishi,Dump Truk,6 ,2014,BANDUNG BARAT,Bantuan dari Pengusaha
+D 8041 EK,Mitsubishi,Dump Truk,6 ,2014,BANDUNG BARAT,Bantuan dari Pengusaha
+D 8030 EK,Mitsubishi,Dump Truk,6 ,2014,BANDUNG SELATAN,Bantuan dari Pengusaha
+D 8031 EK,Mitsubishi,Dump Truk,6 ,2014,BANDUNG SELATAN,Bantuan dari Pengusaha
+D 8040 EK,Mitsubishi,Dump Truk,6 ,2014,BANDUNG SELATAN,Bantuan dari Pengusaha
+D 8027 EK,Mitsubishi,Dump Truk,6 ,2014,BANDUNG TIMUR,Bantuan dari Pengusaha
+D 8029 EK,Mitsubishi,Dump Truk,6 ,2014,BANDUNG TIMUR,Bantuan dari Pengusaha
+D 8039 EK,Mitsubishi,Dump Truk,6 ,2014,BANDUNG TIMUR,Bantuan dari Pengusaha
+D 8033 EK,Mitsubishi,Dump Truk,6 ,2014,BANDUNG UTARA,Bantuan dari Pengusaha
+D 8034 EK,Mitsubishi,Dump Truk,6 ,2014,BANDUNG UTARA,Bantuan dari Pengusaha
+D 8036 EK,Mitsubishi,Dump Truk,6 ,2014,BANDUNG UTARA,Bantuan dari Pengusaha
