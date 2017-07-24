@@ -1,0 +1,16 @@
+no_stasiun,nama_stasiun,jenis_stasiun,region,propinsi,kota_kab,latitude,longitude,ketinggian_mdpl
+96783,Stasiun Geofisika Bandung,mkg,Region II,Jawa Barat,Kota Bandung,-6.88356,107.59733,791
+32730701g,AWS Stageof Bandung,aws,Region II,Jawa Barat,Kota Bandung,-6.8339,107.5974,0
+32732605a,Ujung Berung,pos_hujan,Region II,Jawa Barat,Kota Bandung,-6.90612,107.7073,723
+32730501a,Lanud Husein,pos_hujan,Region II,Jawa Barat,Kota Bandung,-6.90197,107.57622,742
+32730601a,Cicendo,pos_hujan,Region II,Jawa Barat,Kota Bandung,-6.91205,107.60221,0
+32730801a,Bengkok,pos_hujan,Region II,Jawa Barat,Kota Bandung,-6.86389,107.6244,0
+32731301a,Tekaga Bodas,pos_hujan,Region II,Jawa Barat,Kota Bandung,-6.9324,107.63036,687
+33010102a,Lengkong/ Telaga Bodas,pos_hujan,Region II,Jawa Barat,Kota Bandung,-6.92601,107.62354,696
+32731302a,Lengkong,pos_hujan,Region II,Jawa Barat,Kota Bandung,-6.93307,107.63028,688
+32732201a,Margacinta,pos_hujan,Region II,Jawa Barat,Kota Bandung,-6.95302,107.64887,0
+32732501a,Cibiru,pos_hujan,Region II,Jawa Barat,Kota Bandung,-6.92421,107.71267,0
+32732601a,Cigending,pos_hujan,Region II,Jawa Barat,Kota Bandung,-6.8949,107.70846,35
+32732602a,Ujung Berung,pos_hujan,Region II,Jawa Barat,Kota Bandung,-6.92137,107.7385,0
+32732603a,Panglipur Galih,pos_hujan,Region II,Jawa Barat,Kota Bandung,-6.9247,107.5953,0
+32732604a,Gunung Kasur,pos_hujan,Region II,Jawa Barat,Kota Bandung,-6.90156,107.71025,756

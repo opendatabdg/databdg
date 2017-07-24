@@ -1,0 +1,107 @@
+Tanggal,waktu_awal,waktu_akhir,Lokasi_Kebakaran,Kelurahan,Kecamatan,Benda_Yang_Terbakar,Bangunan_Yang_Terselamatkan,Nama_Pemilik,Penyebab_Kebakaran,Korban_Mati,Korban_Luka,Mobil_Unit_Yang_Bertugas,Sumber_Air_PDAM_m³,Sumber_Air_Lainnya_m³,Taksiran_Kerugian,Luas_Areal_Yang_Terbakar,mobil_pancar,mobil_rescue
+02-01-2016,14.20,15.35,JL. INDUSTRI RT.01 RW.07,Arjuna,Cicendo,Dua Buah Gerbong  Kereta Api Malabar,Bangunan disekitarnya,PT. KAI,Masih dalam penyelidikan,-,-,7,24,-,2.0E8,-,5.0,1.0
+04-01-2016,07.40,08.15,PERUM SARIJADI BLOK 24 NO.62,Sukawarna,Sukajadi,Rumah (2 buah kasur dalam kamar) ,Bangunan disekitarnya,Bpk. Ame,Masih dalam penyelidikan,-,-,4,4,-,2.0E7,24,3.0,1.0
+07-01-2016,19.15,19.50,JL. KEBON JAYANTI  GG.RAHAYU,Kebon Jayanti,Kiaracondong,Sebuah Rumah ,2 (Dua) buah rumah,Ibu Juariyah,Masih dalam penyidikan,-,-,3,4,-,5.0E7,40,2.0,1.0
+08-01-2016,19.55,22.45,JL. DAGO,Ciharalang,Cimenyan,Hotel Marbela Resort ,Bangunan disekitarnya,Hotel Marbela Resort,Diduga dari korsleting listrik,-,-,13,40,.,1.0E8,40,10.0,2.0
+12-01-2016,01.40,01.55,JL. FLORES NO.08,Citarum,Bandung Wetan,Koffie Tijd.Ruang Konsultan Lantai 2,Bangunan disekitarnya,Bpk.Joko,Diduga dari korsleting AC,-,-,5,16,-,6.0E7,42,4.0,1.0
+18-01-2016,13.35,04.30,PADASUKA NO.118 RT.04 RW.06,Pasir Layung,Cibeunying Kidul,Kamar Karyawan ,Bangunan disekitarnya,Bpk.Ujo,Diduga dari korsleting listrik,-,-,5,16, - ,3.0E7,24,4.0,1.0
+30-01-2016,09.45,10.30,JL. CIBODAS RAYA RT.04 RW.22,Antapani Kidul,Antapani,Gudang Rongsokan ,Bangunan disekitarnya,Bpk.Darwan,Dalam Penyidikan,-,-,2,-, - ,5000000,12,1.0,1.0
+30-01-2016,03.25,05.15,JL. SEKEMIRUNG KIDUL NO. D.53,Cigadung,Cibeunying Kaler,Sebuah rumah ,2 (Dua) buah rumah,Bpk.Taryana,Dalam Penyidikan,-,3,4,12,-,3.0E8,200,3.0,1.0
+30-01-2016,15.30,16.00,JL. RY PASTEUR DEPAN SPBU,Sukagalih,Sukajadi,Mobil Mazda ,Bangunan disekitarnya,Bpk.Tedi,Kosleting AC,-,-,3,4,-,2.5E7,-,2.0,1.0
+31-01-2016,09.20,10.55,BOJONG RAYA HOLIS NO.37 RT.02 RW.04,Caringin,Bandung Kulon,Bengkel Aldo Motor dan  dan sebuah rumah 2 lantai,2 (Dua) buah rumah,Bpk.Anwar & Bpk. Aldo,Masih dalam Penyidikan,-,-,10,40, - ,7.0E8,50,8.0,1.0
+-,-,-,KOMP.KEMBAR TMR NO.04 RT.05 RW.06,Cigereleng,Regol,1  Buah Rumah  ,2 (Dua) buah rumah,Ibu Lorei,Masih dalam penyelidikan,-,-,6,40,-,1.5E8,270,5.0,1.0
+-,-,-,JL. ASEP BERLIAN GG.ADIWIGUNA  NO.8 RT. 03 RW. 02,Cikutra,Cibeunying Kidul,1  Buah Rumah yang terbakar  (1 Kamar Tidur) ,2 (Dua) buah rumah,Ibu Naenggolan,Diduga korsleting listrik dari Televisi,-,-,3,12,-,5.0E7,30,2.0,1.0
+-,-,-,JL. SAMOJA NO.08,Samoja,Batununggal,1 Buah Rumah 2 Lt  ,2 (Dua) buah rumah,Bpk Edi,Masih dalam penyidikan,-,-,3,24,-,1.5E8,60,2.0,1.0
+-,-,-,JL. H.YASIN  VIII NO.08 RT.20 RW.02,Sukagalih,Sukajadi,1 Buah Rumah yang terbakar ( Dua Kamar Tidur ) ,2 (Dua) buah rumah,Bpk.Sunarjo,Masih  dalam  penyidikan,-,-,5,20,.,1.0E8,50,4.0,1.0
+-,-,-,JL. KARANG ANYAR NO.65 RT.03 RW.05,Karang Anyar,Astana Anyar,1. Buah Rumah Yang Terbakar Dua Kamar Pas ( Ruang Ganti ),2 (Dua) buah rumah,Bpk.Herry Ibrahim,Diduga korsleting listrik dari AC,-,-,3,12,-,5.0E7,40,2.0,1.0
+-,-,-,JL. MALABAR,Kacapiring,Batununggal, Pusat Elektronik ( Jaya Plaza ) ± 48 Kios Lt.2 dan Exs Bioskop Lt.3 ,Ruko  disekitarnya,Jaya Plaza,Diduga dari korsleting listrik,-,-,16,40, - ,1.5E9,400,10.0,2.0
+-,-,-,SINDANG SIRNA NO.01 RT.03 RW.06,Geger Kalong,Sukasari,4 Kios Penyewa Alat Pesta 2 Kios Photo Copy dan Permak Jaket ,Kios disekitarnya,"Bpk. H. Wawan, Bpk.Makmur & Bpk.Gusti",Diduga dari korsleting listrik,-,-,7,40, - ,1.0E8,160,6.0,1.0
+-,-,-,JL. SOEKARNO HATTA NO.16  RT.10 RW.03,Cibuntu,Bandung Kulon,1 Buah rumah 2 Lt. toko Nabila Cell  ,Rumah disekitarnya,Bpk. Uci Sanusi & Ibu Lubis,Dalam penyidikan,-,-,5,20, ,1.0E8,80,3.0,1.0
+-,-,-,JL. DAGO,Lebak Gede,Coblong,Gudang Aotlet Grow  ,Toko disekitarnya,Ibu. Ireneu,Diduga Kosrleting Listrik,,,4,4,-,1.0E8,200,3.0,1.0
+05-03-2016,19.28,19.45,JL. PASIR KALIKI ,Pasirkaliki,Cicendo, Instalasi LIstrik di  Hyper Square ,Ruko di sekitarnya,Bpk.Deden,Masih Dalam Penyelidikan,-,-,3,12,-,5000000,-,2.0,1.0
+10-03-2016,10.55,11.05,JL. SOEKARNO HATTA DEPAN  UNINUS,-,-,1 Buah Truk Bermuatan ACCU,Kendaraan di sekitarnya,Gudang Packing Pangila,Di duga Korsleting AC,-,-,2,8,-,5.0E7,12,1.0,1.0
+10-03-2016,12.50,13.30,JL. ASEP BERLIAN GG LEMAH NENDET RT.07 RW.07 ,Cikutra,Cibeunying Kidul,1 Buah Rumah Kontrakan Semi Permanen,2 Rumah di sekitarnya,Ibu Yati (ALM ),Di duga Korsleting Listrik,-,-,2,8,.,1.5E7,600,1.0,1.0
+21-03-2016,11.55,16.30,JL. PASIR KALIKI NO.138 RT.02 RW.02,Pasirkaliki,Cicendo,1 Buah  Toko Bangunan Rahayu,2 Rumah di sekitarnya,Bpk. Agus,Di duga Api Berasal dari Gudang Tiner,-,-,11,96,,8.0E8,14,8.0,1.0
+26-03-2016,14.00,14.15,JL. PASIR LAYUNG ,Pasir Layung,Cibeunying Kidul,1 Buah  Rumah 2 Lt,2 Rumah di sekitarnaya,Bpk.Peti,Di duga Api Berasal dari Lilin,-,-,3,4,,1.5E7,6,1.0,1.0
+31-03-2016,-,-,JL. BARANANG SIANG GG.KEBON PISANG NO.45 RT.08 RW.10,Kebon Pisang,Sumur Bandung,1 Buah Rumah ( 1 Kamar Tidur ),2 Rumah di sekitarnya,Bpk. Deden,Di duga Api Berasal dari Korek Api,-,,3,12,,5000000,-,2.0,1.0
+04-04-2016,07.50,08.20,JL. SOEKARNO HATTA NO.373,Kebon Lega,Bojongloa Kidul,Toko Jaya Board Gudang kontruksi,Ruko di sekitarnya,Bpk. Adi,Masih Dalam Penyelidikan,-,-,10,36,-,1.5E8,100,9.0,1.0
+07-04-2016,01.45,03.05,JL. LINGGAWASTU  RT.01 RW.17,Taman Sari,Bandung Wetan,2 Buah Rumah,2 Rumah di sekitarnya,Bpk. Ii & Bpk. Agus,Masih Dalam Penyelidikan,-,-,8,28,.,3.0E7,200,7.0,1.0
+12-04-2016,08.30,09.40,JL. SRIMAHI III NO.21 RT.06 RW.10,Ancol,Regol,1 Buah Rumah (1 Kamar Lt.2 ),2 Rumah di sekitarnya,Bpk.Yusmanto,Diduga Korsleting Listrik,-,-,5,12,.,5.0E7,50,4.0,1.0
+18-04-2016,20.35,21.20,JL. KAUM NO.143 BLK PASAR CICAHEUM RT.04  RW.04,Cicaheum,Kiaracondong,2 Buah Rumah,2 Rumah di sekitarnya,Bpk. Firman (Pengontrak) & Bpk.Andi Buhori (Pemilik Kontrakan),Diduga Korsleting Listrik,-,-,3,12,-,3.0E7,6,2.0,1.0
+18-04-2016,11.38,12.45,JL. CICENDO,Babakan Ciamis,Sumur Bandung,Ruang Panel Milik PLN,Bangunan di Sekitarnya,Bank BTN Syariah,Diduga Korsleting Listrik,-,-,3,12,-,5000000,6,2.0,1.0
+22-04-2016,01.55,02.30,JL. SUDIRMAN RT.05  RW.07,Kebon Jeruk,Andir,1 Buah Haelth dan Ecekutif Spa Cumi cumi,Bangunan di Sekitarnya,Bpk. Dedi,Diduga Korsleting Listrik,-,-,3,12,.,7000000,4,2.0,1.0
+22-04-2016,17.35,1830,JL. BUKIT RAYA ATAS RT.03 RW.10,Ciumbuleit,Cidadap,1 Buah bengkel & Tambal Ban Motor Ilham Jaya,Bangunan di aekitarnya,Bpk.Heri,Diduga Dari Bensin,-,-,3,12,-,3.5E7,10,2.0,1.0
+23-04-2016,07.55,12.45,JL. SOEKARNO HATTA NO.187 ( LAPAS BANCEY ) RT.- RW.09,Kebon Lega,Bojongloa  Kidul,Ruang Perkantoran Lapas Bancey 2 2 Unit Ambulance 1 Unit Motor,Bangunan di sekitarnya,Pemerintah Kota Bandung,Diduga dari Kerusuhan Para Binaan Lapas Banceuy,-,15,15,36,-,6.0E9,400,11.0,1.0
+24-04-2016,03.35,04.30,JL. SAMSUDIN NO 114 RT.04 RW.05,Ciateul,Regol,1 Buah Rumah (1 kamar Tidur ),2 Rumah di sekitarnya,Bpk.Amir (Pengontrak ) & Ibu Hj.Teti ( Pemilik ),diduga dari korsleting Listtrik,-,-,3,12,-,3.5E7,12,2.0,1.0
+17-05-2016,20.00,21.00,JLN.GEDE BAGE TENGAH RT.04 RW.05,Cisaranten Kidul,Gedebage,Ruko /Gudang Kosong,Ruko di sekitarnya,Ruko /Gudang Kosong,Masih Dalam Penyelidikan,-,-,3,16,-,1.0E7,40,2.0,1.0
+18-05-2016,16.08,16.30,JLN.PASTEUR DEPAN BAPEKES,Pasirkaliki,Cicendo,Gardu Listrik,2 Rumah di sekitarnya,Gardu Listrik,Masih Dalam Penyelidikan,-,-,3,14,.,5000000,-,2.0,1.0
+21-05-2016,04.30,05.35,JLN.DAGO ASRI NO.04 RT.06 RW.09,Dago,Coblong,Gudang Tas Alfina,2 Rumah di sekitarnya,Gudang Tas Alfina,Diduga Korsleting Listrik,-,-,5,40,.,2.0E8,75,4.0,1.0
+22-05-2016,08.40,09.00,JL. GATSU NO.335,-,Kiaracondong,Panel Listrik,2 Rumah di sekitarnya,Panel Listrik,Diduga Korsleting Listrik,-,-,1,0,-,3.0E7,6,2.0,1.0
+22-05-2016,23.48,23.48,JL. WASTUKENCANA DEPAN BALKOT,Babakan Ciamis,Sumur Bandung,Pohon Berdiameter 80 cm,Bangunan di Sekitarnya,Pohon Berdiameter 80 cm,Di duga Pembakaran sampah,-,-,1,-,-,0,-,1.0,1.0
+23-05-2016,07.00,07.45,JL. GG. SAWARGI NO.952 RT.01 RW.08,Antapani Wetan,Antapani,1 Buah Rumah ,2 Rumah di sekitarnya,1 Buah Rumah ,Di duga api berasal dari kompor Gas,-,-,3,60,-,5000000,5,2.0,1.0
+24-05-2016,15.20,15.53,JL. SETIA BUDI ATAS RT.03 RW.06,Isola,Sukasari,1 Buah Rumah semi permanen,2 Rumah di sekitarnya,1 Buah Rumah semi permanen,Di duga dari Korsleting Listrik,-,-,3,0,-,3.0E7,30,2.0,-
+24-05-2016,18.08,18.53,JL. CILENGKRANG I NO.50 RT.01 RW.04,Cisurupan,Cibiru,Tempat pengolahan susu murni,Bangunan di sekitarnya,Tempat pengolahan susu murni,Masih dalam penyelidikan,-,.,1,40,-,5.0E7,8,1.0,-
+13-06-2016,16.10,16.57,JL. RAYA BKR NO.25 RT.03 RW.03,Pasir Luyu,Regol,Bengkel Cat Oven Megah Jaya,Bangunan di sekitarnya,Bpk.haryanto,Masih Dalam Penyelidikan,-,-,3,8,-,1.0E7,60,2.0,1.0
+17-06-2016,13.50,14.30,JL. CIDURIAN UTARA RT.07 RW.09,Sukapura,Kiaracondong,1 Buah kantor RW Plus MCK,2 Rumah di sekitarnya,RW.09,Masih Dalam Penyelidikan,-,-,2,8,.,2000000,-,2.0,-
+18-06-2016,03.25,04.05,JL. SUKAMAJU RT.06 RW.06,Pasteur,Sukajadi,1 Buah Rumah yang terbakar Bagian Gudang,2 Rumah di sekitarnya,Bpk. Rudi,Masih dalam Penyelidikan,-,-,3,8,.,1.0E8,9,2.0,1.0
+21-06-2016,18.15,18.15,JL. RANDU SARI RY.NO.14 RT.06 RW.19,Antapani Kidul,Antapani,1 Buah Kios tambal Ban dan Kios Eceran Bensin dan Kounter Pulsa,2 Rumah di sekitarnya,Bpk.Tedi,Diduga Korsleting Listrik,-,-,5,0,-,5.0E7,120,4.0,1.0
+01-07-2016,00.45,01.28,JL. DR HATTA NO.13 RT.05 RW.17,Taman Sari,Bandung Wetan,1 Buah Mobil,Kendaraan di sekitarnya,,Masih Dalam Penyelidikan,0,0,3,12,0,5.0E7,0,2.0,1.0
+02-07-2016,03.35,05.00,JL. ASRI PARUNGPUNG RT.03 RW.04,Pasir Layung,Cibeunying Kidul,1 Buah rumah,2 Rumah di sekitarnya,,Masih Dalam Penyelidikan,0,0,3,8,0,7.5E7,0,2.0,1.0
+30-07-2016,23.55,01.00,JL. PAKAR TIMUR NO.29 RT.01 RW.06,Ciburial,Cimenyan,1 Buah Rumah ,2 Rumah di sekitarnya,,Masih dalam Penyelidikan,0,1,5,20,0,1.0E8,9,2.0,1.0
+03-07-2016,04.30,05.30,JL. SUKASARI RT.01 RW.04,Cicendo,Pajajaran,1 Pos Ronda,2 Rumah di sekitarnya,,Masih dalam Penyelidikan,0,0,3,12,0,1000000,15,2.0,1.0
+04-07-2016,23.55,01.00,JL. DAGO PAKAR TIMUR NO.38 RT.01 RW.06,Ciburial,Cimenyan,1 Buah rumah,2 Rumah di sekitarnya,,Masih dalam Penyelidikan,0,0,5,12,0,4.0E7,20,4.0,1.0
+07-07-2016,18.15,18.15,JL. CUKANG KAWUNG RT.13 RW.01,Cicaheum,Kiaracondong,1 Buah rumah merangkap tambal Ban dan Jualan Bensin 2 Tax,2 Rumah di sekitarnya,,Masih dalam penyelidikan,0,2,3,8,0,1.0E7,96,2.0,1.0
+11-07-2016,20.40,22.51,JL. ABDUL RAHMAN SALEH ( LANUD HUSEN SASTRANEGARA ),Husein Sastranegara,Cicendo,Kantor Fasint Dinas Logistik,Dudang di sekitarnya,,Masih dalam Penyelidikan,0,0,12,36,0,2.0E9,800,11.0,1.0
+13-07-2016,08.05,10.04,JL. KASUNGKA NO.03 RT.,Cigadung,Cibeunying Kaler,Gudang tempat Cetring YUPETO,2 Rumah di sekitarnya,,Di duga dari ledakan tabung Gas Ukuran 3 Kg,0,1,2,4,0,5000000,0,1.0,1.0
+13-07-2016,00.30,01.43,KOMP.PANDAN WANGI JL. KENCANA ARUM RT.06 RW.09,Cujaura,Buahbatu,1 Buah ruamah 2 Lt.dan 1 Buah warung,2 Rumah di sekitarnya,,Masih dalam penyelidikan,0,0,9,28,0,4.0E8,200,7.0,1.0
+18-07-2016,22.30,23.30,JL. DAGO ELOS 1 NO.131 RT.01 RW.02,Dago,Coblong,1 Buah rumah yang terbakar 1 Kamar dan dapur,2 Rumah di sekitarnya,,Di duga Korseting listrik,0,0,3,12,0,1.0E7,50,2.0,1.0
+18-07-2016,18.39,18.51,JL. NANAS DEPAN NO.18 RT.04 RW.07,Cihampelas,Bandung Wetan,1 Buah Tiang Listrik,Bangunan di sekitarnya,,Di duga Korsleting Listrik,0,0,1,4,0,2000000,0,1.0,-
+21-07-2016,10.30,11.45,JL. PASIR KALIKI KAWASAN HYPER SQUER  BLOK B NO.43,Kebon Jeruk,Andir,1 Kantor Pemasaran Hyper Squer yang terbakar Gudang Lt.4,Bangunan di sekitarnya,,Di duga Korsleting Listrik,0,0,3,0,0,5.0E7,12,3.0,-
+24-07-2016,21.30,01.45,JL. SOEKARNA HATTA RT.03 RW.05,Ciseureuh,Regol,2 Buah Kios bahan bangunan bekas,Bangunan di sekitarnya,,Masih dalam penyelidikan,0,0,12,40,0,2.0E7,15,10.0,1.0
+26-07-2016,13.52,14.45,JL. INHOFTANG RT.07 RW.06,Pelindung Hewan,Astana Anyar,1 Buah bangunan semi permanen,2 Rumah di sekitarnya,,Masih dalam penyelidikan,0,0,4,16,0,1.0E8,50,3.0,1.0
+01-08-2016,07.30,08.40,JL. PETA GG. H. JAMHUR RT.01 RW.03,Pelindung Hewan,Astana Anyar,1 Buah Rumah,2 Rumah ,,Di Sebabkan dari tabung Gas Elfiji,0,0,4,24,0,5.0E7,42,3.0,1.0
+02-08-2016,10.30,11.30,JL. KOPO GG.LAPANG RT.07 RW.04,Bojong Loa,Bojongloa Kaler,1 Buah Rumah 2 Lt.,2 Rumah ,,Di duga hubungan arus pendek listrik,0,0,4,4,0,5.0E7,50,3.0,1.0
+02-08-2016,11.30,13.30,JL. HOLIS NO.95/82 RT.02 RW.08,Warung Muncang,Bandung Kulon,1 Buah Rumah yang terbakar warung tempat jualan gas Elfiji 3 Kg,2 Rumah ,,Di duga Hubungan arus pendek listrik,0,0,7,32,0,2.0E7,100,6.0,1.0
+03-08-2016,03.30,08.15,JL. KIARACONDONG GG.BINONG UTARA RT.08 RW.02,Kebon Kangkung,Kiaracondong,5 Rumah ,2 Rumah,,Di duga Hubungan arus pendek listrik,0,0,10,36,0,5.0E8,0,8.0,1.0
+03-08-2016,12.05,13.25,JL. DIPATIUKUR NO.72 ,Lebak Gede,Coblong,1 Buah Waroeng STIEK dan SHAKE yang terbakar Lt.2 Kamar Karyawan,Bangunan di sekitarnya,,Di duga Hubungan arus pendek listrik,0,0,4,4, ,1.0E7,12,3.0,1.0
+03-08-2016,10.25,11.30,JL. BABAKAN CIANJUR RT.02 RW.07,Campaka,Andir,1 Gudang Penyimpanan kayu,2 Rumah ,,Masih dalam penyelidikan,0,0,2,4,0,2.0E7,10,1.0,1.0
+08-08-2016,14.30,15.30,JL. SUPADIO GG. KARYA RT.02 RW.12,Husein Sastranegara,Andir,1 Buah Rumah di huni 5 Keluarga,2 Rumah ,,Di duga hubungan arus pendek Listrik,0,0,10,24,0,1.0E8,54,9.0,1.0
+08-08-2016,10.10,11.00,JL. MOH.TOHA GG.BUSU NO.1 RT.03 RW.01,Wates,Bandung Kidul,1 Buah Rumah Permanen,2 Rumah ,,Di duga hubungan arus pendek Listrik,0,0,6,12,0,1.0E8,60,2.0,1.0
+09-08-2016,19.33,20.20,JL. A YANI RT.08 RW.09,Kebon Pisang,Sumur Bandung,Toko Mega Pet Store Pakan Hewan,Bangunan di sekitarnya,,Masih dalam Penyelidikan,0,0,11,24,0,2.0E8,64,10.0,1.0
+11-08-2016,04.35,06.10,JL. CINTA ASIH UTARA RT.04 RW.12,Cibangkong,Batununggal,1 Buah kamar,2 Rumah,,Masih dalam Penyelidikan,0,0,3,24,0,6.0E7,6,2.0,1.0
+16-08-2016,11.20,11.40,JL. HOLIS RT.07 RW.07,Warung Muncang,Bandung Wetan,TPA ( Tempat Pembuangan Sampah),Bangunan di sekitarnya,,Di duga Api Berasal dari pembakaran sampah,0,0,5,24,0,0,0,0.0,-
+23-08-2016,14.20,15.30,JL. BBK CIAMIS NO.93,Bbk Ciamis,Sumur Bandung,1 Buah Rumah Semi Permanen,2 Rumah ,,Api berasal dari puntung Rokok,0,0,5,-,0,1.0E7,20,4.0,1.0
+23-08-2016,17.48,18.55,JL. DR.SETIA BUDI ,Isola,Sukasari,Komp.Universitas Pendidikan Indonesia UPI Gudang Arsif Lt.3,Bangunan di sekitarnya,,Masih dalam Penyelidikan,0,0,3,0,0,5.0E7,0,0.0,-
+24-08-2016,12.48,14.00,KOMP. CISARANTEN INDAH NO.7 RT.03 RW.01,Cisaranten Kulon,Arcamanik,1 Buah Rumah Permanen,2 Rumah ,,Di duga hubungan arus pendek Listrik,0,0,5,24,0,4.0E8,200,4.0,1.0
+01-09-2016,10.45,12.00,JL. ARJUNA SIMPANG RT. 03 RW. 01,Ciroyom,Andir,4 (empat) buah rumah semi permanen,6 (enam) buah rumah,"Bpk. DEDI, Bpk. ASEp, Bpk. ADE, Bpk. PAIRAN",Korsleting Listrik,-,1,,28,-,5.0E8,48,7.0,1.0
+14-09-2016,08.45,09.00,JL. BAGUS RANGIN GG. 2 NO. 83 RT. 05 RW. 07,Lebak Gede,Coblong,Sebuah rumah 2 lantai,3 (tiga) buah rumah,Bpk. HARIS,Dalam Penyelidikan,-,-,,28,-,1.5E8,170,7.0,1.0
+17-09-2016,12.30,15.25,JL. CIPAKU INDAH II NO. 4 RT. 05 RW. 02,Ledeng,Cidadap,Sebuah rumah permanen,3 (tiga) buah rumah,Bpk. FATRIA JONATAN,Korsleting Listrik,-,-,,24,-,2.5E8,400,4.0,1.0
+18-09-2016,01.00,02.50,JL. BABAKAN JERUK I NO. 82 RT. 02 RW. 01,Sukagalih,Sukajadi,Sebuah rumah permanen,3 (tiga) buah rumah,Bpk. Dr. HARI,Korsleting Listrik,-,-,,24,-,5.0E8,275,6.0,1.0
+26-09-2016,05.00,08.20,JL. ABDUL RIVAI NO. 1,Pasirkaliki,Cicendo,Sebuah ruko 3 lantai,Bagian bangunan lainnya,Bpk. Ramsing,Korsleting Listrik,-,-,,48,-,3.0E8,179,12.0,1.0
+28-09-2016,21.57,22.16,JL. LOGAM,Batununggal,Buahbatu,Sebuah kubah mesjid,Bagian mesjid lainnya,-,Dalam penyelidikan,-,-,,4,-,3000000,-,1.0,-
+30-09-2016,12.20,13.00,JL. TRUNOJOYO NO. 62,Citarum,Bandung Wetan,Dapur rumah makan bancakan,Bagian bangunan lainnya,Bpk. FARID,Kompor gas menyambar minyak goreng,-,-,,4,- ,3000000,6,3.0,-
+01-10-2016,17.15,1930,JL. BABAKAN CIPARAY GG.BP.OYO RT.07 RW.02,Sukajati,Babakan Ciparay,5 Buah Rumah Semi Permanen,2 Buah rumah,"Bpk.UDIN,Bpk.WAWAN, Bpk.ASEP,Bpk.AHMAD, Bpk.SUWARYA",Bakaran Sampah,-,1,,16,,2.0E8,140,4.0,1.0
+04-10-2016,20.40,21.15,JL. BABAKAN KARET RANCACILI RT.02 RW.02,Derwati,Rancasari,2 Buah Rumah Semi Permanen,2 buah rumah,Bpk.MARBUN Dan Ibu.NCI,Listrik,-,-,,20,,1.5E8,80,5.0,1.0
+23-10-2016,01.45,16.20,JL. AH.NASUTION KM 12 KOMPLK MEKARSARI,Palasari,Cibiru,Sebuah gudang pembuatan gitar aquistik,bangunan di sekitarnya,Bpk. Agung (PT. Genta),Dalam penyelidikan,-,-,,40,,5.0E8,1000,10.0,1.0
+26-10-2016,01.30,03.20,JL. TERUSAN KIARACONDONG NO. 43 RT02/03,Margasari,Buahbatu,PT. Marun Liza (Sebuah ruangan Coating Pabrik Farmasi),bangunan di sekitarnya,Ibu Rostiana,Hand Mesin menyambar cairan organik,-,-,,28,,1.0E8,12,6.0,1.0
+26-10-2016,07.30,10.30,JL. PARAKAN ASRI 4 NO.16 RT.02/02,Batununggal,Bandung Kidul,Dapur sebuah rumah,bangunan di sekitarnya,Ibu Somantri,Kebocoran Gas LPG,-,-,,4,,3.0E7,6,2.0,1.0
+26-10-2016,20.30,21.30,JL. KOMPLEK GRIYA WINAYA BNLOK B 14 NO.16,Pasir Jati,Ujungberung,Sebuah rumah,2 buah rumah,Bpk. Yadi,dalam penyelidikan,-,-,,4,,1.5E8,60,1.0,1.0
+30-10-2016,15.15,17.05,JL. SRIWIJAYA JL. GG.BABAKAN PRIANGAN RAYA RT.03/11,Ciseureuh,Regol,Sebuah rumah dan Grosir,2 buah rumah,Bpk. Aldo dan Ibu Lee Ilien,Dalam penyelidikan,-,-,,28,,3.0E8,115,7.0,1.0
+02-11-2016,10.15,10.55,JL. KEBON KANGKUNG II RT. 01 RW. 08,Kebon Kangkung,Kiaracondong,Sebuah Rumah (Ruangan Dapur),2 (dua) buah rumah,Bpk. Dodi,Diduga dari kebocoran tabung gas ,-,-,,4,-,3.5E7,16,3.0,1.0
+07-11-2016,12.55,13.45,JL. CILENGKRANG I  RT. 02 RW. 07,Cisurupan,Cibiru,Sebuah rumah semi permanen,3 (tiga) buah rumah,Ibu Dede,Dalam Penyelidikan,-,-,,4,-,7.5E7,75,4.0,1.0
+08-11-2016,23.30,24.30,JL. DEPOK  RT. 03 RW. 05,Antapani Tengah,Antapani,Sebuah rumah permanen,Bangunan di sekitarnya,-,Sebuah gudang TPU,-,-,,12,-,3000000,9,2.0,1.0
+14-11-2016,01.15,03.15,JL. SUKAJADI GG.CIBARENGKOK RT.02 RW.06,Sukabungah,Sukajadi,Sebuah rumah 2 lantai dan sebuah kontrakan,3 (tiga) buah rumah,Ibu Nining dan Ibu Ikah,Dalam Penyelidikan,2,-,,16,-,2.5E8,144,4.0,1.0
+17-11-2016,10.15,11.30,JL. SOEKARNO HATTA NO. 378,Kebon Lega,Bojongloa Kidul,Ruangan Meeting Kampus STTB,Bagian bangunan lainnya,LPPIB,Korsleting Listrik AC,-,-,,4,-,1.0E7,6,3.0,1.0
+19-11-2016,08.30,09.20,JL. A.H. NASUTION RT. 03 RW. 11,Margasari,Buahbatu,Sebuah mobil sedan D 1834 NQ,-,Bp. DEDEN,Korsleting ACCU,-,-,,4,-,2.0E7,-,1.0,1.0
+20-11-2016,11.47,13.55,JL. TERUSAN PASIR KOJA KP.BABAKAN SAWAH GG.SATATA SARIKSA RT.07 RW.03,Sukahaji,Babakan Ciparay,4 (empat) buah rumah semi permanen,6 (enam) buah rumah,"Bpk. JUHADA, Bpk. HENDI, Bpk. JEJE dan Bpk. KARMAN",Korsleting Listrik,-,-,,24,-,4.0E8,350,5.0,1.0
+22-11-2016,19.10,20.00,JL. H. BASUKI RT. 04 RW. 10,Binong,Batununggal,Canopy sebuah rumah,Sebuah rumah,Ibu Hj. IIM JAMILAH,Kabel PLN putus kena Canopy,-,-,,4,-,500000,-,3.0,1.0
+24-11-2016,19.10,20.00,JL. HEGARMANAH NO. 9-15 RT. 03 RW. 03,Hegarmanah,Cidadap,Ruang genset di roof top lantai 3 Hotel Grand Serela,Bagian gedung lainnya,Bpk. HENDRI KUSNANDAR,Korsleting Listrik,-,-,,12,-,3.0E8,120,2.0,1.0
+28-11-2016,00.35,01.25,JL. MOCH TOHA (BELAKANG 281) GG. EMEN RT. 01 RW. 04 ,Cisereuh,Regol,Sebuah rumah semi permanen,3 (tiga) buah rumah,Bpk. ENCAR,"Bakaran kabel sisa"" untuk diambil tembaganya",-,-,,12,-,1.0E7,8,3.0,1.0
+02-12-2016,16.05,16.30,GEDUNG PARAHIYANGAN JL. DALEM KAUM RT. 01 RW. 03 ,Babakan Asih,Bojongloa Kaler,Sebuah kios baso,Bagian gedung lainnya,Ibu TUGIYEM,Kebocoran Gas,-,1,,-,-,5000000,4,3.0,1.0
+03-12-2016,06.05,07.15,KOMPLEK MARGAHAYU RAYA JL. PLUTO UTARA 2 NO. 44 RT. 05 RW. 14,Margasari,Buahbatu,Sebuah rumah (bagian dapur),Sebuah rumah,Bpk. DAYAT,Kebocoran Gas,-,-,,4,-,3.2E7,16,2.0,-
+11-12-2016,11.30,15.50,JL. KEBON JERUK 4 RT. 04 RW. 02,Sukagalih,Sukajadi,"2 (Dua) buah rumah 2 lantai, Sebuah Motor Harley dan 3 (Tiga) buah sepeda",4 (Empat) buah rumah,Bpk. AGUS dan Bpk. COKRO,Korsleting Listrik,-,-,,32,-,1.0E9,360,7.0,1.0
+14-12-2016,12.15,13.30,JL. TERUSAN SEKOLAH RT. 01 RW. 02 GG. DESA 147,Babakan Sari,Kiaracondong,Sebuah bedeng karyawan kerupuk mekarsari dan sebuah mesjid 2 lantai,4 (Empat) buah rumah,Bpk. DARWIS (pemilik bedeng),Dalam Penyelidikan,-,-,,40,-,3.5E8,150,10.0,1.0
+21-12-2016,07.30,09.10,JL. A.H.NASUTION RT. 01 RW. 05 ,Cipadung,Cibiru,"4 (empat) buah kios (fotocopy, counter hp, parfum dan salon) dan sebuah garasi",6 (Enam) buah rumah,Ibu NYAI RAHMINI,Korsleting Listrik,-,-,,40,-,7.5E8,600,9.0,1.0
+22-12-2016,17.00,18.00,KOMPLEK MARGAHAYU RAYA JL. TATA SURYA RT. 03 RW. 02,Manjahlega,Rancasari,Sebuah rumah,3 (Tiga) buah rumah,Bpk. TEDI,Korsleting Listrik,-,-,,4,-,3.5E7,27,3.0,1.0
+26-12-2016,15.30,16.45,JL. CICENDO GG. POKISI NO. 2 RT. 01 RW. 04,Pasirkaliki,Cicendo,Sebuah rumah,3 (Tiga) buah rumah,Ibu YAHYA,Korsleting Listrik,-,-,,32,-,7.5E8,300,7.0,1.0
+28-12-2016,14.27,15.30,JL. SANGKURIANG 39 RT. 03 RW. 13 ,Dago,Coblong,Sebuah ruang publik,-,Warga Rw. 13,Percikan Las,-,-,,4,-,3.0E7,24,3.0,1.0

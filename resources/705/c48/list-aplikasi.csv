@@ -1,0 +1,355 @@
+nama_aplikasi,pemilik,tautan,status,jenis_platform,kepemillikan
+Anti Pencucian Uang,PD BPR,,dioperasikan,web,sendiri
+Aplikasi Absensi RSUD,RSUD Kota Bandung,,dioperasikan,desktop,sendiri
+Aplikasi Administrasi Bedah,RSUD Kota Bandung,,direncanakan,desktop,sendiri
+Aplikasi Admisi Rawat Inap,RSUD Kota Bandung,,dioperasikan,desktop,sendiri
+Aplikasi Admisi Rawat Jalan,RSUD Kota Bandung,,dioperasikan,desktop,sendiri
+Aplikasi Agenda Walikota,TU Setda,http://jadwalkpp.bandung.go.id,diujicoba,multiplatform,sendiri
+Aplikasi Anjungan Informasi,RSKIA,,dioperasikan,web,sendiri
+Aplikasi Antrian,RSKIA,,dioperasikan,desktop,sendiri
+Aplikasi Antrian Langsung,RSUD Kota Bandung,,dioperasikan,desktop,sendiri
+Aplikasi Antrian Mobile (Native to Device),RSUD Kota Bandung,,direncanakan,mobile,sendiri
+Aplikasi Antrian SMS,RSUD Kota Bandung,,dioperasikan,mobile,sendiri
+Aplikasi Antrian Web,RSUD Kota Bandung,,direncanakan,web,sendiri
+Aplikasi Apotek,RSUD Kota Bandung,,dioperasikan,desktop,sendiri
+Aplikasi ASB,DPKAD,http://asb.bandung.go.id,dibangun,multiplatform,sendiri
+Aplikasi Aset Pemkot,DPKAD,,direncanakan,web,sendiri
+Aplikasi baca meter web Bimasakti,PDAM Tirtawening,,dioperasikan,multiplatform,sendiri
+Aplikasi Catat Meter,PDAM Tirtawening,,dioperasikan,multiplatform,sendiri
+Aplikasi Cicilan PB,PDAM Tirtawening,,dioperasikan,desktop,sendiri
+Aplikasi CSSD,RSUD Kota Bandung,,direncanakan,desktop,sendiri
+Aplikasi DAPODIK,K/L Pusat,,dioperasikan,web,dari pusat
+Aplikasi Dapur,RSUD Kota Bandung,,direncanakan,desktop,sendiri
+Aplikasi Dashboard Pembangunan,Bappeda,,dibangun,web,sendiri
+Aplikasi Depo Obat,RSUD Kota Bandung,,dioperasikan,desktop,sendiri
+Aplikasi Disposisi Surat,Distarcip,,tidak operasional,web,sendiri
+aplikasi disposisi surat,Satpol PP,,diujicoba,web,sendiri
+Aplikasi Disposisi Surat Pemkot Bandung,Diskominfo,http://surat-diskominfo.bandung.go.id,diujicoba,multiplatform,sendiri
+aplikasi e-Remunerasi Kinerja,BKD,,diujicoba,web,sendiri
+Aplikasi Gaji dan Tunjangan,RSUD Kota Bandung,,dioperasikan,desktop,sendiri
+Aplikasi Gawat Darurat,RSUD Kota Bandung,,dioperasikan,desktop,sendiri
+Aplikasi Gizi dan Penimbangan Balita,Dinkes,,dioperasikan,desktop,sendiri
+Aplikasi Gudang Obat,RSUD Kota Bandung,,dioperasikan,desktop,sendiri
+Aplikasi Hasil Survey Percepatan PK,PDAM Tirtawening,,dioperasikan,desktop,sendiri
+Aplikasi IPSRS,RSUD Kota Bandung,,direncanakan,desktop,sendiri
+Aplikasi Kartu SEP,RSUD Kota Bandung,,dioperasikan,desktop,sendiri
+Aplikasi Kas Kecil,PDAM Tirtawening,,dioperasikan,desktop,sendiri
+Aplikasi Kasir,RSUD Kota Bandung,,dioperasikan,web,sendiri
+Aplikasi Kearsipan,Disdukcapil,,dioperasikan,desktop,sendiri
+Aplikasi Kepegawaian,Satpol PP,,diujicoba,web,sendiri
+Aplikasi Kepuasan Pasien,RSUD Kota Bandung,,dioperasikan,desktop,sendiri
+Aplikasi Laboratorium Patologi Anatomi,RSUD Kota Bandung,,dioperasikan,desktop,sendiri
+Aplikasi Laboratorium Patologi Klinik,RSUD Kota Bandung,,dioperasikan,desktop,sendiri
+Aplikasi Lapor,Satpol PP,,diujicoba,mobile,sendiri
+Aplikasi laporan kerja harian,Satpol PP,,diujicoba,web,sendiri
+Aplikasi Management Komputer,PDAM Tirtawening,,dioperasikan,desktop,sendiri
+Aplikasi Meja Pegawai,RSUD Kota Bandung,,direncanakan,desktop,sendiri
+Aplikasi Meja Pembuat Keputusan (Mini BCC),RSUD Kota Bandung,,direncanakan,desktop,sendiri
+Aplikasi Mitigasi Bencana,Dinsos,,direncanakan,desktop,sendiri
+Aplikasi Monev Pembangunan Fisik,BPSDA,,tidak operasional,web,sendiri
+Aplikasi monitoring AMR,PDAM Tirtawening,,dioperasikan,desktop,sendiri
+Aplikasi Monitoring Anggaran,PDAM Tirtawening,,dioperasikan,desktop,sendiri
+Aplikasi monitoring Data Logger Seba,PDAM Tirtawening,,dioperasikan,desktop,sendiri
+Aplikasi Monitoring lapor,Satpol PP,,diujicoba,web,sendiri
+Aplikasi Monitoring RWnet Bukopin,PDAM Tirtawening,,dioperasikan,multiplatform,sendiri
+Aplikasi Narkotik dan Psikotropika,K/L Pusat,,dioperasikan,web,dari pusat
+Aplikasi Nota Dinas,Diskominfo,http://nota-dinas.bandung.go.id,dibangun,web,sendiri
+Aplikasi padamu.siap,K/L Pusat,,dioperasikan,web,dari pusat
+Aplikasi Paperless Persuratan,Bag Um Pal,,dibangun,desktop,sendiri
+Aplikasi Pelaporan Rekam Medis,RSUD Kota Bandung,,direncanakan,desktop,sendiri
+Aplikasi Pelayanan izin dan non izin,DInas KUKM Indag,,dibangun,web,sendiri
+Aplikasi pelayanan Survey kota Bandung,Distarcip,http://surveykotabandung.org,dioperasikan,web,sendiri
+Aplikasi Pelayanan Tangki Tinja,PDAM Tirtawening,,dioperasikan,desktop,sendiri
+Aplikasi Pembayaran Non Rekening,PDAM Tirtawening,,dioperasikan,desktop,sendiri
+Aplikasi Penagihan Retribusi Kebersihan,PD Kebersihan,,dibangun,multiplatform,sendiri
+Aplikasi Pendaftaran Akta Kelahiran Online,Disdukcapil,http://aktaonline.bandung.go.id,dioperasikan,web,sendiri
+Aplikasi Pendataan Detail Pelanggan dan Water Meter,PDAM Tirtawening,,dioperasikan,desktop,sendiri
+Aplikasi Pendataan Reklame Insidentil,Diskamtam,,dioperasikan,web,sendiri
+Aplikasi Pengaduan,Disdik,,tidak operasional,web,sendiri
+Aplikasi Pengaduan via Twitter,PDAM Tirtawening,,dioperasikan,web,sendiri
+aplikasi pengarsipan,Satpol PP,,diujicoba,web,sendiri
+Aplikasi Pengenaan Jasa Air Limbah untuk Nol M3,PDAM Tirtawening,,dioperasikan,desktop,sendiri
+Aplikasi Pengesahan Gambar,Distarcip,,dibangun,web,sendiri
+Aplikasi Pengolahan Data Kepelangganan,PDAM Tirtawening,,dioperasikan,desktop,sendiri
+Aplikasi Penyimpan Berkas Rekam medis,RSUD Kota Bandung,,dioperasikan,desktop,sendiri
+Aplikasi Perawatan Anak,RSUD Kota Bandung,,dibangun,desktop,sendiri
+Aplikasi Perawatan Bayi,RSUD Kota Bandung,,dibangun,desktop,sendiri
+Aplikasi Perawatan Bedah,RSUD Kota Bandung,,dibangun,desktop,sendiri
+Aplikasi Perawatan ICU,RSUD Kota Bandung,,dibangun,desktop,sendiri
+Aplikasi Perawatan Kandungan,RSUD Kota Bandung,,dibangun,desktop,sendiri
+Aplikasi Perawatan Penyakit Dalam,RSUD Kota Bandung,,dibangun,desktop,sendiri
+Aplikasi PIPPK,Setda Perekonomian,,direncanakan,web,sendiri
+Aplikasi Poliklini Umum,RSUD Kota Bandung,,dioperasikan,desktop,sendiri
+Aplikasi Poliklinik Anak,RSUD Kota Bandung,,dioperasikan,desktop,sendiri
+Aplikasi Poliklinik Bedah,RSUD Kota Bandung,,dioperasikan,desktop,sendiri
+Aplikasi Poliklinik Bedah Mulut,RSUD Kota Bandung,,dioperasikan,desktop,sendiri
+Aplikasi Poliklinik Bedah Syaraf,RSUD Kota Bandung,,dioperasikan,desktop,sendiri
+Aplikasi Poliklinik DOT,RSUD Kota Bandung,,dioperasikan,desktop,sendiri
+Aplikasi Poliklinik Fisioterapi,RSUD Kota Bandung,,dioperasikan,desktop,sendiri
+Aplikasi Poliklinik Gigi,RSUD Kota Bandung,,dioperasikan,desktop,sendiri
+Aplikasi Poliklinik Gizi,RSUD Kota Bandung,,dioperasikan,desktop,sendiri
+Aplikasi Poliklinik Kandungan,RSUD Kota Bandung,,dioperasikan,desktop,sendiri
+Aplikasi Poliklinik Kulit dan Kelamin,RSUD Kota Bandung,,dioperasikan,desktop,sendiri
+Aplikasi Poliklinik Mata,RSUD Kota Bandung,,dioperasikan,desktop,sendiri
+Aplikasi Poliklinik Orthodonthie,RSUD Kota Bandung,,dioperasikan,desktop,sendiri
+Aplikasi Poliklinik Orthopedi,RSUD Kota Bandung,,dioperasikan,desktop,sendiri
+Aplikasi Poliklinik Penyakit Dalam,RSUD Kota Bandung,,dioperasikan,desktop,sendiri
+Aplikasi Poliklinik Psikiatri/Jiwa,RSUD Kota Bandung,,dioperasikan,desktop,sendiri
+Aplikasi Poliklinik Rehabilitasi Medik,RSUD Kota Bandung,,dioperasikan,desktop,sendiri
+Aplikasi Poliklinik Syaraf,RSUD Kota Bandung,,dioperasikan,desktop,sendiri
+Aplikasi Poliklinik THT,RSUD Kota Bandung,,dioperasikan,desktop,sendiri
+Aplikasi Poliklinik VCT,RSUD Kota Bandung,,dioperasikan,desktop,sendiri
+Aplikasi Rencana dan Realisasi Anggaran RSUD,RSUD Kota Bandung,,direncanakan,desktop,sendiri
+Aplikasi Ruang Anesthesi,RSUD Kota Bandung,,direncanakan,desktop,sendiri
+Aplikasi Ruang Bedah,RSUD Kota Bandung,,direncanakan,desktop,sendiri
+Aplikasi Ruang Hemodialisa,RSUD Kota Bandung,,direncanakan,desktop,sendiri
+Aplikasi Ruang Radiologi,RSUD Kota Bandung,,dioperasikan,desktop,sendiri
+Aplikasi Sabilulungan,DPKAD,http://sabilulungan.bandung.go.id/,dioperasikan,web,hibah
+Aplikasi Sarana Prasarana dan Peralatan Kesehatan,K/L Pusat,,dioperasikan,web,dari pusat
+Aplikasi Simuter,PDAM Tirtawening,,dioperasikan,desktop,sendiri
+Aplikasi Sistem Akuntansi,PDAM Tirtawening,,dioperasikan,desktop,sendiri
+Aplikasi Storage,Disdik,,diujicoba,web,sendiri
+Aplikasi Surat KPP,TU Setda,http://surat-kpp.bandung.go.id,dibangun,web,sendiri
+Aplikasi tanda daftar usaha pariwisata,Disbudpar,,dioperasikan,desktop,sendiri
+Aplikasi Tim Pengendali Inflasi Daerah,Setda Perekonomian,http://tpid.bandung.go.id,dibangun,web,sendiri
+Aplikasi Tindak Kekerasan,BPPPKB,,tidak operasional,web,sendiri
+Aplikasi TJSL Monitoring System,Setda Perekonomian,http://tjsl.bandung.go.id,diujicoba,web,sendiri
+Aplikasi Tracking SPPT,Disyanjak,,dibangun,web,sendiri
+Aplikasi Transaksi RWnet Bukopin,PDAM Tirtawening,,dioperasikan,multiplatform,sendiri
+Aplikasi Tunjangan Insentif,RSUD Kota Bandung,,dioperasikan,desktop,sendiri
+Aplikasi Tutupan,PDAM Tirtawening,,dioperasikan,desktop,sendiri
+Aplikasi Update Rekening,PDAM Tirtawening,,dioperasikan,desktop,sendiri
+Aplikasi Verifikasi PMKS,Dinsos,,direncanakan,web,sendiri
+Aplikasi Yantap,PDAM Tirtawening,,dioperasikan,desktop,sendiri
+Area Traffic Control System,DISHUB,,dioperasikan,multiplatform,sendiri
+Bahan Ajar,Disdik,,dioperasikan,web,sendiri
+Bandun Single ID,Disdik,,dioperasikan,multiplatform,sendiri
+Bandung Integrated Manpower Management Application System  Sistem Bursa Kerja Online.,Disnaker,,dioperasikan,web,sendiri
+Bandung Integrated Manpower Management Application System  Sub Sistem Wajib Lapor Ketenagakerjaan Online,Disnaker,,dioperasikan,web,sendiri
+Bandung Integrated Resources Management System,BPSDA,http://birms.bandung.go.id/,dioperasikan,web,sendiri
+Bandung Open School,Disdik,,dioperasikan,web,sendiri
+Bantuan Sosial,Dinsos,,direncanakan,web,sendiri
+Billing Info System Telkom,PDAM Tirtawening,,dioperasikan,multiplatform,sendiri
+Billing Info System Web,PDAM Tirtawening,,dioperasikan,multiplatform,sendiri
+Buku Tamu,PDAM Tirtawening,,dioperasikan,desktop,sendiri
+CASS,Disdukcapil,,dioperasikan,desktop,sendiri
+CCTV internal,RSKIA,,dioperasikan,web,sendiri
+CCTV Public,RSKIA,,dioperasikan,mobile,sendiri
+Command Center Kantor Distarcip dengan Korwil,Distarcip,,direncanakan,web,sendiri
+Contact Center 113,DISKAR,,dioperasikan,desktop,sendiri
+Cyber Base Audit,Inspektorat,,dioperasikan,multiplatform,sendiri
+Dashboard Amdal Online,BPLH,,direncanakan,web,sendiri
+Dashboard Dukcapil,Disdukcapil,,direncanakan,web,sendiri
+Dashboard Kualitas Udara,BPLH,,direncanakan,web,sendiri
+Dashboard Pengelolaan Air Tanah,BPLH,,direncanakan,web,sendiri
+Dashboard Persampahan Cerdas,BPLH,,direncanakan,web,sendiri
+Data Warehouse Kesehatan,Dinkes,,direncanakan,web,sendiri
+Database IMB,Distarcip,,dioperasikan,web,sendiri
+Database Keanggotaan dan E-Katalog,Kapusarda,,dioperasikan,web,sendiri
+Database Kearsipan,TU Setda,,dioperasikan,mobile,sendiri
+Database Kepegawaian Terintegerasi,BKD,,dibangun,web,sendiri
+Database Kependudukan Terintegrasi,Disdukcapil,,dibangun,web,sendiri
+Database Pedagang,PD Pasar,,direncanakan,web,sendiri
+Database Penduduk Miskin di Kota Bandung,BKBPPM,,dioperasikan,web,sendiri
+Database Sentra Industri,DInas KUKM Indag,,dioperasikan,web,sendiri
+Database Usaha Kecil Menengah,DInas KUKM Indag,,dioperasikan,web,sendiri
+Database Usaha Koperasi,DInas KUKM Indag,,diujicoba,web,sendiri
+DISDIK Carrier Management,Disdik,,tidak operasional,web,sendiri
+Disdik Emergency Service unit,Disdik,,tidak operasional,web,sendiri
+Disdik Gateway,Disdik,,dioperasikan,web,sendiri
+DISDIK Mailing,Disdik,,dioperasikan,web,sendiri
+Disdik Online,Disdik,,dioperasikan,web,sendiri
+DISDIK Reservoir,Disdik,,tidak operasional,web,sendiri
+DSS Kesehatan,Dinkes,,direncanakan,web,sendiri
+E- Wars,K/L Pusat,,dioperasikan,web,dari pusat
+e-DAK Sistem informasi perencanaan dan monitoring,K/L Pusat,,dioperasikan,mobile,dari pusat
+E-Kecamatan,Kec. Coblong,,diujicoba,web,sendiri
+E-Kelurahan,Kec. Coblong,,dioperasikan,web,hibah
+E-Kinerja & E-Office,DISPORA,,dibangun,web,sendiri
+e-lisencing,Dinkes,,direncanakan,web,sendiri
+e-monev  Sistem informasi perencanaan dan monitoring,K/L Pusat,,dioperasikan,web,dari pusat
+E-Parking,DISHUB,,dioperasikan,multiplatform,sendiri
+E-Payment Trans Metro Bandung,DISHUB,,tidak operasional,multiplatform,sendiri
+e-Pharm,K/L Pusat,,dioperasikan,web,dari pusat
+e-planning Sistem informasi perencanaan dan monitoring,K/L Pusat,,dioperasikan,web,dari pusat
+e-PPTK,DInas KUKM Indag,,diujicoba,web,sendiri
+e-Prescription,Dinkes,,dioperasikan,web,hibah
+e-promotion,Dinkes,,direncanakan,web,sendiri
+e-Puskesmas,Dinkes,,dioperasikan,web,hibah
+E-SKP,DInas KUKM Indag,,dioperasikan,web,sendiri
+Early Warning System,DBMP,,direncanakan,web,sendiri
+Edit Data Badan Usaha,PD Kebersihan,,dioperasikan,web,hibah
+Elektronik Sistem Malaria,K/L Pusat,,dioperasikan,web,dari pusat
+Galeri Disdik,Disdik,,dioperasikan,mobile,sendiri
+GIS Fasilitas Perlengkapan Jalan,DISHUB,,tidak operasional,web,sendiri
+Hasil Perhitungan Sementara,DBMP,,tidak operasional,web,sendiri
+Hayu Bandung,BPPT,,dioperasikan,web,sendiri
+Hibah Non APBD Monitoring System,DPKAD,http://hibah.bandung.go.id,dibangun,web,sendiri
+INA-CBGs,K/L Pusat,,dioperasikan,web,dari pusat
+Infolang Cater,PDAM Tirtawening,,dioperasikan,desktop,sendiri
+Inlist,K/L Pusat,,dioperasikan,web,dari pusat
+Integrasi Aplikasi BKKBN,K/L Pusat,,dioperasikan,web,dari pusat
+Integrated Banking System,PD BPR,,dioperasikan,desktop,sendiri
+Inventaris Aplikasi,Diskominfo,http://inventori-app.bandung.go.id,dioperasikan,web,sendiri
+Inventori data Puskesmas,K/L Pusat,,dioperasikan,desktop,dari pusat
+IPPhone,Disdik,,diujicoba,mobile,sendiri
+Jalan Kita,DBMP,,diujicoba,multiplatform,sendiri
+Jaringan Dokumentasi dan Informasi Hukum,Bakumham,,dioperasikan,web,sendiri
+Kartini,K/L Pusat,,dioperasikan,desktop,dari pusat
+KOMDAT-data set-data prioritas,K/L Pusat,,direncanakan,web,dari pusat
+Kredit Melati,PD BPR,,dioperasikan,desktop,sendiri
+KRK Online,Distarcip,,dioperasikan,web,sendiri
+Layanan Online,Disdik,,diujicoba,web,sendiri
+Live Streaming Penanggulangan bencana,DISKAR,,dioperasikan,multiplatform,sendiri
+Loket PIRK,Distarcip,,dibangun,web,sendiri
+maintenance transaksi rekening,PDAM Tirtawening,,dioperasikan,desktop,sendiri
+Manajemen Aset IPA Badaksinga,PDAM Tirtawening,,diujicoba,desktop,sendiri
+Manajemen Integrasi Informasi dan Pertukaran Data,K/L Pusat,,diujicoba,web,dari pusat
+Manajemen Projek,DBMP,,diujicoba,web,sendiri
+Mobile USSI,PD BPR,,dioperasikan,mobile,sendiri
+Modul Penerimaan Pajak Daerah,Disyanjak,,dioperasikan,web,sendiri
+Monitoring AMR,PDAM Tirtawening,,dioperasikan,desktop,sendiri
+Monitoring anggaran dan kegiatan,Disdik,,diujicoba,web,sendiri
+Monitoring Persediaan Meter,PDAM Tirtawening,,dioperasikan,desktop,sendiri
+Muhadi,K/L Pusat,,tidak operasional,desktop,dari pusat
+Multimedia Promosi Sentra Industri,DInas KUKM Indag,,dioperasikan,web,sendiri
+Musrenbang RKPD Online,Bappeda,,dioperasikan,web,sendiri
+Online Pengujian Kendaraan Bermotor,DISHUB,,diujicoba,web,sendiri
+Overbooking Information System,PDAM Tirtawening,,dioperasikan,desktop,sendiri
+P-Care,K/L Pusat,,dioperasikan,web,dari pusat
+Pajak PPH21,PDAM Tirtawening,,dioperasikan,desktop,sendiri
+Payment Gateway Pembayaran Pajak,Disyanjak,,dioperasikan,web,sendiri
+PBB Go Public,Disyanjak,,dibangun,web,sendiri
+Pelayanan & Pengelolaan SOR GOR,DISPORA,,dibangun,web,sendiri
+Pembatalan Transaksi Pembayaran Rekening Via PT Pos,PDAM Tirtawening,,dioperasikan,multiplatform,sendiri
+Pendaftaran Yayasan Online,Dinsos,,direncanakan,web,sendiri
+Penerima Pendapatan Retribusi Daerah,DISPORA,,dibangun,web,sendiri
+penerimaan peserta didik baru online,Disdik,,dioperasikan,web,sendiri
+Pengaduan Distribusi,PDAM Tirtawening,,dioperasikan,desktop,sendiri
+"Pengawasan & Pengendalian SOR,GOR & GT",DISPORA,,dibangun,web,sendiri
+Perbendaharaan (SP2D),DPKAD,,direncanakan,web,sendiri
+Persediaan Barang,K/L Pusat,,dioperasikan,web,dari pusat
+Persuratan,Disdik,,diujicoba,web,sendiri
+PIP - Kementerian Pertanian RI,K/L Pusat,http://m.pip.kementan.org/,dioperasikan,web,dari pusat
+Portal Kota Bandung,Diskominfo,https://portal.bandung.go.id/,dioperasikan,multiplatform,sendiri
+Prodeskel PMD (Sistem Infromasi Desa dan Kelurahan),BKBPPM,,dioperasikan,web,sendiri
+Program Rekon Harian Otomatis PDAM dengan Pos dan Mitracomm,PDAM Tirtawening,,dioperasikan,desktop,sendiri
+Program Unggulan Disdik,Disdik,,dioperasikan,web,sendiri
+Pxp,Kapusarda,,tidak operasional,web,sendiri
+Rapot Sekolah,Disdik,,dioperasikan,web,sendiri
+Red Notice,BPPT,,dibangun,web,sendiri
+Repository Bahan Ajar,Disdik,,dioperasikan,web,sendiri
+Retribusi Pemeriksaan Alat Pemadam Kebakaran,DISKAR,,dioperasikan,web,sendiri
+RKAKL,K/L Pusat,,dioperasikan,web,dari pusat
+RW-net,Bappeda,,tidak operasional,web,hibah
+SABMN,K/L Pusat,,dioperasikan,web,dari pusat
+SAKPA,K/L Pusat,,dioperasikan,web,dari pusat
+Sanitasi Total Berbasis Masyarakat,K/L Pusat,,dioperasikan,mobile,dari pusat
+Sembako,Diskominfo,http://www.sembako.bandung.go.id/,dibangun,multiplatform,sendiri
+SIHA,K/L Pusat,,dioperasikan,web,dari pusat
+SIKDA - SIMPUS Kegiatan Puskesmas,K/L Pusat,,dioperasikan,web,dari pusat
+SIKDA 2.0,Dinkes,,direncanakan,web,sendiri
+SIM BPPSDMK,K/L Pusat,,dioperasikan,web,dari pusat
+SIM Hasil Pemeriksaan & Pengawasan,K/L Pusat,,dioperasikan,web,dari pusat
+Simkes Kota Bandung,Dinkes,,direncanakan,web,sendiri
+SIRS VI,K/L Pusat,,dioperasikan,web,dari pusat
+SISKOHAT,K/L Pusat,,dioperasikan,mobile,dari pusat
+Sistem Aplikasi Database Bandung Store Online,DInas KUKM Indag,,dibangun,web,sendiri
+Sistem Aplikasi Database Pengembangan Informasi Potensi Unggulan Produk Ekspor dan Peluang Pasar Ekspor,DInas KUKM Indag,,dibangun,web,sendiri
+Sistem Aplikasi Database PKL Kota Bandung,DInas KUKM Indag,,dioperasikan,web,sendiri
+Sistem Aplikasi pelaporan Dinkes Provinsi Jabar,K/L Pusat,www.http://diskes.jabarprov.go.id/pelaporan2/,dioperasikan,web,dari pusat
+Sistem Evaluasi & Pelaporan,DISPORA,,dibangun,web,sendiri
+Sistem Evaluasi Pendidikan,Disdik,,diujicoba,web,sendiri
+Sistem Informasi Absensi Pegawai,BKD,,dioperasikan,web,sendiri
+Sistem Informasi Administrasi Kependudukan,K/L Pusat,,dioperasikan,web,dari pusat
+Sistem Informasi Akta Kependudukan Biomorf,K/L Pusat,,dioperasikan,web,dari pusat
+Sistem informasi Bezzeting,BKD,,direncanakan,web,sendiri
+Sistem Informasi Cicilan,PDAM Tirtawening,,dioperasikan,desktop,sendiri
+Sistem Informasi dan Manjemen Penanggulangan Krisis Bencana,K/L Pusat,,dioperasikan,web,dari pusat
+Sistem Informasi Debitur,PD BPR,,dioperasikan,web,sendiri
+Sistem Informasi Eksekutif Kepegawaian,BKD,,dioperasikan,web,sendiri
+Sistem Informasi Geografis,Disdik,,diujicoba,web,sendiri
+Sistem Informasi Gizi,K/L Pusat,,dioperasikan,mobile,dari pusat
+Sistem Informasi HIV/AIDS,RSUD Kota Bandung,,dioperasikan,desktop,sendiri
+Sistem Informasi Laporan Akutabilitas Kinerja Instansi Pemerintah,ORPAD,,dioperasikan,web,sendiri
+Sistem Informasi Laporan Pencatatan Meter,PDAM Tirtawening,,dioperasikan,web,sendiri
+Sistem Informasi LPKL,PDAM Tirtawening,,dioperasikan,desktop,sendiri
+Sistem Informasi Manajemen Arsip,PDAM Tirtawening,,dioperasikan,desktop,sendiri
+Sistem Informasi Manajemen Daerah Barang,K/L Pusat,,dioperasikan,web,dari pusat
+Sistem Informasi Manajemen Daerah Keuangan,K/L Pusat,,dioperasikan,desktop,dari pusat
+Sistem Informasi Manajemen Gaji,BKD,,dioperasikan,desktop,sendiri
+Sistem Informasi Manajemen Hasil Pemeriksaan,Inspektorat,,diujicoba,web,sendiri
+Sistem Informasi Manajemen Objek Pajak,Disyanjak,,dioperasikan,desktop,sendiri
+Sistem Informasi Manajemen Objek Pajak versi Online,Disyanjak,,dibangun,web,sendiri
+Sistem informasi manajemen Pendidikan,Disdik,,dioperasikan,web,sendiri
+Sistem Informasi Manajemen Penggajian,PD Kebersihan,,dioperasikan,desktop,sendiri
+Sistem Informasi Manajemen RS,RSKIA,,dioperasikan,web,sendiri
+Sistem Informasi Manajemen Rumah Sakit Versi 2,RSKGM,,dioperasikan,web,sendiri
+Sistem informasi monitoring loket,PDAM Tirtawening,,dioperasikan,desktop,sendiri
+Sistem Informasi Monitoring Penerimaan KAS,PDAM Tirtawening,,dioperasikan,desktop,sendiri
+Sistem Informasi Mutasi Pelanggan,PDAM Tirtawening,,dioperasikan,multiplatform,sendiri
+Sistem Informasi Obat,K/L Pusat,,dioperasikan,web,dari pusat
+Sistem Informasi Pelanggan,PDAM Tirtawening,,dioperasikan,desktop,sendiri
+Sistem Informasi Pelanggan Potensial,PDAM Tirtawening,,dioperasikan,desktop,sendiri
+Sistem Informasi Pencatatan Meter Update,PDAM Tirtawening,,dioperasikan,desktop,sendiri
+Sistem Informasi Pencetakan Stiker,PDAM Tirtawening,,dioperasikan,desktop,sendiri
+Sistem Informasi Pengujian,DISHUB,,dioperasikan,desktop,sendiri
+Sistem Informasi Penilaian Kecamatan dan Kelurahan,BagPemUm,,dibangun,web,sendiri
+Sistem Informasi Penilaian Kompetensi,BKD,,diujicoba,web,sendiri
+Sistem informasi perencanaan dan monitoring,K/L Pusat,,dioperasikan,web,dari pusat
+Sistem Informasi Puskesmas Tomi,Dinkes,,dioperasikan,web,sendiri
+Sistem Informasi Realisasi Penerimaan Berdasarkan SPT,PDAM Tirtawening,,dioperasikan,desktop,sendiri
+Sistem Informasi Reduksi,PDAM Tirtawening,,dioperasikan,desktop,sendiri
+Sistem Informasi Rencana Umum Pengadaan,K/L Pusat,,dioperasikan,web,dari pusat
+Sistem Informasi Reses Online,Bappeda,,direncanakan,web,sendiri
+Sistem Informasi Rumah Sakit,K/L Pusat,,dioperasikan,web,dari pusat
+Sistem Informasi Tagihan dan Rekening,PDAM Tirtawening,,dioperasikan,multiplatform,sendiri
+Sistem Informasi TT,K/L Pusat,,dioperasikan,desktop,dari pusat
+Sistem Kearsipan,BKD,,diujicoba,web,hibah
+Sistem Kepegawaian,BKD,,dioperasikan,web,sendiri
+Sistem Kepegawaian,Diskamtam,,dioperasikan,web,sendiri
+Sistem Kepegawaian,DBMP,,direncanakan,web,sendiri
+Sistem Kepegawaian,TU Setda,,dioperasikan,web,sendiri
+Sistem Manajemen Persuratan,Bag Kesra,,dibangun,desktop,sendiri
+Sistem Online Payment Point,PDAM Tirtawening,,dioperasikan,desktop,sendiri
+Sistem Pemantauan Penagihan Keuangan (Metode LS),Bag Um Pal,,dibangun,desktop,sendiri
+Sistem Pemasaran online produk IKM Sentara Indag,DInas KUKM Indag,,dibangun,web,sendiri
+Sistem Pengaduan Gratifikasi,Inspektorat,http://e-gratifikasi.bandung.go.id,diujicoba,multiplatform,sendiri
+Sistem perbendaharaan anggaran negara,K/L Pusat,,dioperasikan,web,dari pusat
+Sitem Informasi Pelanggan Nol Kubik,PDAM Tirtawening,,dioperasikan,desktop,sendiri
+Siti Kencana,BPPPKB,,dioperasikan,web,sendiri
+SITT (Sistem Informasi Tubekolosis Terpadu),K/L Pusat,,dioperasikan,desktop,dari pusat
+Smart Map PBB,Disyanjak,,tidak operasional,web,hibah
+Smart PJU,DBMP,,diujicoba,web,sendiri
+SmartDesk,Bakumham,,direncanakan,web,sendiri
+SP3 Jabar,K/L Pusat,,dioperasikan,desktop,dari pusat
+SPGDT,Dinkes,,tidak operasional,desktop,
+SPMSPP,K/L Pusat,,dioperasikan,web,dari pusat
+Standarisasi Pemasangan Meter,PDAM Tirtawening,,dioperasikan,desktop,sendiri
+Survey Kepuasan Masyarakat,ORPAD,,dibangun,web,sendiri
+Tapping Online,Disyanjak,,dibangun,multiplatform,hibah
+TB-elektronik,K/L Pusat,,dioperasikan,web,dari pusat
+Ujian/ tes online,Disdik,,dioperasikan,web,sendiri
+Video Analytic,DISHUB,,dibangun,multiplatform,sendiri
+Web Badan Kepegawaian Daerah Kota Bandung,BKD,,dioperasikan,web,sendiri
+Web Bagian Pemerintahan Umum,BagPemUm,,diujicoba,web,sendiri
+Web Bandung Tourism,Disbudpar,,dioperasikan,web,sendiri
+Web BPLH,BPLH,,dioperasikan,web,sendiri
+Web BPPKB,BPPPKB,http://jdih.net/web_bppkb,tidak operasional,web,sendiri
+Web Dinas Kesehatan,Dinkes,,dioperasikan,web,sendiri
+Web Dinas Pertanian dan Ketahanan Pangan,DPKP,,direncanakan,web,sendiri
+Web Dinas Tata Ruang dan Cipta Karya,Distarcip,,dioperasikan,web,sendiri
+Web Kapusarda,Kapusarda,http://kapusardakotabandung.com/,dioperasikan,web,sendiri
+Web Kerjasama Dalam Negeri,Bag Kerjasama,,dioperasikan,web,sendiri
+Web Kerjasama Luar Negeri,Bag Kerjasama,,dioperasikan,web,sendiri
+Web Komunitas Kreatif,Setda Perekonomian,,direncanakan,web,sendiri
+Web Pelayanan PATEN Kecamatan,BagPemUm,,diujicoba,web,sendiri
+Web Portal Inspektorat Kota Bandung,Inspektorat,,dioperasikan,web,sendiri
+Web RSKIA,RSKIA,,dioperasikan,web,sendiri
+Website Dinas KUKM,DInas KUKM Indag,,dioperasikan,web,sendiri
+Website Dinas Sosial Pemkot Bandung,Dinsos,,tidak operasional,web,sendiri
+Website Dispora,DISPORA,http://disporakotabandung.info,dioperasikan,web,sendiri
+Website PD Pasar,PD Pasar,http://www.pasarkotabandung.co.id/,dioperasikan,web,sendiri
+Website profil Koperasi Simpan Pinjam,DInas KUKM Indag,,diujicoba,web,sendiri
+Website RSUD Kota Bandung,RSUD Kota Bandung,,dioperasikan,web,sendiri
+Whistle Blower System,Inspektorat,http://wbs.bandung.go.id,dibangun,multiplatform,sendiri

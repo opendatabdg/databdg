@@ -1,0 +1,814 @@
+npsn,nama,bentuk_pendidikan_nama,jenjang_pendidikan_nama,alamat_jalan,rt,rw,nama_dusun,desa_kelurahan_nama,Column,lintang,bujur,kebutuhan_khusus_nama,status_sekolah_nama,status_kepemilikan_nama
+20245191,SD NEGERI DADALI,SD,SD / sederajat,Jl. Dadali No. 5,6,2,,Garuda,Kec. Andir,-6.9007,107.5655,Tidak ada,Aktif,Pemerintah Daerah
+20219827,SD SAINS AL BIRUNI,SD,SD / sederajat,Jl. Panyileukan No. 11,2,1,,Cipadung Kidul,Kec. Panyileukan,-6.9302,107.7118,"C1, D",Tidak Aktif,Yayasan
+20244956,SD NEGERI BOJONGLOA 4,SD,SD / sederajat,Jl. Cibaduyut Raya No. 142/199 C,2,7,Blok Lumbung,Kebon Lega,Kec. Bojong Loa Kidul,-6.951,107.5941,Tidak ada,Aktif,Lainnya
+20245031,SD NEGERI HALIMUN 1,SD,SD / sederajat,Jl. Halimun No. 46,2,5,,Lingkar Selatan,Kec. Lengkong,-6.9271,107.6248,Tidak ada,Aktif,Pemerintah Daerah
+20244907,SD NEGERI SARIJADI 07,SD,SD / sederajat,Komp. Perum Sarijadi Blok 8 No. 11,10,9,,Sarijadi,Kec. Sukasari,-6.8766,107.5769,"C1, D",Aktif,Pemerintah Daerah
+20245103,SD NEGERI AWIGOMBONG 2,SD,SD / sederajat,Jl. Asep Berlian No. 33,4,6,,Cicadas,Kec. Cibeunying Kidul,-6.9079,107.6408,Tidak ada,Aktif,Pemerintah Daerah
+20219597,SD DARUL HIKAM,SD,SD / sederajat,Jl. Ir. H. Juanda 285,6,9,,Dago,Kec. Coblong,-6.879,107.6161,Tidak ada,Tidak Aktif,Yayasan
+20245783,SD NEGERI SOKA 34-3,SD,SD / sederajat,Jl. Soka No. 34,5,8,,Merdeka,Kec. Sumur Bandung,-6.9155,107.6288,Tidak ada,Aktif,Pemerintah Daerah
+20245547,SD NEGERI COBLONG 2,SD,SD / sederajat,Jl. Ir.h. Juanda No. 304,2,9,Dago,Dago,Kec. Coblong,-6.8796,107.6166,Tidak ada,Aktif,Pemerintah Daerah
+20245014,SD NEGERI BABAKAN CIPARAY 05,SD,SD / sederajat,Jl. Caringin Gg. Porib 3,3,2,,Babakan Ciparay,Kec. Babakan Ciparay,-6.9484,107.5844,Tidak ada,Aktif,Pemerintah Pusat
+20244963,SD NEGERI CIBADUYUT 1,SD,SD / sederajat,Jl. Cibaduyut Raya Gg. Ma Maja No. 50,3,5,,Cibaduyut,Kec. Bojong Loa Kidul,-6.9563,107.6002,Tidak ada,Aktif,Lainnya
+20219889,SD SURYANI DWI MARGA,SD,SD / sederajat,Jl. Terusan Suryani No.16/a - 191/c,7,3,Warung Muncang,Warung Muncang,Kec. Bandung Kulon,-6.9198,107.588,Tidak ada,Tidak Aktif,Yayasan
+20219529,SD AL AMIN,SD,SD / sederajat,Jl. Bangbayang No. 15-157 C,5,9,Sekeloa,Sekeloa,Kec. Coblong,-6.8811,107.6162,Tidak ada,Tidak Aktif,Yayasan
+20245726,SD NEGERI PANYILEUKAN 3,SD,SD / sederajat,Komp. Bumi Panyileukan G.15 No. 23,1,3,,Cipadung Kidul,Kec. Panyileukan,-6.9456,107.7143,Tidak ada,Aktif,Pemerintah Daerah
+20245131,SD NEGERI CIBEUREUM 02,SD,SD / sederajat,Jl. Asrama Kipal No. 56,5,4,,Campaka,Kec. Andir,-6.904076,107.567013,Tidak ada,Aktif,Pemerintah Daerah
+20245807,SD NEGERI SUKAPURA 3,SD,SD / sederajat,Jl. Terusan Psm No. 1,1,5,,Sukapura,Kec. Kiaracondong,-6.9302,107.6495,Tidak ada,Aktif,Pemerintah Daerah
+20245736,SD NEGERI PASIRKALIKI 4,SD,SD / sederajat,Jl. Gunung Batu No. 30 A,4,9,,Sukaraja,Kec. Cicendo,-6.8908,107.5619,Tidak ada,Aktif,Pemerintah Pusat
+20245447,SD NEGERI ARCAMANIK,SD,SD / sederajat,Jll. Mekarsari No. 2,2,8,Mekarsari,Sukamiskin,Kec. Arcamanik,-6.9066,107.6771,Tidak ada,Aktif,Pemerintah Daerah
+20245097,SD NEGERI TURANGGA 1,SD,SD / sederajat,Jl. Turangga No. 27,4,9,,Lingkar Selatan,Kec. Lengkong,-6.9332,107.6341,Tidak ada,Aktif,Pemerintah Daerah
+20244970,SD NEGERI CITARIP BARAT 3,SD,SD / sederajat,Jl. Madesa No. 24,2,12,,Kopo,Kec. Bojong Loa Kaler,-6.9391,107.5853,Tidak ada,Aktif,Pemerintah Pusat
+20245468,SD NEGERI BABAKAN SURABAYA 02,SD,SD / sederajat,Jl. H. Ibrahim Adjie Belakang No. 147 Bandung,1,2,,Babakan Sari,Kec. Kiaracondong,-6.9472,107.6411,Tidak ada,Aktif,Pemerintah Daerah
+20245069,SD NEGERI PAJAGALAN 47-2,SD,SD / sederajat,Jl. Pasirkoja No. 37,1,3,,Nyengseret,Kec. Astanaanyar,-6.9271,107.6014,Tidak ada,Aktif,Pemerintah Daerah
+20219530,SD ADVENT NARIPAN,SD,SD / sederajat,Jl.Naripan No.91,1,4,,Kebon Pisang,Kec. Sumur Bandung,-6.9186,107.6123,Tidak ada,Tidak Aktif,Yayasan
+20245598,SD NEGERI JATIHANDAP 2,SD,SD / sederajat,Jl. Jatihandap  No. 50,3,4,,Jatihandap,Kec. Mandalajati,-6.8996,107.6576,Tidak ada,Aktif,Pemerintah Pusat
+20245105,SD NEGERI AWIGOMBONG 4,SD,SD / sederajat,Jl. Asep Berlian No. 33,4,6,,Cicadas,Kec. Cibeunying Kidul,-6.908,107.6408,Tidak ada,Aktif,Pemerintah Daerah
+20219538,SD ATTAZHIMIYAH,SD,SD / sederajat,Blok Pesantren RT.01 RW.04,1,4,,Cigondewah Kidul,Kec. Bandung Kulon,-6.9448,107.5655,Tidak ada,Tidak Aktif,Yayasan
+20245530,SD NEGERI CISARANTEN KULON 01,SD,SD / sederajat,Jl. Cisaranten Kulon No.129,1,4,,Cisaranten Kulon,Kec. Arcamanik,-6.9306,107.6753,Tidak ada,Aktif,Pemerintah Daerah
+20219594,SD IRK,SD,SD / sederajat,Jl. Karapitan 1 No. 2,2,3,,Paledang,Kec. Lengkong,-6.9253,107.6145,Tidak ada,Tidak Aktif,Yayasan
+20247280,SD NEGERI PAJAGALAN 31,SD,SD / sederajat,Jl. Pajagalan No. 43,7,8,,Karang Anyar,Kec. Astanaanyar,-6.9241,107.6007,Tidak ada,Aktif,Pemerintah Daerah
+20245094,SD NEGERI SURYALAYA,SD,SD / sederajat,Jl. Surya Indah No. 81,3,2,Cijagra,Cijagra,Kec. Lengkong,-6.9432,107.6249,Tidak ada,Aktif,Lainnya
+20245085,SD NEGERI SEKELIMUS 2,SD,SD / sederajat,Jl. Ters. Buahbatu Gg. Anyelir,4,9,Kelurahan Batununggal,Batununggal,Kec. Bandung Kidul,-6.9525,107.6379,Tidak ada,Aktif,Lainnya
+20245531,SD NEGERI CISARANTEN KULON 02,SD,SD / sederajat,Jl. Cisaranten Kulon No.129,1,4,,Cisaranten Kulon,Kec. Arcamanik,-6.9306,107.6753,Tidak ada,Aktif,Pemerintah Daerah
+20245570,SD NEGERI GUNUNG RAHAYU 2,SD,SD / sederajat,Jl. Mentor No. 67,3,7,,Sukaraja,Kec. Cicendo,-6.8905,107.5695,Tidak ada,Aktif,Lainnya
+20219896,SD TUNAS UNGGUL,SD,SD / sederajat,Jl. Pasir Impun No. 94,4,4,Sekekondang,Pasir Impun,Kec. Mandalajati,-6.8944,107.6787,Tidak ada,Tidak Aktif,Yayasan
+20219897,SD UCHUWWATUL ISLAM,SD,SD / sederajat,Jl. Pasirkaliki Gg. H. Ento,2,11,,Sukabungah,Kec. Sukajadi,-6.897,107.5965,Tidak ada,Tidak Aktif,Yayasan
+20253893,SD NEGERI BABAKAN SURABAYA 5,SD,SD / sederajat,Jl. Babakan Sari I No. 173,1,12,Babakan Sari,Babakan Sari,Kec. Kiaracondong,-6.9253,107.6556,Tidak ada,Aktif,Pemerintah Daerah
+20245170,SD NEGERI CIJAWURA 2,SD,SD / sederajat,Jl. Raya Ciwastra,1,8,Mekarjaya,Mekarjaya,Kec. Rancasari,-6.9604,107.6632,Tidak ada,Aktif,Pemerintah Daerah
+69752555,SD AL AZHAR 36,SD,SD / sederajat,Jl. Van De Venter No. 12,2,3,,Kebon Pisang,Kec. Sumur Bandung,-6.9175,107.6226,Tidak ada,Tidak Aktif,Yayasan
+20244770,SD NEGERI CIBUNTU 4,SD,SD / sederajat,JL. HOLIS NO.31,2,1,,Warung Muncang,Kec. Bandung Kulon,-6.9186,107.5758,Tidak ada,Aktif,Lainnya
+20245257,SD NEGERI PELITA,SD,SD / sederajat,Jl. Rajamantri Kidul No. 4,8,4,,Turangga,Kec. Lengkong,-6.943899,107.632472,Tidak ada,Aktif,Pemerintah Daerah
+20245130,SD NEGERI CIBEUREUM 11,SD,SD / sederajat,Jl. Asrama Kipal No. 56,5,4,,Campaka,Kec. Andir,-6.9137,107.576,Tidak ada,Aktif,Pemerintah Daerah
+20219591,SD 1 KRISTEN PAULUS,SD,SD / sederajat,Jl. Dr. Rajiman No. 11,5,1,,Pasirkaliki,Kec. Cicendo,-6.9041,107.5998,Tidak ada,Tidak Aktif,Yayasan
+20245577,SD NEGERI GRIYA BUMI ANTAPANI 18,SD,SD / sederajat,Jl. Plered 9 No. 25,4,11,,Antapani Tengah,Kec. Antapani,-6.9145,107.6597,Tidak ada,Aktif,Pemerintah Daerah
+20244835,SD NEGERI CIBUNTU 5,SD,SD / sederajat,Jl. Holis No.31,2,1,,Warung Muncang,Kec. Bandung Kulon,-6.9189,107.5757,Tidak ada,Aktif,Pemerintah Daerah
+20245018,SD NEGERI BABAKAN CIPARAY 9,SD,SD / sederajat,Jl. Caringin No. 106,2,4,,Babakan Ciparay,Kec. Babakan Ciparay,-6.9463,107.5869,Tidak ada,Aktif,Pemerintah Daerah
+20245475,SD NEGERI BANJARSARI 1,SD,SD / sederajat,Jl. Merdeka No. 22,6,3,,Babakan Ciamis,Kec. Sumur Bandung,-6.9128,107.6105,Tidak ada,Aktif,Pemerintah Daerah
+20246728,SD PLUS AL FATWA,SD,SD / sederajat,Jl. Pln Cigereleng No. 21 ,4,4,,Ciseureuh,Kec. Regol,-6.9506,107.6134,Tidak ada,Tidak Aktif,Lainnya
+20258399,SDK HIDUP BARU,SD,SD / sederajat,Jl. Ciumbuleuit No.160,1,3,,Ciumbuleuit,Kec. Cidadap,-6.8658,107.606,Tidak ada,Tidak Aktif,Yayasan
+20244980,SD NEGERI LEUWIPANJANG ,SD,SD / sederajat,Jl. Muarasari Raya No. 49,1,2,,Kebon Lega,Kec. Bojong Loa Kidul,-6.9405,107.5972,Tidak ada,Aktif,Pemerintah Daerah
+20245491,SD NEGERI CIBIRU 7,SD,SD / sederajat,"Jl. A.h. Nasution Km. 14,5",1,1,,Pasir Biru,Kec. Cibiru,-6.9344,107.7211,Tidak ada,Aktif,Pemerintah Pusat
+20245820,SD NEGERI TIKUKUR 4,SD,SD / sederajat,Jl. Titimplik No. 1,4,7,,Sadang Serang,Kec. Coblong,-6.8972,107.6219,Tidak ada,Aktif,Pemerintah Daerah
+20244993,SD NEGERI ASTANAANYAR 1,SD,SD / sederajat,Jl. Liogeneng No. 27,7,5,,Nyengseret,Kec. Astanaanyar,-6.9323,107.6006,Tidak ada,Aktif,Pemerintah Daerah
+20245440,SD NEGERI ANDIR KIDUL 2,SD,SD / sederajat,Jl. A.H. Nasution No. 38 A,1,3,,Pakemitan,Kec. Cinambo,-6.9134,107.6949,Tidak ada,Aktif,Pemerintah Daerah
+20245154,SD NEGERI CICADAS 21,SD,SD / sederajat,Jl. Asep Berlian No.33,4,6,,Cicadas,Kec. Cibeunying Kidul,-6.9079,107.6408,Tidak ada,Aktif,Lainnya
+20247205,SD ARRAFI,SD,SD / sederajat,Jl. Sekejati III No.20,8,10,Sekejati,Sukapura,Kec. Kiaracondong,-6.942,108.0,Tidak ada,Tidak Aktif,Yayasan
+20219820,SD PANDU,SD,SD / sederajat,Jl. Pandu No. 6,2,3,,Pamoyanan,Kec. Cicendo,-6.9052,107.5932,Tidak ada,Tidak Aktif,Yayasan
+20219541,SD ASSALAAM,SD,SD / sederajat,Jl. Sasakgantung No. 1-3,2,4,,Balong Gede,Kec. Regol,-6.924,107.6079,Tidak ada,Tidak Aktif,Yayasan
+20244744,SD NEGERI CIBUNTU 2,SD,SD / sederajat,Jalan Holis - Kpad,2,10,Cibuntu,Warung Muncang,Kec. Bandung Kulon,-6.9181,107.5759,Tidak ada,Aktif,Lainnya
+20245495,SD NEGERI CILENGKRANG 2,SD,SD / sederajat,Jl. Cilengkrang I No. 136,3,5,,Cisurupan,Kec. Cibiru,-6.9136,107.7196,Tidak ada,Aktif,Pemerintah Daerah
+20246460,SD YOS SUDARSO,SD,SD / sederajat,Jl. Mohamad Toha No. 19,8,4,,Pungkur,Kec. Regol,-6.9304,107.6174,Tidak ada,Tidak Aktif,Yayasan
+20219579,SD AZ-ZAKIYAH,SD,SD / sederajat,Jl. Cijawura Girang Iv No.2,4,14,Sekejati,Sekejati,Kec. Buahbatu,-6.9449,107.6495,Tidak ada,Tidak Aktif,Yayasan
+20245478,SD NEGERI BANJARSARI 4,SD,SD / sederajat,Jl. Merdeka No. 22,3,6,,Babakan Ciamis,Kec. Sumur Bandung,-6.913,107.6166,Tidak ada,Aktif,Pemerintah Pusat
+20245178,SD NEGERI CIMUNCANG 1,SD,SD / sederajat,Jl. Babakan Haji Tamim No.33,3,7,,Padasuka,Kec. Cibeunying Kidul,-6.903,107.6481,Tidak ada,Aktif,Lainnya
+20245731,SD NEGERI PANGGUNGSARI 1,SD,SD / sederajat,Jalan Teritorial No.112,3,7,,Cigending,Kec. Ujungberung,-6.9088,107.7022,Tidak ada,Aktif,Pemerintah Daerah
+20245772,SD NEGERI SINDANGLAYA 5,SD,SD / sederajat,Jl. A. H. Nasution KM. 9 No. 15,1,1,,Sindang Jaya,Kec. Mandalajati,-6.9051,107.6806,Tidak ada,Aktif,Pemerintah Daerah
+20245523,SD NEGERI CIKADUT 4,SD,SD / sederajat,Jl. Jamaras 4  No. 101,4,1,Jatihandap,Jatihandap,Kec. Mandalajati,-6.9027,107.6645,Tidak ada,Aktif,Pemerintah Daerah
+20245970,SD NEGERI SARIJADI 04,SD,SD / sederajat,Jl. Sarimanis Blok 17,1,11,Sarijadi,Sarijadi,Kec. Sukasari,-6.8823,107.5747,"C1, D",Aktif,Pemerintah Pusat
+20219850,SD MUHAMMADIYAH 5,SD,SD / sederajat,Jl. Leuwipanjang No. 24,10,7,,Situsaeur,Kec. Bojong Loa Kidul,-6.94,107.5957,Tidak ada,Tidak Aktif,Yayasan
+20245729,SD NEGERI PALEDANG,SD,SD / sederajat,JLN. NAGROG III RT. 04 RW. 09,4,9,,Pasirjati,Kec. Ujungberung,-6.9094,107.7094,Tidak ada,Aktif,Pemerintah Daerah
+20245763,SD NEGERI SEKEJATI 4,SD,SD / sederajat,Jl. Cidurian Utara No. 22,4,10,,Sukapura,Kec. Kiaracondong,-6.9406,107.6535,Tidak ada,Aktif,Lainnya
+20245774,SD NEGERI SINDANGLAYA 8,SD,SD / sederajat,Jl. Arcamanik No. 28,2,1,,Sindang Jaya,Kec. Mandalajati,-6.9035,107.6805,Tidak ada,Aktif,Pemerintah Daerah
+20219616,SD DWISAKTI,SD,SD / sederajat,Jl. Laksmud. Nurtanio No.58,1,2,Andir,Garuda,Kec. Andir,-6.9102,107.5774,"C1, D",Tidak Aktif,Yayasan
+20245745,SD NEGERI PATRAKOMALA,SD,SD / sederajat,Jl. Patrakomala No.63,3,5,,Merdeka,Kec. Sumur Bandung,-6.9119,107.6216,Tidak ada,Aktif,Pemerintah Daerah
+20244954,SD NEGERI BOJONGLOA 2,SD,SD / sederajat,Jl. Cibaduyut Raya No. 142/199 C,2,7,Blok Lumbung,Kebon Lega,Kec. Bojong Loa Kidul,-6.9508,107.594,Tidak ada,Aktif,Lainnya
+20219544,SD AL HUSAINIYYAH,SD,SD / sederajat,Jl. Bukit Jarian No.29/165 D,4,11,Bukit Jarian,Hegarmanah,Kec. Cidadap,-6.8784,107.6063,Tidak ada,Tidak Aktif,Yayasan
+20245751,SD NEGERI PINDAD 1,SD,SD / sederajat,Jl. Papanggungan No. 01,4,11,,Sukapura,Kec. Kiaracondong,-6.9359,107.6465,Tidak ada,Aktif,Lainnya
+20245519,SD NEGERI CIJAMBE 4,SD,SD / sederajat,Jl. Terusan Sukup Baru No. 05,7,6,,Pasir Endah,Kec. Ujungberung,-6.9089,107.6899,Tidak ada,Aktif,Pemerintah Daerah
+20245816,SD NEGERI TANJAKAN,SD,SD / sederajat,Jl. Jatihandap No. 64,6,10,,Jatihandap,Kec. Mandalajati,-6.891,107.6632,Tidak ada,Aktif,Lainnya
+20245211,SD NEGERI JALAN ANYAR,SD,SD / sederajat,Jl. Padasuka No. 99/209 C,2,1,,Padasuka,Kec. Cibeunying Kidul,-6.9024,107.6529,Tidak ada,Aktif,Pemerintah Daerah
+69934958,SD AR-RAHMAN DARUL ILMI,SD,SD / sederajat,Jl. Ir. H. Juanda Blk No. 423,3,1,,,Kec. Coblong,0,0,Tidak ada,Tidak Aktif,Yayasan
+69935556,SD TEMASEK INDEPENDENT SCHOOL,SD,SD / sederajat,Jl. Sindang Sirna No. 8,3,1,,Gegerkalong,Kec. Sukasari,,,Tidak ada,Tidak Aktif,Yayasan
+20247204,SD NEGERI GEGERKALONG GIRANG 2,SD,SD / sederajat,Jl. Geger Arum No. 11 B,4,6,Geger Arum,Isola,Kec. Sukasari,-6.8609,107.5865,Tidak ada,Aktif,Pemerintah Daerah
+20245278,SD NEGERI SUKAWARNA 3,SD,SD / sederajat,Jl. Sariwangi No. 1,3,7,Sukawarna,Sukawarna,Kec. Sukajadi,-6.8822,107.5784,Tidak ada,Aktif,Pemerintah Daerah
+20244912,SD NEGERI SAYURAN 4,SD,SD / sederajat,Jl. Kp. Sayuran No. 74,7,7,,Cijerah,Kec. Bandung Kulon,-6.924,107.574,Tidak ada,Aktif,Pemerintah Daerah
+20245719,SD NEGERI NEGLASARI 3,SD,SD / sederajat,Jl. Raya Sadang Serang,4,15,,Sadang Serang,Kec. Coblong,-6.8916,107.6239,Tidak ada,Aktif,Pemerintah Pusat
+20245146,SD NEGERI CIATEUL,SD,SD / sederajat,Jl. Ibu Inggit Garnasih No.159,4,4,,Pungkur,Kec. Regol,-6.9341,107.6138,Tidak ada,Aktif,Pemerintah Daerah
+20245228,SD NEGERI MARGASARI 2,SD,SD / sederajat,Jl. Rancasawo Komplek Pindad,4,21,,Margasari,Kec. Buahbatu,-6.9593,107.6709,Tidak ada,Aktif,Pemerintah Daerah
+20245448,SD NEGERI ARCAMANIK ENDAH,SD,SD / sederajat,Jl. Olah Raga No. 5,2,9,Arcamanik,Sukamiskin,Kec. Arcamanik,-6.9162,107.6766,Tidak ada,Aktif,Pemerintah Pusat
+20245239,SD NEGERI MOHAMAD TOHA 2,SD,SD / sederajat,Jl. Mohamad Toha No. 22,4,1,,Pungkur,Kec. Regol,-6.9296,107.6063,Tidak ada,Aktif,Pemerintah Daerah
+20245828,SD NEGERI UJUNGBERUNG 02,SD,SD / sederajat,Jl. Cigending No. 03,4,5,,Cigending,Kec. Ujungberung,-6.9195,107.6979,Tidak ada,Aktif,Pemerintah Daerah
+20245561,SD NEGERI COBLONG 6,SD,SD / sederajat,Jl. Ir.h. Juanda No. 304,2,7,,Dago,Kec. Coblong,-6.8795,107.6165,Tidak ada,Aktif,Pemerintah Daerah
+20251861,SD NEGERI BALONGGEDE,SD,SD / sederajat,Jl. Balonggede No.49,7,4,Balonggede,Balong Gede,Kec. Regol,-6.9259,107.608,Tidak ada,Aktif,Pemerintah Daerah
+20245261,SD NEGERI SARIJADI SELATAN 2,SD,SD / sederajat,"Jl. Sarimadu Bawah, Sarijadi Blok 26",1,1,,Sukawarna,Kec. Sukajadi,-6.8711,107.5812,Tidak ada,Aktif,Pemerintah Daerah
+20245549,SD NEGERI COBLONG 4,SD,SD / sederajat,Jl. Ir. H. Juanda No. 338,5,7,,Dago,Kec. Coblong,-6.878,107.6171,Tidak ada,Aktif,Pemerintah Daerah
+20244883,SD NEGERI KEBON GEDANG 10,SD,SD / sederajat,Jl. Kebon Gedang No. 82,3,7,,Maleer,Kec. Batununggal,-6.9309,107.6414,Tidak ada,Aktif,Pemerintah Daerah
+20219539,SD ASY-SYIFA 1,SD,SD / sederajat,Jalan Saturnus Timur No. 94,6,12,,Manjahlega,Kec. Rancasari,-6.9511,108.0,Tidak ada,Tidak Aktif,Yayasan
+20244839,SD NEGERI CIGONDEWAH 4,SD,SD / sederajat,JL.CIGONDEWAH KALER BLOK JAMBANGAN RT.03 RW 10,3,10,,Cigondewah Kaler,Kec. Bandung Kulon,-6.9358,107.5611,Tidak ada,Aktif,Lainnya
+20245023,SD NEGERI CIJAGRA 1,SD,SD / sederajat,Jl. Situ Lembang,3,1,,Cijagra,Kec. Lengkong,-6.9446,107.6276,Tidak ada,Aktif,Pemerintah Daerah
+20246399,SD NEGERI BUAHBATU 9,SD,SD / sederajat,Jl. H. Ibrahim Adjie No. 45,0,0,Cijaura,Cijaura,Kec. Buahbatu,-6.9517,107.6409,Tidak ada,Aktif,Pemerintah Daerah
+20219602,SD CAHAYA PELITA 2,SD,SD / sederajat,Jl. Babakan Ciparay,2,2,,Sukahaji,Kec. Babakan Ciparay,-6.9323,107.5849,Tidak ada,Tidak Aktif,Yayasan
+20219843,SDK KALAM KUDUS,SD,SD / sederajat,Jl. Ibu Inggit Garnasih No. 108 .,5,7,,,Kec. Regol,-6.9673,107.5907,Tidak ada,Tidak Aktif,Yayasan
+20244872,SD NEGERI GUMURUH 09,SD,SD / sederajat,Jl. Gumuruh No. 138,8,7,,Gumuruh,Kec. Batununggal,-6.9304,107.6389,Tidak ada,Aktif,Pemerintah Daerah
+20245020,SD NEGERI BATUNUNGGAL 2,SD,SD / sederajat,Jl. Terusan Buah Batu Gg. Anyelir,4,9,,Batununggal,Kec. Bandung Kidul,-6.9531,107.6385,Tidak ada,Aktif,Lainnya
+20219833,SD PRASISTHA,SD,SD / sederajat,Jl. Andir Ri Winata No. 15,3,8,,Dungus Cariang,Kec. Andir,-6.9178,107.5857,Tidak ada,Tidak Aktif,Yayasan
+20219906,SD YAKESWA,SD,SD / sederajat,Jl. Dr. Hatta 54/29 B,5,17,,Taman Sari,Kec. Bandung Wetan,-6.9017,107.6036,Tidak ada,Tidak Aktif,Yayasan
+20245109,SD NEGERI BABAKAN PRIANGAN 2,SD,SD / sederajat,Jl. Babakan Priangan No. 29,4,1,,,Kec. Regol,-6.9469,107.6135,Tidak ada,Aktif,Pemerintah Daerah
+20245734,SD NEGERI PASIR IMPUN 2,SD,SD / sederajat,Jl. Pasir Impun No. 23,5,11,,Karang Pamulang,Kec. Mandalajati,-6.8983,107.6738,Tidak ada,Aktif,Pemerintah Daerah
+20245794,SD NEGERI SUKA ASIH,SD,SD / sederajat,Suka Asih Bandung,4,6,,Sindang Jaya,Kec. Mandalajati,-6.9009,107.681,Tidak ada,Aktif,Pemerintah Pusat
+20219523,SD AL HIDAYAH,SD,SD / sederajat,Jl. Babakan Ciparay No. 147,4,7,,Suka Asih,Kec. Bojong Loa Kaler,-6.9295,107.5852,Tidak ada,Tidak Aktif,Yayasan
+20244852,SD NEGERI CIPEDES 2,SD,SD / sederajat,Jl. Setrasari Tengah No. 15,6,2,Kampung Sukamulya,Sukarasa,Kec. Sukasari,-6.8692,107.5878,Tidak ada,Aktif,Pemerintah Daerah
+20219823,SD PERTIWI,SD,SD / sederajat,Jl. Kebon Bibit No. 16,2,10,,Taman Sari,Kec. Bandung Wetan,-6.8978,107.6072,Tidak ada,Tidak Aktif,Pemerintah Daerah
+20219825,SD SANTA ANGELA,SD,SD / sederajat,Jl. Merdeka No. 24,5,5,Sumur Bandung,Babakan Ciamis,Kec. Sumur Bandung,-6.9088,107.615,Tidak ada,Tidak Aktif,Yayasan
+20247256,SD YAYASAN BERIBU,SD,SD / sederajat,Jl. B K R No. 1,7,6,,Cijagra,Kec. Lengkong,-6.9235,107.6422,"C1, D",Tidak Aktif,Yayasan
+20244972,SD NEGERI CITARIP BARAT 6,SD,SD / sederajat,Jl. Madesa No. 24,1,12,,Kopo,Kec. Bojong Loa Kaler,-6.9391,107.5852,Tidak ada,Aktif,Pemerintah Daerah
+20245576,SD NEGERI GRIYA BUMI ANTAPANI 14-2,SD,SD / sederajat,Jl. Cicalengka Raya No.1,2,6,,Antapani Kidul,Kec. Antapani,-6.9196,107.6581,Tidak ada,Aktif,Pemerintah Daerah
+20245066,SD NEGERI PAGARSIH 5,SD,SD / sederajat,Jl. Pagarsih No. 77,3,9,,Cibadak,Kec. Astanaanyar,-6.9231,107.5945,Tidak ada,Aktif,Pemerintah Pusat
+20245548,SD NEGERI COBLONG 3,SD,SD / sederajat,Jl. Ir.h. Juanda No. 304,7,7,Dago,Dago,Kec. Coblong,-6.8795,107.6166,Tidak ada,Aktif,Lainnya
+20245262,SD NEGERI SALUYU 1,SD,SD / sederajat,Jl. Cimuncang Dalam No. 52,2,6,,Sukapada,Kec. Cibeunying Kidul,-6.8976,107.6489,Tidak ada,Aktif,Pemerintah Daerah
+20245500,SD NEGERI CIPADUNG 3,SD,SD / sederajat,Jl. Embah Jaksa No. 145 B,5,12,,Cipadung,Kec. Cibiru,-6.9247,107.7161,Tidak ada,Aktif,Pemerintah Daerah
+20244969,SD NEGERI CITARIP BARAT 1,SD,SD / sederajat,Jl.madesa No.24 Rt.01/12,1,12,,Kopo,Kec. Bojong Loa Kaler,-6.9391,107.5852,"C1, D",Aktif,Pemerintah Daerah
+20245808,SD NEGERI SUKAPURA 4,SD,SD / sederajat,Jl. Terusan Psm No. 1,5,1,Sukapura,Sukapura,Kec. Kiaracondong,-6.9305,107.6539,Tidak ada,Aktif,Lainnya
+20245042,SD NEGERI KOPO 4,SD,SD / sederajat,Jl. Pasirkoja No. 37,1,3,,Nyengseret,Kec. Astanaanyar,-6.9271,107.6013,Tidak ada,Aktif,Pemerintah Daerah
+20245584,SD NEGERI GRIYA BUMI ANTAPANI 5-2,SD,SD / sederajat,Jl. Subang V No. 5,1,2,,Antapani Tengah,Kec. Antapani,-6.913,107.6536,Tidak ada,Aktif,Pemerintah Pusat
+20245786,SD NEGERI SOKA 34-6,SD,SD / sederajat,Jl. Soka No. 34,5,8,,Merdeka,Kec. Sumur Bandung,-6.9155,107.6288,Tidak ada,Aktif,Pemerintah Daerah
+20247203,SD NEGERI GEGERKALONG GIRANG 1,SD,SD / sederajat,Jl. Geger Arum No. 11 B,4,6,,Isola,Kec. Sukasari,-6.8608,107.5866,"C1, D",Aktif,Pemerintah Pusat
+20244861,SD NEGERI GEGERKALONG KPAD 1,SD,SD / sederajat,Jl. Manunggal Kpad,6,2,,Gegerkalong,Kec. Sukasari,-6.8665,107.5818,"C1, D",Aktif,Lainnya
+20245099,SD NEGERI TURANGGA 4,SD,SD / sederajat,Jl. Salak No. 3,3,8,,Lingkar Selatan,Kec. Lengkong,-6.927,107.629,Tidak ada,Aktif,Pemerintah Pusat
+20245087,SD NEGERI SITUGUNTING 3,SD,SD / sederajat,Jl. H. Zakaria No. 56,7,1,,Sukahaji,Kec. Babakan Ciparay,-6.9324,107.5843,"C1, D",Aktif,Pemerintah Daerah
+20245276,SD NEGERI SUKASARI 3,SD,SD / sederajat,Jl. Dr. Djundjunan No. 79,1,5,,Sukawarna,Kec. Sukajadi,-6.8912,107.5802,Tidak ada,Aktif,Pemerintah Daerah
+20219832,SD PRIANGAN,SD,SD / sederajat,Jl. Baros No.1,4,5,Cihapit,Cihapit,Kec. Bandung Wetan,-6.9067,107.6284,Tidak ada,Tidak Aktif,Yayasan
+20245588,SD NEGERI HAURPANCUH 2,SD,SD / sederajat,Jl. Terusan Teuku Umar No. 87,0,0,,Sadang Serang,Kec. Coblong,-6.8927,107.6197,Tidak ada,Aktif,Pemerintah Daerah
+20246411,SD NEGERI MARGACINTA 2,SD,SD / sederajat,Jl. Marga Indah I,2,4,Cijaura,Cijaura,Kec. Buahbatu,-6.9552,107.6422,Tidak ada,Aktif,Pemerintah Daerah
+20219822,SDS BPK PENABUR TAMAN HOLIS INDAH,SD,SD / sederajat,Komp. Taman Holis Indah Blok A,2,5,,Cigondewah Kidul,Kec. Bandung Kulon,-6.9463,108.0,Tidak ada,Tidak Aktif,Yayasan
+20245700,SD NEGERI JATIHANDAP 4,SD,SD / sederajat,Jl. Jatihandap  No. 50,3,4,,Jatihandap,Kec. Mandalajati,-6.8996,107.6576,Tidak ada,Aktif,Pemerintah Pusat
+20219578,SD ISTIQAMAH,SD,SD / sederajat,Jl. Taman Citarum,0,0,,Citarum,Kec. Bandung Wetan,-6.9047,107.6212,Tidak ada,Tidak Aktif,Yayasan
+20245818,SD NEGERI TIKUKUR 2,SD,SD / sederajat,Jl. Titimplik No. 1,4,7,,Sadang Serang,Kec. Coblong,-6.8971,107.6217,Tidak ada,Aktif,Pemerintah Daerah
+20245010,SD NEGERI BABAKAN CIPARAY 21,SD,SD / sederajat,Jl. Kopo No. 440,6,1,,Babakan Ciparay,Kec. Babakan Ciparay,-6.949,107.5873,Tidak ada,Aktif,Pemerintah Daerah
+20245197,SD NEGERI GARUDA 2,SD,SD / sederajat,Jl. Dadali No. 5 Kota Bandung,6,2,Jl. Dadali No. 5 Bandung,Garuda,Kec. Andir,-6.9093,107.5854,Tidak ada,Aktif,Pemerintah Daerah
+20219601,SD CEMARA,SD,SD / sederajat,Jl. Cemara Selatan No. 358 / 181,0,0,,Pasteur,Kec. Sukajadi,-6.8853,107.5989,Tidak ada,Tidak Aktif,Yayasan
+20219536,SD BPI,SD,SD / sederajat,Jl. HALIMUN NO. 40 RT.02 RW.05,2,9,Lingkar Selatan,Lingkar Selatan,Kec. Lengkong,-6.926,107.6213,"C1, D",Tidak Aktif,Yayasan
+20245116,SD NEGERI BHAKTI WINAYA 4,SD,SD / sederajat,Jl. Pasirjaya Vi No. 1,3,5,Pasir Luyu,Pasirluyu,Kec. Regol,-6.9411,107.6212,Tidak ada,Aktif,Lainnya
+20244949,SD NEGERI BANDUNGKULON 1,SD,SD / sederajat,Jln Cibadak Gg Ibu Aisah No. 16/9a Bandung,2,3,,Cibadak,Kec. Astanaanyar,-6.9216,107.5925,Tidak ada,Aktif,Pemerintah Pusat
+20245741,SD NEGERI PASIRKALIKI 139-2,SD,SD / sederajat,Jl. Pasirkaliki Belakang No. 179,2,6,,Pamoyanan,Kec. Cicendo,-6.9017,107.5967,Tidak ada,Aktif,Lainnya
+20244848,SD NEGERI CIJEROKASO 1,SD,SD / sederajat,Jl. Sarijadi Raya No.73,4,1,Cijerokaso,Sarijadi,Kec. Sukasari,-6.8711,107.5809,Tidak ada,Aktif,Lainnya
+20219606,SD DIAN KENCANA,SD,SD / sederajat,Jl. BKR No. 167,3,9,Cigereleng,Cigereleng,Kec. Regol,-6.9375,107.6084,Tidak ada,Tidak Aktif,Yayasan
+20245579,SD NEGERI GRIYA BUMI ANTAPANI 23,SD,SD / sederajat,Jl. Banjarsari IV No. 1,5,19,,Antapani Tengah,Kec. Antapani,-6.918,107.6655,Tidak ada,Aktif,Pemerintah Daerah
+20245788,SD NEGERI SUKAPURA 02,SD,SD / sederajat,Jl. Manglayang I No. I,2,6,,Palasari,Kec. Cibiru,-6.9071,107.7305,Tidak ada,Aktif,Pemerintah Daerah
+20245822,SD NEGERI TILIL 1,SD,SD / sederajat,Jl. Puyuh No. 2,0,0,,Sadang Serang,Kec. Coblong,-6.8982,107.6232,Tidak ada,Aktif,Pemerintah Daerah
+20244943,SD NEGERI BABAKAN TAROGONG 1,SD,SD / sederajat,Jl. Kopo No.256,2,1,,Suka Asih,Kec. Bojong Loa Kaler,-6.9385,107.5937,Tidak ada,Aktif,Pemerintah Pusat
+20245477,SD NEGERI BANJARSARI 3,SD,SD / sederajat,Jl. Merdeka No. 22,2,6,,Babakan Ciamis,Kec. Sumur Bandung,-6.9133,107.6106,Tidak ada,Aktif,Pemerintah Pusat
+20245761,SD NEGERI SEKEJATI 2,SD,SD / sederajat,Jl. Cidurian Utara No. 18,2,10,,Sukapura,Kec. Kiaracondong,-6.9402,107.6533,Tidak ada,Aktif,Lainnya
+20245544,SD NEGERI CITEPUS 4,SD,SD / sederajat,Jl. Astana Eyang,9,6,,Pajajaran,Kec. Cicendo,-6.9022,107.5886,Tidak ada,Aktif,Pemerintah Daerah
+20245982,SD NEGERI SEJAHTERA 4,SD,SD / sederajat,Jl. Sejahtera No. 12,4,9,,Pasteur,Kec. Sukajadi,-6.8931,107.6009,Tidak ada,Aktif,Pemerintah Daerah
+20247257,SDK TRIMULIA HITS,SD,SD / sederajat,Jl. Dr. Djunjunan No. 105,2,3,Pajajaran,Pajajaran,Kec. Cicendo,-6.8953,107.5899,Tidak ada,Tidak Aktif,Yayasan
+20245513,SD NEGERI CICAHEUM 2,SD,SD / sederajat,Jl. Antapani No. 44,2,3,Cicaheum,Cicaheum,Kec. Kiaracondong,-6.9186,107.6616,Tidak ada,Aktif,Pemerintah Daerah
+20245038,SD NEGERI KARANGPAWULANG 4,SD,SD / sederajat,Jalan Karawitan No. 81,0,0,,Turangga,Kec. Lengkong,-6.9001,107.6337,Tidak ada,Aktif,Pemerintah Daerah
+20245542,SD NEGERI CITEPUS 2,SD,SD / sederajat,Jl. Astana Eyang,9,6,,Pajajaran,Kec. Cicendo,-6.9022,107.5887,Tidak ada,Aktif,Pemerintah Daerah
+20245710,SD NEGERI LANGENSARI 1,SD,SD / sederajat,Jl. Pasirkaliki Barat,10,15,,Sadang Serang,Kec. Coblong,-6.8967,107.6304,Tidak ada,Aktif,Pemerintah Daerah
+20219846,SD MALEBER BARAT,SD,SD / sederajat,Jl. Maleber Barat Gg. Wibawa V No. 7,5,6,,Maleber,Kec. Andir,-6.9106,107.5765,Tidak ada,Tidak Aktif,Yayasan
+20245259,SD NEGERI RANCASAWO 3,SD,SD / sederajat,Jl. Rancasawo No. 50,2,20,,Margasari,Kec. Buahbatu,-6.9595,107.6592,Tidak ada,Aktif,Pemerintah Daerah
+20219611,SD GRACIA 3,SD,SD / sederajat,GG. SEREH NO. 26,10,2,,,Kec. Astanaanyar,-6.9274,107.6117,Tidak ada,Tidak Aktif,Yayasan
+20219887,SD SURUUR,SD,SD / sederajat,Jl. Hegarmanah Tengah No. 1a,1,8,,Hegarmanah,Kec. Cidadap,-6.8822,107.6024,Tidak ada,Tidak Aktif,Yayasan
+20244957,SD NEGERI BOJONGLOA 5,SD,SD / sederajat,Jl. Cibaduyut Raya No. 142/199 C,4,6,,Kebon Lega,Kec. Bojong Loa Kidul,-6.9508,107.5937,Tidak ada,Aktif,Pemerintah Daerah
+20245039,SD NEGERI KOPO 1,SD,SD / sederajat,Jl. Pasirkoja No. 37,1,3,,Nyengseret,Kec. Astanaanyar,-6.9271,107.6013,Tidak ada,Aktif,Pemerintah Daerah
+20219892,SD SANTO YUSUP,SD,SD / sederajat,Jl. Jawa No. 2 - 4 ,5,6,,Babakan Ciamis,Kec. Sumur Bandung,-6.9149,107.6111,Tidak ada,Tidak Aktif,Yayasan
+20245837,SD NEGERI WARUNG JAMBU 2,SD,SD / sederajat,Jl. Warung Jambu No. 28,1,1,Warung Jambu,Kebon Kangkung,Kec. Kiaracondong,-6.9292,107.6452,Tidak ada,Aktif,Pemerintah Pusat
+20245918,SD NEGERI CILANDAK,SD,SD / sederajat,Jl. Sarijadi Blok I,2,2,,Sarijadi,Kec. Sukasari,-6.8776,107.5901,"C1, D",Aktif,Pemerintah Daerah
+20219542,SD ANGKASA 3,SD,SD / sederajat,Jl. Zuhri Cik Deri,3,2,,Pajajaran,Kec. Cicendo,-6.899,107.5865,Tidak ada,Tidak Aktif,Yayasan
+20245098,SD NEGERI TURANGGA 2,SD,SD / sederajat,Jl. Salak No. 3,3,8,,Lingkar Selatan,Kec. Lengkong,-6.9274,107.629,Tidak ada,Aktif,Lainnya
+20244831,SD NEGERI CENTEH 3,SD,SD / sederajat,Jl. Centeh No. 5,0,0,,Samoja,Kec. Batununggal,-6.9231,107.6197,Tidak ada,Aktif,Pemerintah Daerah
+20245587,SD NEGERI HAURPANCUH 1,SD,SD / sederajat,Jl. Terusan Teuku Umar No. 87,0,0,,Sadang Serang,Kec. Coblong,-6.8927,107.6197,Tidak ada,Aktif,Pemerintah Daerah
+20246398,SD NEGERI BUAHBATU 7,SD,SD / sederajat,Jl. H. Ibrahim Adjie No. 45,3,2,Cijaura,Cijaura,Kec. Buahbatu,-6.9516,107.6409,Tidak ada,Aktif,Lainnya
+20245017,SD NEGERI BABAKAN CIPARAY 08,SD,SD / sederajat,Jl. Caringin No. 150,2,5,,Babakan Ciparay,Kec. Babakan Ciparay,-6.9464,107.5875,Tidak ada,Aktif,Pemerintah Daerah
+20245048,SD NEGERI MARGAHAYU UTARA 3,SD,SD / sederajat,Jl. Cibolerang No. 185,2,7,Margasuka,Margasuka,Kec. Babakan Ciparay,-6.9519,107.5775,Tidak ada,Aktif,Pemerintah Daerah
+20245095,SD NEGERI TEGALLEGA 2,SD,SD / sederajat,Jl. Pelindung Hewan No. 43,3,7,Pelindung Hewan,Pelindung Hewan,Kec. Astanaanyar,-6.9381,107.6032,Tidak ada,Aktif,Pemerintah Pusat
+20245044,SD NEGERI KOPO ELOK,SD,SD / sederajat,Jl. Buana No. 8,3,5,Komplek Kopo Elok,Cirangrang,Kec. Babakan Ciparay,-6.9573,107.5827,Tidak ada,Aktif,Lainnya
+20245166,SD NEGERI CIHAURGEULIS 2,SD,SD / sederajat,Jl. Surapati No. 82,3,4,,Cihaurgeulis,Kec. Cibeunying Kaler,-6.9,107.6294,Tidak ada,Aktif,Pemerintah Daerah
+20245458,SD NEGERI BABAKAN SENTRAL 3,SD,SD / sederajat,Jl. Terusan Psm No. 02,1,5,Babakan Sentral,Sukapura,Kec. Kiaracondong,-6.9302,107.6539,Tidak ada,Aktif,Pemerintah Daerah
+20245029,SD NEGERI DWIKORA 1,SD,SD / sederajat,Jl. Inhoftank No. 16,4,6,Pelindung Hewan,Pelindung Hewan,Kec. Astanaanyar,-6.9439,107.6029,Tidak ada,Aktif,Pemerintah Daerah
+20245115,SD NEGERI BHAKTI WINAYA 2,SD,SD / sederajat,Jl. Pasirjaya VI No. 1,3,6,,Pasirluyu,Kec. Regol,-6.9406,107.6203,Tidak ada,Aktif,Lainnya
+20245779,SD NEGERI SINDANGSARI 5,SD,SD / sederajat,Jl. Parakan Saat,1,23,,Antapani Tengah,Kec. Antapani,-6.9218,107.6633,Tidak ada,Aktif,Pemerintah Daerah
+20245002,SD NEGERI BABAKAN CIPARAY 11,SD,SD / sederajat,Jl. Caringin No. 106,2,4,,Babakan Ciparay,Kec. Babakan Ciparay,-6.9449,107.5829,Tidak ada,Aktif,Pemerintah Daerah
+20245270,SD NEGERI SUKAGALIH 5,SD,SD / sederajat,Jl. Sukagalih No. 108,3,3,Sukabungah,Sukabungah,Kec. Sukajadi,-6.8927,107.5924,Tidak ada,Aktif,Pemerintah Daerah
+20245107,SD NEGERI BANDUNG BARU 2,SD,SD / sederajat,Jl. Bukit Raya Selatan No. 289,3,3,,Ciumbuleuit,Kec. Cidadap,-6.864,107.6072,Tidak ada,Aktif,Pemerintah Daerah
+20252973,SD LABORATORIUM PERCONTOHAN UPI,SD,SD / sederajat,Jl. Senjaya Guru No.04,1,6,,Isola,Kec. Sukasari,-6.8858,107.7602,Tidak ada,Tidak Aktif,Yayasan
+20245996,SD NEGERI SUKARASA 4,SD,SD / sederajat,Jl. Pak Gatot V Kpad,2,2,,Gegerkalong,Kec. Sukasari,-6.866,107.5858,Tidak ada,Aktif,Pemerintah Daerah
+20245463,SD NEGERI BABAKAN SINYAR 4,SD,SD / sederajat,Jl. Terusan Sukapura,1,3,Sukapura,Sukapura,Kec. Kiaracondong,-6.9281,107.652,Tidak ada,Aktif,Pemerintah Pusat
+20244838,SD NEGERI CIGONDEWAH 5,SD,SD / sederajat,Jl. Baturengat Cigondewah,1,1,,Cigondewah Kaler,Kec. Bandung Kulon,-6.9407,107.5633,Tidak ada,Aktif,Pemerintah Pusat
+20245514,SD NEGERI CIHAMPELAS 1,SD,SD / sederajat,Jl Cihampelas No 280,2,2,Cihampelas,Cipaganti,Kec. Coblong,-6.8871,107.6041,Tidak ada,Aktif,Pemerintah Daerah
+20245790,SD NEGERI SUKARELA 1,SD,SD / sederajat,Jl. Mekarmulya No. 40,5,7,,Cipadung Kulon,Kec. Panyileukan,-6.9262,107.7049,Tidak ada,Aktif,Pemerintah Daerah
+20245749,SD NEGERI PELESIRAN,SD,SD / sederajat,Jl. Pelesiran No. 36,4,6,,Lebak Siliwangi,Kec. Coblong,-6.8958,107.6075,Tidak ada,Aktif,Pemerintah Daerah
+20245193,SD NEGERI DURMAN,SD,SD / sederajat,Jl. Durman No.30,3,5,Kebon Jeruk,Kebon Jeruk,Kec. Andir,-6.9008,107.5655,Tidak ada,Aktif,Pemerintah Daerah
+20246413,SD NEGERI PASIRPOGOR,SD,SD / sederajat,Jl. Pasir Suci No. 8,8,1,,Mekarjaya,Kec. Rancasari,-6.9616,107.6628,Tidak ada,Aktif,Lainnya
+20219830,SD PROF. DR. MOESTOPO,SD,SD / sederajat,Jl. Tubagus Ismail III  No. 3,3,8,,Sekeloa,Kec. Coblong,-6.8845,108.0,Tidak ada,Tidak Aktif,Yayasan
+20244739,SD NEGERI BLOK SAWAH,SD,SD / sederajat,Kp. Blok Sawah,3,5,,Cigondewah Kidul,Kec. Bandung Kulon,-6.9368,107.5591,Tidak ada,Aktif,Lainnya
+20245252,SD NEGERI PADASUKA 6,SD,SD / sederajat,Jl. Padasuka No. 90,4,6,,Pasirlayung,Kec. Cibeunying Kidul,-6.9021,107.6623,Tidak ada,Aktif,Pemerintah Daerah
+20245517,SD NEGERI CIJAMBE 2,SD,SD / sederajat,Jl. Sukup Baru No. 18,6,6,,Pasir Endah,Kec. Ujungberung,-6.9094,107.6925,Tidak ada,Aktif,Lainnya
+20252052,SD AL- HIDAYAH,SD,SD / sederajat,Jl. Rancabulan No. 7 Rancabentang,5,6,,Ciumbuleuit,Kec. Cidadap,-6.8657,107.606,Tidak ada,Tidak Aktif,Yayasan
+20269138,SDIT AL FITRAH,SD,SD / sederajat,Jl. Merkuri Timur No. 1,0,0,Manjahlega,,Kec. Rancasari,-6.9636,107.6841,Tidak ada,Tidak Aktif,Yayasan
+20244846,SD NEGERI CIJERAH 6,SD,SD / sederajat,Jl. Mekar Hurip No. 18,3,8,,Cijerah,Kec. Bandung Kulon,-6.9237,107.5743,Tidak ada,Aktif,Pemerintah Daerah
+20245529,SD NEGERI CIPOREAT 3,SD,SD / sederajat,"JL A.H NASUTION KM 11,6 No.29",3,1,,Pasanggrahan,Kec. Ujungberung,-6.9174,107.7062,Tidak ada,Aktif,Lainnya
+20245735,SD NEGERI PASIRKALIKI 2,SD,SD / sederajat,Jl. Karya I No. 18,4,1,,Sukaraja,Kec. Cicendo,-6.8955,107.5611,Tidak ada,Aktif,Lainnya
+20255299,SD CENDEKIA MUDA,SD,SD / sederajat,Jl. Puri Ayu Pratama No. 17,0,0,,Sukamiskin,Kec. Arcamanik,-6.9125,107.6744,Tidak ada,Tidak Aktif,Yayasan
+20245483,SD NEGERI BINAHARAPAN 3,SD,SD / sederajat,Jl. Golf Selatan I No 26,2,10,,Cisaranten Bina Harapan,Kec. Arcamanik,-6.9148,107.6849,Tidak ada,Aktif,Pemerintah Daerah
+20245784,SD NEGERI SOKA 34-4,SD,SD / sederajat,Jl. Soka No. 34,5,8,,Merdeka,Kec. Sumur Bandung,-6.9154,107.6288,Tidak ada,Aktif,Pemerintah Daerah
+20245810,SD NEGERI SUKARAJA,SD,SD / sederajat,Jl.Terusan Pasteur no 38,1,1,Husein Sastranegara,Husen Sastranegara,Kec. Cicendo,-6.9007,107.5894,Tidak ada,Aktif,Pemerintah Daerah
+20245202,SD NEGERI ASMI 2,SD,SD / sederajat,Jl. Asmi No.2,7,4,,Pungkur,Kec. Regol,-6.9292,107.608,Tidak ada,Aktif,Pemerintah Daerah
+20245232,SD NEGERI MERDEKA 5-2,SD,SD / sederajat,Braga Sumur Bandung,3,5,,Braga,Kec. Sumur Bandung,-6.9155,107.61,Tidak ada,Aktif,Pemerintah Daerah
+20245596,SD NEGERI JATIHANDAP,SD,SD / sederajat,Jl. Jatihandap Gg. Masjid,5,5,,Jatihandap,Kec. Mandalajati,-6.8983,107.6569,Tidak ada,Aktif,Pemerintah Daerah
+20245765,SD NEGERI SEKELOA 1,SD,SD / sederajat,Jl. Sekeloa Utara No. 30 A,5,6,,Sekeloa,Kec. Coblong,-6.8875,107.6189,Tidak ada,Aktif,Pemerintah Daerah
+20219854,SD MUHAMMADIYAH 1,SD,SD / sederajat,Jl. Banteng Dalam No. 6,10,7,,Turangga,Kec. Lengkong,-6.9327,107.6242,Tidak ada,Tidak Aktif,Yayasan
+69894361,SD KASIH BANGSA,SD,SD / sederajat,Taman Holis Indah Blok G,2,8,,Cigondewah Rahayu,Kec. Bandung Kulon,-6.9469,107.5605,Tidak ada,Tidak Aktif,Yayasan
+20244830,SD NEGERI CENTEH 2,SD,SD / sederajat,Jl. Centeh No. 5,7,10,,Samoja,Kec. Batununggal,-6.9274,107.6234,Tidak ada,Aktif,Pemerintah Daerah
+20245240,SD NEGERI MOHAMAD TOHA 3,SD,SD / sederajat,Jl. Mohamad Toha No. 22,4,1,,Pungkur,Kec. Regol,-6.9299,107.6067,Tidak ada,Aktif,Pemerintah Pusat
+20253257,SD YPI,SD,SD / sederajat,Jl. Nuhamad No. 17 Bandung,6,6,,Pamoyanan,Kec. Cicendo,-6.9016,108.0,Tidak ada,Tidak Aktif,Yayasan
+20244769,SD NEGERI CIBUNTU 3,SD,SD / sederajat,Jl. Kawat No. 1,2,1,,Caringin,Kec. Bandung Kulon,-6.935,107.5775,Tidak ada,Aktif,Pemerintah Daerah
+20245568,SD NEGERI EMBONG ,SD,SD / sederajat,Jalan Embong No. 6,3,5,,Kebon Pisang,Kec. Sumur Bandung,-6.9216,107.6132,Tidak ada,Aktif,Pemerintah Daerah
+20245068,SD NEGERI PAJAGALAN 47-1,SD,SD / sederajat,Jl.pasirkoja No.37,1,3,,Nyengseret,Kec. Astanaanyar,-6.9271,107.6013,Tidak ada,Aktif,Lainnya
+20245574,SD NEGERI GRIYA BUMI ANTAPANI 13-2,SD,SD / sederajat,Jl. Kadipaten 14 No. 2,2,2,Antapani Kidul,Antapani Kidul,Kec. Antapani,-6.9193,107.6558,Tidak ada,Aktif,Pemerintah Pusat
+20244862,SD NEGERI GEGERKALONG KPAD 2,SD,SD / sederajat,Jl. Manunggal Kpad,6,2,,Gegerkalong,Kec. Sukasari,-6.8679,107.5878,Tidak ada,Aktif,Lainnya
+60728783,SD PELITA FAJAR,SD,SD / sederajat,Jl. Jendral Sudirman 467,2,2,,Jamika,Kec. Bojong Loa Kaler,-6.9215,107.597,Tidak ada,Tidak Aktif,Yayasan
+20245236,SD NEGERI MERDEKA 5-5,SD,SD / sederajat,Jl. Merdeka No. 9,3,5,,Braga,Kec. Sumur Bandung,-6.9155,107.61,Tidak ada,Aktif,Pemerintah Daerah
+20245144,SD NEGERI CIUMBULEUIT 3,SD,SD / sederajat,Jl. Bukit Indah No. 12,1,1,,Hegarmanah,Kec. Cidadap,-6.8727,107.6083,Tidak ada,Aktif,Pemerintah Daerah
+20245486,SD NEGERI CEMPAKA ARUM,SD,SD / sederajat,Jl. Umar Bin Khotob,5,8,Rancanumpang,Rancanumpang,Kec. Gedebage,-6.9576,107.7078,Tidak ada,Aktif,Lainnya
+20219848,SD MALEBER UTARA,SD,SD / sederajat,Jl. Maleber Utara No.5,4,4,Maleber,Garuda,Kec. Andir,-6.9103,107.5758,Tidak ada,Tidak Aktif,Yayasan
+20244874,SD NEGERI HARAPAN 2,SD,SD / sederajat,Jl. Pak Gatot VI KPAD,2,2,,Gegerkalong,Kec. Sukasari,-6.8655,107.5892,Tidak ada,Aktif,Pemerintah Pusat
+20245035,SD NEGERI JAKAPURWA 2,SD,SD / sederajat,Jl. Jakamulya No. 16,2,5,,Kujangsari,Kec. Bandung Kidul,-6.962995,107.649137,Tidak ada,Aktif,Pemerintah Daerah
+20245586,SD NEGERI HANURA,SD,SD / sederajat,Jl. Ciwaru,2,9,Cisurupan,Cisurupan,Kec. Cibiru,-6.8994,107.7246,Tidak ada,Aktif,Pemerintah Pusat
+20219580,SD ASY-SYIFA 2,SD,SD / sederajat,Jl. Randusari V,4,17,,Antapani Kidul,Kec. Antapani,-6.9274,107.6627,Tidak ada,Tidak Aktif,Yayasan
+20245242,SD NEGERI MUARARAJEUN 1,SD,SD / sederajat,Jl. Muararajeun No. 26,4,8,,Cihaurgeulis,Kec. Cibeunying Kaler,-6.9024,107.6316,Tidak ada,Aktif,Pemerintah Daerah
+20245536,SD NEGERI CISARANTEN WETAN 3,SD,SD / sederajat,Jl. Raya Gedebage No. 17,0,0,Babakan Penghulu,Babakan Penghulu,Kec. Cinambo,-6.9405,107.6914,Tidak ada,Aktif,Lainnya
+20245756,SD NEGERI RANCALOA,SD,SD / sederajat,Jl. Cipamokolan No. 62,6,12,Rancaloa,Cipamokolan,Kec. Rancasari,-6.9467,107.6762,Tidak ada,Aktif,Pemerintah Daerah
+20245490,SD NEGERI CIBIRU 5,SD,SD / sederajat,"Jl. A.h. Nasution Km. 14,5",1,1,,Pasir Biru,Kec. Cibiru,-6.9344,107.721,Tidak ada,Aktif,Pemerintah Pusat
+20245769,SD NEGERI SINDANGLAYA 2,SD,SD / sederajat,Jl. A.h. Nasution Km.9 No. 15,1,1,,Sindang Jaya,Kec. Mandalajati,-6.9051,107.6806,Tidak ada,Aktif,Pemerintah Daerah
+20245520,SD NEGERI CIKADUT 1,SD,SD / sederajat,Jl. A.H. Nasution Km.7 No. 1,0,0,,Karang Pamulang,Kec. Mandalajati,-6.9038,107.6657,Tidak ada,Aktif,Pemerintah Daerah
+20219598,SD CITRA WINAYA,SD,SD / sederajat,Jl. Cipedes No. 8,5,6,,Cipedes,Kec. Sukajadi,-6.8918,107.5912,Tidak ada,Tidak Aktif,Yayasan
+20245705,SD NEGERI KOMARA BUDI,SD,SD / sederajat,Jl. Gunung Batu No. 30,4,7,,Sukaraja,Kec. Cicendo,-6.8907,107.5619,Tidak ada,Aktif,Pemerintah Daerah
+20244867,SD NEGERI GUMURUH 02,SD,SD / sederajat,Jl. Cibangkong No. 13,3,8,,Cibangkong,Kec. Batununggal,-6.9301,107.6375,Tidak ada,Aktif,Lainnya
+20245522,SD NEGERI CIKADUT 3,SD,SD / sederajat,Jl. A.H. Nasution Km.7 No. 1,0,0,Karangpamulang,Karang Pamulang,Kec. Mandalajati,-6.9038,107.6657,Tidak ada,Aktif,Lainnya
+20245515,SD NEGERI CIHAMPELAS 3,SD,SD / sederajat,Jl. Cihampelas No. 280,2,2,Cipaganti,Cipaganti,Kec. Coblong,-6.8872,107.6041,Tidak ada,Aktif,Pemerintah Daerah
+20244903,SD NEGERI SARIJADI 03,SD,SD / sederajat,Jl. Sarimanis Blok 17,1,11,,Sarijadi,Kec. Sukasari,-6.881,107.5753,"C1, D",Aktif,Pemerintah Daerah
+20245272,SD NEGERI SUKAGALIH 8,SD,SD / sederajat,Jl. Sukagalih No. 108,0,0,,Sukabungah,Kec. Sukajadi,-6.8926,107.5932,Tidak ada,Aktif,Pemerintah Pusat
+20246408,SD NEGERI MARGAHAYU RAYA BLOK I/II-01,SD,SD / sederajat,Jl. Jupiter No. 92 A,2,9,,Sekejati,Kec. Buahbatu,-6.9456,107.6581,Tidak ada,Aktif,Lainnya
+20219857,SD MARIA BINTANG LAUT,SD,SD / sederajat,Jl. Kebonjati No.209 Bandung,5,1,Ciroyom,Ciroyom,Kec. Andir,-6.9163,107.5911,Tidak ada,Tidak Aktif,Yayasan
+20245954,SD NEGERI KEBON GEDANG 13,SD,SD / sederajat,Jl. Kebon Gedang No. 82,3,7,,Maleer,Kec. Batununggal,-6.9308,107.6414,Tidak ada,Aktif,Pemerintah Daerah
+20245281,SD NEGERI SUKALUYU 2,SD,SD / sederajat,Jl. Rereng Adumanis No. 2 A,8,7,,Sukaluyu,Kec. Cibeunying Kaler,-6.8953,107.6318,Tidak ada,Aktif,Pemerintah Pusat
+20219596,SD DEWI SARTIKA,SD,SD / sederajat,Jl. Kautamaan Istri No.12,3,3,,Balong Gede,Kec. Regol,-6.9255,107.6042,Tidak ada,Tidak Aktif,Yayasan
+20245512,SD NEGERI CICAHEUM 1,SD,SD / sederajat,Jl. Antapani No. 44,2,3,Cicaheum,Cicaheum,Kec. Kiaracondong,-6.9185,107.6616,Tidak ada,Aktif,Pemerintah Pusat
+20244840,SD NEGERI CIGONDEWAH HILIR,SD,SD / sederajat,Jl. Cigondewah Rahayu rt 02 rw 05,2,5,Cigondewah,Cigondewah Rahayu,Kec. Bandung Kulon,-6.9456,107.5654,Tidak ada,Aktif,Lainnya
+20245225,SD NEGERI LENGKONG BESAR 85-1,SD,SD / sederajat,Jl. Lengkong Besar No.139,2,7,,Balong Gede,Kec. Regol,-6.9326,107.62,Tidak ada,Aktif,Pemerintah Daerah
+20244869,SD NEGERI GUMURUH 06,SD,SD / sederajat,Jl. Cibangkong No. 13,1,8,,Cibangkong,Kec. Batununggal,-6.9244,107.6344,Tidak ada,Aktif,Pemerintah Daerah
+20244825,SD NEGERI BINONG JATI 1,SD,SD / sederajat,Jl. Binongjati No. 20,9,3,,Binong,Kec. Batununggal,-6.9422,107.6403,Tidak ada,Aktif,Pemerintah Daerah
+20245516,SD NEGERI CIJAMBE 1,SD,SD / sederajat,Jl. Terusan Sukup Baru No. 05,7,6,Cijambe,Pasir Endah,Kec. Ujungberung,-6.909,107.6927,Tidak ada,Aktif,Pemerintah Daerah
+20245283,SD NEGERI SUKALUYU 4,SD,SD / sederajat,Jl. Rereng Adumanis No. 2 A,8,7,,Sukaluyu,Kec. Cibeunying Kaler,-6.8954,107.6318,Tidak ada,Aktif,Lainnya
+20245138,SD NEGERI CIDADAP 1,SD,SD / sederajat,Jl. Dr. Setiabudhi No. 234,2,1,Panorama,Ledeng,Kec. Cidadap,-6.8645,107.5945,Tidak ada,Aktif,Pemerintah Daerah
+20245797,SD NEGERI SUKALAKSANA 1,SD,SD / sederajat,Jl. Sukakarya No. 109 Rt 06 Rw 12 Cicaheum,6,12,Sukakarya,Cicaheum,Kec. Kiaracondong,-6.9105,107.6474,Tidak ada,Aktif,Pemerintah Daerah
+20245181,SD NEGERI CIMUNCANG 4,SD,SD / sederajat,Jl. Babakan Haji Tamim No.33,3,7,,Padasuka,Kec. Cibeunying Kidul,-6.903,107.6482,Tidak ada,Aktif,Pemerintah Daerah
+20244909,SD NEGERI SAYURAN 1,SD,SD / sederajat,Kp. Sayuran No. 74,7,7,Kp. Sayuran,Cijerah,Kec. Bandung Kulon,-6.9234,107.5739,Tidak ada,Aktif,Pemerintah Daerah
+20219883,SD MELANIA,SD,SD / sederajat,Jl. Melania No. 1-3,0,0,,Cihaurgeulis,Kec. Cibeunying Kaler,-6.9008,107.6238,"C1, D",Tidak Aktif,Yayasan
+20245707,SD NEGERI LANUMA HUSEIN SASTRANEGARA 1,SD,SD / sederajat,Jl. Lmu Suparmin No. 1,0,0,Pajajaran,Pajajaran,Kec. Cicendo,-6.899,107.5864,Tidak ada,Aktif,Lainnya
+20219617,SD BUDI ISTRI,SD,SD / sederajat,Jl. Sancang No. 4,1,5,,Burangrang,Kec. Lengkong,-6.9296,107.6196,Tidak ada,Tidak Aktif,Yayasan
+20219612,SD GRACIA 2,SD,SD / sederajat,JL. PAGARSIH NO. 256,1,2,,,Kec. Andir,0,0,Tidak ada,Tidak Aktif,Yayasan
+20245753,SD NEGERI PINDAD 3,SD,SD / sederajat,Jl. Papanggungan No. 01,4,11,,Sukapura,Kec. Kiaracondong,-6.9359,107.6465,Tidak ada,Aktif,Lainnya
+20244895,SD NEGERI KRIDAWINAYA 1,SD,SD / sederajat,Jl. Gumuruh Blk No.37 Bandung,7,5,,Gumuruh,Kec. Batununggal,-6.9318,107.6394,Tidak ada,Aktif,Pemerintah Daerah
+20245224,SD NEGERI LENGKONG BESAR 105-6,SD,SD / sederajat,Jl. Lengkong Besar No.139,2,7,,Balong Gede,Kec. Regol,-6.9305,107.6128,Tidak ada,Aktif,Pemerintah Daerah
+20219575,SD KARTIKA XIX - 1,SD,SD / sederajat,Jl. Bangka No.3,4,2,,Merdeka,Kec. Sumur Bandung,-6.9135,107.6331,Tidak ada,Tidak Aktif,Yayasan
+20245158,SD NEGERI CICADAS 05,SD,SD / sederajat,Jl. Cikutra No. 15,12,9,,Cikutra,Kec. Cibeunying Kidul,-6.8969,107.638,Tidak ada,Aktif,Pemerintah Pusat
+20245201,SD NEGERI ASMI 1,SD,SD / sederajat,Jl. Asmi No. 2,7,4,,Pungkur,Kec. Regol,-6.9289,107.6073,Tidak ada,Aktif,Pemerintah Daerah
+20245176,SD NEGERI CIKUTRA 5,SD,SD / sederajat,Jl. Cikutra No.326,1,2,,Neglasari,Kec. Cibeunying Kaler,-6.8936,107.6373,Tidak ada,Aktif,Pemerintah Daerah
+20245162,SD NEGERI CIGADUNG 1,SD,SD / sederajat,Jl. Ranca Kendal No. 99,4,4,,Cigadung,Kec. Cibeunying Kaler,-6.8784,107.6248,Tidak ada,Aktif,Pemerintah Daerah
+20219858,SDK BPPK,SD,SD / sederajat,Jl Pajajaran No 91 Bandung,3,7,,Arjuna,Kec. Cicendo,-6.9071,107.5941,Tidak ada,Tidak Aktif,Yayasan
+20219582,SD KEMALA BHAYANGKARI 2,SD,SD / sederajat,Jl. Palasari No.44,8,9,,Malabar,Kec. Lengkong,-6.9055,107.5832,Tidak ada,Tidak Aktif,Yayasan
+20245780,SD NEGERI SONDARIAH,SD,SD / sederajat,Jl. Rancanumpang,1,1,Rancanumpang,Rancanumpang,Kec. Gedebage,-6.965035,107.705463,Tidak ada,Aktif,Pemerintah Daerah
+20244833,SD NEGERI CENTEH 5,SD,SD / sederajat,Jl. Centeh No. 5,7,10,,Samoja,Kec. Batununggal,-6.9281,107.6252,Tidak ada,Aktif,Pemerintah Daerah
+20245260,SD NEGERI SARIJADI SELATAN 1,SD,SD / sederajat,"Jl. Sarimadu Bawah, Sarijadi Blok 26",1,1,,Sukawarna,Kec. Sukajadi,-6.8836,107.5734,Tidak ada,Aktif,Pemerintah Daerah
+20245560,SD NEGERI COBLONG 5,SD,SD / sederajat,Jl. Ir. H. Juanda No. 338,5,7,,Dago,Kec. Coblong,-6.878,107.6172,Tidak ada,Aktif,Pemerintah Daerah
+20246455,SD NEGERI BABAKAN JATI,SD,SD / sederajat,Jl. Cijawura Girang V,4,13,Sekejat,Sekejati,Kec. Buahbatu,-6.9625,107.6568,Tidak ada,Aktif,Pemerintah Daerah
+20253917,SD PELITA BANGSA,SD,SD / sederajat,Jl. Soekarno Hatta No. 391,0,0,,Karasak,Kec. Astanaanyar,-6.948,107.6047,Tidak ada,Tidak Aktif,Yayasan
+20245459,SD NEGERI BABAKAN SENTRAL 4,SD,SD / sederajat,Jl. Terusan Psm No. 2,2,5,Sukapura,Sukapura,Kec. Kiaracondong,-6.9306,107.6544,Tidak ada,Aktif,Lainnya
+20219815,SD PASUNDAN 3,SD,SD / sederajat,Jl. Babakan Ciparay No.112/194 A,1,4,,Sukahaji,Kec. Babakan Ciparay,-6.9275,107.5854,Tidak ada,Tidak Aktif,Yayasan
+20219609,SD IGNATIUS SLAMET RIYADI,SD,SD / sederajat,Jl. Gatot Subroto 221 Bandung,6,2,,Cibangkong,Kec. Batununggal,-6.9255,107.6318,Tidak ada,Tidak Aktif,Yayasan
+20245187,SD NEGERI CIUJUNG 1,SD,SD / sederajat,Jl. Lapangan Supratman No. 7,1,1,,Cihapit,Kec. Bandung Wetan,-6.907,107.6291,Tidak ada,Aktif,Pemerintah Daerah
+20245141,SD NEGERI CIROYOM,SD,SD / sederajat,Jl. Taruna No. 33/26 A,3,4,Ciroyom,Ciroyom,Kec. Andir,-6.9112,107.5834,Tidak ada,Aktif,Pemerintah Daerah
+20245227,SD NEGERI MARGAHAYU RAYA 3,SD,SD / sederajat,Jl. Pluto Utara Blok G No 73 RT.005 RW.014,5,4,Margasari,Margasari,Kec. Buahbatu,-6.9552,107.6637,Tidak ada,Aktif,Pemerintah Pusat
+20245189,SD NEGERI CIUJUNG 3,SD,SD / sederajat,Jl. Lapangan Supratman No. 7,4,4,,Cihapit,Kec. Bandung Wetan,-6.9069,107.6293,Tidak ada,Aktif,Pemerintah Daerah
+69734330,SD ALFA CENTAURI,SD,SD / sederajat,Jl. Palasari No. 9,9,2,Lingkar Selatan,,Kec. Lengkong,-6.9276,107.6231,"C1, D",Tidak Aktif,Yayasan
+20245454,SD NEGERI BABAKAN SARI 3,SD,SD / sederajat,Jl. Babakan Sari I No.173,1,12,,Babakan Sari,Kec. Kiaracondong,-6.9242,107.6542,Tidak ada,Aktif,Pemerintah Daerah
+20244878,SD NEGERI ISOLA 1,SD,SD / sederajat,Jl. Gegerkalong Girang No. 12,1,6,,Isola,Kec. Sukasari,-6.8631,107.5909,Tidak ada,Aktif,Lainnya
+20245594,SD NEGERI JATAYU 4,SD,SD / sederajat,Jl. Komud Supadio No. 39 A,1,6,,Husen Sastranegara,Kec. Cicendo,-6.9098,107.5836,Tidak ada,Aktif,Lainnya
+20245246,SD NEGERI PANORAMA 3,SD,SD / sederajat,Jl. Hegarmanah No. 152,0,0,,Hegarmanah,Kec. Cidadap,-6.87,107.6013,Tidak ada,Aktif,Lainnya
+20244871,SD NEGERI GUMURUH 08,SD,SD / sederajat,Jl. Taurus No. 60,6,9,,Gumuruh,Kec. Batununggal,-6.9352,107.6354,Tidak ada,Aktif,Pemerintah Daerah
+20244955,SD NEGERI BOJONGLOA 3,SD,SD / sederajat,Jl. Cibaduyut Raya No. 142/199 C,4,6,,Kebon Lega,Kec. Bojong Loa Kidul,-6.9381,107.595,Tidak ada,Aktif,Pemerintah Daerah
+20245206,SD NEGERI GATOT SUBROTO 1,SD,SD / sederajat,Jl. Yudhawastu Pramuka IV,1,12,,Cicadas,Kec. Cibeunying Kidul,-6.9031,107.6365,Tidak ada,Aktif,Lainnya
+69932122,SD ADZKIA,SD,SD / sederajat,JL. PANUMBANG JAYA DALAM NO 38 F,4,4,Ciumbuleuit,Ciumbuleuit,Kec. Cidadap,-6.881339,107.605756,Tidak ada,Tidak Aktif,Lainnya
+20267927,SD IT Al-FAJAR,SD,SD / sederajat,Jl. Buana Sari IV No. 18-21,8,4,,Kujangsari,Kec. Bandung Kidul,-6.9669,107.642,"C1, D",Tidak Aktif,Yayasan
+20245008,SD NEGERI BABAKAN CIPARAY 02,SD,SD / sederajat,Jl. Caringin Cikungkurak RT 03 RW 06,3,6,,Babakan Ciparay,Kec. Babakan Ciparay,-6.9401,107.5765,Tidak ada,Aktif,Pemerintah Daerah
+20245752,SD NEGERI PINDAD 2,SD,SD / sederajat,Jl. Papanggungan No. 01,4,11,,Sukapura,Kec. Kiaracondong,-6.9355,107.6464,Tidak ada,Aktif,Lainnya
+20244962,SD NEGERI CIBADAK 3,SD,SD / sederajat,Jl. Cibadak No. 193,8,2,Cibadak,Cibadak,Kec. Astanaanyar,-6.9214,107.5968,Tidak ada,Aktif,Pemerintah Daerah
+20245724,SD NEGERI PANYILEUKAN 1,SD,SD / sederajat,Komp. Bumi Panyileukan F.1,1,5,Cipadung Kidul,Cipadung Kidul,Kec. Panyileukan,-6.942,107.7165,Tidak ada,Aktif,Pemerintah Daerah
+20246412,SD NEGERI MARGASARI 1,SD,SD / sederajat,Jl. Rancasawo No. 50,2,20,Rancasawo,Margasari,Kec. Buahbatu,-6.9644,107.6569,Tidak ada,Aktif,Pemerintah Daerah
+20244923,SD NEGERI SUKAJADI 1,SD,SD / sederajat,Jl. Sirnamanah No. 4 Bandung,6,6,,Pasteur,Kec. Sukajadi,-6.8883,107.5979,Tidak ada,Aktif,Pemerintah Daerah
+20245505,SD NEGERI CISARANTEN KIDUL 1,SD,SD / sederajat,Jl. Riung Bakti 1,1,13,Riung Bakti Raya,Cisaranten Kidul,Kec. Gedebage,-6.9455,107.6859,Tidak ada,Aktif,Pemerintah Pusat
+20245253,SD NEGERI PADASUKA 7,SD,SD / sederajat,Jl. Padasuka No. 90,4,6,,Pasirlayung,Kec. Cibeunying Kidul,-6.8979,107.6544,Tidak ada,Aktif,Pemerintah Daerah
+20246403,SD NEGERI CIJAWURA 6,SD,SD / sederajat,Jl. Cijawura Hilir,6,12,,,Kec. Buahbatu,-6.9593,107.671,Tidak ada,Aktif,Pemerintah Pusat
+20245026,SD NEGERI CIRANGRANG 2,SD,SD / sederajat,"Jl. K.h. Wahid Hasyim Kopo Km 5,5",1,4,,Margasuka,Kec. Babakan Ciparay,-6.9596,107.5812,Tidak ada,Aktif,Pemerintah Daerah
+20244913,SD NEGERI SAYURAN 5,SD,SD / sederajat,Kp. Sayuran No. 74,7,7,,Cijerah,Kec. Bandung Kulon,-6.9241,107.5743,Tidak ada,Aktif,Pemerintah Daerah
+20245104,SD NEGERI AWIGOMBONG 3,SD,SD / sederajat,Jl. Asep Berlian No. 33,4,6,,Cicadas,Kec. Cibeunying Kidul,-6.908,107.6408,Tidak ada,Aktif,Pemerintah Daerah
+20245027,SD NEGERI CIRANGRANG 3,SD,SD / sederajat,"Jl. K.H. Wahid Hasyim Km 5,5 Kopo Cirangrang",1,4,,Margasuka,Kec. Babakan Ciparay,-6.9595,107.5814,A - Tuna netra,Aktif,Pemerintah Daerah
+20244847,SD NEGERI CIJERAH INDAH,SD,SD / sederajat,Jl. Mekar Hurip No. 18,3,8,,Cijerah,Kec. Bandung Kulon,-6.9238,107.5746,Tidak ada,Aktif,Pemerintah Daerah
+20245175,SD NEGERI CIKUTRA 4,SD,SD / sederajat,Jl. Cikutra No.326,1,2,,Neglasari,Kec. Cibeunying Kaler,-6.8935,107.6372,Tidak ada,Aktif,Pemerintah Daerah
+20219839,SD KRISTEN YAHYA,SD,SD / sederajat,Jl. Progo No. 4,4,7,,Cihapit,Kec. Bandung Wetan,-6.9044,107.6172,Tidak ada,Tidak Aktif,Yayasan
+20244743,SD NEGERI CIBUNTU 1,SD,SD / sederajat,Jl. Holis No.31,2,1,,Warung Muncang,Kec. Bandung Kulon,-6.9245,107.5748,Tidak ada,Aktif,Lainnya
+20245086,SD NEGERI SITUGUNTING 2,SD,SD / sederajat,Jl. H. Zakaria No. 56,7,1,,Sukahaji,Kec. Babakan Ciparay,-6.9325,107.5842,Tidak ada,Aktif,Pemerintah Daerah
+20253757,SD MUTIARA BUNDA,SD,SD / sederajat,Jl. Arcamanik Endah No.3,2,9,,Sukamiskin,Kec. Arcamanik,-6.9103,107.6708,"C1, D",Tidak Aktif,Yayasan
+20244964,SD NEGERI CIBADUYUT 2,SD,SD / sederajat,Jl. Cibaduyut Raya Gg. Ma Maja No. 50,3,5,,Cibaduyut,Kec. Bojong Loa Kidul,-6.9569,107.5989,Tidak ada,Aktif,Lainnya
+20219588,SD 3 KRISTEN PAULUS,SD,SD / sederajat,Jl. Lombok No. 7,5,3,,Merdeka,Kec. Sumur Bandung,-6.9108,107.6184,Tidak ada,Tidak Aktif,Yayasan
+20245075,SD NEGERI PASAWAHAN 4,SD,SD / sederajat,Jl. Muhamad Toha No. 383,2,7,Ciseureuh,Wates,Kec. Bandung Kidul,-6.9595,107.6132,Tidak ada,Aktif,Pemerintah Daerah
+20219845,SD KRISTEN DIAN EMAS,SD,SD / sederajat,Jl. Muara Barat No.2,11,4,Situsaeur,Situsaeur,Kec. Bojong Loa Kidul,-6.9383,107.6043,Tidak ada,Tidak Aktif,Yayasan
+20245160,SD NEGERI CICADAS 08,SD,SD / sederajat,Jl. Asep Berlian No.33,4,6,Cicadas,Cicadas,Kec. Cibeunying Kidul,-6.9079,107.6408,Tidak ada,Aktif,Pemerintah Daerah
+20245177,SD NEGERI CIKUTRA 6,SD,SD / sederajat,Jl. Cikutra No.326,1,2,,Neglasari,Kec. Cibeunying Kaler,-6.8936,107.6373,Tidak ada,Aktif,Pemerintah Pusat
+20246415,SD NEGERI RANCABOLANG 2,SD,SD / sederajat,Jl. Rancabolang Indah No. 1,6,16,,Manjahlega,Kec. Rancasari,-6.9501,107.6623,Tidak ada,Aktif,Pemerintah Daerah
+20245766,SD NEGERI SEKELOA 2,SD,SD / sederajat,Jl. Sekeloa Utara No. 30 A,5,6,,Sekeloa,Kec. Coblong,-6.8877,107.619,Tidak ada,Aktif,Pemerintah Daerah
+20245070,SD NEGERI PAJAGALAN 47-3,SD,SD / sederajat,Jl. Pasirkoja No. 37,1,3,,Nyengseret,Kec. Astanaanyar,-6.9271,107.6014,Tidak ada,Aktif,Lainnya
+20219534,SD ANGKASA 1,SD,SD / sederajat,Jl. Pajajaran No. 150,0,0,,Pajajaran,Kec. Cicendo,-6.9061,107.5861,Tidak ada,Tidak Aktif,Yayasan
+20245163,SD NEGERI CIGADUNG 2,SD,SD / sederajat,Jl. Ranca Kendal No. 99,4,4,Cigadung,Cigadung,Kec. Cibeunying Kaler,-6.8785,107.6256,Tidak ada,Aktif,Pemerintah Daerah
+20244966,SD NEGERI CIBADUYUT 4,SD,SD / sederajat,Jl. Prambanan Blok O No. 4,2,3,Cibaduyut Kidul,Cibaduyut Kidul,Kec. Bojong Loa Kidul,-6.9543,107.5873,Tidak ada,Aktif,Pemerintah Pusat
+20244832,SD NEGERI CENTEH 4,SD,SD / sederajat,Jl. Centeh No. 5,7,10,,Samoja,Kec. Batununggal,-6.9281,107.6252,Tidak ada,Aktif,Pemerintah Daerah
+20244891,SD NEGERI KEBON GEDANG 05,SD,SD / sederajat,Jl. Kebon Gedang No. 82,3,7,,Maleer,Kec. Batununggal,-6.9308,107.6414,Tidak ada,Aktif,Pemerintah Daerah
+20245149,SD NEGERI CICADAS 01,SD,SD / sederajat,Jl. Cikutra No. 15,12,9,,Cikutra,Kec. Cibeunying Kidul,-6.9061,107.6438,Tidak ada,Aktif,Pemerintah Pusat
+20245488,SD NEGERI CIBIRU 3,SD,SD / sederajat,"Jl. A.h. Nasution Km. 14,5 Bandung",1,1,Babakan Desa Pasirbiru,Pasir Biru,Kec. Cibiru,-6.9342,107.7214,Tidak ada,Aktif,Pemerintah Daerah
+20244945,SD NEGERI BABAKAN TAROGONG 3,SD,SD / sederajat,Jl. Kh. Wahid Hasyim No. 256,0,0,,Suka Asih,Kec. Bojong Loa Kaler,-6.9385,107.5937,Tidak ada,Aktif,Pemerintah Pusat
+20245723,SD NEGERI PANGHEGAR,SD,SD / sederajat,Jl. Pamekar Barat No. 5,4,2,Mekar Mulya,Mekar Mulya,Kec. Panyileukan,-6.9353,107.7128,Tidak ada,Aktif,Lainnya
+20245196,SD NEGERI GARUDA 1,SD,SD / sederajat,Jl. Dadali No. 5,6,2,,Garuda,Kec. Andir,-6.9129,107.5773,Tidak ada,Aktif,Pemerintah Daerah
+20219531,SD ADVENT CIMINDI,SD,SD / sederajat,Jl. Raya Cimindi No. 74,1,5,,Campaka,Kec. Andir,-6.9049,107.5752,Tidak ada,Tidak Aktif,Yayasan
+20244959,SD NEGERI CANGKUANG 14,SD,SD / sederajat,Jl. Cibaduyut Raya Gg. Tvri 5,5,6,,Cibaduyut Kidul,Kec. Bojong Loa Kidul,-6.9592,107.5898,Tidak ada,Aktif,Pemerintah Daerah
+20245171,SD NEGERI CIJAWURA 3,SD,SD / sederajat,Jl. Cijawura Hilir,6,12,,,Kec. Buahbatu,-6.9645,107.6569,Tidak ada,Aktif,Pemerintah Pusat
+20245054,SD NEGERI PABAKI 01,SD,SD / sederajat,Jl. Pabaki No. 33,3,3,,Panjunan,Kec. Astanaanyar,-6.9273,107.596,Tidak ada,Aktif,Pemerintah Daerah
+20245137,SD NEGERI CIBOGO,SD,SD / sederajat,Jl. Cibogo No. 78,2,4,Kp. Cibogo,Sukawarna,Kec. Sukajadi,-6.884,107.5861,Tidak ada,Aktif,Pemerintah Daerah
+20245460,SD NEGERI BABAKAN SINYAR 1,SD,SD / sederajat,Jl. Terusan Sukapura,3,3,Sukapura,Sukapura,Kec. Kiaracondong,-6.9282,107.6525,Tidak ada,Aktif,Lainnya
+20245743,SD NEGERI PASIRKALIKI 96-2,SD,SD / sederajat,Jl. Hos Cokroaminoto No. 110,2,7,,Pasirkaliki,Kec. Cicendo,-6.9079,107.5977,Tidak ada,Aktif,Pemerintah Daerah
+20245120,SD NEGERI BOJONGKONENG 2,SD,SD / sederajat,Jl. Bojongkoneng No. 38,5,12,,Sukapada,Kec. Cibeunying Kidul,-6.8928,107.6448,Tidak ada,Aktif,Pemerintah Daerah
+20245980,SD NEGERI SEJAHTERA 1,SD,SD / sederajat,Jl. Sejahtera No. 12,4,9,,Pasteur,Kec. Sukajadi,-6.8931,107.6009,Tidak ada,Aktif,Pemerintah Pusat
+20219904,SD YAYASAN ATIKAN SUNDA,SD,SD / sederajat,Jl. Phh Mustapa N0. 115,1,4,Sukapada,Sukapada,Kec. Cibeunying Kidul,-6.901,107.6472,Tidak ada,Tidak Aktif,Yayasan
+20244929,SD NEGERI SUKARASA 3,SD,SD / sederajat,Jl. Pak Gatot V Kpad,2,2,,Gegerkalong,Kec. Sukasari,-6.8666,107.5885,Tidak ada,Aktif,Lainnya
+20219603,SD CAHAYA PELITA 1,SD,SD / sederajat,Jl. Babakan Ciparay No. 251/194 A,2,2,,Sukahaji,Kec. Babakan Ciparay,-6.9275,107.5854,Tidak ada,Tidak Aktif,Yayasan
+20245022,SD NEGERI BUAH BATU BARU,SD,SD / sederajat,Jl. Buahbatu No. 273,11,3,,Turangga,Kec. Lengkong,-6.9469,107.6325,Tidak ada,Aktif,Pemerintah Daerah
+20245580,SD NEGERI GRIYA BUMI ANTAPANI 27-1,SD,SD / sederajat,Jl. Cibatu VI No. 1,2,16,,Antapani Tengah,Kec. Antapani,-6.9153,107.6652,Tidak ada,Aktif,Pemerintah Daerah
+20244994,SD NEGERI ASTANAANYAR 2,SD,SD / sederajat,Jl. Liogenteng no. 27,7,5,,Nyengseret,Kec. Astanaanyar,-6.9322,107.6006,Tidak ada,Aktif,Pemerintah Daerah
+20247279,SD NEGERI KARANGPAWULANG 2,SD,SD / sederajat,Jl. Karawitan No. 81,0,0,,Turangga,Kec. Lengkong,-6.9407,107.6326,Tidak ada,Aktif,Lainnya
+20245112,SD NEGERI BABAKAN PRIANGAN 5,SD,SD / sederajat,Jl. Sriwijaya,6,1,Ciasureuh,Ciseureuh,Kec. Regol,-6.9454,107.6133,Tidak ada,Aktif,Pemerintah Daerah
+20219585,SD BALA KESELAMATAN,SD,SD / sederajat,Jl. Gardujati No. 89,1,7,,Kebon Jeruk,Kec. Andir,-6.9222,107.6042,Tidak ada,Tidak Aktif,Yayasan
+20245179,SD NEGERI CIMUNCANG 2,SD,SD / sederajat,Jl. Babakan Haji Tamim No.33,1,3,,Padasuka,Kec. Cibeunying Kidul,-6.903,107.6481,Tidak ada,Aktif,Lainnya
+20245524,SD NEGERI CIKADUT 5,SD,SD / sederajat,Jl. A.h. Nasution Km.7 No. 1,1,1,,Karang Pamulang,Kec. Mandalajati,-6.9038,107.6657,Tidak ada,Aktif,Lainnya
+20219826,SD SALUYU,SD,SD / sederajat,Kp. Situgunting No. 309/194 A,2,1,,Sukahaji,Kec. Babakan Ciparay,-6.9313,107.5879,Tidak ada,Tidak Aktif,Yayasan
+20219901,SD YWKA REL HOMY SCHOOL,SD,SD / sederajat,Jl. Rajawali  I  No. 5,3,2,,Garuda,Kec. Andir,-6.9126,107.577,Tidak ada,Tidak Aktif,Yayasan
+20246417,SD NEGERI RANCASAWO 1,SD,SD / sederajat,Jl. Rancasawo No. 50,2,20,,Margasari,Kec. Buahbatu,-6.9606,107.6594,Tidak ada,Aktif,Pemerintah Daerah
+20244842,SD NEGERI CIJERAH 2,SD,SD / sederajat,Jl. Cijerah No. 122,6,3,,Cijerah,Kec. Bandung Kulon,-6.9338,107.5653,Tidak ada,Aktif,Pemerintah Daerah
+20244870,SD NEGERI GUMURUH 07,SD,SD / sederajat,Jl. Gumuruh No. 138,8,7,,Gumuruh,Kec. Batununggal,-6.9305,107.6389,Tidak ada,Aktif,Pemerintah Daerah
+20245778,SD NEGERI SINDANGSARI 3,SD,SD / sederajat,Jl. Parakan Saat,1,23,,Antapani Tengah,Kec. Antapani,-6.92,107.6653,Tidak ada,Aktif,Pemerintah Daerah
+20245711,SD NEGERI LANGENSARI 5,SD,SD / sederajat,Jl. Pasirkaliki Barat,10,15,,Sadang Serang,Kec. Coblong,-6.8925,107.6257,Tidak ada,Aktif,Pemerintah Daerah
+20245449,SD NEGERI AYUDIA,SD,SD / sederajat,Jl. Ayudia No. 25,8,1,,Arjuna,Kec. Cicendo,-6.9086,107.589,A - Tuna netra,Aktif,Lainnya
+20244992,SD NEGERI TANJUNG 3,SD,SD / sederajat,Jl. Babakan Tarogong No. 193,6,5,Sukaasih,Suka Asih,Kec. Bojong Loa Kaler,-6.93,107.5891,Tidak ada,Aktif,Pemerintah Daerah
+20245798,SD NEGERI SUKALAKSANA 2,SD,SD / sederajat,Jl. Sukakarya No. 109 Rt 06 Rw 12,6,12,Sukakarya,Cicaheum,Kec. Kiaracondong,-6.915,107.6524,Tidak ada,Aktif,Pemerintah Daerah
+20244910,SD NEGERI SAYURAN 2,SD,SD / sederajat,Jl. Sindangsari Kp. Sayuran No. 36,4,9,,Cijerah,Kec. Bandung Kulon,-6.9233,107.5735,Tidak ada,Aktif,Pemerintah Daerah
+20246397,SD NEGERI BUAHBATU 6,SD,SD / sederajat,Jl. H. Ibrahim Adjie No. 65,2,2,,Cijaura,Kec. Buahbatu,-6.951,107.641,Tidak ada,Aktif,Pemerintah Pusat
+20245148,SD NEGERI CIBURUY,SD,SD / sederajat,Jl. Ciburuy Kav. 59,6,6,Ciburuy,Ciseureuh,Kec. Regol,-6.9561,107.6145,Tidak ada,Aktif,Pemerintah Daerah
+69883610,SD SEMI PALAR,SD,SD / sederajat,Jl.  SUKAMULYA NO.77-79,3,4,Sukagalih,Sukagalih,Kec. Sukajadi,-6.894831,107.595397,Tidak ada,Tidak Aktif,Lainnya
+20245510,SD NEGERI CICABE,SD,SD / sederajat,Jl. H. Abdul Hamid No. 66,7,3,,Jatihandap,Kec. Mandalajati,-6.9008,107.6602,Tidak ada,Aktif,Pemerintah Daerah
+20245064,SD NEGERI PAGARSIH 1,SD,SD / sederajat,Jl. Pagarsih No. 77,3,9,,Cibadak,Kec. Astanaanyar,-6.9229,107.5944,Tidak ada,Aktif,Pemerintah Pusat
+20245481,SD NEGERI BINAHARAPAN 1,SD,SD / sederajat,Jl. Golf Selatan I No 26,0,0,,Cisaranten Bina Harapan,Kec. Arcamanik,-6.9151,107.6849,Tidak ada,Aktif,Pemerintah Daerah
+20245279,SD NEGERI SUKAWARNA 5,SD,SD / sederajat,Jl. Sariwangi No.  1,3,1,,Sukawarna,Kec. Sukajadi,-6.8821,107.5784,Tidak ada,Aktif,Pemerintah Daerah
+20245174,SD NEGERI CIKUTRA 3,SD,SD / sederajat,Jl. Cikutra No.326,1,2,Neglasari,Neglasari,Kec. Cibeunying Kaler,-6.8936,107.6372,Tidak ada,Aktif,Pemerintah Daerah
+20245073,SD NEGERI PASAWAHAN 1,SD,SD / sederajat,Jl. Mochamad Toha No. 383,2,7,,Wates,Kec. Bandung Kidul,-6.9596,107.6133,Tidak ada,Aktif,Pemerintah Daerah
+20245759,SD NEGERI RANCASAGATAN,SD,SD / sederajat,Jl. Rancasagatan 1,3,1,,Cisaranten Kidul,Kec. Gedebage,-6.9574,107.6915,Tidak ada,Aktif,Pemerintah Daerah
+20245147,SD NEGERI CIBEUNYING 4,SD,SD / sederajat,Jl. Bojongkoneng No.38,5,12,,Sukapada,Kec. Cibeunying Kidul,-6.9044,107.6235,Tidak ada,Aktif,Pemerintah Daerah
+20244768,SD NEGERI BOJONG 2,SD,SD / sederajat,Jl. Kawat No. 1,5,2,Caringin,Caringin,Kec. Bandung Kulon,-6.9312,107.5799,Tidak ada,Aktif,Pemerintah Daerah
+20245015,SD NEGERI BABAKAN CIPARAY 06,SD,SD / sederajat,Jl. Kopo No. 440,6,1,,Babakan Ciparay,Kec. Babakan Ciparay,-6.9477,107.588,Tidak ada,Aktif,Pemerintah Daerah
+20245041,SD NEGERI KOPO 3,SD,SD / sederajat,Jl. Pasirkoja No. 37,1,3,,Nyengseret,Kec. Astanaanyar,-6.9271,107.6014,Tidak ada,Aktif,Pemerintah Daerah
+20219537,SD BANDUNG RAYA,SD,SD / sederajat,Jl. Cijerah No. 151,1,5,,Cibuntu,Kec. Bandung Kulon,-6.9337,107.5651,Tidak ada,Tidak Aktif,Yayasan
+20245484,SD NEGERI BINAHARAPAN 4,SD,SD / sederajat,Jl. Golf Selatan I No 26,1,10,,Cisaranten Bina Harapan,Kec. Arcamanik,-6.9149,107.6852,Tidak ada,Aktif,Pemerintah Daerah
+20245128,SD NEGERI CARINGIN 3,SD,SD / sederajat,Jl. Sukamulya No.46,4,4,,Sukagalih,Kec. Sukajadi,-6.8895,107.5859,Tidak ada,Aktif,Pemerintah Daerah
+20245831,SD NEGERI UJUNGBERUNG 05,SD,SD / sederajat,Jl. Cigending No. 03,1,5,,Cigending,Kec. Ujungberung,-6.9103,107.7032,Tidak ada,Aktif,Pemerintah Daerah
+20267679,SD CERDAS MUTHAHHARI,SD,SD / sederajat,Jl. Layar No. 17,1,1,Cisaranteun Endah,Cisaranten Endah,Kec. Arcamanik,-6.9165,107.6868,Tidak ada,Tidak Aktif,Yayasan
+20245744,SD NEGERI PASIRKALIKI 96-3,SD,SD / sederajat,Jl. Hos Cokroaminoto No. 110,2,7,,Pasirkaliki,Kec. Cicendo,-6.9081,107.5978,Tidak ada,Aktif,Pemerintah Daerah
+20219831,SD PRIBADI BANDUNG,SD,SD / sederajat,JL. PHH. MUSTOFA NO 41 RT 02 RW 06,2,6,Neglasari,Neglasari,Kec. Cibeunying Kaler,-6.8956,107.6478,Tidak ada,Tidak Aktif,Lainnya
+20245267,SD NEGERI SUKAGALIH 2,SD,SD / sederajat,Jl. Sukagalih No. 108,6,3,,Sukabungah,Kec. Sukajadi,-6.8982,107.6042,Tidak ada,Aktif,Pemerintah Pusat
+20245768,SD NEGERI SINDANGLAYA 1,SD,SD / sederajat,Jl. Arcamanik No. 28,2,1,,Sindang Jaya,Kec. Mandalajati,-6.9037,107.6806,Tidak ada,Aktif,Pemerintah Daerah
+20219592,SD KRISTEN 1 BPK PENABUR,SD,SD / sederajat,Jl. Jend.sudirman 246,1,1,Andir,Kebon Jeruk,Kec. Andir,-6.9196,107.5952,Tidak ada,Tidak Aktif,Yayasan
+20247274,SD BINA TALENTA,SD,SD / sederajat,Jl. Kembar Baru Utara No.4 Bandung,0,0,,Cigereleng,Kec. Regol,-6.9399,107.6125,Tidak ada,Tidak Aktif,Yayasan
+20219853,SD MUHAMMADIYAH 2 BANDUNG,SD,SD / sederajat,Jl Kebon Jayanti  Gg. Pensiun Kiaracondong,5,5,Kebonjayanti,,Kec. Kiaracondong,-6.9273,107.6481,Tidak ada,Tidak Aktif,Yayasan
+20245543,SD NEGERI CITEPUS 3,SD,SD / sederajat,Jl. Astana Eyang,9,6,,Pajajaran,Kec. Cicendo,-6.9022,107.5887,Tidak ada,Aktif,Pemerintah Daerah
+20245220,SD NEGERI LENGKONG BESAR 105-2,SD,SD / sederajat,Jl. Lengkong Besar,5,7,Balonggede,Balong Gede,Kec. Regol,-6.9305,107.6128,Tidak ada,Aktif,Pemerintah Daerah
+20245110,SD NEGERI BABAKAN PRIANGAN 3,SD,SD / sederajat,Jl. Sriwijaya,3,5,,Ciseureuh,Kec. Regol,-6.9456,107.6128,Tidak ada,Aktif,Pemerintah Daerah
+20245273,SD NEGERI SUKAGALIH 9,SD,SD / sederajat,Jl. Sukagalih No. 108,0,0,Sukabungah,Sukabungah,Kec. Sukajadi,-6.8996,107.5964,Tidak ada,Aktif,Pemerintah Daerah
+20219855,SD MIFTAHUL IMAN,SD,SD / sederajat,Jl Setiabudhi 179/171 A,5,4,,Isola,Kec. Sukasari,-6.8546,107.5936,Tidak ada,Tidak Aktif,Yayasan
+20219895,SD TULUS KARTIKA,SD,SD / sederajat,Jl. Rancabolang No. 140,1,4,Rancabolang,Sekejati,Kec. Buahbatu,-6.9412,107.6498,Tidak ada,Tidak Aktif,Yayasan
+20245285,SDPN SABANG,SD,SD / sederajat,Jl. Sabang No. 2,6,1,-,Cihapit,Kec. Bandung Wetan,-6.9085,107.6209,Tidak ada,Aktif,Pemerintah Daerah
+20245814,SD NEGERI TARUNA KARYA 4,SD,SD / sederajat,Jl. Cilengkrang II No. 80,4,8,,Palasari,Kec. Cibiru,-6.922,107.7138,Tidak ada,Aktif,Pemerintah Daerah
+20245497,SD NEGERI CIMINCRANG,SD,SD / sederajat,Jl. Cilameta No.1,2,2,Cilameta,Cimincrang,Kec. Gedebage,-6.9419,107.7051,Tidak ada,Aktif,Pemerintah Daerah
+20244961,SD NEGERI CIBADAK 1,SD,SD / sederajat,Jl.cibadak No.193 Bandung,8,2,Cibadak,Cibadak,Kec. Astanaanyar,-6.9213,107.5968,Tidak ada,Aktif,Pemerintah Daerah
+69895440,SD Nehru Memorial School,SD,SD / sederajat,Jl. Lembong No. 40,0,0,,Braga,Kec. Sumur Bandung,-6.920898,107.617618,Tidak ada,Tidak Aktif,Yayasan
+20245508,SD NEGERI CISARANTEN KIDUL 4,SD,SD / sederajat,Jl. Riung Bakti 1,1,1,Riung Bakti Raya,Cisaranten Kidul,Kec. Gedebage,-6.9456,107.6859,Tidak ada,Aktif,Lainnya
+20219849,SD MUHAMMADIYAH 6,SD,SD / sederajat,Jl. Ir.h. Juanda Kp. Bengkok,5,1,Bengkok,Ciumbuleuit,Kec. Cidadap,-6.863052,108.0,Tidak ada,Tidak Aktif,Yayasan
+20219907,SD WINDU PUTRA,SD,SD / sederajat,Jl. Babakan Cibereum No.142,4,1,,Campaka,Kec. Andir,-6.9073,107.5713,Tidak ada,Tidak Aktif,Yayasan
+20245172,SD NEGERI CIKUTRA 1,SD,SD / sederajat,Jl. Cikutra No.326,1,2,,Neglasari,Kec. Cibeunying Kaler,-6.8936,107.6372,Tidak ada,Aktif,Pemerintah Daerah
+20245708,SD NEGERI LANUMA HUSEIN SASTRANEGARA 2,SD,SD / sederajat,Jl. Lmu Suparmin No. 1,2,2,,Pajajaran,Kec. Cicendo,-6.9029,107.5965,Tidak ada,Aktif,Pemerintah Daerah
+20245445,SD NEGERI ANTAPANI 5,SD,SD / sederajat,Jl. Sindangsari  I  No. 1,4,10,Sindangsari,,Kec. Antapani,-6.9062,107.6647,Tidak ada,Aktif,Pemerintah Daerah
+20245173,SD NEGERI CIKUTRA 2,SD,SD / sederajat,Jl. Cikutra No.326,1,2,,Neglasari,Kec. Cibeunying Kaler,-6.8936,107.6371,Tidak ada,Aktif,Pemerintah Daerah
+20245706,SD NEGERI KRESNA,SD,SD / sederajat,Jl. Kresna No. 47,1,4,,Arjuna,Kec. Cicendo,-6.9098,107.5928,Tidak ada,Aktif,Pemerintah Daerah
+20245213,SD NEGERI KARANG MULYA 2,SD,SD / sederajat,Jl. Rajawali Sakti  No. 266,7,1,,Dungus Cariang,Kec. Andir,-6.9165,107.5872,Tidak ada,Aktif,Pemerintah Daerah
+20245563,SD NEGERI DERWATI 1,SD,SD / sederajat,Jl. Derwati No. 40,6,4,Derwati,Derwati,Kec. Rancasari,-6.9649,107.683,Tidak ada,Aktif,Pemerintah Pusat
+20244958,SD NEGERI BOJONGLOA 6,SD,SD / sederajat,Jl. Cibaduyut Raya No. 142/199 C,4,6,,Kebon Lega,Kec. Bojong Loa Kidul,-6.9507,107.5942,Tidak ada,Aktif,Pemerintah Daerah
+20244740,SD NEGERI BOJONG 1,SD,SD / sederajat,Jl. Kawat No. 1,5,2,,Caringin,Kec. Bandung Kulon,-6.9278,107.5809,Tidak ada,Aktif,Pemerintah Daerah
+20245813,SD NEGERI TARUNA KARYA 3,SD,SD / sederajat,Jl. Galumpit No. 2,4,14,,Palasari,Kec. Cibiru,-6.9188,107.7161,Tidak ada,Aktif,Pemerintah Daerah
+20245159,SD NEGERI CICADAS 06,SD,SD / sederajat,Jl. Cikutra No. 15,0,0,,Cikutra,Kec. Cibeunying Kidul,-6.8966,107.638,Tidak ada,Aktif,Pemerintah Daerah
+20219818,SD PARDOMUAN,SD,SD / sederajat,Jl. Lombok No. 7,4,3,,Merdeka,Kec. Sumur Bandung,-6.9108,107.6185,Tidak ada,Tidak Aktif,Yayasan
+20246416,SD NEGERI RANCABOLANG 3,SD,SD / sederajat,Jl. Rancabolang Indah No. 1,6,16,,Manjahlega,Kec. Rancasari,-6.9501,107.6623,Tidak ada,Aktif,Pemerintah Daerah
+20245238,SD NEGERI MOHAMAD TOHA 1,SD,SD / sederajat,Jl. Mohamad Toha No. 22,1,4,,Pungkur,Kec. Regol,-6.9299,107.6067,Tidak ada,Aktif,Pemerintah Daerah
+20219856,SD MATHLAUL KHAIRIYAH,SD,SD / sederajat,Jl. Tamansari Bawah No. 60,4,20,,Taman Sari,Kec. Bandung Wetan,-6.903,107.6067,Tidak ada,Tidak Aktif,Yayasan
+20245067,SD NEGERI PAGARSIH 6,SD,SD / sederajat,Jl. Pagarsih No. 77,3,9,,Cibadak,Kec. Astanaanyar,-6.9231,107.5945,Tidak ada,Aktif,Lainnya
+20245132,SD NEGERI CIBEUREUM 03,SD,SD / sederajat,Jl. Asrama Kipal No. 56,5,4,,Campaka,Kec. Andir,-6.9074,107.571,Tidak ada,Aktif,Pemerintah Daerah
+20244920,SD NEGERI SIRNAMANAH,SD,SD / sederajat,Jl. Sirnamanah No. 4 Bandung,6,6,,Pasteur,Kec. Sukajadi,-6.8883,107.5979,Tidak ada,Aktif,Pemerintah Daerah
+20244899,SD NEGERI PERUMNAS CIJERAH 1,SD,SD / sederajat,Jl. Cijerah Barat No. 04,2,5,,Cijerah,Kec. Bandung Kulon,-6.9368,107.5613,Tidak ada,Aktif,Pemerintah Daerah
+20245233,SD NEGERI MERDEKA 5-3,SD,SD / sederajat,Jl. Merdeka No. 9,3,5,,Braga,Kec. Sumur Bandung,-6.9156,107.61,Tidak ada,Aktif,Pemerintah Daerah
+20245005,SD NEGERI BABAKAN CIPARAY 16,SD,SD / sederajat,Jl. Caringin No. 106,2,4,,Babakan Ciparay,Kec. Babakan Ciparay,-6.9459,107.5845,Tidak ada,Aktif,Pemerintah Daerah
+20219835,SD MUHAMMADIYAH 8 BANDUNG,SD,SD / sederajat,Jl. A. H. Nasution 168 Bandung,4,4,,Cipadung Kulon,Kec. Panyileukan,-6.9158,107.7044,Tidak ada,Tidak Aktif,Yayasan
+20244974,SD NEGERI GENTRA MASEKDAS,SD,SD / sederajat,Jl. Sukamulya No. 29,4,10,Sukaasih,Suka Asih,Kec. Bojong Loa Kaler,-6.9364,107.5872,Tidak ada,Aktif,Pemerintah Daerah
+20245562,SD NEGERI DERWATI,SD,SD / sederajat,Jl. Derwati No. 40,6,4,Derwati,Derwati,Kec. Rancasari,-6.9649,107.683,Tidak ada,Aktif,Pemerintah Daerah
+20245573,SD NEGERI GRIYA BUMI ANTAPANI 13-1,SD,SD / sederajat,Jl. Kadipaten 14 No. 2,1,2,Antapani Kidul,Antapani Kidul,Kec. Antapani,-6.9193,107.6057,Tidak ada,Aktif,Pemerintah Daerah
+20245084,SD NEGERI SEKELIMUS 1,SD,SD / sederajat,Jl. Ters. Buahbatu Gg. Anyelir,4,9,Kelurahan Batununggal,Batununggal,Kec. Bandung Kidul,-6.9494,107.6373,Tidak ada,Aktif,Lainnya
+20254714,SD ISLAM MUTIARA HATI,SD,SD / sederajat,Jl. Terusan Cikajang Raya,4,22,-,Antapani Tengah,Kec. Antapani,-6.9328,107.6602,Tidak ada,Tidak Aktif,Yayasan
+20245795,SD NEGERI SUKAKARYA,SD,SD / sederajat,"Jl. Rusbandhi, S.h.",4,7,,Sukamiskin,Kec. Arcamanik,-6.9193,107.6697,Tidak ada,Aktif,Pemerintah Daerah
+20245121,SD NEGERI BOJONGKONENG 4,SD,SD / sederajat,Jl. Bojongkoneng No. 38,5,12,,Sukapada,Kec. Cibeunying Kidul,-6.9066,107.6498,Tidak ada,Aktif,Lainnya
+20245534,SD NEGERI CISARANTEN WETAN 1,SD,SD / sederajat,Jl. Raya Gedebage No. 17,0,0,,Babakan Penghulu,Kec. Cinambo,-6.9411,107.6916,Tidak ada,Aktif,Lainnya
+20219844,SD KRISTEN GAMALIEL,SD,SD / sederajat,Jl. Jendral Sudirman No. 205-207,0,0,,Cibadak,Kec. Astanaanyar,-6.9206,107.6048,Tidak ada,Tidak Aktif,Yayasan
+20245001,SD NEGERI BABAKAN CIPARAY 10,SD,SD / sederajat,Jl. Caringin Gg. Lumbung III No. 50,2,3,,Babakan Ciparay,Kec. Babakan Ciparay,-6.9455,107.583,Tidak ada,Aktif,Pemerintah Daerah
+20245941,SD NEGERI HARAPAN 1,SD,SD / sederajat,Jl. Pak Gatot VI KPAD,2,2,,Gegerkalong,Kec. Sukasari,-6.8653,107.5884,Tidak ada,Aktif,Pemerintah Pusat
+20244834,SD NEGERI CENTEH 6,SD,SD / sederajat,Jl. Centeh No. 5,7,10,,Samoja,Kec. Batununggal,-6.9281,107.6252,Tidak ada,Aktif,Pemerintah Daerah
+20245821,SD NEGERI TIKUKUR 5,SD,SD / sederajat,Jl. Titimplik No. 1,4,7,,Sadang Serang,Kec. Coblong,-6.8971,107.6219,Tidak ada,Aktif,Pemerintah Daerah
+20268647,SDK BPK PENABUR BANDA,SD,SD / sederajat,Jl. Bahureksa No. 26,3,5,Citarum,Citarum,Kec. Bandung Wetan,-6.9049,107.6279,Tidak ada,Tidak Aktif,Yayasan
+20244967,SD NEGERI CIBADUYUT 5,SD,SD / sederajat,Jl. Raya Cibaduyut No.45,3,1,,Cibaduyut,Kec. Bojong Loa Kidul,-6.9497,107.5918,Tidak ada,Aktif,Pemerintah Daerah
+20245214,SD NEGERI KARANG MULYA 3,SD,SD / sederajat,Jl. Rajawali Sakti  No. 266,7,1,Dunguscariang,Dungus Cariang,Kec. Andir,-6.9126,107.5805,Tidak ada,Aktif,Pemerintah Pusat
+20245244,SD NEGERI PANORAMA 1,SD,SD / sederajat,Jl. Hegarmanah No. 152,3,7,,Hegarmanah,Kec. Cidadap,-6.8695,107.601,"C1, D",Aktif,Lainnya
+20219595,SD INDUSTRI,SD,SD / sederajat,Jl. Industri Dalam No. 2,7,8,Arjuna,Arjuna,Kec. Cicendo,-6.9126,107.5948,Tidak ada,Tidak Aktif,Yayasan
+20244742,SD NEGERI CARINGIN,SD,SD / sederajat,Jl. Holis No. 424,3,3,,Caringin,Kec. Bandung Kulon,-6.9473,107.5856,Tidak ada,Aktif,Pemerintah Daerah
+20245184,SD NEGERI CIMUNCANG 7,SD,SD / sederajat,Jl. Babakan Haji Tamim No.33,7,3,Padasuka,Padasuka,Kec. Cibeunying Kidul,-6.8993,107.6529,Tidak ada,Aktif,Pemerintah Daerah
+20245036,SD NEGERI KARANGPAWULANG 1,SD,SD / sederajat,Jl. Karawitan No. 81,1,10,,Turangga,Kec. Lengkong,-6.9313,107.619,Tidak ada,Aktif,Pemerintah Daerah
+20245092,SD NEGERI SUMBERSARI INDAH 3,SD,SD / sederajat,Jl. Sumber Makmur No. 1,1,9,,Babakan,Kec. Babakan Ciparay,-6.9372,107.5727,Tidak ada,Aktif,Pemerintah Pusat
+20245229,SD NEGERI MENGGER GIRANG 1,SD,SD / sederajat,Jl. Mengger Girang Iii No. 4,12,8,,Pasirluyu,Kec. Regol,-6.9519,107.6167,"C1, D",Aktif,Pemerintah Pusat
+20244933,SD NEGERI TUNAS HARAPAN 01,SD,SD / sederajat,Jl. Cijerah No. 116,6,3,,Cijerah,Kec. Bandung Kulon,-6.9215,107.5695,Tidak ada,Aktif,Pemerintah Daerah
+20247253,SD PELITA NUSANTARA,SD,SD / sederajat,Jl. Suka Asih 61 A Setiabudhi,2,6,,Gegerkalong,Kec. Sukasari,-6.8671,107.596,Tidak ada,Tidak Aktif,Yayasan
+69734138,SD JUARA,SD,SD / sederajat,Jl Sukarajin I,7,13,Sukarajin,Cikutra,Kec. Cibeunying Kidul,-6.9015,107.6386,Tidak ada,Tidak Aktif,Yayasan
+20245591,SD NEGERI JATAYU 1,SD,SD / sederajat,Jl. Komud Supadio No. 39 A,1,6,,Husen Sastranegara,Kec. Cicendo,-6.9097,107.5836,Tidak ada,Aktif,Lainnya
+20245079,SD NEGERI RAYA BARAT 2,SD,SD / sederajat,Jl. Jendral Sudirman No. 587,3,10,,Sukahaji,Kec. Babakan Ciparay,-6.9185,107.5834,Tidak ada,Aktif,Pemerintah Daerah
+20219902,SD YPU,SD,SD / sederajat,Jl. Cukang Jati No. 5,2,5,,Samoja,Kec. Batununggal,-6.9243,107.629,Tidak ada,Tidak Aktif,Yayasan
+20245775,SD NEGERI SINDANGSARI 1,SD,SD / sederajat,Jl. Sindangsari 1 No. 1,4,10,,Antapani Wetan,Kec. Antapani,-6.9243,107.6697,Tidak ada,Aktif,Pemerintah Daerah
+20245502,SD NEGERI CIPAMOKOLAN 1,SD,SD / sederajat,Jl. Derwati No. 40,0,0,,Derwati,Kec. Rancasari,-6.9651,107.683,Tidak ada,Aktif,Pemerintah Daerah
+20245762,SD NEGERI SEKEJATI 3,SD,SD / sederajat,Jl. Cidurian Utara No. 22,4,10,,Sukapura,Kec. Kiaracondong,-6.9405,107.6535,Tidak ada,Aktif,Pemerintah Pusat
+20245791,SD NEGERI SUKARELA 2,SD,SD / sederajat,Jl. Mekarmulya No. 40,5,7,,Cipadung Kulon,Kec. Panyileukan,-6.9262,107.7049,Tidak ada,Aktif,Lainnya
+20245284,SD NEGERI SUKASENANG,SD,SD / sederajat,Jl. P.H.H. Mustofa No. 46,5,14,Cikutra,Cikutra,Kec. Cibeunying Kidul,-6.8983,107.6362,Tidak ada,Aktif,Pemerintah Daerah
+20219821,SD NUGRAHA,SD,SD / sederajat,Jl. Pln Dalam No. 4,2,5,,Ciseureuh,Kec. Regol,-6.9513,107.6115,Tidak ada,Tidak Aktif,Yayasan
+20245100,SD NEGERI ANDIR,SD,SD / sederajat,Jl. Cibadak No.  193,8,2,Cibadak,Cibadak,Kec. Astanaanyar,-6.9214,107.5968,Tidak ada,Aktif,Pemerintah Daerah
+20245217,SD NEGERI KARANG SARI,SD,SD / sederajat,Jl. Halteu Utara No. 149,5,1,Dunguscariang,Dungus Cariang,Kec. Andir,-6.9145,107.5866,Tidak ada,Aktif,Pemerintah Daerah
+20245218,SD NEGERI KOTA BARU,SD,SD / sederajat,Jl. Kota Baru III No.13,1,4,,Ciateul,Kec. Regol,-6.9334,107.6184,Tidak ada,Aktif,Pemerintah Daerah
+20245125,SD NEGERI BUAHBATU 4,SD,SD / sederajat,Jl. H. Ibrahiem Adji No. 45,3,2,Cijawura,Cijaura,Kec. Buahbatu,-6.9521,107.6409,Tidak ada,Aktif,Pemerintah Daerah
+20245503,SD NEGERI CIPAMOKOLAN 2,SD,SD / sederajat,Jl. Derwati No. 40,0,0,,Derwati,Kec. Rancasari,-6.9651,107.683,Tidak ada,Aktif,Pemerintah Pusat
+20244865,SD NEGERI GUMURUH 10,SD,SD / sederajat,Jl. Cibangkong No. 13,1,8,Cibangkong,Cibangkong,Kec. Batununggal,-6.9298,107.637,Tidak ada,Aktif,Lainnya
+20246315,SD CIPTA KARYA,SD,SD / sederajat,Jl. Jembatan Opat Cibangkong Lor No. 34 Bandung,5,5,,Maleer,Kec. Batununggal,-6.9276,107.6418,Tidak ada,Tidak Aktif,Yayasan
+20245212,SD NEGERI KARANG MULYA 1,SD,SD / sederajat,Jl. Rajawali Sakti  No. 266,7,1,Dunguscariang,Dungus Cariang,Kec. Andir,-6.9125,107.5804,Tidak ada,Aktif,Pemerintah Daerah
+20245504,SD NEGERI CIPAMOKOLAN 3,SD,SD / sederajat,Jl. Raya Derawti No.40,0,0,,Derwati,Kec. Rancasari,-6.9651,107.683,Tidak ada,Aktif,Pemerintah Daerah
+20245165,SD NEGERI CIHAURGEULIS 1,SD,SD / sederajat,Jl. Surapati No. 155,0,0,Cibeunying Kaler,Sukaluyu,Kec. Cibeunying Kaler,-6.8997,107.6293,Tidak ada,Aktif,Pemerintah Daerah
+20245442,SD NEGERI ANTAPANI 2,SD,SD / sederajat,Jl. Antapani No. 1,4,6,,Antapani Kulon,Kec. Antapani,-6.9184,107.6611,Tidak ada,Aktif,Pemerintah Daerah
+20244998,SD NEGERI BABAKAN CIPARAY 01,SD,SD / sederajat,Jl. Caringin No. 150,2,5,,Babakan Ciparay,Kec. Babakan Ciparay,-6.9311,107.5875,Tidak ada,Aktif,Pemerintah Daerah
+20244855,SD NEGERI CIRATEUN KULON,SD,SD / sederajat,"Jl. Dr. Setiabudi Km. 10,7",1,1,Cirateun,Isola,Kec. Sukasari,-6.8437,107.5977,Tidak ada,Aktif,Pemerintah Daerah
+20245155,SD NEGERI CICADAS 22,SD,SD / sederajat,Jl. Asep Berlian No.33,4,6,,Cicadas,Kec. Cibeunying Kidul,-6.908,107.6408,Tidak ada,Aktif,Pemerintah Daerah
+20253819,SD SALMAN AL FARISI,SD,SD / sederajat,Jl. Tubagus Ismail VIII,0,0,,Sekeloa,Kec. Coblong,-6.8892,107.6277,Tidak ada,Tidak Aktif,Yayasan
+20219576,SD JEMBAR,SD,SD / sederajat,Jl. Jatinegara No. 1,0,0,,Kebon Waru,Kec. Batununggal,-6.9235,107.6441,Tidak ada,Tidak Aktif,Yayasan
+20244944,SD NEGERI BABAKAN TAROGONG 2,SD,SD / sederajat,Jl. Kh. Wahid Hasyim No. 256,2,1,,Suka Asih,Kec. Bojong Loa Kaler,-6.9385,107.5937,Tidak ada,Aktif,Pemerintah Daerah
+20245585,SD NEGERI GURUMINDA,SD,SD / sederajat,Jl. Indra Jaya No. 7,2,9,Komplek Guruminda,Cisaranten Kulon,Kec. Arcamanik,-6.9338,107.6781,Tidak ada,Aktif,Pemerintah Pusat
+20245045,SD NEGERI LENGKONG KECIL,SD,SD / sederajat,JL. LENGKONGKECIL No.55 KOTA BANDUNG 40261,12,2,,Paledang,Kec. Lengkong,-6.9299,107.6269,Tidak ada,Aktif,Pemerintah Daerah
+20252083,SD AL-IRHAAM GLOBAL ISLAMIC SCHOOL,SD,SD / sederajat,Jl. A.H. NAsution No. 133,1,8,Karangpamulang,Karang Pamulang,Kec. Mandalajati,-6.906695,107.669913,Tidak ada,Tidak Aktif,Yayasan
+20244911,SD NEGERI SAYURAN 3,SD,SD / sederajat,Jl. Sindangsari Kp. Sayuran No. 36,4,9,Sayuran,Cijerah,Kec. Bandung Kulon,-6.9239,107.5737,Tidak ada,Aktif,Pemerintah Daerah
+20219615,SD GANESHA,SD,SD / sederajat,Jl. Muhamad Toha No. 84,0,0,Pelindung Hewan,Pelindung Hewan,Kec. Astanaanyar,-6.9359,107.6066,Tidak ada,Tidak Aktif,Yayasan
+20244845,SD NEGERI CIJERAH 5,SD,SD / sederajat,Jl. Cijerah Barat No.4,2,5,,Cijerah,Kec. Bandung Kulon,-6.9342,107.5655,Tidak ada,Aktif,Pemerintah Daerah
+69760835,SD KRISTEN BPK PENABUR SINGGASANA,SD,SD / sederajat,Jl. Indra Prahasta Timur No.2 Bandung,0,0,,Mekar Wangi,Kec. Bojong Loa Kidul,-6.957,107.6146,Tidak ada,Tidak Aktif,Yayasan
+20245793,SD NEGERI SUKARELA 4,SD,SD / sederajat,Jl. Panyawangan No. 7,0,0,,Cipadung Kulon,Kec. Panyileukan,-6.923,107.7006,Tidak ada,Aktif,Pemerintah Daerah
+20245482,SD NEGERI BINAHARAPAN 2,SD,SD / sederajat,Jl. Golf Selatan I No 26,1,1,,Cisaranten Bina Harapan,Kec. Arcamanik,-6.9149,107.6849,Tidak ada,Aktif,Pemerintah Daerah
+20245727,SD NEGERI PAJAJARAN,SD,SD / sederajat,Jl. Pajajaran  No. 58,1,3,,Pasirkaliki,Kec. Cicendo,-6.9067,107.6,Tidak ada,Aktif,Pemerintah Daerah
+20245509,SD NEGERI CISARANTEN KIDUL 5,SD,SD / sederajat,Jl. Riung Bakti 1,1,11,Cisaranten Kidul,Cisaranten Kidul,Kec. Gedebage,-6.9455,107.6859,Tidak ada,Aktif,Pemerintah Pusat
+20244996,SD NEGERI BABAKAN 2,SD,SD / sederajat,Jl. Aki Padma No. 1,1,6,Babakan,Babakan Ciparay,Kec. Babakan Ciparay,-6.9271,107.5786,Tidak ada,Aktif,Pemerintah Daerah
+20245040,SD NEGERI KOPO 2,SD,SD / sederajat,Jl. Pasirkoja No. 37,1,3,,Nyengseret,Kec. Astanaanyar,-6.9271,107.6012,Tidak ada,Aktif,Pemerintah Daerah
+20219527,SD AL BASYARIYAH,SD,SD / sederajat,Jl. Cibaduyut Lama Komplek Sauyunan,1,7,,Kebon Lega,Kec. Bojong Loa Kidul,-6.9494,107.5906,Tidak ada,Tidak Aktif,Yayasan
+20245720,SD NEGERI NEGLASARI 4,SD,SD / sederajat,Jl. Raya Sadang Sari No. 1,1,14,,Sekeloa,Kec. Coblong,-6.8864,107.619,Tidak ada,Aktif,Lainnya
+20245231,SD NEGERI MERDEKA 5-1,SD,SD / sederajat,Jl. Merdeka No. 9,3,5,,Braga,Kec. Sumur Bandung,-6.9156,107.61,Tidak ada,Aktif,Pemerintah Daerah
+20255260,SD KUNTUM CEMERLANG,SD,SD / sederajat,Jl. Cipaku Indah 11 No.2,0,0,,Ledeng,Kec. Cidadap,-6.8624,107.6029,Tidak ada,Tidak Aktif,Yayasan
+20245207,SD NEGERI GATOT SUBROTO 2,SD,SD / sederajat,Jl. Yudhawastu Pramuka IV,1,12,,Cicadas,Kec. Cibeunying Kidul,-6.9038,107.6359,Tidak ada,Aktif,Lainnya
+20245506,SD NEGERI CISARANTEN KIDUL 2,SD,SD / sederajat,Jl. Riung Bakti 1,1,11,Cisaranten Kidul,Cisaranten Kidul,Kec. Gedebage,-6.9456,107.6858,Tidak ada,Aktif,Pemerintah Daerah
+20245714,SD NEGERI MEKARGALIH,SD,SD / sederajat,Jl. Sekemala No. 73,2,11,Pasanggrahan,Pasanggrahan,Kec. Ujungberung,-6.9081,107.7148,Tidak ada,Aktif,Pemerintah Daerah
+20219533,SD ANDIR MUKTI,SD,SD / sederajat,Jl. Jend. Sudirman Blk 799,6,6,,Cijerah,Kec. Bandung Kulon,-6.9135,107.5706,Tidak ada,Tidak Aktif,Yayasan
+20245747,SD NEGERI PELITA 1,SD,SD / sederajat,Jl. Desa Cipadung,1,14,,Cipadung,Kec. Cibiru,-6.9228,107.7201,Tidak ada,Aktif,Pemerintah Daerah
+20245485,SD NEGERI BINAHARAPAN 5,SD,SD / sederajat,Jl. Golf Selatan I No 26,0,0,,Cisaranten Bina Harapan,Kec. Arcamanik,-6.9148,107.6849,Tidak ada,Aktif,Pemerintah Daerah
+20245274,SD NEGERI SUKASARI 1,SD,SD / sederajat,Jl. Sukakarya No. 19,4,1,,Sukagalih,Kec. Sukajadi,-6.88816,107.582331,Tidak ada,Aktif,Lainnya
+20245264,SD NEGERI SALUYU 3,SD,SD / sederajat,Jl. Cimuncang Dalam No. 52,2,6,,Sukapada,Kec. Cibeunying Kidul,-6.9066,107.65,Tidak ada,Aktif,Pemerintah Daerah
+20245809,SD NEGERI SUKAPURA 5,SD,SD / sederajat,Jl. Terusan Psm No. 1,1,5,,Sukapura,Kec. Kiaracondong,-6.9301,107.6493,Tidak ada,Aktif,Lainnya
+20219851,SD MUHAMMADIYAH 4,SD,SD / sederajat,Jl. Sukagalih Gg. H. Gojali No. 134,6,7,,Cipedes,Kec. Sukajadi,-6.8914,107.5928,Tidak ada,Tidak Aktif,Yayasan
+20245135,SD NEGERI CIBEUREUM 08,SD,SD / sederajat,Jl. Asrama Kipal No. 56,4,5,Campaka,Campaka,Kec. Andir,-6.9074,107.571,Tidak ada,Aktif,Pemerintah Daerah
+20245247,SD NEGERI PADASUKA 1,SD,SD / sederajat,Jl. Padasuka No. 90 Bandung,4,6,Pasirlayung,Pasirlayung,Kec. Cibeunying Kidul,-6.899,107.6608,Tidak ada,Aktif,Pemerintah Daerah
+20244978,SD NEGERI LEUWIANYAR 1,SD,SD / sederajat,Jl. Leuwianyar,12,4,,Situsaeur,Kec. Bojong Loa Kidul,-6.9424,107.5944,Tidak ada,Aktif,Pemerintah Daerah
+20244928,SD NEGERI SUKARASA 1,SD,SD / sederajat,Jl. Gegerkalong Hilir No. 82,5,4,,Gegerkalong,Kec. Sukasari,-6.8685,107.5864,Tidak ada,Aktif,Pemerintah Daerah
+20245245,SD NEGERI PANORAMA 2,SD,SD / sederajat,Jl. Hegarmanah No. 152,4,7,Hegarmanah,Hegarmanah,Kec. Cidadap,-6.8697,107.6009,Tidak ada,Aktif,Lainnya
+20219535,SD BPMD TARUNA,SD,SD / sederajat,Jl. Hasan Ali No. 64 A/76,7,3,,Dungus Cariang,Kec. Andir,-6.9153,107.5773,Tidak ada,Tidak Aktif,Yayasan
+20245122,SD NEGERI BUAHBATU 1,SD,SD / sederajat,Jl. H. Ibrahim Adjie No. 45,3,2,Cijaura,Cijaura,Kec. Buahbatu,-6.9517,107.6409,Tidak ada,Aktif,Lainnya
+20245835,SD NEGERI UJUNGBERUNG 09,SD,SD / sederajat,Jl. Cigending No. 03,2,2,,Cigending,Kec. Ujungberung,-6.9103,107.7034,Tidak ada,Aktif,Pemerintah Daerah
+20246467,SD PELITA INDONESIA,SD,SD / sederajat,Jl. Cilaki No. 53,2,4,,,Kec. Bandung Wetan,-6.9467,107.5689,Tidak ada,Tidak Aktif,Yayasan
+20245823,SD NEGERI TILIL 2,SD,SD / sederajat,Jl. Puyuh No. 2,1,8,,Sadang Serang,Kec. Coblong,-6.8982,107.6233,Tidak ada,Aktif,Pemerintah Daerah
+20219590,SD KRISTEN 2 BINA BAKTI,SD,SD / sederajat,Jl. Bima No. 9,4,1,,Arjuna,Kec. Cicendo,-6.9097,107.601,Tidak ada,Tidak Aktif,Yayasan
+20245266,SD NEGERI SUKAGALIH 1,SD,SD / sederajat,Jl. Sukagalih No. 69,2,3,,Sukabungah,Kec. Sukajadi,-6.8961,107.6022,Tidak ada,Aktif,Pemerintah Daerah
+20244841,SD NEGERI CIJERAH 1,SD,SD / sederajat,Jl. Cijerah No. 122,6,3,,Cijerah,Kec. Bandung Kulon,-6.9219,107.5691,Tidak ada,Aktif,Pemerintah Daerah
+20245806,SD NEGERI SUKAPURA 2,SD,SD / sederajat,Jl. Terusan Psm No. 1,1,5,,Sukapura,Kec. Kiaracondong,-6.9301,107.6494,Tidak ada,Aktif,Lainnya
+20245712,SD NEGERI LOKAJAYA 1,SD,SD / sederajat,Jl. A.H. Nasution Km. 9 No. 7,1,1,,Cisaranten Bina Harapan,Kec. Arcamanik,-6.9054,107.6809,Tidak ada,Aktif,Pemerintah Daerah
+20245732,SD NEGERI PANGGUNGSARI 2,SD,SD / sederajat,Jl. Cikoang,3,7,Cigending,Cigending,Kec. Ujungberung,-6.9088,107.7023,Tidak ada,Aktif,Pemerintah Pusat
+20245963,SD NEGERI LUGINASARI 1,SD,SD / sederajat,Jl. Sukagalih Komplek Polri,1,9,,Cipedes,Kec. Sukajadi,-6.8911,107.5951,Tidak ada,Aktif,Pemerintah Daerah
+20219893,SD SANTO ALOYSIUS TR,SD,SD / sederajat,Jl. Trunojoyo No. 3,1,3,,Citarum,Kec. Bandung Wetan,-6.9133,107.6127,Tidak ada,Tidak Aktif,Yayasan
+69850863,SD BANDUNG INDEPENDENT SCHOOL,SD,SD / sederajat,JL. SURYA SUMANTRI 61,0,0,,Sukawarna,Kec. Sukajadi,-6.8845,107.5807,Tidak ada,Tidak Aktif,Lainnya
+20245498,SD NEGERI CIPADUNG 1,SD,SD / sederajat,"Jl. A.h. Nasution No. 71 Km.13,5",2,3,,Cipadung,Kec. Cibiru,-6.9316,107.7138,Tidak ada,Aktif,Pemerintah Daerah
+20245527,SD NEGERI CIPOREAT 1,SD,SD / sederajat,Jl. A.h. Nasution No. 29,3,3,,Pasanggrahan,Kec. Ujungberung,-6.9174,107.7062,Tidak ada,Aktif,Pemerintah Daerah
+20244880,SD NEGERI KACAPIRING,SD,SD / sederajat,Jl. Sukabumi Dalam No. 3,5,6,,Kacapiring,Kec. Batununggal,-6.9234,107.6363,Tidak ada,Aktif,Pemerintah Daerah
+20245701,SD NEGERI KIARACONDONG 3,SD,SD / sederajat,Jl. Ibrahim Adjie No. 355,1,6,Kebon Kangkung,Kebon Kangkung,Kec. Kiaracondong,-6.9497,107.641,Tidak ada,Aktif,Pemerintah Daerah
+20245722,SD NEGERI NUGRAHA,SD,SD / sederajat,Jl. Parakan Saat No. 45,2,5,,,Kec. Arcamanik,-6.9113,107.6857,Tidak ada,Aktif,Pemerintah Pusat
+20245993,SD NEGERI SUKAJADI 9,SD,SD / sederajat,Jl. Karang Tineung No. 5 A,3,5,,Cipedes,Kec. Sukajadi,-6.8835,107.5946,Tidak ada,Aktif,Pemerintah Daerah
+20245499,SD NEGERI CIPADUNG 2,SD,SD / sederajat,Jl. A.h. Nasution No. 71,2,3,,Cipadung,Kec. Cibiru,-6.8786,107.6254,Tidak ada,Aktif,Pemerintah Daerah
+20245919,SD NEGERI CIPEDES 1,SD,SD / sederajat,Jl. Setrasari Tengah No. 15,6,2,Kamp. Sukamulya,Sukarasa,Kec. Sukasari,-6.8692,107.5878,Tidak ada,Aktif,Pemerintah Daerah
+20245754,SD NEGERI PRAKARSA 1,SD,SD / sederajat,Jl. Parakan Saat No. 45,2,11,,Cisaranten Kulon,Kec. Arcamanik,-6.9053,107.6808,Tidak ada,Aktif,Pemerintah Pusat
+20219573,SD KARTIKA X-2,SD,SD / sederajat,Jl. Gatotsubroto No.160,6,8,,Lingkar Selatan,Kec. Lengkong,-6.9239,107.6296,Tidak ada,Tidak Aktif,Yayasan
+20245013,SD NEGERI BABAKAN CIPARAY 04,SD,SD / sederajat,Jl. Caringin No.106,2,4,,Babakan Ciparay,Kec. Babakan Ciparay,-6.9459,107.5875,Tidak ada,Aktif,Pemerintah Daerah
+20245487,SD NEGERI CIBIRU 1,SD,SD / sederajat,"Jl. A.h. Nasution Km. 14,5",1,1,,Pasir Biru,Kec. Cibiru,-6.9344,107.7211,Tidak ada,Aktif,Pemerintah Pusat
+20244986,SD NEGERI PAGARSIH 2,SD,SD / sederajat,Jl. Pagarsih No. 77,3,9,,Cibadak,Kec. Astanaanyar,-6.9229,107.5944,Tidak ada,Aktif,Pemerintah Daerah
+20245962,SD NEGERI KRIDAWINAYA 2,SD,SD / sederajat,Jl. Gumuruh Belakang No. 37,7,5,,Gumuruh,Kec. Batununggal,-6.9321,107.6381,Tidak ada,Aktif,Pemerintah Daerah
+20244829,SD NEGERI CENTEH 1,SD,SD / sederajat,Jl. Centeh No. 5,7,10,,Samoja,Kec. Batununggal,-6.9202,107.6247,Tidak ada,Aktif,Pemerintah Daerah
+20245826,SD NEGERI UJUNGBERUNG 01,SD,SD / sederajat,Jl. Cigending No. 03,4,5,,Cigending,Kec. Ujungberung,-6.9129,107.702,Tidak ada,Aktif,Pemerintah Daerah
+20219610,SD IBNU TAIMIYAH,SD,SD / sederajat,Jl. Sukagalih Gg. H. Gojali 02/07,2,7,,Cipedes,Kec. Sukajadi,-6.8919,107.5927,"C1, D",Tidak Aktif,Yayasan
+20245595,SD NEGERI JATAYU 5,SD,SD / sederajat,Jl. Komud Supadio No. 39 A,1,6,,Husen Sastranegara,Kec. Cicendo,-6.9097,107.5836,Tidak ada,Aktif,Lainnya
+20245046,SD NEGERI MARGAHAYU UTARA 1,SD,SD / sederajat,Jl. Cibolerang No. 185,2,7,Margasuka,Margasuka,Kec. Babakan Ciparay,-6.95042,107.573243,Tidak ada,Aktif,Pemerintah Daerah
+20219824,SD PLUS AL GHIFARI,SD,SD / sederajat,Jl. Cisaranten Kulon No. 140,2,7,Cisaranten Kulon,Cisaranten Kulon,Kec. Arcamanik,-6.934,107.6794,"C1, D",Tidak Aktif,Yayasan
+20244965,SD NEGERI CIBADUYUT 3,SD,SD / sederajat,Jl. Cibaduyut Raya Gg.maeja,3,5,Cibaduyut,Cibaduyut,Kec. Bojong Loa Kidul,-6.9574,107.5998,Tidak ada,Aktif,Lainnya
+20245566,SD NEGERI DR. CIPTO,SD,SD / sederajat,Jl. Dr. Cipto No. 4,1,3,,Pasirkaliki,Kec. Cicendo,-6.9062,107.5998,Tidak ada,Aktif,Pemerintah Daerah
+20245507,SD NEGERI CISARANTEN KIDUL 3,SD,SD / sederajat,Jl. Riung Bakti 1,1,13,Riung Bakti Raya,Cisaranten Kidul,Kec. Gedebage,-6.9456,107.6858,"C1, D",Aktif,Pemerintah Pusat
+20244925,SD NEGERI SUKAJADI 3,SD,SD / sederajat,Jl. Sukajadi No. 138,0,0,,Pasteur,Kec. Sukajadi,-6.8898,107.597,Tidak ada,Aktif,Pemerintah Pusat
+20219842,SD KRISTEN PELITA,SD,SD / sederajat,Jl. Holis No. 300,1,4,,Caringin,Kec. Bandung Kulon,-6.9185,107.5766,Tidak ada,Tidak Aktif,Yayasan
+20245043,SD NEGERI KOPO 5,SD,SD / sederajat,Jl. Ibu Inggit Garnasih No.74/21,7,3,,Nyengseret,Kec. Astanaanyar,-6.9313,107.6024,Tidak ada,Aktif,Pemerintah Daerah
+20245717,SD NEGERI NEGLASARI 1,SD,SD / sederajat,Jl. Sadang Serang,4,15,,Sadang Serang,Kec. Coblong,-6.8915,107.6238,Tidak ada,Aktif,Pemerintah Pusat
+20245469,SD NEGERI BABAKAN SURABAYA 03,SD,SD / sederajat,Jl. H. Ibrahim Adjie Belakang No. 147,1,2,,Babakan Sari,Kec. Kiaracondong,-6.9476,107.641,Tidak ada,Aktif,Pemerintah Daerah
+20245455,SD NEGERI BABAKAN SENTRAL 1,SD,SD / sederajat,Jl. Terusan Psm No. 2 Bandung,2,5,Sukapura,Sukapura,Kec. Kiaracondong,-6.9301,107.6537,Tidak ada,Aktif,Lainnya
+20244900,SD NEGERI PERUMNAS CIJERAH 2,SD,SD / sederajat,Jl. Cijerah No. 232,5,5,,Cijerah,Kec. Bandung Kulon,-6.9277,107.5654,Tidak ada,Aktif,Pemerintah Daerah
+20245956,SD NEGERI KEBON GEDANG 3,SD,SD / sederajat,Jl. Gumuruh Belakang No.37,5,7,,Gumuruh,Kec. Batununggal,-6.9274,107.6418,Tidak ada,Aktif,Pemerintah Daerah
+20219572,SD KEMAH INDONESIA,SD,SD / sederajat,Jl. Pagarsih Gg. Onong No.183/89,7,9,,Cibadak,Kec. Astanaanyar,-6.9251,107.5941,C - Tuna grahita ringan,Tidak Aktif,Yayasan
+20245964,SD NEGERI LUGINASARI 2,SD,SD / sederajat,Komplek Asrama Polri,1,9,,Cipedes,Kec. Sukajadi,-6.8911,107.5951,Tidak ada,Aktif,Pemerintah Daerah
+20219543,SD ANGKASA 2,SD,SD / sederajat,Jl. Pajajaran No. 150,0,0,,Pajajaran,Kec. Cicendo,-6.9061,107.5862,Tidak ada,Tidak Aktif,Yayasan
+20245457,SD NEGERI BABAKAN SENTRAL 2,SD,SD / sederajat,Jl. Terusan Psm No. 2,1,5,Babakan Sentral,Sukapura,Kec. Kiaracondong,-6.9302,107.6537,D - Tuna daksa ringan,Aktif,Pemerintah Daerah
+20219829,SD RAJAWALI,SD,SD / sederajat,Jl. Andir No 117a/78 Bandung,9,10,,Ciroyom,Kec. Andir,-6.9122,107.583,Tidak ada,Tidak Aktif,Yayasan
+20245114,SD NEGERI BHAKTI WINAYA 1,SD,SD / sederajat,Jl. Pasirjaya Vi No. 1,3,6,,Pasirluyu,Kec. Regol,-6.9411,107.6212,Tidak ada,Aktif,Lainnya
+20245804,SD NEGERI SUKAMISKIN,SD,SD / sederajat,Jl. Terusan Pesantren No 86,5,11,Cipagalo,Sukamiskin,Kec. Arcamanik,-6.9065,107.6774,Tidak ada,Aktif,Pemerintah Daerah
+20244935,SD NEGERI WARUNG MUNCANG,SD,SD / sederajat,Jl. Holis Kpad,2,10,,Warung Muncang,Kec. Bandung Kulon,-6.9333,107.5722,Tidak ada,Aktif,Pemerintah Pusat
+20245153,SD NEGERI CICADAS 02,SD,SD / sederajat,Jl. Cikutra No. 58,4,8,Sukamenak,Padasuka,Kec. Cibeunying Kidul,-6.8964,107.6381,Tidak ada,Aktif,Pemerintah Daerah
+20245492,SD NEGERI CIKUDAYASA,SD,SD / sederajat,Jl. Cikuda,3,11,,Pasir Biru,Kec. Cibiru,-6.9198,107.7253,Tidak ada,Aktif,Pemerintah Daerah
+20219587,SD KRISTEN 5 BPK PENABUR,SD,SD / sederajat,Jl. Guntur 34,0,0,,Malabar,Kec. Lengkong,-6.9257,107.621,Tidak ada,Tidak Aktif,Yayasan
+20245590,SD NEGERI HAURPANCUH 4,SD,SD / sederajat,Jl. Teuku Umar No.87,5,1,,Sadang Serang,Kec. Coblong,-6.8928,107.6199,Tidak ada,Aktif,Pemerintah Daerah
+20245030,SD NEGERI DWIKORA 3,SD,SD / sederajat,Jl.inhoftank No.16,0,0,,Pelindung Hewan,Kec. Astanaanyar,-6.9439,107.6029,Tidak ada,Aktif,Lainnya
+20245216,SD NEGERI KARANG TARUNA 2,SD,SD / sederajat,Jl. Halteu Utara No. 149,5,1,Dunguscariang,Dungus Cariang,Kec. Andir,-6.9009,107.5656,Tidak ada,Aktif,Pemerintah Pusat
+20245461,SD NEGERI BABAKAN SINYAR 2,SD,SD / sederajat,Jl. Terusan Sukapura,1,3,Sukapura,Sukapura,Kec. Kiaracondong,-6.9275,107.6521,Tidak ada,Aktif,Pemerintah Pusat
+20219583,SD KRISTEN 1 BINA BAKTI,SD,SD / sederajat,Jl. Bima No. 9,0,0,,Arjuna,Kec. Cicendo,-6.9086,107.5991,Tidak ada,Tidak Aktif,Yayasan
+20246402,SD NEGERI CIJAWURA 5,SD,SD / sederajat,Jl. Cijawura Hilir,6,12,,,Kec. Buahbatu,-6.9645,107.657,Tidak ada,Aktif,Pemerintah Pusat
+20245249,SD NEGERI PADASUKA 3,SD,SD / sederajat,Jl. Padasuka No. 90,4,5,Pasirlayung,Pasirlayung,Kec. Cibeunying Kidul,-6.8949,107.6633,Tidak ada,Aktif,Pemerintah Daerah
+20244937,SDPN SETIABUDI,SD,SD / sederajat,Jl. Sarirasa Blok IV Sarijadi Bandung,4,4,,Sarijadi,Kec. Sukasari,-6.88,107.5789,Tidak ada,Aktif,Pemerintah Pusat
+20244951,SD NEGERI BANDUNGKULON 4,SD,SD / sederajat,Jln Cibadak Gg. Ibu Aisah No. 16/9a Bandung,2,3,,Cibadak,Kec. Astanaanyar,-6.9216,107.5924,Tidak ada,Aktif,Pemerintah Pusat
+20245140,SD NEGERI CIRATEUN,SD,SD / sederajat,Jl. Dr. Setiabudi No. 5 KM 10,2,7,,Ledeng,Kec. Cidadap,-6.8724,107.595,Tidak ada,Aktif,Pemerintah Daerah
+20245824,SD NEGERI TILIL 3,SD,SD / sederajat,Jl. Puyuh No. 2,0,0,,Sadang Serang,Kec. Coblong,-6.8982,107.6231,Tidak ada,Aktif,Pemerintah Daerah
+20247206,SD BIANGLALA,SD,SD / sederajat,Jl. Sari Endah 19 A Gegerkalong Hilir,4,6,Sukarasa,Sukarasa,Kec. Sukasari,-6.8756,107.5957,Tidak ada,Tidak Aktif,Yayasan
+20244946,SD NEGERI BABAKAN TAROGONG 4,SD,SD / sederajat,Jl. Kh. Wahid Hasyim No. 256,2,1,,Suka Asih,Kec. Bojong Loa Kaler,-6.9385,107.5936,Tidak ada,Aktif,Pemerintah Pusat
+20245088,SD NEGERI SITUGUNTING 4,SD,SD / sederajat,Jl. H. Zakaria No. 56,7,1,,Sukahaji,Kec. Babakan Ciparay,-6.9335,107.5847,Tidak ada,Aktif,Lainnya
+20219528,SD AL BAROKAH,SD,SD / sederajat,Jl. Aki Padma No. 23,2,5,Babakan Ciparay,Babakan,Kec. Babakan Ciparay,-6.9277,107.5787,Tidak ada,Tidak Aktif,Yayasan
+20219589,SD 2 KRISTEN PAULUS,SD,SD / sederajat,Jl. Dr. Rajiman No. 11,0,0,,Pasirkaliki,Kec. Cicendo,-6.904,107.5995,Tidak ada,Tidak Aktif,Yayasan
+20219522,SD BUDI ASIH,SD,SD / sederajat,Jl. Cipagalo Girang,9,6,,Margasari,Kec. Buahbatu,-6.9519,107.6466,Tidak ada,Tidak Aktif,Yayasan
+20245439,SD NEGERI ANDIR KIDUL 1,SD,SD / sederajat,Jl. A.H Nasution No. 38 A,1,3,Pakemitan,Pakemitan,Kec. Cinambo,-6.9138,107.6956,Tidak ada,Aktif,Pemerintah Daerah
+20245773,SD NEGERI SINDANGLAYA 6,SD,SD / sederajat,Jl. A.H. Nasution Km.9 No. 15,1,1,,Sindang Jaya,Kec. Mandalajati,-6.905,107.6806,Tidak ada,Aktif,Pemerintah Daerah
+20245139,SD NEGERI CIDADAP 2,SD,SD / sederajat,Jl. Cipaku Indah 2 No. 13 ,4,2,,Ledeng,Kec. Cidadap,-6.8634,107.5992,Tidak ada,Aktif,Pemerintah Daerah
+20219884,SD TRIKARSA,SD,SD / sederajat,Jl. Samsi No. 123/125 C,1,1,,Kebon Waru,Kec. Batununggal,-6.9191,107.644,Tidak ada,Tidak Aktif,Yayasan
+20245971,SD NEGERI SARIJADI 05,SD,SD / sederajat,Komp. Perum Sarijadi Blok 4 No. 100,1,3,,Sarijadi,Kec. Sukasari,-6.8782,107.5801,Tidak ada,Aktif,Pemerintah Daerah
+20253348,SD ISLAM AL AZHAR 30,SD,SD / sederajat,Jl. Tirtasari I No. 1,12,9,,Sarijadi,Kec. Sukasari,-6.8996,107.6382,Tidak ada,Tidak Aktif,Yayasan
+20245811,SD NEGERI TARUNA KARYA 1,SD,SD / sederajat,Jl. Cilengkrang II No. 80,4,8,,Palasari,Kec. Cibiru,-6.9219,107.7137,Tidak ada,Aktif,Pemerintah Daerah
+20245537,SD NEGERI CISITU 1,SD,SD / sederajat,Jl. Sangkuriang No. 87,3,12,Dago,Dago,Kec. Coblong,-6.882,107.6094,Tidak ada,Aktif,Pemerintah Daerah
+20244863,SD NEGERI GEMPOL SARI,SD,SD / sederajat,Komplek Bumi Asri E-40,7,9,Gempol Sari,Gempol Sari,Kec. Bandung Kulon,-6.9358,107.5618,Tidak ada,Aktif,Pemerintah Pusat
+20245254,SD NEGERI PAMOYANAN,SD,SD / sederajat,Jl. Moch. Toha Belakang No. 325,5,5,,Ciseureuh,Kec. Regol,-6.9527,107.6118,Tidak ada,Aktif,Pemerintah Pusat
+20245050,SD NEGERI NILEM 1,SD,SD / sederajat,Jl. Nilem No. 10,1,9,Lengkong,Burangrang,Kec. Lengkong,-6.936,107.6203,Tidak ada,Aktif,Pemerintah Daerah
+20219812,SD SANTA URSULA,SD,SD / sederajat,Jl. Bengawan No.2,1,7,,Cihapit,Kec. Bandung Wetan,-6.9132,107.6336,Tidak ada,Tidak Aktif,Yayasan
+20279824,SD KARAKTER AZ-ZAHRA,SD,SD / sederajat,Jl. Pasirlayung Asri No. 15 ,6,1,Pasirlayung,Pasirlayung,Kec. Cibeunying Kidul,-6.8966,107.6634,"C1, D",Tidak Aktif,Yayasan
+20219525,SD AL FATAH,SD,SD / sederajat,Jl. Kopo Gg. Sukaleueur,7,7,Sukaleueur,Babakan Asih,Kec. Bojong Loa Kaler,-6.9437,107.5894,Tidak ada,Tidak Aktif,Yayasan
+20245812,SD NEGERI TARUNA KARYA 2,SD,SD / sederajat,Jl. Galumpit No. 2,4,14,,Palasari,Kec. Cibiru,-6.9188,107.716,Tidak ada,Aktif,Pemerintah Pusat
+20245024,SD NEGERI CIJAGRA 2,SD,SD / sederajat,JL. SITU LEMBANG,1,3,Cijagra,Cijagra,Kec. Lengkong,-6.9508,107.6315,Tidak ada,Aktif,Pemerintah Daerah
+20246410,SD NEGERI MARGACINTA 1,SD,SD / sederajat,Jl. Marga Indah I Margacinta,2,4,Margacinta,Cijaura,Kec. Buahbatu,-6.9552,107.6422,Tidak ada,Aktif,Pemerintah Daerah
+20244824,SD NEGERI BABAKANJATI 2,SD,SD / sederajat,Jl. H. Basuki No.159,4,8,,Binong,Kec. Batununggal,-6.9438,107.6412,Tidak ada,Aktif,Lainnya
+20245704,SD NEGERI KIARACONDONG 7,SD,SD / sederajat,Jl. Ibrahim Adjie No. 355,1,6,-,Kebon Kangkung,Kec. Kiaracondong,-6.9333,107.643,Tidak ada,Aktif,Lainnya
+20245119,SD NEGERI BOJONGKONENG 1,SD,SD / sederajat,Jl. Bojongkoneng No. 38,5,12,,Sukapada,Kec. Cibeunying Kidul,-6.9033,107.6493,Tidak ada,Aktif,Pemerintah Daerah
+20219581,SD KEMALA BHAYANGKARI 1,SD,SD / sederajat,Jl. Palasari No.44,8,9,,Malabar,Kec. Lengkong,-6.9278,107.6231,Tidak ada,Tidak Aktif,Yayasan
+20245016,SD NEGERI BABAKAN CIPARAY 07,SD,SD / sederajat,Jl. Caringin No.150,2,5,,Babakan Ciparay,Kec. Babakan Ciparay,-6.8915,107.5603,Tidak ada,Aktif,Pemerintah Daerah
+20245133,SD NEGERI CIBEUREUM 04,SD,SD / sederajat,Jl. Asrama Kipal No. 56,5,4,,Campaka,Kec. Andir,-6.9049,107.5717,Tidak ada,Aktif,Pemerintah Daerah
+20244971,SD NEGERI CITARIP BARAT 5,SD,SD / sederajat,Jl. Madesa No. 24,1,12,,Kopo,Kec. Bojong Loa Kaler,-6.9391,107.5853,Tidak ada,Aktif,Lainnya
+20247251,SD SANTO ALOYSIUS SUKASARI,SD,SD / sederajat,Jl. Sukajadi 223,0,0,,,Kec. Sukasari,-6.8762,107.6043,Tidak ada,Tidak Aktif,Lainnya
+20245034,SD NEGERI JAKAPURWA 1,SD,SD / sederajat,Jl. Jakapurwa No. 40,2,5,Jakapurwa,Kujangsari,Kec. Bandung Kidul,-6.9629,107.6486,Tidak ada,Aktif,Pemerintah Daerah
+20245077,SD NEGERI PUTRACO INDAH,SD,SD / sederajat,Jl. Rajamantri Kaler No. 25,14,4,,Turangga,Kec. Lengkong,-6.9419,107.6323,"C1, D",Aktif,Pemerintah Daerah
+20219816,SD PASUNDAN 2,SD,SD / sederajat,Jl. Babakan Ciparay No. 112/194 A,1,4,,Sukahaji,Kec. Babakan Ciparay,-6.9275,107.5854,Tidak ada,Tidak Aktif,Yayasan
+20245494,SD NEGERI CILENGKRANG 1,SD,SD / sederajat,Jl. Cilengkrang I No. 134,3,5,,Cisurupan,Kec. Cibiru,-6.9136,107.7197,Tidak ada,Aktif,Pemerintah Daerah
+20267930,SD SANTO ALOYSIUS BANDUNG KIDUL,SD,SD / sederajat,Jl. Batununggal Indah II/30,0,0,,,Kec. Bandung Kidul,-6.9499,107.632,Tidak ada,Tidak Aktif,Lainnya
+20244934,SD NEGERI TUNAS HARAPAN 02,SD,SD / sederajat,Jl. Cijerah No. 116,6,3,,Cijerah,Kec. Bandung Kulon,-6.9215,107.5695,"C1, D",Aktif,Pemerintah Daerah
+20245572,SD NEGERI GEDEBAGE,SD,SD / sederajat,Jln. Gedebage Selatan,1,5,Rukun Mulya,,Kec. Cinambo,-6.9406,107.6914,Tidak ada,Aktif,Pemerintah Daerah
+20219814,SD PELITA,SD,SD / sederajat,Jl. Citamiang No. 43,13,7,,Sukamaju,Kec. Cibeunying Kidul,-6.9056,107.6406,Tidak ada,Tidak Aktif,Yayasan
+20245592,SD NEGERI JATAYU 2,SD,SD / sederajat,Jl. Komud Supadio No. 39 A,1,6,,Husen Sastranegara,Kec. Cicendo,-6.9097,107.5836,Tidak ada,Aktif,Lainnya
+20219837,SD LPPN,SD,SD / sederajat,Jl. Rajawali Timur No. 76,1,7,,Ciroyom,Kec. Andir,-6.9158,107.5855,Tidak ada,Tidak Aktif,Yayasan
+20245271,SD NEGERI SUKAGALIH 6,SD,SD / sederajat,Jl. Sukagalih No. 69,2,3,,Sukabungah,Kec. Sukajadi,-6.8991,107.5962,Tidak ada,Aktif,Pemerintah Pusat
+20219841,SD REHOBOTH,SD,SD / sederajat,Jl. Rd. Dewi Sartika No. 36-38,2,2,,Balong Gede,Kec. Regol,-6.9252,107.606,Tidak ada,Tidak Aktif,Yayasan
+20245182,SD NEGERI CIMUNCANG 5,SD,SD / sederajat,Jl. Babakan Haji Tamim No.33,7,3,Padasuka,Padasuka,Kec. Cibeunying Kidul,-6.8983,107.6534,Tidak ada,Aktif,Pemerintah Daerah
+20245443,SD NEGERI ANTAPANI 3,SD,SD / sederajat,Jl. Antapani No. 1,4,6,,Antapani Kulon,Kec. Antapani,-6.9185,107.6611,Tidak ada,Aktif,Pemerintah Daerah
+20219886,SD SWADAYA 1,SD,SD / sederajat,Jl. Pagarsih No. 181 E,1,11,,Jamika,Kec. Bojong Loa Kaler,-6.9223,107.5888,Tidak ada,Tidak Aktif,Yayasan
+20245183,SD NEGERI CIMUNCANG 6,SD,SD / sederajat,Jl. Babakan Haji Tamim No.33,7,3,Padasuka,Padasuka,Kec. Cibeunying Kidul,-6.903,107.6482,Tidak ada,Aktif,Pemerintah Pusat
+20219526,SD AL FALAH,SD,SD / sederajat,Jl. Cisitu Baru No.52,7,11,Dago,Dago,Kec. Coblong,-6.8726,107.6256,Tidak ada,Tidak Aktif,Yayasan
+20245102,SD NEGERI AWIGOMBONG 1,SD,SD / sederajat,Jl. Asep Berlian No. 33,4,6,,Cicadas,Kec. Cibeunying Kidul,-6.9077,107.6406,Tidak ada,Aktif,Pemerintah Daerah
+20244975,SD NEGERI JAMIKA 1,SD,SD / sederajat,Jl. Pagarsih Gg. Pa Oyon,6,6,Jamika,Jamika,Kec. Bojong Loa Kaler,-6.9232,107.5873,Tidak ada,Aktif,Pemerintah Daerah
+20258082,SD ADVENT II BANDUNG,SD,SD / sederajat,Jl. Setiabudhi No 1 Bandung,6,2,Hegarasih,Cipaganti,Kec. Coblong,-6.8832,107.6024,Tidak ada,Tidak Aktif,Yayasan
+20245157,SD NEGERI CICADAS 04,SD,SD / sederajat,Jl. Asep Berlian No.33,4,6,Cicadas,Cicadas,Kec. Cibeunying Kidul,-6.908,107.6408,Tidak ada,Aktif,Pemerintah Pusat
+20244823,SD NEGERI BABAKANJATI 1,SD,SD / sederajat,Jl. H. Basuki No.159,4,8,,Binong,Kec. Batununggal,-6.9433,107.6405,Tidak ada,Aktif,Lainnya
+20245725,SD NEGERI PANYILEUKAN 2,SD,SD / sederajat,Komp. Bumi Panyileukan F.1,1,5,Cipadung Kidul,Cipadung Kidul,Kec. Panyileukan,-6.9419,107.7164,Tidak ada,Aktif,Pemerintah Daerah
+20245702,SD NEGERI KIARACONDONG 5,SD,SD / sederajat,Jl. Warung Jambu No. 28,1,1,Warungjambu,Kebon Kangkung,Kec. Kiaracondong,-6.9295,107.6457,Tidak ada,Aktif,Pemerintah Daerah
+20245528,SD NEGERI CIPOREAT 2,SD,SD / sederajat,"Jl. A.H NASUTION KM 11,6 NO.29 A",3,3,,Pasanggrahan,Kec. Ujungberung,-6.9174,107.7062,Tidak ada,Aktif,Pemerintah Pusat
+20245782,SD NEGERI SOKA 34-2,SD,SD / sederajat,Jl. Soka No. 34,5,8,,Merdeka,Kec. Sumur Bandung,-6.9155,107.6288,Tidak ada,Aktif,Pemerintah Daerah
+20247254,SD PLUS BAITURRAHMAN,SD,SD / sederajat,Jl. Prof. KH. M. Syadeli Hasan No. 44 Nagrog II ,1,7,Nagrog,Pasirjati,Kec. Ujungberung,-6.9088,107.7067,Tidak ada,Tidak Aktif,Yayasan
+20245575,SD NEGERI GRIYA BUMI ANTAPANI 14-1,SD,SD / sederajat,Jl. Cicalengka Raya No. 1,2,6,,Antapani Kidul,Kec. Antapani,-6.9196,107.658,Tidak ada,Aktif,Pemerintah Daerah
+20245126,SD NEGERI CARINGIN 1,SD,SD / sederajat,Jl. Sukamulya No.46,4,4,,Sukagalih,Kec. Sukajadi,-6.8927,107.5885,Tidak ada,Aktif,Pemerintah Daerah
+20245129,SD NEGERI CIBEUREUM 01,SD,SD / sederajat,Jl. Asrama Kipal No. 56,5,4,,Campaka,Kec. Andir,-6.8987,107.578,Tidak ada,Aktif,Pemerintah Daerah
+20246414,SD NEGERI RANCABOLANG 1,SD,SD / sederajat,Jl. Rancabolang Indah No. 1,6,16,,Manjahlega,Kec. Rancasari,-6.9501,107.6622,Tidak ada,Aktif,Pemerintah Daerah
+20245583,SD NEGERI GRIYA BUMI ANTAPANI 5-1,SD,SD / sederajat,Jl. Subang V No. 5,1,2,,Antapani Tengah,Kec. Antapani,-6.913,107.6538,Tidak ada,Aktif,Pemerintah Daerah
+20245464,SD NEGERI BABAKAN SURABAYA 01,SD,SD / sederajat,Jl. Ibrahim Adjie Belakang No. 147,1,2,,Babakan Sari,Kec. Kiaracondong,-6.9475,107.641,Tidak ada,Aktif,Pemerintah Daerah
+20245950,SD NEGERI KEBON GEDANG 01,SD,SD / sederajat,Jl. Kebon Gedang No. 82,3,7,,Maleer,Kec. Batununggal,-6.9328,107.6422,Tidak ada,Aktif,Pemerintah Daerah
+20245263,SD NEGERI SALUYU 2,SD,SD / sederajat,Jl. Cimuncang Dalam No. 52,2,6,,Sukapada,Kec. Cibeunying Kidul,-6.9065,107.65,Tidak ada,Aktif,Pemerintah Daerah
+20219584,SD KRISTEN BAPTIS,SD,SD / sederajat,Jl. Wastukencana No. 40,0,0,,Taman Sari,Kec. Bandung Wetan,-6.9041,107.6065,Tidak ada,Tidak Aktif,Yayasan
+20247207,SD GAGAS CERIA,SD,SD / sederajat,Jl. Malabar No. 61,3,8,,Malabar,Kec. Lengkong,-6.9206,107.6248,Tidak ada,Tidak Aktif,Yayasan
+20245564,SD NEGERI DIAN,SD,SD / sederajat,Jl. Budi No. 26,3,3,,Sukaraja,Kec. Cicendo,-6.8988,107.5889,Tidak ada,Aktif,Pemerintah Daerah
+20246407,SD NEGERI MARGAHAYU RAYA 2,SD,SD / sederajat,Jl. Pluto Utara Blok G No. 73,5,14,,Margasari,Kec. Buahbatu,-6.9551,107.6635,Tidak ada,Aktif,Pemerintah Daerah
+20245815,SD NEGERI TARUNA KARYA 5,SD,SD / sederajat,Jl. Galumpit No. 2,4,14,,Palasari,Kec. Cibiru,-6.9188,107.7161,Tidak ada,Aktif,Pemerintah Pusat
+20245235,SD NEGERI MERDEKA 5-4,SD,SD / sederajat,Jl. Merdeka No. 9,3,5,,Braga,Kec. Sumur Bandung,-6.9155,107.61,Tidak ada,Aktif,Pemerintah Daerah
+20245599,SD NEGERI JATIHANDAP 3,SD,SD / sederajat,Jl. Jatihandap  No. 50,3,4,,Jatihandap,Kec. Mandalajati,-6.8995,107.6577,Tidak ada,Aktif,Pemerintah Pusat
+20245589,SD NEGERI HAURPANCUH 3,SD,SD / sederajat,Jl. Terusan Teuku Umar No. 87,0,0,,Sadang Serang,Kec. Coblong,-6.8926,107.6198,Tidak ada,Aktif,Pemerintah Daerah
+20245169,SD NEGERI CIJAWURA 1,SD,SD / sederajat,Jl. Cijawura,3,8,,Mekarjaya,Kec. Rancasari,-6.9604,107.663,Tidak ada,Aktif,Pemerintah Daerah
+20219828,SD RANCAKASUMBA,SD,SD / sederajat,Jl. Sumbersari No. 104,4,8,Sumbersari,Cisaranten Kulon,Kec. Arcamanik,-6.9341,107.6802,Tidak ada,Tidak Aktif,Yayasan
+20244901,SD NEGERI PERUMNAS CIJERAH 3,SD,SD / sederajat,Jl. Cijerah Barat No. 04,5,7,,Cijerah,Kec. Bandung Kulon,-6.9368,107.5613,Tidak ada,Aktif,Pemerintah Daerah
+20244960,SD NEGERI CANGKUANG 3,SD,SD / sederajat,Jl. Cibaduyut Raya Gg. Tvri 5,5,6,,Cibaduyut Kidul,Kec. Bojong Loa Kidul,-6.9591,107.5884,Tidak ada,Aktif,Pemerintah Daerah
+20245096,SD NEGERI TEGALLEGA 4,SD,SD / sederajat,Jl. Pelindung Hewan No. 43,0,0,Pelindung Hewan,Pelindung Hewan,Kec. Astanaanyar,-6.9381,107.6032,Tidak ada,Aktif,Pemerintah Daerah
+20245136,SD NEGERI CIBEUREUM 09,SD,SD / sederajat,Jl. Asrama Kipal No. 56,5,4,,Campaka,Kec. Andir,-6.9074,107.571,Tidak ada,Aktif,Pemerintah Daerah
+20219813,SD PELITA JASA,SD,SD / sederajat,Jl. Komud. Supadio Gg. Hanura No.13,2,5,,,Kec. Cicendo,-6.909,107.5856,Tidak ada,Tidak Aktif,Yayasan
+20219532,SD AL IKHLAS,SD,SD / sederajat,Karang Tineung Dlm 84,1,4,,Cipedes,Kec. Sukajadi,-6.8849,107.5941,Tidak ada,Tidak Aktif,Yayasan
+20245716,SD NEGERI MERDEKA 5-6,SD,SD / sederajat,Jl. Merdeka No. 9  ,3,5,,Braga,Kec. Sumur Bandung,-6.9155,107.6099,Tidak ada,Aktif,Pemerintah Daerah
+20245090,SD NEGERI SUMBERSARI INDAH 1,SD,SD / sederajat,Jl. Sumber Makmur No. 1,1,9,Babakan,Margasuka,Kec. Babakan Ciparay,-6.9373,107.5727,Tidak ada,Aktif,Pemerintah Pusat
+20245742,SD NEGERI PASIRKALIKI 96-1,SD,SD / sederajat,Jl. Hos Cokroaminoto No. 110,2,7,,Pasirkaliki,Kec. Cicendo,-6.9079,107.5978,Tidak ada,Aktif,Pemerintah Daerah
+20245489,SD NEGERI CIBIRU 4,SD,SD / sederajat,"Jl. A.h. Nasution Km. 14,5",1,1,,Pasir Biru,Kec. Cibiru,-6.9343,107.7215,Tidak ada,Aktif,Pemerintah Daerah
+20245525,SD NEGERI CIPAGANTI 2,SD,SD / sederajat,Jl. Sastra No. 11,4,7,,Cipaganti,Kec. Coblong,-6.8948,107.6029,Tidak ada,Aktif,Pemerintah Daerah
+20219885,SD TARUNA BAKTI,SD,SD / sederajat,Jl. Ll. Re. Martadinata No. 52,0,0,,Citarum,Kec. Bandung Wetan,-6.9063,107.6185,Tidak ada,Tidak Aktif,Yayasan
+20245091,SD NEGERI SUMBERSARI INDAH 2,SD,SD / sederajat,Jl. Sumber Makmur No. 1,0,0,,Babakan,Kec. Babakan Ciparay,-6.9372,107.5727,Tidak ada,Aktif,Pemerintah Daerah
+20244990,SD NEGERI TANJUNG 1,SD,SD / sederajat,Jl. Babakan Tarogong No. 193,6,5,,Suka Asih,Kec. Bojong Loa Kaler,-6.9299,107.5889,Tidak ada,Aktif,Pemerintah Daerah
+20244836,SD NEGERI CIGONDEWAH 1,SD,SD / sederajat,Jl. Cigondewah Kaler No. 15,2,3,Cigondewah Kaler,Cigondewah Kaler,Kec. Bandung Kulon,-6.9411,107.5634,Tidak ada,Aktif,Pemerintah Daerah
+20245582,SD NEGERI GRIYA BUMI ANTAPANI 32,SD,SD / sederajat,Jl. Tanjungsari VI No. 40,4,5,,Antapani Wetan,Kec. Antapani,-6.9132,107.6679,Tidak ada,Aktif,Pemerintah Daerah
+20245526,SD NEGERI CIPAGANTI 4,SD,SD / sederajat,Jl. Sastra No.11  Bandung,4,7,,Cipaganti,Kec. Coblong,-6.8948,107.6029,Tidak ada,Aktif,Pemerintah Daerah
+20245476,SD NEGERI BANJARSARI 2,SD,SD / sederajat,Jl. Merdeka No. 22,2,6,,Babakan Ciamis,Kec. Sumur Bandung,-6.9134,107.6108,Tidak ada,Aktif,Pemerintah Daerah
+20245581,SD NEGERI GRIYA BUMI ANTAPANI 27-2,SD,SD / sederajat,Jl. Cibatu VI No. 1,2,16,,Antapani Tengah,Kec. Antapani,-6.9153,107.6652,Tidak ada,Aktif,Pemerintah Daerah
+20245057,SD NEGERI PABAKI 03,SD,SD / sederajat,Jl. Pabaki No. 33,3,4,,Panjunan,Kec. Astanaanyar,-6.9273,107.596,Tidak ada,Aktif,Pemerintah Daerah
+20245215,SD NEGERI KARANG TARUNA 1,SD,SD / sederajat,Jl. Halteu Utara No. 149,5,1,Dunguscariang,Dungus Cariang,Kec. Andir,-6.9168,107.5852,Tidak ada,Aktif,Pemerintah Pusat
+20245462,SD NEGERI BABAKAN SINYAR 3,SD,SD / sederajat,Jl. Terusan Sukapura,1,3,Sukapura,Sukapura,Kec. Kiaracondong,-6.9275,107.652,Tidak ada,Aktif,Lainnya
+20245188,SD NEGERI CIUJUNG 2,SD,SD / sederajat,Jl. Lapangan Supratman No. 7,7,4,,Cihapit,Kec. Bandung Wetan,-6.907,107.6293,Tidak ada,Aktif,Pemerintah Daerah
+20245250,SD NEGERI PADASUKA 4,SD,SD / sederajat,Jl.padasuka No.90,4,6,,Pasirlayung,Kec. Cibeunying Kidul,-6.8979,107.6544,Tidak ada,Aktif,Pemerintah Daerah
+20219852,SD MUHAMMADIYAH 3,SD,SD / sederajat,Jl. Phh Mustopa,3,2,,Padasuka,Kec. Cibeunying Kidul,-6.9023,107.653,Tidak ada,Tidak Aktif,Yayasan
+20245078,SD NEGERI RAYA BARAT 1,SD,SD / sederajat,Jl. Jendral Sudirman No. 587,3,10,,Sukahaji,Kec. Babakan Ciparay,-6.9179,107.5787,Tidak ada,Aktif,Pemerintah Daerah
+20245452,SD NEGERI BABAKAN SARI 1,SD,SD / sederajat,Jl. Babakan Sari I No.173,1,12,,Babakan Sari,Kec. Kiaracondong,-6.9216,107.6462,Tidak ada,Aktif,Pemerintah Daerah
+20246405,SD NEGERI GRIYA BUMI ANTAPANI 14-3,SD,SD / sederajat,Jl. Cicalengka Raya No. 1,2,6,,Antapani Kidul,Kec. Antapani,-6.9196,107.658,Tidak ada,Aktif,Pemerintah Daerah
+20245226,SD NEGERI MARGAHAYU RAYA 1,SD,SD / sederajat,Jl. Pluto Utara Blok G No. 73,5,4,Margasari,Margasari,Kec. Buahbatu,-6.955,107.6635,Tidak ada,Aktif,Pemerintah Pusat
+20245106,SD NEGERI BANDUNG BARU 1,SD,SD / sederajat,Jalan Bukit Raya Selatan,3,3,,Ciumbuleuit,Kec. Cidadap,-6.8639,107.6071,Tidak ada,Aktif,Pemerintah Pusat
+20245825,SD NEGERI TILIL 4,SD,SD / sederajat,Jl. Puyuh No. 2,1,8,,Sadang Serang,Kec. Coblong,-6.8982,107.6232,Tidak ada,Aktif,Pemerintah Daerah
+20244947,SD NEGERI BABAKAN TAROGONG 5,SD,SD / sederajat,Jl. Kopo No.256,0,0,,Suka Asih,Kec. Bojong Loa Kaler,-6.9384,107.5937,Tidak ada,Aktif,Pemerintah Pusat
+20219894,SD SANTO AGUSTINUS,SD,SD / sederajat,Jl. Ahmad Yani  No 273,4,7,Cihapit,Cihapit,Kec. Bandung Wetan,-6.9153,107.6325,Tidak ada,Tidak Aktif,Yayasan
+20244953,SD NEGERI BOJONGLOA 1,SD,SD / sederajat,Jl. Cibaduyut Raya No. 142/199 C,4,6,,Kebon Lega,Kec. Bojong Loa Kidul,-6.9507,107.594,Tidak ada,Aktif,Pemerintah Daerah
+20258124,SD NEGERI SUKAPURA 01,SD,SD / sederajat,Jl. Manglayang I No. 1,2,6,Manglayang,Palasari,Kec. Cibiru,-6.9218,107.715,Tidak ada,Aktif,Pemerintah Daerah
+20245072,SD NEGERI PARAKANWAAS,SD,SD / sederajat,Jl. Waas Ii No. 94 B,7,7,Batununggal,Batununggal,Kec. Bandung Kidul,-6.953,107.6267,Tidak ada,Aktif,Lainnya
+20246418,SD NEGERI RANCASAWO 2,SD,SD / sederajat,Jl. Rancasawo No. 50,2,20,Rancasawo,Margasari,Kec. Buahbatu,-6.9596,107.6589,Tidak ada,Aktif,Pemerintah Daerah
+20245062,SD NEGERI PABAKI 08,SD,SD / sederajat,Jl. Pabaki No. 33,3,3,,Panjunan,Kec. Astanaanyar,-6.9274,107.596,Tidak ada,Aktif,Pemerintah Daerah
+20245538,SD NEGERI CISITU 2,SD,SD / sederajat,Jl. Sangkuriang No. 87,2,13,Dago,Dago,Kec. Coblong,-6.8821,107.6094,Tidak ada,Aktif,Pemerintah Daerah
+20245255,SD NEGERI PASIRLUYU 1,SD,SD / sederajat,Jl. Pasirluyu No.164 / 205 A,0,0,,Pasirluyu,Kec. Regol,-6.9397,107.6187,Tidak ada,Aktif,Pemerintah Daerah
+20245922,SD NEGERI CIPEDES 5,SD,SD / sederajat,Jl. Gegerkalong Hilir No. 79,1,1,,Sukarasa,Kec. Sukasari,-6.8694,107.5877,Tidak ada,Aktif,Pemerintah Daerah
+20244844,SD NEGERI CIJERAH 4,SD,SD / sederajat,Jl. Cijerah No. 116,3,6,Cijerah,Cijerah,Kec. Bandung Kulon,-6.9208,107.5761,Tidak ada,Aktif,Pemerintah Pusat
+20269306,SD CITRA CEMARA,SD,SD / sederajat,Jl. Soekarno Hatta No. 22,3,1,,,Kec. Bandung Kulon,-6.9233,107.5856,Tidak ada,Tidak Aktif,Yayasan
+20245021,SD NEGERI BATUNUNGGAL 3,SD,SD / sederajat,Jl. Arhanudri No. 12 B,5,9,,Batununggal,Kec. Bandung Kidul,-6.9639,107.6307,Tidak ada,Aktif,Lainnya
+20244926,SD NEGERI SUKAJADI 8,SD,SD / sederajat,Jl. Karang Tineung No. 5 A,4,3,,Cipedes,Kec. Sukajadi,-6.8833,107.5946,Tidak ada,Aktif,Pemerintah Daerah
+20245836,SD NEGERI WARUNG JAMBU 1,SD,SD / sederajat,Jl. Warung Jambu No. 28,1,1,Warung Jambu,Kebon Kangkung,Kec. Kiaracondong,-6.9296,107.6456,Tidak ada,Aktif,Pemerintah Daerah
+20219905,SD YAMI,SD,SD / sederajat,Jl.karasak Baru No.16 Bandung,3,2,Karasak,Karasak,Kec. Astanaanyar,-6.95,107.6094,Tidak ada,Tidak Aktif,Yayasan
+20245830,SD NEGERI UJUNGBERUNG 04,SD,SD / sederajat,Jl. Cigending No. 03,4,5,,Cigending,Kec. Ujungberung,-6.9128,107.702,Tidak ada,Aktif,Pemerintah Daerah
+20244922,SD NEGERI SUKAGALIH 7,SD,SD / sederajat,Jl. Sukagalih Komplek Polri,1,9,,Cipedes,Kec. Sukajadi,-6.8911,107.5952,Tidak ada,Aktif,Pemerintah Daerah
+20219847,SD MALEBER SELATAN,SD,SD / sederajat,Jl. Rajawali Gg. Latifah,0,0,,Maleber,Kec. Andir,-6.912,107.5751,Tidak ada,Tidak Aktif,Yayasan
+20245733,SD NEGERI PASIR IMPUN 1,SD,SD / sederajat,Jl. Pasir Impun No. 23,5,11,,Karang Pamulang,Kec. Mandalajati,-6.8983,107.6738,Tidak ada,Aktif,Pemerintah Daerah
+20245740,SD NEGERI PASIRKALIKI 139-1,SD,SD / sederajat,Jl. Pasirkaliki Belakang No. 179,2,6,,Pamoyanan,Kec. Cicendo,-6.9017,107.5967,Tidak ada,Aktif,Lainnya
+20245819,SD NEGERI TIKUKUR 3,SD,SD / sederajat,Jl. Titimplik No. 1,4,7,,Sadang Serang,Kec. Coblong,-6.8971,107.6218,Tidak ada,Aktif,Pemerintah Daerah
+20245760,SD NEGERI SEKEJATI 1,SD,SD / sederajat,Jl. Cidurian Selatan No. 18,2,10,,Sukapura,Kec. Kiaracondong,-6.8864,107.619,Tidak ada,Aktif,Lainnya
+20245771,SD NEGERI SINDANGLAYA 4,SD,SD / sederajat,Jl. A.h. Nasution Km.9 No. 15,1,1,,,Kec. Mandalajati,-6.9051,107.6806,Tidak ada,Aktif,Pemerintah Daerah
+20245280,SD NEGERI SUKALUYU 1,SD,SD / sederajat,Jl. Rereng Adumanis No. 2 A,8,7,,Sukaluyu,Kec. Cibeunying Kaler,-6.8953,107.6319,Tidak ada,Aktif,Pemerintah Pusat
+20245829,SD NEGERI UJUNGBERUNG 3,SD,SD / sederajat,Jln. Cigending No. 3,4,5,,Cigending,Kec. Ujungberung,-6.9129,107.702,Tidak ada,Aktif,Pemerintah Daerah
+20253818,SD ISLAM TERPADU AL IRSYAD,SD,SD / sederajat,Jl. Cikutra No. 205 A,2,2,,Neglasari,Kec. Cibeunying Kaler,-6.8938,108.0,Tidak ada,Tidak Aktif,Yayasan
+20245593,SD NEGERI JATAYU 3,SD,SD / sederajat,Jl. Komud Supadio No. 39 A,1,6,,Husen Sastranegara,Kec. Cicendo,-6.9097,107.5836,Tidak ada,Aktif,Lainnya
+20245441,SD NEGERI ANTAPANI 1,SD,SD / sederajat,Jl. Sindangsari 1,4,10,,Antapani Wetan,Kec. Antapani,-6.9062,107.6647,Tidak ada,Aktif,Pemerintah Daerah
+20219819,SD PANGKALAN,SD,SD / sederajat,Jl. Cibolerang No. 2,1,6,Margahayu Utara,Margahayu Utara,Kec. Babakan Ciparay,-6.9489,107.5669,Tidak ada,Tidak Aktif,Yayasan
+20245998,SD NEGERI SUKAWARNA 1,SD,SD / sederajat,Jl. Sariwangi No. 1,3,3,,Sukawarna,Kec. Sukajadi,-6.8822,107.5785,Tidak ada,Aktif,Pemerintah Daerah
+20245767,SD NEGERI SENANGGALIH,SD,SD / sederajat,Kp. Pasirkaliki Barat,10,15,,Sadang Serang,Kec. Coblong,-6.8982,107.6291,Tidak ada,Aktif,Pemerintah Daerah
+69922041,SD ASHFIYA,SD,SD / sederajat,Jl. Riung Mungpulung I,8,12,,Cisaranten Kidul,Kec. Gedebage,,,Tidak ada,Tidak Aktif,Yayasan
+20246459,SD NEGERI PASIRLUYU 2,SD,SD / sederajat,Jl. Pasirluyu No.164 / 205 A,5,3,,Pasirluyu,Kec. Regol,-6.9397,107.6187,"C1, D",Aktif,Pemerintah Daerah
+20245124,SD NEGERI BUAHBATU 3,SD,SD / sederajat,Jl. H. Ibrahim Adjie No. 45,3,2,Cijaura,Cijaura,Kec. Buahbatu,-6.9517,107.6409,Tidak ada,Aktif,Pemerintah Pusat
+20245781,SD NEGERI SOKA 34-1,SD,SD / sederajat,Jl. Soka No. 34,5,8,,Merdeka,Kec. Sumur Bandung,-6.9155,107.6289,Tidak ada,Aktif,Pemerintah Daerah
+20245223,SD NEGERI LENGKONG BESAR 105-5,SD,SD / sederajat,Jl. Lengkong Besar No.139,2,7,,Balong Gede,Kec. Regol,-6.9305,107.6128,Tidak ada,Aktif,Pemerintah Daerah
+20253349,SD YKPPK,SD,SD / sederajat,Jl. Cihampelas Blk No. 14,7,18,,Taman Sari,Kec. Bandung Wetan,-6.9058,107.6051,Tidak ada,Tidak Aktif,Yayasan
+20245108,SD NEGERI BABAKAN PRIANGAN 1,SD,SD / sederajat,Jl. Babakan Priangan No. 29,4,1,Cisereuh,Ciseureuh,Kec. Regol,-6.9464,107.6144,Tidak ada,Aktif,Pemerintah Daerah
+20219607,SD DWI AMANAT,SD,SD / sederajat,Jl. Pagarsih No. 205,3,9,,Jamika,Kec. Bojong Loa Kaler,-6.9223,107.5877,Tidak ada,Tidak Aktif,Yayasan
+20245011,SD NEGERI BABAKAN CIPARAY 03,SD,SD / sederajat,Jl. Kopo No. 440,6,1,Babakan Ciparay,Babakan Ciparay,Kec. Babakan Ciparay,-6.948,107.5876,Tidak ada,Aktif,Pemerintah Daerah
+20245709,SD NEGERI LANUMA HUSEIN SASTRANEGARA 3,SD,SD / sederajat,Jl. Sukawarna No. 3,1,1,Pajajaran,Pajajaran,Kec. Cicendo,-6.8938,107.5835,Tidak ada,Aktif,Pemerintah Daerah
+20253862,SD SANTO YUSUP I,SD,SD / sederajat,Jl. Cikutra No 5,12,9,,Cikutra,Kec. Cibeunying Kidul,-6.9014,107.6441,Tidak ada,Tidak Aktif,Yayasan
+20219524,SD AL FATAH AL HASAN,SD,SD / sederajat,Jl. Gunung Batu No. 31,1,9,,Sukaraja,Kec. Cicendo,-6.8917,107.5731,Tidak ada,Tidak Aktif,Yayasan
+20219577,SD ISLAM TERPADU LUQMANUL HAKIM,SD,SD / sederajat,Jl. Cingised Komp. Pemda Kav. D13-D15,3,4,,Cisaranten Endah,Kec. Arcamanik,-6.9324,107.6759,Tidak ada,Tidak Aktif,Yayasan
+20245127,SD NEGERI CARINGIN 2,SD,SD / sederajat,Jl. Sukamulya No.46,4,6,,Sukagalih,Kec. Sukajadi,-6.8918,107.5884,Tidak ada,Aktif,Pemerintah Pusat
+20246400,SD NEGERI CIPOREAT 4,SD,SD / sederajat,Jl. A.h. Nasution No. 29,3,3,,Pasanggrahan,Kec. Ujungberung,-6.9174,107.7062,Tidak ada,Aktif,Pemerintah Daerah
+20245074,SD NEGERI PASAWAHAN 3,SD,SD / sederajat,Jl. Muhamad Toha No. 383,2,7,,Wates,Kec. Bandung Kidul,-6.9596,107.6133,Tidak ada,Aktif,Pemerintah Daerah
+20245721,SD NEGERI NEGLASARI 5,SD,SD / sederajat,Jl. Raya Sadang Serang,7,13,,Sekeloa,Kec. Coblong,-6.8884,107.6253,Tidak ada,Aktif,Pemerintah Daerah
+20245785,SD NEGERI SOKA 34-5,SD,SD / sederajat,Jl. Soka No. 34,5,8,,Merdeka,Kec. Sumur Bandung,-6.9154,107.6288,Tidak ada,Aktif,Pemerintah Daerah
+20245258,SD NEGERI RANCABOLANG 4,SD,SD / sederajat,Jl. Rancabolang Indah No. 1,6,16,,Manjahlega,Kec. Rancasari,-6.9505,107.6621,Tidak ada,Aktif,Pemerintah Daerah
+20244741,SD NEGERI BOJONG INDAH,SD,SD / sederajat,Jl. Kawat No. I,5,2,,Caringin,Kec. Bandung Kulon,-6.9337,107.5768,Tidak ada,Aktif,Lainnya
+20219614,SD GIKI,SD,SD / sederajat,Jl. Karangsari No. 29,1,6,,Pasteur,Kec. Sukajadi,-6.881,107.5967,Tidak ada,Tidak Aktif,Yayasan
+20244887,SD NEGERI KEBON GEDANG 02,SD,SD / sederajat,Jl. Kebon Gedang No. 82,3,7,,Maleer,Kec. Batununggal,-6.9309,107.6413,Tidak ada,Aktif,Pemerintah Daerah
+20219571,SD ANUGERAH,SD,SD / sederajat,Jl. Sukamulya No. 52A,6,5,,Sukagalih,Kec. Sukajadi,-6.9041,107.6065,"C1, D",Tidak Aktif,Yayasan
+20245748,SD NEGERI PELITA 2,SD,SD / sederajat,Jl. Desa Cipadung,1,14,,Cipadung,Kec. Cibiru,-6.9228,107.72,Tidak ada,Aktif,Pemerintah Daerah
+20245715,SD NEGERI MEKARJAYA,SD,SD / sederajat,Jl. Cisaranten Baru N0. 21,3,2,,Cisaranten Kulon,Kec. Arcamanik,-6.9223,107.6802,Tidak ada,Aktif,Pemerintah Daerah
+20245142,SD NEGERI CIUMBULEUIT 1,SD,SD / sederajat,Jl. Bukit Raya No. 173,2,3,,Ciumbuleuit,Kec. Cidadap,-6.8633,107.6057,Tidak ada,Aktif,Pemerintah Daerah
+20219838,SD LINGGAWASTU,SD,SD / sederajat,Jl. Linggawastu No. 8 A,2,16,0,Taman Sari,Kec. Bandung Wetan,-6.9022,107.6059,Tidak ada,Tidak Aktif,Yayasan
+20245134,SD NEGERI CIBEUREUM 06,SD,SD / sederajat,Jl. Asrama Kipal No. 56,5,4,,Campaka,Kec. Andir,-6.9074,107.571,Tidak ada,Aktif,Pemerintah Daerah
+20245571,SD NEGERI GUNUNG RAHAYU 4,SD,SD / sederajat,Jl. Mantor No. 67,3,7,Cidamar,Sukaraja,Kec. Cicendo,-6.8905,107.5695,Tidak ada,Aktif,Pemerintah Daerah
+20245470,SD NEGERI BABAKAN SURABAYA 04,SD,SD / sederajat,Jl. Ibrahim Adji No. 159,2,2,,Babakan Sari,Kec. Kiaracondong,-6.948,107.6411,Tidak ada,Aktif,Pemerintah Daerah
+20219599,SD CIPAERA,SD,SD / sederajat,Jl. Cipaera Selatan No. 145/33,2,4,,Malabar,Kec. Lengkong,-6.9205,107.6241,Tidak ada,Tidak Aktif,Yayasan
+20255795,SD BINTANG MULIA,SD,SD / sederajat,Jl. Mekar Kencana No.1,1,4,,,Kec. Bojong Loa Kidul,-6.9528,107.6182,Tidak ada,Tidak Aktif,Yayasan
+20245006,SD NEGERI BABAKAN CIPARAY 18,SD,SD / sederajat,Jl. Kopo No. 440,6,1,,Babakan Ciparay,Kec. Babakan Ciparay,-6.9473,107.5889,Tidak ada,Aktif,Pemerintah Daerah
+20245817,SD NEGERI TIKUKUR 1,SD,SD / sederajat,Jl. Titimplik No. 1,4,7,,Sadang Serang,Kec. Coblong,-6.8972,107.6217,Tidak ada,Aktif,Pemerintah Daerah
+20245535,SD NEGERI CISARANTEN WETAN 2,SD,SD / sederajat,Jl. Raya Gedebage No. 17,1,5,Rukun Mulya,,Kec. Cinambo,-6.9405,107.6913,Tidak ada,Aktif,Pemerintah Daerah
+20219836,SD MUHAMMADIYAH 7,SD,SD / sederajat,Jl. Kadipaten Raya No 4-6,1,1,,Antapani Kidul,Kec. Antapani,-6.9178,107.6557,"C1, D",Tidak Aktif,Yayasan
+20245145,SD NEGERI CIUMBULEUIT 4,SD,SD / sederajat,Jl.Bukit Raya Atas,3,3,Punclut,Ciumbuleuit,Kec. Cidadap,-6.8658,107.6061,Tidak ada,Aktif,Lainnya
+20244979,SD NEGERI LEUWIANYAR 2,SD,SD / sederajat,"Jl. Leuwianyar, Komp Leuwianyar",4,12,,Situsaeur,Kec. Bojong Loa Kidul,-6.9424,107.5944,Tidak ada,Aktif,Pemerintah Daerah
+20219608,SD IGNATIUS SLAMET RIYADI 2,SD,SD / sederajat,Jl. Kebon Kangkung X,2,8,,Kebon Kangkung,Kec. Kiaracondong,-6.9416,107.6507,Tidak ada,Tidak Aktif,Yayasan
+20245049,SD NEGERI MENGGER,SD,SD / sederajat,Jl. Terusan Sukaati No. 21,6,1,Mengger,Mengger,Kec. Bandung Kidul,-6.9497,107.621,Tidak ada,Aktif,Pemerintah Daerah
+20244991,SD NEGERI TANJUNG 2,SD,SD / sederajat,Jl. Babakan Tarogong No. 193,6,5,,Suka Asih,Kec. Bojong Loa Kaler,-6.9299,107.5889,Tidak ada,Aktif,Pemerintah Daerah
+20245243,SD NEGERI MUARARAJEUN 2,SD,SD / sederajat,Jl. Muararajeun No. 26,4,8,,Cihaurgeulis,Kec. Cibeunying Kaler,-6.9024,107.6318,Tidak ada,Aktif,Pemerintah Daerah
+20244864,SD NEGERI GUMURUH 01,SD,SD / sederajat,Jl. Cibangkong No. 13,1,8,Cibangkong,Cibangkong,Kec. Batununggal,-6.93,107.6372,Tidak ada,Aktif,Lainnya
+20245089,SD NEGERI SITUGUNTING 1,SD,SD / sederajat,Jl. H. Zakaria No. 56,7,1,,Sukahaji,Kec. Babakan Ciparay,-6.9324,107.5842,"C1, D",Aktif,Pemerintah Daerah
+20244950,SD NEGERI BANDUNGKULON 3,SD,SD / sederajat,Jl. Cibadak Gg. Ibu Aisah No. 16/9a Bandung,2,3,,Cibadak,Kec. Astanaanyar,-6.9216,107.5923,Tidak ada,Aktif,Pemerintah Daerah
+20245521,SD NEGERI CIKADUT 2,SD,SD / sederajat,Jl. Jamaras 4  No. 101,4,1,,Jatihandap,Kec. Mandalajati,-6.9027,107.6645,Tidak ada,Aktif,Pemerintah Daerah
+20245093,SD NEGERI SUMBERSARI INDAH 4,SD,SD / sederajat,Jl. Sumber Makmur No. 1,1,9,,Babakan,Kec. Babakan Ciparay,-6.9372,107.5727,Tidak ada,Aktif,Pemerintah Daerah
+20245496,SD NEGERI CILENGKRANG 3,SD,SD / sederajat,Jl. Cilengkrang I No. 135,3,5,,Cisurupan,Kec. Cibiru,-6.9136,107.7196,Tidak ada,Aktif,Pemerintah Daerah
+20245230,SD NEGERI MENGGER GIRANG 2,SD,SD / sederajat,Jl. Mengger Girang III No. 4,12,8,,Pasirluyu,Kec. Regol,-6.9519,107.6167,Tidak ada,Aktif,Pemerintah Daerah
+20245251,SD NEGERI PADASUKA 5,SD,SD / sederajat,Jl. Padasuka No. 90,4,6,,Pasirlayung,Kec. Cibeunying Kidul,-6.9005,107.659,Tidak ada,Aktif,Pemerintah Daerah
+20245805,SD NEGERI SUKAPURA 1,SD,SD / sederajat,Jl. Terusan PSM No.1,1,5,,Sukapura,Kec. Kiaracondong,-6.9301,107.6493,Tidak ada,Aktif,Pemerintah Daerah
+20245453,SD NEGERI BABAKAN SARI 2,SD,SD / sederajat,Jl. Babakan Sari I No.173,1,12,,Babakan Sari,Kec. Kiaracondong,-6.9217,107.6464,Tidak ada,Aktif,Pemerintah Daerah
+20244849,SD NEGERI CIJEROKASO II,SD,SD / sederajat,Jl. Sarijadi No. 73,4,1,,Sarijadi,Kec. Sukasari,-6.8712,107.5809,Tidak ada,Aktif,Pemerintah Daerah
+20245190,SD NEGERI CIUJUNG 4,SD,SD / sederajat,Jl. Lapangan Supratman No. 7,7,4,,Cihapit,Kec. Bandung Wetan,-6.907,107.6291,Tidak ada,Aktif,Lainnya
+20245541,SD NEGERI CITEPUS 1,SD,SD / sederajat,Jl. Astana Eyang,9,6,,Pajajaran,Kec. Cicendo,-6.9022,107.5887,Tidak ada,Aktif,Pemerintah Daerah
+20245052,SD NEGERI NILEM 3,SD,SD / sederajat,Jl. Nilem No. 10,1,9,Lengkong,Burangrang,Kec. Lengkong,-6.9355,107.6207,Tidak ada,Aktif,Pemerintah Daerah
+20245838,SD NEGERI CIGAGAK 1,SD,SD / sederajat,Jl. Cilengkrang I No.153,2,7,Cigagak,Cisurupan,Kec. Cibiru,-6.908,107.7246,Tidak ada,Aktif,Pemerintah Daerah
+20245007,SD NEGERI BABAKAN CIPARAY 19,SD,SD / sederajat,Jl. Caringin No.150,2,5,,Babakan Ciparay,Kec. Babakan Ciparay,-6.9469,107.5881,Tidak ada,Aktif,Pemerintah Daerah
+20245180,SD NEGERI CIMUNCANG 3,SD,SD / sederajat,Jl. Babakan Haji Tamim No.33,7,3,,Padasuka,Kec. Cibeunying Kidul,-6.903,107.6481,Tidak ada,Aktif,Pemerintah Daerah
+20245792,SD NEGERI SUKARELA 3,SD,SD / sederajat,Jl. Panyawangan No. 7,0,0,,Cipadung Kulon,Kec. Panyileukan,-6.923,107.7009,Tidak ada,Aktif,Pemerintah Daerah
+20245545,SD NEGERI CITEPUS 5,SD,SD / sederajat,Jl. Astana Eyang,9,6,,Pajajaran,Kec. Cicendo,-6.9021,107.5886,Tidak ada,Aktif,Pemerintah Daerah
+20244843,SD NEGERI CIJERAH 3,SD,SD / sederajat,Jl. Cijerah No. 116,3,6,Cijerah,Cijerah,Kec. Bandung Kulon,-6.9215,107.5695,Tidak ada,Aktif,Pemerintah Pusat
+20246469,SD TERPADU KRIDA NUSANTARA,SD,SD / sederajat,Jl. Desa Cipadung,6,12,,Pasir Biru,Kec. Cibiru,-6.9237,107.721,Tidak ada,Tidak Aktif,Yayasan
+20245713,SD NEGERI LOKAJAYA 2,SD,SD / sederajat,Jl. A.h. Nasution Km. 9 No. 7,1,1,,Cisaranten Bina Harapan,Kec. Arcamanik,-6.9193,107.6817,Tidak ada,Aktif,Pemerintah Pusat
+20244997,SD NEGERI BABAKAN 3,SD,SD / sederajat,Jl. Aki Padma No. 51,1,6,,Babakan,Kec. Babakan Ciparay,-6.9287,107.5779,Tidak ada,Aktif,Pemerintah Daerah
+20219586,SD KRISTEN 6 BPK PENABUR,SD,SD / sederajat,Jl. Jend. Sudirman 638,4,3,Dungus Cariang,Dungus Cariang,Kec. Andir,-6.9097,107.5888,Tidak ada,Tidak Aktif,Yayasan
+20245025,SD NEGERI CIRANGRANG 1,SD,SD / sederajat,"Jl. K.h. Wahid Hasyim Kopo Km 5,5",4,1,,Margasuka,Kec. Babakan Ciparay,-6.9587,107.5814,Tidak ada,Aktif,Pemerintah Daerah
+20219574,SD KARTIKA X-1,SD,SD / sederajat,Jl. Jenderal Gatot Subroto N0. 160,1,6,Lingkar Selatan,Lingkar Selatan,Kec. Lengkong,-6.9292,107.6399,Tidak ada,Tidak Aktif,Yayasan
+20245718,SD NEGERI NEGLASARI 2,SD,SD / sederajat,Jl. Raya Sadang Serang,7,13,,Sekeloa,Kec. Coblong,-6.8884,107.6252,Tidak ada,Aktif,Pemerintah Daerah
+20245546,SD NEGERI COBLONG 1,SD,SD / sederajat,Jl. Ir.h. Juanda No. 304,2,7,,Dago,Kec. Coblong,-6.8795,107.6166,Tidak ada,Aktif,Pemerintah Daerah
+20245003,SD NEGERI BABAKAN CIPARAY 12,SD,SD / sederajat,Jl. Caringin. Gg Porib 3,3,2,,Babakan Ciparay,Kec. Babakan Ciparay,-6.9481,107.5846,Tidak ada,Aktif,Pemerintah Pusat
+20245755,SD NEGERI PRAKARSA 2,SD,SD / sederajat,Jl. Parakan Saat No. 45,2,11,,Cisaranten Endah,Kec. Arcamanik,-6.896,107.665,Tidak ada,Aktif,Pemerintah Pusat
+20219604,SD BUDI SASTRA,SD,SD / sederajat,Jl. Warna Cinta No. 98,1,3,Warna Cinta,Mekar Wangi,Kec. Bojong Loa Kidul,-6.9592,107.6106,Tidak ada,Tidak Aktif,Yayasan
+20245737,SD NEGERI PASIRKALIKI 7,SD,SD / sederajat,Jl. Babakan Cianjur No. 81,11,2,Babakan Cianjur,Sukaraja,Kec. Cicendo,-6.893,107.5646,Tidak ada,Aktif,Pemerintah Daerah
+20245076,SD NEGERI PASAWAHAN 6,SD,SD / sederajat,Jl. Mochamad Toha No. 383,2,7,Ciseureuh,Wates,Kec. Bandung Kidul,-6.9596,107.6131,Tidak ada,Aktif,Pemerintah Daerah
+20245047,SD NEGERI MARGAHAYU UTARA 2,SD,SD / sederajat,Jl. Cibolerang No. 185,2,7,Margasuka,Margasuka,Kec. Babakan Ciparay,-6.951,107.5774,Tidak ada,Aktif,Pemerintah Daerah
+20245241,SD NEGERI MOHAMAD TOHA 4,SD,SD / sederajat,Jl. Mohamad Toha No. 22,1,4,,Pungkur,Kec. Regol,-6.9299,107.6067,Tidak ada,Aktif,Pemerintah Pusat
+20268416,SD TIARA BUNDA,SD,SD / sederajat,Jl. Batununggal Indah I 74-76,0,0,Mengger,Mengger,Kec. Bandung Kidul,-6.9525,107.6343,Tidak ada,Tidak Aktif,Yayasan
+20244745,SDP NEGERI PAJAGALAN 58,SD,SD / sederajat,Jalan Pajagalan No 58 Kota Bandung,3,4,,Karang Anyar,Kec. Astanaanyar,-6.926,107.6005,Tidak ada,Aktif,Pemerintah Daerah
+20245248,SD NEGERI PADASUKA 2,SD,SD / sederajat,Jl. Padasuka No. 90,4,6,Pasirlayung,Pasirlayung,Kec. Cibeunying Kidul,-6.8999,107.6562,Tidak ada,Aktif,Pemerintah Daerah
+20244995,SD NEGERI BABAKAN 1,SD,SD / sederajat,Jl. Aki Padma No. 1,1,6,Babakan,Babakan,Kec. Babakan Ciparay,-6.9411,107.5892,Tidak ada,Aktif,Pemerintah Daerah
+20244857,SD NEGERI GAMBIR,SD,SD / sederajat,Jl. Gambir No. 25,6,10,,Samoja,Kec. Batununggal,-6.9429,107.6412,Tidak ada,Aktif,Pemerintah Daerah
+20245960,SD NEGERI KEBON GEDANG 09,SD,SD / sederajat,Jl. Kebon Gedang No. 82,3,7,,Maleer,Kec. Batununggal,-6.9308,107.6414,Tidak ada,Aktif,Pemerintah Daerah
+20245268,SD NEGERI SUKAGALIH 3,SD,SD / sederajat,Jl. Sukagalih No. 108,3,2,Sukabungah,Sukabungah,Kec. Sukajadi,-6.8926,107.5923,Tidak ada,Aktif,Pemerintah Daerah
+20219834,SD MUTIARA,SD,SD / sederajat,Jl. Maleber Utara No.37,3,4,,Garuda,Kec. Andir,-6.91,107.5751,Tidak ada,Tidak Aktif,Yayasan
+20246409,SD NEGERI MARGAHAYU RAYA BLOK I/II-02,SD,SD / sederajat,Jl. Jupiter No. 92 A,2,9,,Sekejati,Kec. Buahbatu,-6.9455,107.6582,Tidak ada,Aktif,Lainnya
+20246393,SD NEGERI AJITUNGGAL,SD,SD / sederajat,Jl. Terusan Sukup  No.  5,7,6,,Pasir Endah,Kec. Ujungberung,-6.909,107.6928,Tidak ada,Aktif,Pemerintah Daerah
+20245037,SD NEGERI KARANGPAWULANG 3,SD,SD / sederajat,Jl. Karawitan No. 81,0,0,,Turangga,Kec. Lengkong,-6.9302,107.6196,Tidak ada,Aktif,Pemerintah Daerah
+20245282,SD NEGERI SUKALUYU 3,SD,SD / sederajat,Jl. Rereng Adumanis No. 2 A,8,7,,Sukaluyu,Kec. Cibeunying Kaler,-6.8954,107.6319,Tidak ada,Aktif,Pemerintah Pusat
+20245219,SD NEGERI LENGKONG BESAR 105-1,SD,SD / sederajat,Jl. Lengkong Besar No.139,5,7,Balong Gede,Balong Gede,Kec. Regol,-6.936,107.62,Tidak ada,Aktif,Pemerintah Daerah
+20245060,SD NEGERI PABAKI 06,SD,SD / sederajat,Jl. Pabaki No. 33,3,4,,Panjunan,Kec. Astanaanyar,-6.9273,107.5961,Tidak ada,Aktif,Pemerintah Daerah
+20219891,SD SEJATI,SD,SD / sederajat,Jl. Cikutra Sukasari II No.20,1,4,Sukasari,Neglasari,Kec. Cibeunying Kaler,-6.8985,107.643,Tidak ada,Tidak Aktif,Yayasan
+20244948,SD NEGERI BABAKAN TAROGONG 6,SD,SD / sederajat,Jl. Kh. Wahid Hasyim No. 256,2,1,,Suka Asih,Kec. Bojong Loa Kaler,-6.9385,107.5938,Tidak ada,Aktif,Pemerintah Daerah
+20244879,SD NEGERI ISOLA 2,SD,SD / sederajat,Jl. Gegerkalong Girang No. 12,1,6,Sukasari,Isola,Kec. Sukasari,-6.8644,107.5927,Tidak ada,Aktif,Lainnya
+20246396,SD NEGERI BUAHBATU 5,SD,SD / sederajat,Jl. H. Ibrahim Adjie No. 65,2,2,,Cijaura,Kec. Buahbatu,-6.9505,107.6413,Tidak ada,Aktif,Pemerintah Pusat
+20245764,SD NEGERI SEKEJATI 6,SD,SD / sederajat,Jl. Cidurian Utara No. 22,4,10,,Sukapura,Kec. Kiaracondong,-6.9408,107.6533,Tidak ada,Aktif,Pemerintah Daerah
+20245277,SD NEGERI SUKAWARNA 2,SD,SD / sederajat,Jl. Sariwangi No. 1,3,3,,Sukawarna,Kec. Sukajadi,-6.8822,107.5785,Tidak ada,Aktif,Pemerintah Daerah

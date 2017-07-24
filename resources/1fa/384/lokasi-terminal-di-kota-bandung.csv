@@ -1,0 +1,19 @@
+NO,NAMA TERMINAL,TIPE,LUAS (m2),LOKASI (JALAN),INSTANSI PENGELOLA
+1,Terminal Leuwipanjang ,A, 35000,Jl. Soekarno Hatta,Dishub Kota Bandung
+2, Terminal Cicaheum,A ,7500 ,Jl. A. Yani,sda
+3,Terminal Non Bus Leuwipanjang,B,3885,Jl. Soekarno Hatta,sda
+4,Terminal Non Bus Cicaheum,B,4,Jl. A. Yani,sda
+5,Terminal Abdul Muis ,B, 500,Jl. Pungkur,sda
+6,Sub Terminal Ledeng,B,26,Jl. Setiabudhi,sda
+7,Sub Terminal Ciroyom,B,2,Jl. Ciroyom,sda
+8,Sub Terminal st.Hall,B,4326,Jl. Suniaraja,sda
+9,Sub Terminal Dago,B,422,Jl. Ir. H. Juanda,sda
+10,Sub Terminal Ujungberung,B,1675,Jl. Ujungberung,sda
+11,Pangkalan I Tegalega,C,3,Jl. Otista,sda
+12,Pangkalan II Sederhana,C,500,Pasar Sederhana,sda
+13,Pabgkalan III Sadang serang,C,3,Jl. Sadang Serang,sda
+14,Pangkalan IV Elang,C,500,Jl. Elang,sda
+15,Pangkalan V Buah Batu,C,15,Pasar Ciwastra,sda
+16,Pangkalan VI Antapani,C,32,Pasar Cibatu,sda
+17,Pangkalan VII Cibaduyut,C,700,Jl. Cibaduyut,sda
+18,Pangkalan VIII Gedebage,C,2,Pasar Gedebage,sda

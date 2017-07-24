@@ -1,0 +1,122 @@
+KODE REKENING,URAIAN, JUMLAH 
+1.20 . 1.20.08 . 00 . 00 . 4,PENDAPATAN,2186416770000
+1.20 . 1.20.08 . 00 . 00 . 4 . 1,PENDAPATAN ASLI DAERAH,2186416770000
+1.20 . 1.20.08 . 00 . 00 . 4 . 1 . 1,Pajak Daerah,2186416770000
+1.20 . 1.20.08 . 00 . 00 . 5,BELANJA,133141781898
+1.20 . 1.20.08 . 00 . 00 . 5 . 1,BELANJA TIDAK LANGSUNG,103552308472
+1.20 . 1.20.08 . 00 . 00 . 5 . 1 . 1,Belanja Pegawai,103552308472
+1.20 . 1.20.08 . 01 . 02 . 5 . 2,BELANJA LANGSUNG,29589473426
+1.20 . 1.20.08 . 01,Program Pelayanan Administrasi Perkantoran,10156317426
+1.20 . 1.20.08 . 01 . 02,Penyediaan jasa komunikas sumber daya air dan listrik,250000000
+1.20 . 1.20.08 . 01 . 02 . 5 . 2 . 2,Belanja Barang dan Jasa,250000000
+1.20 . 1.20.08 . 01 . 03,Penyediaan jasa peralatan dan perlengkapan kantor,89000000
+1.20 . 1.20.08 . 01 . 03 . 5 . 2 . 1,Belanja Pegawai,4000000
+1.20 . 1.20.08 . 01 . 03 . 5 . 2 . 2,Belanja Barang dan Jasa,85000000
+1.20 . 1.20.08 . 01 . 06,Penyediaan jasa pemeliharaan dan perizinan kendaraan dinas/operasional,2409200000
+1.20 . 1.20.08 . 01 . 06 . 5 . 2 . 1,Belanja Pegawai,34600000
+1.20 . 1.20.08 . 01 . 06 . 5 . 2 . 2,Belanja Barang dan Jasa,2374600000
+1.20 . 1.20.08 . 01 . 08,Penyediaan jasa kebersihan kantor,775000000
+1.20 . 1.20.08 . 01 . 08 . 5 . 2 . 1,Belanja Pegawai,9250000
+1.20 . 1.20.08 . 01 . 08 . 5 . 2 . 2,Belanja Barang dan Jasa,765750000
+1.20 . 1.20.08 . 01 . 10,Penyediaan alat tulis kantor,200000000
+1.20 . 1.20.08 . 01 . 10 . 5 . 2 . 1,Belanja Pegawai,1800000
+1.20 . 1.20.08 . 01 . 10 . 5 . 2 . 2,Belanja Barang dan Jasa,198200000
+1.20 . 1.20.08 . 01 . 11,Penyediaan barang cetakan dan penggandaan,210000000
+1.20 . 1.20.08 . 01 . 11 . 5 . 2 . 1,Belanja Pegawai,1800000
+1.20 . 1.20.08 . 01 . 11 . 5 . 2 . 2,Belanja Barang dan Jasa,208200000
+1.20 . 1.20.08 . 01 . 12,Penyediaan komponen instalasi listrik/penerangan bangunan kantor,127900000
+1.20 . 1.20.08 . 01 . 12 . 5 . 2 . 1,Belanja Pegawai,2900000
+1.20 . 1.20.08 . 01 . 12 . 5 . 2 . 2,Belanja Barang dan Jasa,125000000
+1.20 . 1.20.08 . 01 . 13,Penyediaan peralatan dan perlengkapan kantor,4825497426
+1.20 . 1.20.08 . 01 . 13 . 5 . 2 . 3,Belanja Modal,4825497426
+1.20 . 1.20.08 . 01 . 14,Penyediaan peralatan rumah tangga,252400000
+1.20 . 1.20.08 . 01 . 14 . 5 . 2 . 1,Belanja Pegawai,4400000
+1.20 . 1.20.08 . 01 . 14 . 5 . 2 . 2,Belanja Barang dan Jasa,198000000
+1.20 . 1.20.08 . 01 . 14 . 5 . 2 . 3,Belanja Modal,50000000
+1.20 . 1.20.08 . 01 . 15,Penyediaan bahan bacaan dan peraturan perundang-undangan,182000000
+1.20 . 1.20.08 . 01 . 15 . 5 . 2 . 2,Belanja Barang dan Jasa,182000000
+1.20 . 1.20.08 . 01 . 17,Penyediaan makanan dan minuman,150000000
+1.20 . 1.20.08 . 01 . 17 . 5 . 2 . 1,Belanja Pegawai,5000000
+1.20 . 1.20.08 . 01 . 17 . 5 . 2 . 2,Belanja Barang dan Jasa,145000000
+1.20 . 1.20.08 . 01 . 18,Rapat-rapat koordinasi dan konsultasi ke luar daerah,400000000
+1.20 . 1.20.08 . 01 . 18 . 5 . 2 . 2,Belanja Barang dan Jasa,400000000
+1.20 . 1.20.08 . 01 . 20,Penyediaan Jasa Pengamanan Kantor,285320000
+1.20 . 1.20.08 . 01 . 20 . 5 . 2 . 1,Belanja Pegawai,6600000
+1.20 . 1.20.08 . 01 . 20 . 5 . 2 . 2,Belanja Barang dan Jasa,195000000
+1.20 . 1.20.08 . 01 . 20 . 5 . 2 . 3,Belanja Modal,83720000
+1.20 . 1.20.08 . 02,Program Peningkatan Sarana dan Prasarana Aparatur,1508650000
+1.20 . 1.20.08 . 02 . 05,Pengadaan Kendaraan dinas/operasional,300000000
+1.20 . 1.20.08 . 02 . 05 . 5 . 2 . 3,Belanja Modal,300000000
+1.20 . 1.20.08 . 02 . 22,Pemeliharaan rutin/berkala gedung kantor,933650000
+1.20 . 1.20.08 . 02 . 22 . 5 . 2 . 1,Belanja Pegawai,26650000
+1.20 . 1.20.08 . 02 . 22 . 5 . 2 . 2,Belanja Barang dan Jasa,907000000
+1.20 . 1.20.08 . 02 . 26,Pemeliharaan rutin/berkala perlengkapan gedung kantor,200000000
+1.20 . 1.20.08 . 02 . 26 . 5 . 2 . 1,Belanja Pegawai,2800000
+1.20 . 1.20.08 . 02 . 26 . 5 . 2 . 2,Belanja Barang dan Jasa,197200000
+1.20 . 1.20.08 . 02 . 29,Pemeliharaan rutin/berkala mebeleur,75000000
+1.20 . 1.20.08 . 02 . 29 . 5 . 2 . 1,Belanja Pegawai,1400000
+1.20 . 1.20.08 . 02 . 29 . 5 . 2 . 2,Belanja Barang dan Jasa,73600000
+1.20 . 1.20.08 . 03,Program peningkatan disiplin aparatur,356600000
+1.20 . 1.20.08 . 03 . 02,Pengadaan pakaian dinas beserta perlengkapannya,356600000
+1.20 . 1.20.08 . 03 . 02 . 5 . 2 . 1,Belanja Pegawai,4800000
+1.20 . 1.20.08 . 03 . 02 . 5 . 2 . 2,Belanja Barang dan Jasa,351800000
+1.20 . 1.20.08 . 05,Program Peningkatan Kapasitas Sumber Daya Aparatur,1438300000
+1.20 . 1.20.08 . 05 . 02,Sosialisasi peraturan perundang-undangan,203000000
+1.20 . 1.20.08 . 05 . 02 . 5 . 2 . 1,Belanja Pegawai,27500000
+1.20 . 1.20.08 . 05 . 02 . 5 . 2 . 2,Belanja Barang dan Jasa,175500000
+1.20 . 1.20.08 . 05 . 03,Bimbingan teknis implementasi peraturan perundang-undangan,1235300000
+1.20 . 1.20.08 . 05 . 03 . 5 . 2 . 1,Belanja Pegawai,50000000
+1.20 . 1.20.08 . 05 . 03 . 5 . 2 . 2,Belanja Barang dan Jasa,1185300000
+1.20 . 1.20.08 . 06,Program peningkatan pengembangan sistem pelaporan capaian kinerja dan keuangan,162000000
+1.20 . 1.20.08 . 06 . 01,Penyusunan laporan capaian kinerja dan ikhtisar realisasi kinerja SKPD,162000000
+1.20 . 1.20.08 . 06 . 01 . 5 . 2 . 1,Belanja Pegawai,85200000
+1.20 . 1.20.08 . 06 . 01 . 5 . 2 . 2,Belanja Barang dan Jasa,76800000
+1.20 . 1.20.08 . 17,Program peningkatan dan pengembangan pengelolaan keuangan daerah,3276000000
+1.20 . 1.20.08 . 17 . 19,Intensifikasi dan ekstensifikasi sumber-sumber pendapatan daerah,428000000
+1.20 . 1.20.08 . 17 . 19 . 5 . 2 . 1,Belanja Pegawai,4300000
+1.20 . 1.20.08 . 17 . 19 . 5 . 2 . 2,Belanja Barang dan Jasa,423700000
+1.20 . 1.20.08 . 17 . 47,Intensifikasi dan Ekstensifikasi Pajak Bumi dan Bangunan,1590000000
+1.20 . 1.20.08 . 17 . 47 . 5 . 2 . 1,Belanja Pegawai,545000000
+1.20 . 1.20.08 . 17 . 47 . 5 . 2 . 2,Belanja Barang dan Jasa,1045000000
+1.20 . 1.20.08 . 17 . 51,Fasilitasi Penyelesaian Piutang Pendaftaran,558000000
+1.20 . 1.20.08 . 17 . 51 . 5 . 2 . 1,Belanja Pegawai,85000000
+1.20 . 1.20.08 . 17 . 51 . 5 . 2 . 2,Belanja Barang dan Jasa,473000000
+1.20 . 1.20.08 . 17 . 53,Penyusunan Peraturan Perundang-undangan tentang Pajak Daerah,700000000
+1.20 . 1.20.08 . 17 . 53 . 5 . 2 . 1,Belanja Pegawai,81180000
+1.20 . 1.20.08 . 17 . 53 . 5 . 2 . 2,Belanja Barang dan Jasa,618820000
+1.06 . 1.20.08 . 21,Program perencanaan pembangunan daerah,177600000
+1.06 . 1.20.08 . 21 . 16,Penyusunan Renstra dan Renja SKPD,177600000
+1.06 . 1.20.08 . 21 . 16 . 5 . 2 . 1,Belanja Pegawai,73300000
+1.06 . 1.20.08 . 21 . 16 . 5 . 2 . 2,Belanja Barang dan Jasa,104300000
+1.20 . 1.20.08 . 40,Program Perencanaan dan Pengembangan Pengelolaan Pajak Daerah,12514006000
+1.20 . 1.20.08 . 40 . 01,Perencanaan Penerimaan Pajak Daerah dan Perubahannya,300000000
+1.20 . 1.20.08 . 40 . 01 . 5 . 2 . 1,Belanja Pegawai,22700000
+1.20 . 1.20.08 . 40 . 01 . 5 . 2 . 2,Belanja Barang dan Jasa,277300000
+1.20 . 1.20.08 . 40 . 02,Penerapan NJOP Klasifikasi Bumi dan Bangunan Setiap Kelurahan,4725000000
+1.20 . 1.20.08 . 40 . 02 . 5 . 2 . 1,Belanja Pegawai,595000000
+1.20 . 1.20.08 . 40 . 02 . 5 . 2 . 2,Belanja Barang dan Jasa,4130000000
+1.20 . 1.20.08 . 40 . 04,Penyuluhan Tertib Administrasi Pajak Daerah,2650000000
+1.20 . 1.20.08 . 40 . 04 . 5 . 2 . 1,Belanja Pegawai,20000000
+1.20 . 1.20.08 . 40 . 04 . 5 . 2 . 2,Belanja Barang dan Jasa,2630000000
+1.20 . 1.20.08 . 40 . 06,Analisa dan Evaluasi Pemungutan Pajak Daerah/Survei Kepuasan WP atas Pelayanan Pajak,127950000
+1.20 . 1.20.08 . 40 . 06 . 5 . 2 . 1,Belanja Pegawai,2000000
+1.20 . 1.20.08 . 40 . 06 . 5 . 2 . 2,Belanja Barang dan Jasa,125950000
+1.20 . 1.20.08 . 40 . 08,Monitoring dan Penyelesaian Tindak Lanjut Temuan Hasil Pemeriksaan Pajak,725536000
+1.20 . 1.20.08 . 40 . 08 . 5 . 2 . 1,Belanja Pegawai,340256000
+1.20 . 1.20.08 . 40 . 08 . 5 . 2 . 2,Belanja Barang dan Jasa,385280000
+1.20 . 1.20.08 . 40 . 09,Pengembangan Pengelolaan Data dan Potensi Pajak Daerah,252000000
+1.20 . 1.20.08 . 40 . 09 . 5 . 2 . 1,Belanja Pegawai,75000000
+1.20 . 1.20.08 . 40 . 09 . 5 . 2 . 2,Belanja Barang dan Jasa,177000000
+1.20 . 1.20.08 . 40 . 10,Penyusunan Masterplan Satu Data Pajak Daerah,250000000
+1.20 . 1.20.08 . 40 . 10 . 5 . 2 . 1,Belanja Pegawai,20000000
+1.20 . 1.20.08 . 40 . 10 . 5 . 2 . 2,Belanja Barang dan Jasa,230000000
+1.20 . 1.20.08 . 40 . 12,Perencanaan dan Pengembangan Kebijakan Komunikasi dan Informasi Pajak Daerah,2528500000
+1.20 . 1.20.08 . 40 . 12 . 5 . 2 . 1,Belanja Pegawai,125000000
+1.20 . 1.20.08 . 40 . 12 . 5 . 2 . 2,Belanja Barang dan Jasa,2403500000
+1.20 . 1.20.08 . 40 . 13,Pengawasan dan Pemeriksaan Pajak Daerah,559400000
+1.20 . 1.20.08 . 40 . 13 . 5 . 2 . 1,Belanja Pegawai,214400000
+1.20 . 1.20.08 . 40 . 13 . 5 . 2 . 2,Belanja Barang dan Jasa,345000000
+1.20 . 1.20.08 . 40 . 14,Analisa Data Bahan Penyusunan Verifikasi, Otorisasi dan Pembukuan Pajak Pendaftaran,395620000
+1.20 . 1.20.08 . 40 . 14 . 5 . 2 . 1,Belanja Pegawai,51750000
+1.20 . 1.20.08 . 40 . 14 . 5 . 2 . 2,Belanja Barang dan Jasa,343870000
+,SURPLUS / (DEFISIT),2053274988102

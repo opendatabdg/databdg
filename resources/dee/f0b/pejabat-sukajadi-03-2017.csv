@@ -1,0 +1,40 @@
+nama,tmt_pns_by_nip,satuan_kerja,unit_kerja,golongan_pangkat,tmt_golongan,eselon,nama_jabatan,tmt_jabatan,status_pegawai,tmt_pegawai,jenis_kelamin,jenjang_pendidikan_awal,jenjang_pendidikan_akhir
+Drs. Yudy Hermawan,01/10/1989,Kecamatan Sukajadi,,IV/b,01/10/2013,III.a,Camat Sukajadi,03/01/2017,PNS,01/11/1990,Laki-laki,SLTA,S1
+"Agung Purnomo,ATD.SE.,M.Si",1989-03,Kecamatan Sukajadi,Sekretariat kec. Sukajadi,IV/a,01/10/2009,III.b,Sekretaris Camat Sukajadi,06/01/2017,PNS,01/03/1990,Laki-laki,D3,S2
+Dra. Hj. Meilan Sri Sudiani,1989-03,Kecamatan Sukajadi,Seksi Pemerintahan Kec. Sukajadi,III/d,01/10/2005,IV.a,Kepala Seksi Pemerintahan Kec. Sukajadi,10/01/2017,PNS,01/04/1990,Perempuan,SLTA,S1
+Drs. Herizal Feriansyah,1989-09,Kecamatan Sukajadi,Seksi Kesejahteraan Sosial Kec. Sukajadi,III/d,01/10/2001,IV.a,Kepala Seksi Kesejahteraan Sosial Kec. Sukajadi,23/03/2017,PNS,01/01/1991,Laki-laki,S1,S1
+Drs. Toto Harsono,1986-03,Kecamatan Sukajadi,Seksi Ketentraman dan Ketertiban Kec. Sukajadi,III/d,01/04/2002,IV.a,Kepala Seksi Ketentraman dan Ketertiban Kec. Sukajadi,10/01/2017,PNS,01/01/1988,Laki-laki,D3,S1
+"Mami Suparmi,SKM",1995-03,Kecamatan Sukajadi,Seksi Pemberdayaan Masyarakat Kec. Sukajadi,III/c,01/04/2014,IV.a,Kepala Seksi Pemberdayaan Masyarakat Kec. Sukajadi,23/03/2017,PNS,01/11/1996,Perempuan,D3,S1
+"Taufik Hidayat,S.Ap",1994-03,Kecamatan Sukajadi,Seksi Ekonomi dan Pembangunan Kec. Sukajadi,III/c,01/04/2015,IV.a,Kepala Seksi Ekonomi dan Pembangunan Kec. Sukajadi,23/03/2017,PNS,01/11/1995,Laki-laki,SLTA,S1
+"Suherman,SE",01/12/1983,Kecamatan Sukajadi,Kelurahan Sukabungah,III/d,01/04/2014,IV.a,Lurah Sukabungah,10/01/2017,PNS,01/05/1985,Laki-laki,SLTA,S1
+"Ajat Sudrajat,SE",01/02/1985,Kecamatan Sukajadi,Kelurahan Sukawarna,III/d,01/04/2011,IV.a,Lurah Sukawarna,10/01/2017,PNS,01/02/1987,Laki-laki,SLTA,S1
+"Aep Sahri,S.Sos.",01/01/1996,Kecamatan Sukajadi,Kelurahan Sukagalih,III/d,01/10/2014,IV.a,Lurah Sukagalih,10/01/2017,PNS,01/04/1997,Laki-laki,SLTA,S1
+"Dedi Rustandi,SH",01/03/1997,Kecamatan Sukajadi,Kelurahan Cipedes,III/d,08/01/2015,IV.a,Lurah Cipedes,10/01/2017,PNS,30/04/1998,Laki-laki,S1,S1
+Kuniya,01/03/1991,Kecamatan Sukajadi,Kelurahan Pasteur,III/c,01/10/2012,IV.a,Lurah Pasteur,23/03/2017,PNS,01/08/1992,Laki-laki,SLTA,SLTA
+"Aah Kartini,S.Pd",1996-01,Kecamatan Sukajadi,"Seksi Kesejahteraan Sosial Kel. Pasteur, Kelurahan Pasteur",III/c,01/10/2013,IV.b,Kepala Seksi Kesejahteraan Sosial Kel. Pasteur,03/01/2017,PNS,01/02/1997,Perempuan,SLTA,S1
+"Agus Hidayat,S. IP",2006-04,Kecamatan Sukajadi,"Seksi Pemerintahan Kel. Pasteur, Kelurahan Pasteur",III/a,01/10/2013,IV.b,Kepala Seksi Pemerintahan Kel. Pasteur,23/03/2017,PNS,01/04/2006,Laki-laki,SLTA,S1
+Asep Darajat,1993-08,Kecamatan Sukajadi,"Seksi Pemerintahan Kel. Cipedes, Kelurahan Cipedes",III/b,01/10/2013,IV.b,Kepala Seksi Pemerintahan Kel. Cipedes,10/01/2017,PNS,01/10/1994,Laki-laki,SLTA,SLTA
+Asep Tata Saputra,1990-03,Kecamatan Sukajadi,"Seksi Ekonomi dan Pembangunan Kel. Sukagalih, Kelurahan Sukagalih",III/c,01/04/2014,IV.b,Kepala Seksi Ekonomi dan Pembangunan Kel. Sukagalih,10/01/2017,PNS,01/09/1991,Laki-laki,SLTA,SLTA
+Dadang Wahyudin,1991-01,Kecamatan Sukajadi,"Seksi Ekonomi dan Pembangunan Kel. Sukabungah, Kelurahan Sukabungah",III/b,01/10/2013,IV.b,Kepala Seksi Ekonomi dan Pembangunan Kel. Sukabungah,10/01/2017,PNS,01/04/1992,Laki-laki,SLTA,SLTA
+Dedeh Rodiah,1989-03,Kecamatan Sukajadi,"Seksi Kesejahteraan Sosial Kel. Sukagalih, Kelurahan Sukagalih",III/c,01/10/2013,IV.b,Kepala Seksi Kesejahteraan Sosial Kel. Sukagalih,10/01/2017,PNS,01/06/1999,Perempuan,SLTA,D3
+"Deni Sonjaya,SH",2006-04,Kecamatan Sukajadi,"Seksi Pemerintahan Kel. Sukagalih, Kelurahan Sukagalih",III/b,01/04/2016,IV.b,Kepala Seksi Pemerintahan Kel. Sukagalih,10/01/2017,PNS,01/03/2008,Laki-laki,SLTA,S1
+Dra.Nugrahani Esti Wulandari,1997-02,Kecamatan Sukajadi,"Sekretariat Kel. Sukawarna, Kelurahan Sukawarna",III/d,01/10/2009,IV.b,Sekretaris Lurah Sukawarna,10/01/2017,PNS,01/02/1999,Perempuan,S1,S1
+"Entat,S.Sos",2007-01,Kecamatan Sukajadi,"Seksi Ekonomi dan Pembangunan Kel. Sukawarna, Kelurahan Sukawarna",III/a,01/10/2013,IV.b,Kepala Seksi Ekonomi dan Pembangunan Kel. Sukawarna,23/03/2017,PNS,01/01/2009,Perempuan,SLTA,S1
+"Erni Mulyani,SE",2008-01,Kecamatan Sukajadi,"Sub Bagian Program dan Keuangan, Sekretariat kec. Sukajadi",III/b,01/10/2016,IV.b,Kepala Sub Bagian Program dan Keuangan Kec. Sukajadi,23/03/2017,PNS,01/01/2010,Perempuan,SLTA,S1
+"Heri Suwandi,SH",2008-01,Kecamatan Sukajadi,"Sekretariat Kel. Pasteur, Kelurahan Pasteur",III/c,01/04/2016,IV.b,Sekretaris Lurah Pasteur,10/01/2017,PNS,01/01/2010,Laki-laki,S1,S1
+"Hj.Een Sumarni,S.Ap",1992-03,Kecamatan Sukajadi,"Seksi Kesejahteraan Sosial Kel. Sukawarna, Kelurahan Sukawarna",III/d,01/04/2014,IV.b,Kepala Seksi Kesejahteraan Sosial Kel. Sukawarna,10/01/2017,PNS,01/06/1993,Perempuan,D3,S1
+Ias Permana,1991-03,Kecamatan Sukajadi,"Seksi Kesejahteraan Sosial Kel. Sukabungah, Kelurahan Sukabungah",III/c,01/04/2013,IV.b,Kepala Seksi Kesejahteraan Sosial Kel. Sukabungah,23/03/2017,PNS,28/10/1992,Laki-laki,SLTA,SLTA
+"Kuraesin,SE",1991-02,Kecamatan Sukajadi,"Seksi Pemerintahan Kel. Sukawarna, Kelurahan Sukawarna",III/d,01/04/2014,IV.b,Kepala Seksi Pemerintahan Kel. Sukawarna,23/03/2017,PNS,01/04/1992,Perempuan,SLTA,S1
+Lulut Bangkit Setiadi,1993-02,Kecamatan Sukajadi,"Sekretariat Kel. Sukagalih, Kelurahan Sukagalih",III/b,01/10/2013,IV.b,Sekretaris Lurah Sukagalih,23/03/2017,PNS,01/06/1994,Laki-laki,SD,SD
+"Martini Widyaningsih,SE",1998-03,Kecamatan Sukajadi,"Seksi Kesejahteraan Sosial Kel. Cipedes, Kelurahan Cipedes",III/d,01/04/2010,IV.b,Kepala Seksi Kesejahteraan Sosial Kel. Cipedes,10/01/2017,PNS,01/03/2000,Perempuan,S1,S1
+"Meiti Irianti,S.Pd",1986-03,Kecamatan Sukajadi,"Seksi Ekonomi dan Pembangunan Kel. Cipedes, Kelurahan Cipedes",III/d,01/04/2014,IV.b,Kepala Seksi Ekonomi dan Pembangunan Kel. Cipedes,10/01/2017,PNS,01/12/1987,Perempuan,SLTA,S1
+"Nanik Agustiningsih,BA",1988-03,Kecamatan Sukajadi,"Seksi Ekonomi dan Pembangunan Kel. Pasteur, Kelurahan Pasteur",III/c,01/10/2007,IV.b,Kepala Seksi Ekonomi dan Pembangunan Kel. Pasteur,10/01/2017,PNS,01/02/1990,Perempuan,D3,D3
+"Raden Nana Hadiana,SE, MM.",2006-04,Kecamatan Sukajadi,"Sekretariat Kel. Sukabungah, Kelurahan Sukabungah",III/c,01/04/2015,IV.b,Sekretaris Lurah Sukabungah,10/01/2017,PNS,01/03/2008,Laki-laki,D3,S2
+Siti Dewi Romlah,1992-03,Kecamatan Sukajadi,"Sub Bagian Kepegawaian, Umum, Data dan Informasi, Sekretariat kec. Sukajadi",III/c,01/04/2015,IV.b,"Kepala Sub Bagian Kepegawaian, Umum, Data dan Informasi Kec. Sukajadi",23/03/2017,PNS,01/05/1993,Perempuan,SLTA,S1
+"Sudirman,S.Sos.",2008-01,Kecamatan Sukajadi,"Sekretariat Kel. Cipedes, Kelurahan Cipedes",III/b,01/04/2016,IV.b,Sekretaris Lurah Cipedes,23/03/2017,PNS,01/01/2010,Laki-laki,SLTA,S1
+"Tatin Gantini,Bsw",1990-03,Kecamatan Sukajadi,"Seksi Pemerintahan Kel. Sukabungah, Kelurahan Sukabungah",III/c,01/10/2010,IV.b,Kepala Seksi Pemerintahan Kel. Sukabungah,10/01/2017,PNS,01/05/1991,Perempuan,D3,D3
+Dra.Nugrahani Esti Wulandari,01/02/1997,Kecamatan Sukajadi,"Sekretariat Kel. Sukawarna, Kelurahan Sukawarna",III/d,01/10/2009,IV.b,Sekretaris Lurah Sukawarna,10/01/2017,PNS,01/02/1999,Perempuan,S1,S1
+"Heri Suwandi,SH",01/01/2008,Kecamatan Sukajadi,"Sekretariat Kel. Pasteur, Kelurahan Pasteur",III/c,01/04/2016,IV.b,Sekretaris Lurah Pasteur,10/01/2017,PNS,01/01/2010,Laki-laki,S1,S1
+"Raden Nana Hadiana,SE, MM.",01/04/2006,Kecamatan Sukajadi,"Sekretariat Kel. Sukabungah, Kelurahan Sukabungah",III/c,01/04/2015,IV.b,Sekretaris Lurah Sukabungah,10/01/2017,PNS,01/03/2008,Laki-laki,D3,S2
+Lulut Bangkit Setiadi,01/02/1993,Kecamatan Sukajadi,"Sekretariat Kel. Sukagalih, Kelurahan Sukagalih",III/b,01/10/2013,IV.b,Sekretaris Lurah Sukagalih,23/03/2017,PNS,01/06/1994,Laki-laki,SD,SD
+"Sudirman,S.Sos.",01/01/2008,Kecamatan Sukajadi,"Sekretariat Kel. Cipedes, Kelurahan Cipedes",III/b,01/04/2016,IV.b,Sekretaris Lurah Cipedes,23/03/2017,PNS,01/01/2010,Laki-laki,SLTA,S1
