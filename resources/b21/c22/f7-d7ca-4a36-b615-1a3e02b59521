@@ -1,0 +1,40 @@
+Pendidikan  ,Keterangan,Kriteria,Jumlah_LakiLaki,Jumlah_Perempuan
+Tidak Tamat SD  ,,Pendaftaran,0,0
+Tamat SD  ,,Pendaftaran,27,18
+Tamat SLTP,,Pendaftaran,81,101
+SLTA  ,,Pendaftaran,1.249,618
+"STM, SMK Teknik",SLTA Kejuruan  ,Pendaftaran,1.423,194
+"SMEA, SMK Ek",SLTA Kejuruan  ,Pendaftaran,124,1.296
+SPMA,SLTA Kejuruan  ,Pendaftaran,7,3
+SKKA,SLTA Kejuruan  ,Pendaftaran,4,19
+SLTA Lainnya,SLTA Kejuruan  ,Pendaftaran,229,232
+Diploma I dan II  ,,Pendaftaran,24,29
+Diploma III IPA  ,,Pendaftaran,1.063,1.665
+Sarjana (S1)  ,,Pendaftaran,4.349,4.527
+S2 dan S3,,Pendaftaran,83,90
+Tidak Tamat SD  ,,Lowongan,0,0
+Tamat SD  ,,Lowongan,0,7
+Tamat SLTP,,Lowongan,352,128
+SLTA  ,,Lowongan,1.719,1.212
+"STM, SMK Teknik",SLTA Kejuruan  ,Lowongan,343,53
+"SMEA, SMK Ek",SLTA Kejuruan  ,Lowongan,295,1.244
+SPMA,SLTA Kejuruan  ,Lowongan,0,0
+SKKA,SLTA Kejuruan  ,Lowongan,9,3
+SLTA Lainnya,SLTA Kejuruan  ,Lowongan,127,194
+Diploma I dan II  ,,Lowongan,73,39
+Diploma III IPA  ,,Lowongan,551,411
+Sarjana (S1)  ,,Lowongan,154,73
+S2 dan S3,,Lowongan,2,0
+Tidak Tamat SD  ,,Penempatan,0,0
+Tamat SD  ,,Penempatan,0,7
+Tamat SLTP,,Penempatan,1,25
+SLTA  ,,Penempatan,252,207
+"STM, SMK Teknik",SLTA Kejuruan  ,Penempatan,206,8
+"SMEA, SMK Ek",SLTA Kejuruan  ,Penempatan,165,1.099
+SPMA,SLTA Kejuruan  ,Penempatan,0,0
+SKKA,SLTA Kejuruan  ,Penempatan,0,0
+SLTA Lainnya,SLTA Kejuruan  ,Penempatan,114,175
+Diploma I dan II  ,,Penempatan,2,1
+Diploma III IPA  ,,Penempatan,36,31
+Sarjana (S1)  ,,Penempatan,78,45
+S2 dan S3,,Penempatan,0,0
