@@ -1,0 +1,54 @@
+npsn,nama_sekolah,nama_wilayah,nama_kecamatan,nama_kelurahan,tahun,nilai_rerata_bahasa_indonesia,nilai_rerata_bahasa_inggris,nilai_rerata_matematika,nilai_rerata_ipa
+20219337,SMP NEGERI 1,Bojonagara,Cicendo,Arjuna,2017,84.93,69.83,76.32,73.35
+20219332,SMP NEGERI 10,Karees,Regol,Pungkur,2017,75.75,54.06,47.78,53.99
+20219331,SMP NEGERI 11,Karees,Regol,Ciateul,2017,76.43,58.7,51.17,56.27
+20219330,SMP NEGERI 12,Bojonagara,Sukasari,Gegerkalong,2017,75.93,67.8,66.29,63.9
+20219339,SMP NEGERI 13,Karees,Lengkong,Turangga,2017,79.92,73.33,73.94,73.55
+20219340,SMP NEGERI 14,Cibeunying,Bandung Wetan,Cihapit,2017,83.21,71.93,69.73,71.24
+20219341,SMP NEGERI 15,Bojonagara,Sukasari,Gegerkalong,2017,76.23,59.63,53.52,57.89
+20219351,SMP NEGERI 16,Cibeunying,Cibeunying Kaler,Neglasari,2017,79.47,59.35,56.77,58.78
+20219350,SMP NEGERI 17,Arcamanik,Arcamanik,Sukamiskin,2017,76.59,58.65,50.53,57.18
+20219349,SMP NEGERI 18,Kordon,Buahbatu,Margasari,2017,80.36,63.08,62.3,61.7
+20219348,SMP NEGERI 19,Cibeunying,Coblong,Sekeloa,2017,74.01,53.83,50.36,53.44
+20219347,SMP NEGERI 2,Cibeunying,Sumur Bandung,Merdeka,2017,87.34,78.83,83.83,80.67
+20219344,SMP NEGERI 20,Karees,Batununggal,Samoja,2017,73.06,53.79,46.17,53.22
+20219343,SMP NEGERI 21,Tegallega,Babakan Ciparay,Babakan Ciparay,2017,70.71,47.47,43.86,47.81
+20219342,SMP NEGERI 22,Cibeunying,Cibeunying Kidul,Sukamaju,2017,78.35,62.51,58.8,55.82
+20219328,SMP NEGERI 23,Bojonagara,Andir,Ciroyom,2017,71.68,48.51,40.85,46.01
+20219410,SMP NEGERI 24,Tegallega,Bojongloa Kaler,Suka Asih,2017,74.67,53.06,46.58,49.33
+20219409,SMP NEGERI 25,Tegallega,Astanaanyar,Nyengseret,2017,75.89,55.41,53.28,55.49
+20219408,SMP NEGERI 26,Bojonagara,Sukajadi,Sukawarna,2017,78.48,56.2,52.05,57.65
+20219407,SMP NEGERI 27,Cibeunying,Cibeunying Kidul,Cicadas,2017,74.6,55.81,48.65,54.81
+20219406,SMP NEGERI 28,Karees,Lengkong,Turangga,2017,78.93,66.89,62.09,66.64
+20219405,SMP NEGERI 29,Bojonagara,Sukasari,Isola,2017,71.34,50.33,39.74,48.03
+20219404,SMP NEGERI 3,Karees,Regol,Pungkur,2017,82.03,67.75,68.08,68.34
+20219411,SMP NEGERI 30,Karees,Kiaracondong,Sukapura,2017,77.24,59.06,55.43,58.39
+20219412,SMP NEGERI 31,Karees,Batununggal,Binong,2017,70.97,49.38,44.12,47.06
+20219413,SMP NEGERI 32,Bojonagara,Andir,Ciroyom,2017,70.06,46.82,40.3,48.72
+20219422,SMP NEGERI 33,Tegallega,Bojongloa Kaler,Babakan Tarogong,2017,72.54,48.67,50.09,50.89
+20219421,SMP NEGERI 34,Kordon,Bandung Kidul,Batununggal,2017,81.73,66.86,70,72.29
+20219420,SMP NEGERI 35,Cibeunying,Coblong,Dago,2017,72.01,51.44,45.21,52.1
+20219419,SMP NEGERI 36,Tegallega,Babakan Ciparay,Babakan,2017,77.37,57.16,54.42,57.79
+20219418,SMP NEGERI 37,Karees,Kiaracondong,Babakan Sari,2017,71.6,47.51,43.58,48.77
+20251907,SMP NEGERI 38,Tegallega,Bojongloa Kidul,Cibaduyut Kidul,2017,71.01,48.86,44.1,48.31
+20219417,SMP NEGERI 39,Tegallega,Babakan Ciparay,Babakan,2017,71.55,49.91,44.16,51.04
+20219416,SMP NEGERI 4,Karees,Batununggal,Samoja,2017,80.3,62.67,59.87,60.09
+20219401,SMP NEGERI 40,Cibeunying,Bandung Wetan,Taman Sari,2017,72.58,52.12,42.83,49.78
+20219400,SMP NEGERI 41,Bojonagara,Andir,Ciroyom,2017,74.53,54.11,50.39,53.06
+20219399,SMP NEGERI 42,Kordon,Buahbatu,Margasari,2017,68.07,46.94,40.22,45.68
+20219386,SMP NEGERI 43,Karees,Regol,Balong Gede,2017,72.08,53.05,42.48,52.73
+20219385,SMP NEGERI 44,Cibeunying,Bandung Wetan,Citarum,2017,81,67.17,60.05,62.43
+20219384,SMP NEGERI 45,Arcamanik,Antapani,Antapani Kidul,2017,76.88,56.66,53,57.07
+20219383,SMP NEGERI 46,Ujungberung,Cibiru,Cipadung,2017,74.66,53.05,51.22,54.09
+20219382,SMP NEGERI 47,Bojonagara,Cicendo,Sukaraja,2017,76.18,54.56,49.12,51.44
+20219381,SMP NEGERI 48,Gedebage,Rancasari,Mekar Jaya,2017,77.91,62.1,59.86,59.9
+20219380,SMP NEGERI 49,Arcamanik,Antapani,Antapani Kulon,2017,68.09,51.01,47.17,48.95
+20219379,SMP NEGERI 5,Cibeunying,Sumur Bandung,Merdeka,2017,87.29,79.37,82.36,80.11
+20219378,SMP NEGERI 50,Ujungberung,Ujungberung,Cigending,2017,76.73,55.52,54.12,55.83
+20219388,SMP NEGERI 51,Gedebage,Rancasari,Derwati,2017,71.38,51.35,44.82,50.54
+20219389,SMP NEGERI 52,Cibeunying,Cidadap,Ciumbuleuit,2017,63.99,48.2,40.57,44.86
+69775307,SMP NEGERI 53,Arcamanik,Mandalajati,Pasir Impun,2017,67.65,47.44,39.85,45.07
+20219398,SMP NEGERI 6,Bojonagara,Andir,Kebon Jeruk,2017,71.08,51.68,42.65,50.09
+20219397,SMP NEGERI 7,Cibeunying,Bandung Wetan,Citarum,2017,85.18,74.6,77.73,76.58
+20219396,SMP NEGERI 8,Ujungberung,Ujungberung,Cigending,2017,83.55,69.23,73.16,74.4
+20219394,SMP NEGERI 9,Bojonagara,Cicendo,Arjuna,2017,78.58,62.13,59.4,62.09

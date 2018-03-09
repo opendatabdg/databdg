@@ -1,0 +1,148 @@
+NOMOR INTERSECTION,NAMA PERSIMPANGAN,KONDISI,MODUL PENGENDALI
+1,Tamblong/Naripan,Normal,marktel
+2,Padjadjaran/Pasirkaliki,Normal,delta 5
+3,Cihampelas/AbdulRivai,Normal,delta 5
+4,REMartadinata/Juanda,Normal,marktel
+5,Merdeka/Aceh ,Normal,delta 5
+6,Tamblong/Sumatera,Normal,newtel
+7,Burangrang/TelagaBds,Normal,delta 5
+8,A.Yani/Supratman,Normal,marktel
+9,DlmKaum/LengkongBsr,Normal,delta5
+10,A.Yani/Martadinata,Normal,marktel
+11,A.Afrika/Tamblong,Normal,marktel
+12,Braga/Suniaraja,Kedip Kuning,-
+13,Pasirkaliki/Junjunan,Normal,marktel
+14,A.Afrika/Braga,Kedip Kuning,-
+15,Juanda/Sulanjana,Normal,marktel
+16,Juanda/Dipatiukur,Normal,marktel
+17,Ling.Sel/Gatsu,Normal,newtel
+18,Ling.Sel/Martanegara,Normal,delta 5
+19,Ling.Sel/BuahBatu,Normal,delta 5
+20,Ling.Sel/Moh.Ramdhan,Normal,delta 5
+21,Ling.Sel/Sukabumi,Normal,delta 5
+22,ByPass/Ciparay,Normal,marktel
+23,Ling.Sel/Moh.Toha,Normal,newtel
+24,Ling.Sel/Kopo,Normal,newtel
+25,Ling.Sel/PasirKoja,Normal,newtel
+26,Ling.Sel/Pagarsih,Normal,delta 5
+27,Jamika/Sudirman,Normal,marktel
+28,Ling.Sel/Otista,Normal,newtel
+29,Gatsu/Malabar,Normal,delta 5
+30,WastuKen/TamanSari,Kedip Kuning,-
+31,A.RahmanS/Padjajaran,Normal,delta 5
+32,ByPass/Pasirkoja,Normal,marktel
+33,Gatsu/Cikuray,Kedip Kuning,-
+34,Junjunan/S.Sumantri,Normal,marktel
+35,Cihampelas/Ciumbult,Normal,marktel
+36,KebonJati/GarduJati,Normal,delta 5
+37,Sudirman/GarduJati,Normal,marktel
+38,Padjadjaran/WastuKen,Kedip Kuning,-
+39,PasirKaliki/KebonKwg,Kedip Kuning,-
+40,Banceuy/A.Afrika,Kedip Kuning,-
+41,Karapitan/Pungkur,Normal,delta 5
+42,Rajawali/Nurtanio,Normal,delta 5
+43,BuahBatu/ByPass,Normal,marktel
+44,A.Anyar/Pagarsih,Normal,delta 5
+45,Padjadjaran/Cicendo,Kedip Kuning,-
+46,Pungkur/IbuInggit.G,Normal,delta 5
+47,Otista/Pungkur,Normal,delta 5
+49,Gatsu / Kircon,Normal,delta 5
+50,Aceh/Lombok,Normal,delta 5
+51,Aceh/WastuKencana,Kedip Kuning,-
+52,Moh.Toha/IbuInggit.G,Normal,delta 5
+53,Otista/A.Afrika,Normal,marktel
+54,AstanaA/PasirKoja,Normal,delta 5
+55,ByPass/Moh.Toha,Normal,marktel
+56,ByPass/Kopo,Normal,marktel 
+57,Otista/IbuInggit.G,Normal,delta 5
+58,A.Yani/GdUtara,Normal,marktel
+59,REMartadinata/Banda,Normal,marktel
+60,Karapitan/Cikawao,Normal,delta 5
+61,Surapati/Sentot.Alibsh,Normal,marktel
+62,Ling.Sel/Sriwijaya,Normal,delta 5
+63,Kelenteng/Sudirman,Normal,marktel
+64,Pasteur/Cipaganti,Normal,marktel
+65,REMartadinata/Citarum,Normal,marktel
+66,KebonKawung/Cicendo,Kedip Kuning,-
+67,A.Afrika/Sunda/A.Yani,Normal,marktel
+68,Sukajadi/Eykman,Kedip Kuning,-
+69,ByPass/Lw.Panjang,Normal,marktel
+70,Pajajaran/Dursasana,Kedip Kuning,-
+71,RE.Martadinata/Purnaw,Kedip Kuning,-
+72,Aceh/Banda,Normal,delta 5
+74,Sudirman/Nurtanio,Kedip Kuning,-
+75,Palasari/Lodaya,Normal,delta 5
+76,Palasari/TelagaBodas,Normal,delta 5
+77,Sunda/Veteran,Normal,delta 5
+78,Wastukencana/Perint.,Kedip Kuning,-
+79,Kaut.Istri/DewiSartika,Kedip Kuning,-
+80,K.Condong/Jakarta,Normal,marktel 
+81,RE.Marta/Trunojoyo,Normal,marktel
+82,Aceh/Sumatera,Kedip Kuning,-
+83,RE.Martadinata/Aceh,Normal,marktel
+84,K.Condong/ByaPass,Normal,marktel
+86,Cipaganti/Lamping,Normal,delta 5
+87,DU/Juanda/Siliwangi,Normal,marktel
+89,A.Yani/Suci/Cicaheum,Normal,marktel
+90,SetiaBudi/GegerKalong,Normal,delta 5
+93,Sudirman/Rajawali,Kedip Kuning,-
+94,Aceh/Sumb./Sulawesi,Kedip Kuning,-
+96,B.Batu/Solontongan,Kedip Kuning,-
+97,Braga/Naripan,Kedip Kuning,-
+98,Arjuna/Padjadjaran,Kedip Kuning,-
+99,Pungkur/DewiSartika,Kedip Kuning,-
+100,B.Batu/Kliningan,Kedip Kuning,-
+101,Ling.Sel/LW.Panjang,Normal,delta 5
+102,Belitung/Sumbawa,Normal,delta 5
+103,Cihampelas/Pasteur,Normal,marktel 
+104,Merdeka/Lembong,Kedip Kuning,-
+105,RE.Martadin/Cihapit,Normal,marktel
+106,Jawa/Sunda,Normal,delta 5
+107,Cipaganti/Eykman,Normal,delta 5
+108,Jawa/Sumatera,Normal,newtel
+109,ByPass/Inhoftank,Normal,marktel
+110,ABC/Banceuy,Kedip Kuning,-
+111,Kelenteng/Kebonjati,Kedip Kuning,-
+113,Supratman/Katamso,Normal,delta 5
+115,Truno./Tirta./M.Yusuf,Kedip Kuning,-
+116,Aceh/Kalimantan,Kedip Kuning,-
+117,Sumatera/Nias,Kedip Kuning,-
+119,ByPass/Elang,Normal,marktel
+120,Pahlawan/Surapati,Normal,marktel
+121,ByPass/Holis,Kedip Kuning,-
+123,Malabar/A.Yani,Kedip Kuning,-
+124,Dipenogoro/Cilamaya,Normal,delta 5
+126,Kalimantan/Belitung,Kedip Kuning,-
+127,Ling.Sel/TelagaBodas,Normal,delta 5
+128,Gd.Utara/Gandapura,Kedip Kuning,-
+130,Moh.Ramdan/S.Kurung,Normal,delta 5
+131,Sudirman/Waringin,Kedip Kuning,-
+132,Sudirman/Suryani,Kedip Kuning,-
+133,Juanda/RanggaGading,Kedip Kuning,-
+134,Otista/Kalipahapo,Kedip Kuning,-
+137,S.Alibasyah/Dipegro,Kedip Kuning,-
+139,A.Anyar/Cibadak,Normal,delta 5
+140,Dlm.Kaum/DewiSartika,Kedip Kuning,-
+141,A.Afrika/DEZON,Kedip Kuning,-
+143,PHH.Mustafa/Cikutra,Normal,marktel
+144,PHH.Mustafa/Cimuncang,Normal,marktel
+145,A.Yani/Kiaracondong,Kedip Kuning,-
+146,Juanda/Ganesa,Kedip Kuning,-
+147,Pungkur/Blg.Gede,Kedip Kuning,-
+149,Moh.Toha/TollRoad,Normal,-
+150,Cipaganti/Sampurna,Normal,delta 5
+151,RE.Martadi/Anggrek,Normal,marktel
+152,ByPass/Cijagra ( Batunnggal ),Normal,marktel
+153,Sukajadi/Sirnamanah,Kedip Kuning,-
+154,Bengawan/Cendana,Normal,delta 5
+155,"PHH,Mustofa/Cimuncang",Normal,marktel
+156,PHH.Mustofa/Rumahsakit,Normal,marktel
+-,Caringin/holis,Normal,imel
+-,Holis/Bojong,Normal,imel
+-,Melong/Cijerah,Normal,imel
+-,Cigonewah/Tamankopo,Normal,imel
+,,,
+,,,
+,,,
+,,,
+,,,
