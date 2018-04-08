@@ -1,0 +1,72 @@
+No,Kecamatan,Kelurahan,Nama Posyandu,Strata Posyandu,Alamat Posyandu
+1,Ujungberung ,Pasir Endah,Anggrek 1 A,Purnama ,RW 01
+2,Ujungberung ,Pasir Endah,Anggrek 1 B,Madya ,RW 01
+3,Ujungberung ,Pasir Endah,Anggrek 2,Madya ,RW 02
+4,Ujungberung ,Pasir Endah,Anggrek 3 A,Mandiri ,RW 03
+5,Ujungberung ,Pasir Endah,Anggrek 3 B,Purnama ,RW 03
+6,Ujungberung ,Pasir Endah,Anggrek 4 A,Madya ,RW 04
+7,Ujungberung ,Pasir Endah,Anggrek 4 B,Madya ,RW 04
+8,Ujungberung ,Pasir Endah,Anggrek 5 ,Mandiri ,RW 05
+9,Ujungberung ,Pasir Endah,Anggrek 6 A,Mandiri ,RW 06
+10,Ujungberung ,Pasir Endah,Anggrek 6 B,Purnama ,RW 06
+11,Ujungberung ,Pasir Endah,Anggrek 7 A,Purnama ,RW 07
+12,Ujungberung ,Pasir Endah,Anggrek 7 B,Madya ,RW 07
+13,Ujungberung ,Cigending,Mawar 1 A,Purnama ,RW 01
+14,Ujungberung ,Cigending,Mawar 1 B,Purnama ,RW 01
+15,Ujungberung ,Cigending,Mawar 2,Purnama ,RW 02
+16,Ujungberung ,Cigending,Mawar 3,Mandiri ,RW 03
+17,Ujungberung ,Cigending,Mawar 4,Purnama ,RW 04
+18,Ujungberung ,Cigending,Mawar 5,Mandiri ,RW 05
+19,Ujungberung ,Cigending,Mawar 6,Mandiri ,RW 06
+20,Ujungberung ,Cigending,Mawar 7,Purnama ,RW 07
+21,Ujungberung ,Cigending,Mawar 8,Mandiri ,RW 08
+22,Ujungberung ,Cigending,Mawar 9,Mandiri ,RW 09
+23,Ujungberung ,Cigending,Mawar 10,Purnama ,RW 10
+24,Ujungberung ,Cigending,Mawar 11,Madya ,RW 11
+25,Ujungberung ,Pasirwangi,Melati 1,Madya ,RW 01
+26,Ujungberung ,Pasirwangi,Melati 2,Madya ,RW 02
+27,Ujungberung ,Pasirwangi,Melati 3,Purnama ,RW 03
+28,Ujungberung ,Pasirwangi,Melati 4,Purnama ,RW 04
+29,Ujungberung ,Pasirwangi,Melati 5,Mandiri ,RW 05
+30,Ujungberung ,Pasirwangi,Melati 6,Purnama ,RW 06
+31,Ujungberung ,Pasirwangi,Melati 7,Mandiri ,RW 06
+32,Ujungberung ,Pasirwangi,Melati 8,Madya ,RW 07
+33,Ujungberung ,Pasirwangi,Melati 9 A,Madya ,RW 09
+34,Ujungberung ,Pasirwangi,Melati 9 B,Madya ,RW 09
+35,Ujungberung ,Pasirwangi,Melati 10,Madya ,RW 10
+36,Ujungberung ,Pasirwangi,Melati 11,Madya ,RW 11
+37,Ujungberung ,Pasirwangi,Melati 12 A,Purnama ,RW 12
+38,Ujungberung ,Pasirwangi,Melati 12 B,Madya ,RW 12
+39,Ujungberung ,Pasirjati,Cempaka 1,Madya ,RW 01
+40,Ujungberung ,Pasirjati,Cempaka 2,Madya ,RW 02
+41,Ujungberung ,Pasirjati,Cempaka 3,Madya ,RW 03
+42,Ujungberung ,Pasirjati,Cempaka 4,Madya ,RW 04
+43,Ujungberung ,Pasirjati,Cempaka 5,Madya ,RW 05
+44,Ujungberung ,Pasirjati,Cempaka 6,Madya ,RW 06
+45,Ujungberung ,Pasirjati,Cempaka 7 A,Mandiri ,RW 07
+46,Ujungberung ,Pasirjati,Cempaka 7 B,Mandiri ,RW 07
+47,Ujungberung ,Pasirjati,Cempaka 7 C,Madya ,RW 07
+48,Ujungberung ,Pasirjati,Cempaka 8,Madya ,RW 08
+49,Ujungberung ,Pasirjati,Cempaka 9,Purnama ,RW 09
+50,Ujungberung ,Pasirjati,Cempaka 10 A,Purnama ,RW 10
+51,Ujungberung ,Pasirjati,Cempaka 10 B,Madya ,RW 10
+52,Ujungberung ,Pasirjati,Cempaka 11,Madya ,RW 11
+53,Ujungberung ,Pasirjati,Cempaka 12,Purnama ,RW 12
+54,Ujungberung ,Pasirjati,Cempaka 13,Purnama ,RW 13
+55,Ujungberung ,Pasirjati,Cempaka 14 A,Mandiri ,RW 14
+56,Ujungberung ,Pasirjati,Cempaka 14 B,Madya ,RW 14
+57,Ujungberung ,Pasanggrahan,Kenanga 1,Purnama ,RT 004/001
+58,Ujungberung ,Pasanggrahan,Kenanga 2,Mandiri ,RT 002/002
+59,Ujungberung ,Pasanggrahan,Kenanga 3,Purnama ,RT 002/003
+60,Ujungberung ,Pasanggrahan,Kenanga 4,Purnama ,RT 003/004
+61,Ujungberung ,Pasanggrahan,Kenanga 5,Mandiri ,RT 005/005
+62,Ujungberung ,Pasanggrahan,Kenanga 6,Madya ,RT 003/006
+63,Ujungberung ,Pasanggrahan,Kenanga 7,Purnama ,RT 002/007
+64,Ujungberung ,Pasanggrahan,Kenanga 8,Mandiri ,RT 003/008
+65,Ujungberung ,Pasanggrahan,Kenanga 9,Purnama ,RT 001/009
+66,Ujungberung ,Pasanggrahan,Kenanga 10,Purnama ,RT 001/010
+67,Ujungberung ,Pasanggrahan,Kenanga 11,Madya ,RT 002/011
+68,Ujungberung ,Pasanggrahan,Kenanga 12,Mandiri ,RT 001/012
+69,Ujungberung ,Pasanggrahan,Kenanga 13,Purnama ,RT 002/013
+70,Ujungberung ,Pasanggrahan,Kenanga 14,Mandiri ,RT 005/014
+71,Ujungberung ,Pasanggrahan,Kenanga 15,Mandiri ,RW 015
