@@ -1,0 +1,81 @@
+No.,Nama SKPD, Pratama (II.a) , Pratama (II.b) , Administrator (III.a) , Administrator (III.b) , Pengawas (IV.a) , Pengawas (IV.b) , Fungsional , Pelaksana , Jumlah Total 
+1,Sekretariat Daerah, 1 , - , - , - , - , - , - , - , 1 
+2,Asisten Pemerintahan dan Kesra, - , 1 , - , - , - , - , - , - , 1 
+3,Bagian Hukum, - , - , 1 , - , 3 , - , - , 23 , 27 
+4,Bagian Kesejahteraan Rakyat dan Kemasyarakatan, - , - , 1 , - , 3 , - , - , 23 , 27 
+5,Bagian Pemerintahan, - , - , 1 , - , 3 , - , - , 11 , 15 
+6,Bagian Kerjasama, - , - , 1 , - , 3 , - , - , 14 , 18 
+7,Asisten Perekonomian dan Pembangunan, - , 1 , - , - , - , - , - , - , 1 
+8,Bagian Perekonomian, - , - , 1 , - , 3 , - , - , 15 , 19 
+9,Bagian Layanan Pengadaan, - , - , 1 , - , 3 , - , - , 36 , 40 
+10,"Bagian Program, Desain dan Kualitas Pembangunan", - , - , 1 , - , 3 , - , - , 14 , 18 
+11,Asisten Administrasi Umum dan Kepegawaian, - , 1 , - , - , - , - , - , - , 1 
+12,Bagian Organisasi dan Pemberdayaan Aparatur Daerah, - , - , 1 , - , 3 , - , - , 17 , 21 
+13,Bagian Tata Usaha Pimpinan, - , - , 1 , - , 3 , - , - , 83 , 87 
+14,Bagian Umum, - , - , 1 , - , 3 , - , - , 49 , 53 
+15,Bagian Humas, - , - , 1 , - , 3 , - , - , 9 , 13 
+16,Staf Ahli Walikota , - , 3 , - , - , - , - , - , - , 3 
+17,Sekretariat DPRD, - , 1 , 4 , - , 7 , - , - , 71 , 83 
+18,Inspektorat, - , - , 3 , - , 3 , - , 66 , 27 , 99 
+19,"Badan Kepegawaian, Pendidikan dan Pelatihan", - , 1 , 1 , 4 , 15 , 1 , 13 , 66 , 101 
+20,Badan Kesatuan Bangsa dan Politik, - , 1 , 1 , 3 , 10 , - , - , 44 , 59 
+21,Badan Pengelolaan Keuangan dan Aset, - , 1 , 1 , 4 , 15 , - , - , 89 , 110 
+22,Badan Pengelolaan Pendapatan Daerah, - , 1 , 1 , 4 , 19 , 5 , - , 293 , 323 
+23,"Badan Perencanaan Pembangunan, Penelitian dan Pengembangan", - , 1 , 1 , 5 , 20 , 2 , 13 , 50 , 92 
+24,Dinas Kebakaran dan Penanggulangan Bencana, - , 1 , 1 , 4 , 18 , 4 , - , 154 , 182 
+25,Dinas Kebudayaan & Pariwisata, - , 1 , 1 , 5 , 19 , 2 , - , 52 , 80 
+26,Dinas Kependudukan & Pencatatan Sipil, - , 1 , 1 , 4 , 14 , - , - , 99 , 119 
+27,Dinas Kesehatan, - , 1 , 1 , 4 , 45 , 32 , 713 , 380 ,1176
+28,Dinas Komunikasi & Informatika, - , 1 , 1 , 5 , 20 , 2 , 2 , 39 , 70 
+29,"Dinas Koperasi, Usaha Mikro, Kecil dan Menengah", - , 1 , 1 , 4 , 16 , 1 , - , 32 , 55 
+30,Dinas Lingkungan Hidup dan Kebersihan, - , 1 , 1 , 4 , 14 , - , 2 , 43 , 65 
+31,Dinas Pangan dan Pertanian, - , 1 , 1 , 5 , 24 , 4 , 3 , 64 , 102 
+32,Dinas Pekerjaan Umum, - , 1 , - , 3 , 21 , 9 , - , 331 , 365 
+33,"Dinas Pemberdayaan Perempuan, Perlindungan Anak, dan Pemberdayaan Masyarakat", - , 1 , 1 , 5 , 19 , 1 , - , 24 , 51 
+34,Dinas Pemuda dan Olahraga, - , 1 , 1 , 4 , 15 , 1 , - , 80 , 102 
+35,Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu, - , - , 1 , 6 , 17 , - , - , 109 , 133 
+36,Dinas Penataan Ruang, - , 1 , 1 , 3 , 14 , 4 , 4 , 304 , 331 
+37,Dinas Pendidikan, - , 1 , 1 , 4 , 22 , 11 ,8289, 733 ,9061
+38,Dinas Pengendalian Penduduk dan Keluarga Berencana, - , 1 , - , 4 , 15 , - , 36 , 19 , 75 
+39,Dinas Perdagangan dan Perindustrian, - , 1 , 1 , 5 , 18 , 2 , 3 , 38 , 68 
+40,Dinas Perhubungan, - , 1 , 1 , 3 , 18 , 2 , 30 , 387 , 442 
+41,Dinas Perpustakaan dan Kearsipan, - , - , 1 , 4 , 15 , - , 4 , 24 , 48 
+42,"Dinas Perumahan dan Kawasan Permukiman, Pertanahan dan Pertamanan", - , 1 , 1 , 5 , 23 , 5 , - , 163 , 198 
+43,Dinas Sosial dan Penanggulangan Kemiskinan, - , 1 , 1 , 4 , 15 , 1 , - , 30 , 52 
+44,Dinas Tenaga Kerja, - , 1 , 1 , 4 , 15 , 1 , 5 , 45 , 72 
+45,Satuan Polisi Pamong Praja, - , 1 , 1 , 4 , 14 , - , - , 344 , 364 
+46,Rumah Sakit Khusus Gigi & Mulut, - , - , - , - , 3 , - , 64 , 21 , 88 
+47,Rumah Sakit Khusus Ibu & Anak, - , - , 1 , - , 4 , - , 118 , 28 , 151 
+48,Rumah Sakit Umum Daerah, - , - , 1 , 4 , 7 , - , 238 , 78 , 328 
+49,Kecamatan Andir, - , - , 1 , 1 , 8 , 25 , - , 26 , 61 
+50,Kecamatan Antapani, - , - , 1 , 1 , 9 , 15 , - , 15 , 41 
+51,Kecamatan Arcamanik, - , - , 1 , 1 , 9 , 17 , - , 21 , 49 
+52,Kecamatan Astana Anyar, - , - , 1 , 1 , 11 , 24 , - , 17 , 54 
+53,Kecamatan Babakan Ciparay, - , - , 1 , 1 , 9 , 24 , - , 17 , 52 
+54,Kecamatan Bandung Kidul, - , - , - , - , 8 , 16 , - , 21 , 45 
+55,Kecamatan Bandung Kulon, - , - , 1 , 1 , 10 , 32 , - , 25 , 69 
+56,Kecamatan Bandung Wetan, - , - , - , 1 , 8 , 12 , - , 13 , 34 
+57,Kecamatan Batununggal, - , - , 1 , 1 , 13 , 31 , - , 21 , 67 
+58,Kecamatan Bojongloa Kaler, - , - , 1 , 1 , 9 , 19 , - , 21 , 51 
+59,Kecamatan Bojongloa Kidul, - , - , 1 , 1 , 11 , 24 , - , 28 , 65 
+60,Kecamatan Buahbatu, - , - , 1 , 1 , 7 , 15 , - , 26 , 50 
+61,Kecamatan Cibeunying Kaler, - , - , 1 , 1 , 9 , 14 , - , 22 , 47 
+62,Kecamatan Cibeunying Kidul, - , - , 1 , 1 , 11 , 23 , - , 16 , 52 
+63,Kecamatan Cibiru, - , - , 1 , 1 , 8 , 16 , - , 30 , 56 
+64,Kecamatan Cicendo, - , - , 1 , 1 , 11 , 22 , - , 22 , 57 
+65,Kecamatan Cidadap, - , - , 1 , 1 , 8 , 14 , - , 17 , 41 
+66,Kecamatan Cinambo, - , - , 1 , 1 , 9 , 16 , - , 23 , 50 
+67,Kecamatan Coblong, - , - , 1 , 1 , 10 , 25 , - , 18 , 55 
+68,Kecamatan Gedebage, - , - , 1 , 1 , 7 , 15 , - , 24 , 48 
+69,Kecamatan Kiaracondong, - , - , 1 , 1 , 9 , 21 , - , 15 , 47 
+70,Kecamatan Lengkong, - , - , 1 , 1 , 12 , 28 , - , 26 , 68 
+71,Kecamatan Mandalajati, - , - , 1 , 1 , 8 , 18 , - , 15 , 43 
+72,Kecamatan Panyileukan, - , - , 1 , 1 , 9 , 16 , - , 27 , 54 
+73,Kecamatan Rancasari, - , - , 1 , 1 , 8 , 16 , - , 25 , 51 
+74,Kecamatan Regol, - , - , 1 , 1 , 9 , 26 , - , 22 , 59 
+75,Kecamatan Sukajadi, - , - , 1 , 1 , 10 , 22 , - , 16 , 50 
+76,Kecamatan Sukasari, - , - , 1 , 1 , 8 , 18 , - , 23 , 51 
+77,Kecamatan Sumur Bandung, - , - , 1 , 1 , 9 , 15 , - , 18 , 44 
+78,Kecamatan Ujungberung, - , - , 1 , 1 , 10 , 22 , - , 30 , 64 
+79,Komisi Pemilihan Umum, - , - , 1 , - , 1 , - , - , - , 2 
+,,,,,,,,,,

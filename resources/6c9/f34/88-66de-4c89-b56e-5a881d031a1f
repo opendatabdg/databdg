@@ -1,0 +1,2682 @@
+No.,Kecamatan,Kelurahan,RW,RT,Jumlah total bangunan  (unit),"Jumlah Bangunan hunian memiliki luas lantai >= 7,2 m2 per orang","Prosentase Bangunan hunian memiliki luas lantai  >= 7,2 m2 per orang  (%)"
+1,Andir,Maleber,4,1,74,47,64
+2,Andir,Maleber,6,1,83,71,86
+3,Andir,Maleber,7,1,50,42,84
+4,Andir,Maleber,8,1,81,73,90
+5,Andir,Maleber,4,2,50,37,74
+6,Andir,Maleber,6,2,75,64,85
+7,Andir,Maleber,7,2,50,12,24
+8,Andir,Maleber,8,2,75,8,11
+9,Andir,Maleber,4,3,74,57,77
+10,Andir,Maleber,6,3,78,71,91
+11,Andir,Maleber,7,3,57,52,91
+12,Andir,Maleber,8,3,67,38,57
+13,Andir,Maleber,4,4,35,17,49
+14,Andir,Maleber,6,4,51,23,45
+15,Andir,Maleber,7,4,75,46,61
+16,Andir,Maleber,8,4,25,21,84
+17,Andir,Maleber,4,5,57,50,88
+18,Andir,Maleber,6,5,60,25,42
+19,Andir,Maleber,7,5,50,44,88
+20,Andir,Maleber,8,5,75,28,37
+21,Andir,Maleber,4,6,51,48,94
+22,Andir,Maleber,6,6,44,42,95
+23,Andir,Maleber,7,6,35,27,77
+24,Andir,Maleber,4,7,44,35,80
+25,Andir,Maleber,6,7,58,35,60
+26,Andir,Maleber,6,8,25,24,96
+27,Andir,Kebon Jeruk,2,1,22,11,50
+28,Andir,Kebon Jeruk,3,1,17,16,94
+29,Andir,Kebon Jeruk,4,1,8,8,100
+30,Andir,Kebon Jeruk,5,1,28,18,64
+31,Andir,Kebon Jeruk,8,1,31,30,97
+32,Andir,Kebon Jeruk,2,2,29,5,17
+33,Andir,Kebon Jeruk,3,2,24,6,25
+34,Andir,Kebon Jeruk,4,2,18,13,72
+35,Andir,Kebon Jeruk,5,2,14,1,7
+36,Andir,Kebon Jeruk,8,2,30,26,87
+37,Andir,Kebon Jeruk,2,3,30,8,27
+38,Andir,Kebon Jeruk,3,3,30,7,23
+39,Andir,Kebon Jeruk,5,3,16,9,56
+40,Andir,Kebon Jeruk,8,3,15,12,80
+41,Andir,Kebon Jeruk,2,4,30,7,23
+42,Andir,Kebon Jeruk,3,4,28,19,68
+43,Andir,Kebon Jeruk,4,4,25,25,100
+44,Andir,Kebon Jeruk,5,4,32,2,6
+45,Andir,Kebon Jeruk,8,4,30,19,63
+46,Andir,Kebon Jeruk,2,5,26,25,96
+47,Andir,Kebon Jeruk,3,5,18,14,78
+48,Andir,Kebon Jeruk,4,5,10,10,100
+49,Andir,Kebon Jeruk,5,5,32,11,34
+50,Andir,Kebon Jeruk,8,5,28,14,50
+51,Andir,Kebon Jeruk,2,6,28,21,75
+52,Andir,Kebon Jeruk,3,6,16,15,94
+53,Andir,Kebon Jeruk,5,6,33,17,52
+54,Andir,Kebon Jeruk,8,6,30,22,73
+55,Andir,Kebon Jeruk,3,7,11,10,91
+56,Andir,Kebon Jeruk,5,7,31,5,16
+57,Andir,Kebon Jeruk,8,7,30,16,53
+58,Andir,Kebon Jeruk,3,8,24,19,79
+59,Andir,Kebon Jeruk,5,8,30,23,77
+60,Andir,Kebon Jeruk,8,8,8,4,50
+61,Andir,Kebon Jeruk,3,9,24,9,38
+62,Andir,Kebon Jeruk,5,9,50,21,42
+63,Andir,Kebon Jeruk,8,9,11,9,82
+64,Andir,Kebon Jeruk,3,10,26,26,100
+65,Andir,Kebon Jeruk,8,10,17,17,100
+66,Andir,Garuda,3,1,30,26,65
+67,Andir,Garuda,4,1,50,13,86
+68,Andir,Garuda,6,1,38,22,58
+69,Andir,Garuda,3,2,41,19,46
+70,Andir,Garuda,4,2,81,51,63
+71,Andir,Garuda,6,2,49,35,71
+72,Andir,Garuda,3,3,37,27,73
+73,Andir,Garuda,4,3,114,56,49
+74,Andir,Garuda,6,3,36,33,92
+75,Andir,Garuda,3,4,54,54,100
+76,Andir,Garuda,6,4,31,14,45
+77,Andir,Garuda,3,5,34,23,89
+78,Andir,Garuda,4,5,47,27,57
+79,Andir,Garuda,6,5,49,28,57
+80,Andir,Garuda,4,1,44,34,77
+81,Andir,Garuda,6,6,36,2,6
+82,Andir,Garuda,4,7,30,23,77
+83,Andir,Garuda,6,7,46,22,48
+84,Andir,Garuda,4,8,50,24,48
+85,Andir,Dungus Cariang,3,1,25,17,68
+86,Andir,Dungus Cariang,6,1,30,26,87
+87,Andir,Dungus Cariang,7,1,42,39,93
+88,Andir,Dungus Cariang,10,1,37,34,92
+89,Andir,Dungus Cariang,11,1,27,23,85
+90,Andir,Dungus Cariang,3,2,51,44,86
+91,Andir,Dungus Cariang,6,2,23,22,96
+92,Andir,Dungus Cariang,7,2,38,32,84
+93,Andir,Dungus Cariang,10,2,35,29,83
+94,Andir,Dungus Cariang,11,2,34,33,97
+95,Andir,Dungus Cariang,3,3,42,33,79
+96,Andir,Dungus Cariang,6,3,40,30,75
+97,Andir,Dungus Cariang,7,3,38,37,97
+98,Andir,Dungus Cariang,10,3,44,19,43
+99,Andir,Dungus Cariang,11,3,25,22,88
+100,Andir,Dungus Cariang,4,3,40,21,53
+101,Andir,Dungus Cariang,6,4,26,20,77
+102,Andir,Dungus Cariang,7,4,47,35,74
+103,Andir,Dungus Cariang,10,4,61,56,92
+104,Andir,Dungus Cariang,11,4,19,12,63
+105,Andir,Dungus Cariang,3,5,18,16,100
+106,Andir,Dungus Cariang,6,5,25,18,72
+107,Andir,Dungus Cariang,7,5,40,36,90
+108,Andir,Dungus Cariang,10,5,40,25,64
+109,Andir,Dungus Cariang,11,5,50,40,80
+110,Andir,Dungus Cariang,3,6,40,34,85
+111,Andir,Dungus Cariang,6,6,25,21,84
+112,Andir,Dungus Cariang,10,6,50,43,86
+113,Andir,Dungus Cariang,11,6,29,20,69
+114,Andir,Dungus Cariang,3,7,25,21,84
+115,Andir,Dungus Cariang,7,7,39,31,79
+116,Andir,Dungus Cariang,11,7,24,2,8
+117,Andir,Dungus Cariang,3,8,40,24,100
+118,Andir,Dungus Cariang,7,8,45,34,76
+119,Andir,Dungus Cariang,11,8,33,27,82
+120,Andir,Dungus Cariang,7,9,49,48,98
+121,Andir,Dungus Cariang,11,9,29,27,93
+122,Andir,Ciroyom,1,1,33,2,6
+123,Andir,Ciroyom,3,1,49,7,14
+124,Andir,Ciroyom,4,1,37,25,68
+125,Andir,Ciroyom,5,1,21,21,100
+126,Andir,Ciroyom,6,1,41,22,54
+127,Andir,Ciroyom,8,1,26,23,88
+128,Andir,Ciroyom,1,2,39,32,82
+129,Andir,Ciroyom,3,2,16,7,44
+130,Andir,Ciroyom,4,2,24,21,88
+131,Andir,Ciroyom,5,2,31,17,55
+132,Andir,Ciroyom,6,2,21,19,90
+133,Andir,Ciroyom,8,2,20,20,100
+134,Andir,Ciroyom,1,3,45,23,51
+135,Andir,Ciroyom,3,3,42,9,21
+136,Andir,Ciroyom,4,3,22,17,77
+137,Andir,Ciroyom,5,3,12,12,100
+138,Andir,Ciroyom,6,3,25,13,52
+139,Andir,Ciroyom,8,3,30,25,83
+140,Andir,Ciroyom,1,4,46,12,26
+141,Andir,Ciroyom,3,4,28,9,32
+142,Andir,Ciroyom,4,4,36,26,72
+143,Andir,Ciroyom,5,4,13,12,92
+144,Andir,Ciroyom,6,4,22,22,100
+145,Andir,Ciroyom,8,4,49,40,82
+146,Andir,Ciroyom,1,5,64,33,52
+147,Andir,Ciroyom,3,5,38,25,66
+148,Andir,Ciroyom,4,5,33,28,85
+149,Andir,Ciroyom,5,5,28,12,43
+150,Andir,Ciroyom,6,5,25,23,92
+151,Andir,Ciroyom,8,5,42,34,81
+152,Andir,Ciroyom,1,6,83,53,64
+153,Andir,Ciroyom,3,6,25,5,20
+154,Andir,Ciroyom,4,6,43,11,26
+155,Andir,Ciroyom,5,6,25,20,80
+156,Andir,Ciroyom,6,6,24,11,46
+157,Andir,Ciroyom,8,6,41,35,85
+158,Andir,Ciroyom,1,7,66,33,50
+159,Andir,Ciroyom,3,7,35,9,26
+160,Andir,Ciroyom,4,7,15,9,60
+161,Andir,Ciroyom,5,7,34,13,38
+162,Andir,Ciroyom,6,7,21,13,62
+163,Andir,Ciroyom,8,7,41,28,68
+164,Andir,Ciroyom,1,8,75,36,48
+165,Andir,Ciroyom,3,8,31,23,74
+166,Andir,Ciroyom,4,8,25,22,88
+167,Andir,Ciroyom,5,8,25,19,76
+168,Andir,Ciroyom,6,8,25,24,96
+169,Andir,Ciroyom,8,8,48,1,2
+170,Andir,Ciroyom,1,9,40,20,50
+171,Andir,Ciroyom,3,9,38,14,37
+172,Andir,Ciroyom,5,9,15,6,40
+173,Andir,Ciroyom,6,9,25,25,100
+174,Andir,Ciroyom,8,9,33,29,88
+175,Andir,Ciroyom,3,10,30,22,73
+176,Andir,Ciroyom,6,10,68,51,75
+177,Andir,Campaka,1,1,41,24,59
+178,Andir,Campaka,2,1,96,92,96
+179,Andir,Campaka,5,1,31,22,71
+180,Andir,Campaka,6,1,34,32,94
+181,Andir,Campaka,1,2,71,55,77
+182,Andir,Campaka,2,2,90,72,80
+183,Andir,Campaka,3,2,47,47,100
+184,Andir,Campaka,5,2,26,20,77
+185,Andir,Campaka,6,2,55,37,67
+186,Andir,Campaka,1,3,52,32,62
+187,Andir,Campaka,2,3,89,71,80
+188,Andir,Campaka,3,3,59,43,73
+189,Andir,Campaka,5,3,48,38,79
+190,Andir,Campaka,6,3,40,29,73
+191,Andir,Campaka,1,4,15,13,87
+192,Andir,Campaka,2,4,77,69,90
+193,Andir,Campaka,5,4,40,31,78
+194,Andir,Campaka,6,4,41,38,93
+195,Andir,Campaka,1,5,43,32,74
+196,Andir,Campaka,2,5,80,64,80
+197,Andir,Campaka,5,5,22,21,95
+198,Andir,Campaka,6,5,64,49,77
+199,Andir,Campaka,1,6,43,33,77
+200,Andir,Campaka,2,6,61,47,77
+201,Andir,Campaka,5,6,54,36,67
+202,Andir,Campaka,6,6,104,89,86
+203,Antapani,Antapani Wetan,1,1,69,20,29
+204,Antapani,Antapani Wetan,7,1,134,24,18
+205,Antapani,Antapani Wetan,8,1,90,53,59
+206,Antapani,Antapani Wetan,9,1,93,36,39
+207,Antapani,Antapani Wetan,10,1,75,37,49
+208,Antapani,Antapani Wetan,1,2,70,21,30
+209,Antapani,Antapani Wetan,7,2,134,24,18
+210,Antapani,Antapani Wetan,8,2,91,53,58
+211,Antapani,Antapani Wetan,9,2,92,36,39
+212,Antapani,Antapani Wetan,10,2,76,37,49
+213,Antapani,Antapani Wetan,1,3,68,20,29
+214,Antapani,Antapani Wetan,7,3,136,24,18
+215,Antapani,Antapani Wetan,8,3,92,53,58
+216,Antapani,Antapani Wetan,9,3,93,36,39
+217,Antapani,Antapani Wetan,10,3,75,37,49
+218,Antapani,Antapani Wetan,1,4,71,20,28
+219,Antapani,Antapani Wetan,7,4,133,24,18
+220,Antapani,Antapani Wetan,8,4,90,53,59
+221,Antapani,Antapani Wetan,9,4,92,36,39
+222,Antapani,Antapani Wetan,10,4,79,37,47
+223,Antapani,Antapani Wetan,1,5,73,24,33
+224,Antapani,Antapani Wetan,7,5,136,24,18
+225,Antapani,Antapani Wetan,8,5,89,53,60
+226,Antapani,Antapani Wetan,9,5,90,36,40
+227,Antapani,Antapani Wetan,10,5,75,37,49
+228,Antapani,Antapani Wetan,1,6,69,20,29
+229,Antapani,Antapani Wetan,8,6,90,53,59
+230,Antapani,Antapani Wetan,9,6,92,36,39
+231,Antapani,Antapani Wetan,10,6,73,37,51
+232,Antapani,Antapani Wetan,9,7,93,36,39
+233,Antapani,Antapani Tengah,1,1,30,30,100
+234,Antapani,Antapani Tengah,8,1,88,11,13
+235,Antapani,Antapani Tengah,9,1,63,23,37
+236,Antapani,Antapani Tengah,22,1,76,76,100
+237,Antapani,Antapani Tengah,23,1,62,0,0
+238,Antapani,Antapani Tengah,1,2,45,45,100
+239,Antapani,Antapani Tengah,8,2,38,38,100
+240,Antapani,Antapani Tengah,9,2,86,33,38
+241,Antapani,Antapani Tengah,22,2,90,90,100
+242,Antapani,Antapani Tengah,23,2,67,0,0
+243,Antapani,Antapani Tengah,1,3,44,44,100
+244,Antapani,Antapani Tengah,8,3,169,20,12
+245,Antapani,Antapani Tengah,9,3,126,41,33
+246,Antapani,Antapani Tengah,22,3,75,23,31
+247,Antapani,Antapani Tengah,23,3,75,0,0
+248,Antapani,Antapani Tengah,1,4,40,40,100
+249,Antapani,Antapani Tengah,9,4,70,70,100
+250,Antapani,Antapani Tengah,22,4,45,22,49
+251,Antapani,Antapani Tengah,23,4,82,20,24
+252,Antapani,Antapani Tengah,1,5,40,40,100
+253,Antapani,Antapani Tengah,22,5,55,55,100
+254,Antapani,Antapani Tengah,23,5,53,0,0
+255,Antapani,Antapani Tengah,1,6,32,20,63
+256,Antapani,Antapani Tengah,23,6,75,0,0
+257,Antapani,Antapani Kulon,5,1,166,131,79
+258,Antapani,Antapani Kulon,6,1,42,22,52
+259,Antapani,Antapani Kulon,7,1,45,12,27
+260,Antapani,Antapani Kulon,5,2,189,120,63
+261,Antapani,Antapani Kulon,6,2,34,23,68
+262,Antapani,Antapani Kulon,7,2,45,12,27
+263,Antapani,Antapani Kulon,5,3,98,47,48
+264,Antapani,Antapani Kulon,6,3,35,24,69
+265,Antapani,Antapani Kulon,7,3,82,32,39
+266,Antapani,Antapani Kulon,5,4,98,47,48
+267,Antapani,Antapani Kulon,6,4,31,26,84
+268,Antapani,Antapani Kulon,7,4,26,26,100
+269,Antapani,Antapani Kulon,5,5,126,82,65
+270,Antapani,Antapani Kulon,6,5,34,23,68
+271,Antapani,Antapani Kulon,7,5,40,40,100
+272,Antapani,Antapani Kulon,7,6,25,25,100
+273,Antapani,Antapani Kulon,7,7,25,25,100
+274,Antapani,Antapani Kulon,7,8,25,25,100
+275,Antapani,Antapani Kulon,7,9,25,25,100
+276,Antapani,Antapani Kidul,18,1,48,20,42
+277,Antapani,Antapani Kidul,19,1,30,5,17
+278,Antapani,Antapani Kidul,18,2,49,18,37
+279,Antapani,Antapani Kidul,19,2,32,32,100
+280,Antapani,Antapani Kidul,18,3,28,17,61
+281,Antapani,Antapani Kidul,19,3,38,4,11
+282,Antapani,Antapani Kidul,18,4,40,20,50
+283,Antapani,Antapani Kidul,19,4,39,9,23
+284,Antapani,Antapani Kidul,18,5,32,18,56
+285,Antapani,Antapani Kidul,19,5,30,20,67
+286,Antapani,Antapani Kidul,18,6,39,4,11
+287,Antapani,Antapani Kidul,19,6,32,32,100
+288,Antapani,Antapani Kidul,18,7,34,20,59
+289,Antapani,Antapani Kidul,19,7,35,3,9
+290,Antapani,Antapani Kidul,19,8,36,0,0
+291,Arcamanik,Cisaranten Bina Harapan,3,1,41,39,95
+292,Arcamanik,Cisaranten Bina Harapan,7,1,31,12,40
+293,Arcamanik,Cisaranten Bina Harapan,9,1,49,9,19
+294,Arcamanik,Cisaranten Bina Harapan,3,2,10,7,67
+295,Arcamanik,Cisaranten Bina Harapan,7,2,32,10,32
+296,Arcamanik,Cisaranten Bina Harapan,9,2,65,25,38
+297,Arcamanik,Cisaranten Bina Harapan,3,3,41,1,2
+298,Arcamanik,Cisaranten Bina Harapan,7,3,28,23,82
+299,Arcamanik,Cisaranten Bina Harapan,9,3,35,21,60
+300,Arcamanik,Cisaranten Bina Harapan,3,4,46,39,85
+301,Arcamanik,Cisaranten Bina Harapan,7,4,26,25,96
+302,Arcamanik,Sukamiskin,5,1,49,10,20
+303,Arcamanik,Sukamiskin,5,2,50,24,48
+304,Arcamanik,Sukamiskin,5,3,68,40,87
+305,Arcamanik,Sukamiskin,5,4,47,39,83
+306,Arcamanik,Sukamiskin,5,5,15,13,88
+307,Arcamanik,Sukamiskin,5,6,46,41,90
+308,Astanaanyar,Karang Anyar,4,1,55,39,71
+309,Astanaanyar,Karang Anyar,8,1,32,22,100
+310,Astanaanyar,Karang Anyar,4,2,14,12,100
+311,Astanaanyar,Karang Anyar,8,2,53,26,54
+312,Astanaanyar,Karang Anyar,4,3,38,13,48
+313,Astanaanyar,Karang Anyar,8,3,45,28,74
+314,Astanaanyar,Karang Anyar,4,4,26,12,100
+315,Astanaanyar,Karang Anyar,8,4,63,42,79
+316,Astanaanyar,Cibadak,4,1,29,24,86
+317,Astanaanyar,Cibadak,5,1,19,11,58
+318,Astanaanyar,Cibadak,7,1,27,22,81
+319,Astanaanyar,Cibadak,4,2,17,14,82
+320,Astanaanyar,Cibadak,5,2,43,22,51
+321,Astanaanyar,Cibadak,7,2,46,8,17
+322,Astanaanyar,Cibadak,4,3,34,19,56
+323,Astanaanyar,Cibadak,5,3,41,21,51
+324,Astanaanyar,Cibadak,7,3,29,23,85
+325,Astanaanyar,Cibadak,4,4,14,5,36
+326,Astanaanyar,Cibadak,5,4,36,14,39
+327,Astanaanyar,Cibadak,7,4,43,24,56
+328,Astanaanyar,Cibadak,4,5,21,19,90
+329,Astanaanyar,Cibadak,7,5,18,8,44
+330,Astanaanyar,Cibadak,4,6,28,21,75
+331,Astanaanyar,Cibadak,7,6,22,22,100
+332,Astanaanyar,Cibadak,4,7,21,17,81
+333,Astanaanyar,Cibadak,7,7,41,9,22
+334,Astanaanyar,Cibadak,7,8,29,16,55
+335,Astanaanyar,Cibadak,7,9,39,35,90
+336,Astanaanyar,Cibadak,7,10,28,28,100
+337,Astanaanyar,Cibadak,7,11,35,30,86
+338,Astanaanyar,Cibadak,7,12,14,14,100
+339,Astanaanyar,Cibadak,7,13,17,16,94
+340,Astanaanyar,Cibadak,7,14,15,15,100
+341,Astanaanyar,Cibadak,7,15,34,18,95
+342,Astanaanyar,Nyengseret,5,1,62,42,70
+343,Astanaanyar,Nyengseret,4,2,42,24,57
+344,Astanaanyar,Nyengseret,5,2,57,33,58
+345,Astanaanyar,Nyengseret,6,2,41,7,21
+346,Astanaanyar,Nyengseret,2,3,47,44,100
+347,Astanaanyar,Nyengseret,4,3,56,50,89
+348,Astanaanyar,Nyengseret,5,3,56,33,58
+349,Astanaanyar,Nyengseret,6,3,46,9,23
+350,Astanaanyar,Nyengseret,7,3,26,20,78
+351,Astanaanyar,Nyengseret,2,4,54,13,24
+352,Astanaanyar,Nyengseret,4,4,60,40,67
+353,Astanaanyar,Nyengseret,5,4,37,11,30
+354,Astanaanyar,Nyengseret,6,4,49,13,28
+355,Astanaanyar,Nyengseret,7,4,19,18,95
+356,Astanaanyar,Nyengseret,5,5,60,42,70
+357,Astanaanyar,Nyengseret,6,5,35,7,23
+358,Astanaanyar,Nyengseret,7,5,30,26,87
+359,Astanaanyar,Nyengseret,4,6,45,27,60
+360,Astanaanyar,Nyengseret,6,6,35,7,23
+361,Astanaanyar,Nyengseret,7,6,56,33,58
+362,Astanaanyar,Nyengseret,4,7,70,42,60
+363,Astanaanyar,Nyengseret,6,7,45,40,100
+364,Astanaanyar,Nyengseret,4,8,59,41,69
+365,Astanaanyar,Nyengseret,4,9,64,36,56
+366,Astanaanyar,Pelindung Hewan,1,1,55,29,53
+367,Astanaanyar,Pelindung Hewan,6,1,36,26,72
+368,Astanaanyar,Pelindung Hewan,8,1,60,52,87
+369,Astanaanyar,Pelindung Hewan,1,2,53,48,91
+370,Astanaanyar,Pelindung Hewan,5,2,51,26,87
+371,Astanaanyar,Pelindung Hewan,8,2,25,19,76
+372,Astanaanyar,Pelindung Hewan,1,3,56,39,70
+373,Astanaanyar,Pelindung Hewan,5,3,52,41,79
+374,Astanaanyar,Pelindung Hewan,6,3,56,41,73
+375,Astanaanyar,Pelindung Hewan,8,3,62,54,87
+376,Astanaanyar,Pelindung Hewan,1,4,49,34,69
+377,Astanaanyar,Pelindung Hewan,5,4,50,4,8
+378,Astanaanyar,Pelindung Hewan,8,4,38,28,74
+379,Astanaanyar,Pelindung Hewan,1,5,63,26,41
+380,Astanaanyar,Pelindung Hewan,5,5,22,14,64
+381,Astanaanyar,Pelindung Hewan,6,5,69,34,49
+382,Astanaanyar,Pelindung Hewan,8,5,18,13,72
+383,Astanaanyar,Pelindung Hewan,1,6,27,23,85
+384,Astanaanyar,Pelindung Hewan,5,6,74,53,72
+385,Astanaanyar,Pelindung Hewan,5,7,69,64,93
+386,Babakan Ciparay,Babakan Ciparay,6,1,62,57,92
+387,Babakan Ciparay,Babakan Ciparay,7,1,170,24,14
+388,Babakan Ciparay,Babakan Ciparay,9,1,28,16,57
+389,Babakan Ciparay,Babakan Ciparay,6,2,320,28,9
+390,Babakan Ciparay,Babakan Ciparay,7,2,162,18,11
+391,Babakan Ciparay,Babakan Ciparay,9,2,179,84,47
+392,Babakan Ciparay,Babakan Ciparay,6,3,111,68,61
+393,Babakan Ciparay,Babakan Ciparay,7,3,134,25,0
+394,Babakan Ciparay,Babakan Ciparay,9,3,104,41,39
+395,Babakan Ciparay,Babakan Ciparay,6,4,113,80,71
+396,Babakan Ciparay,Babakan Ciparay,7,4,121,26,21
+397,Babakan Ciparay,Babakan Ciparay,9,4,195,79,41
+398,Babakan Ciparay,Babakan Ciparay,6,5,147,61,41
+399,Babakan Ciparay,Babakan Ciparay,7,5,111,50,45
+400,Babakan Ciparay,Babakan Ciparay,9,5,165,69,42
+401,Babakan Ciparay,Babakan Ciparay,6,6,208,20,10
+402,Babakan Ciparay,Babakan Ciparay,9,6,141,53,38
+403,Babakan Ciparay,Babakan Ciparay,6,7,231,13,6
+404,Babakan Ciparay,Babakan Ciparay,9,7,90,41,46
+405,Babakan Ciparay,Babakan Ciparay,6,8,72,16,22
+406,Babakan Ciparay,Babakan Ciparay,9,8,160,65,41
+407,Babakan Ciparay,Cirangrang,1,1,86,45,74
+408,Babakan Ciparay,Cirangrang,2,1,63,26,50
+409,Babakan Ciparay,Cirangrang,1,2,80,53,67
+410,Babakan Ciparay,Cirangrang,2,2,206,102,50
+411,Babakan Ciparay,Cirangrang,1,3,45,10,23
+412,Babakan Ciparay,Cirangrang,2,3,70,37,53
+413,Babakan Ciparay,Cirangrang,1,4,68,49,73
+414,Babakan Ciparay,Cirangrang,2,4,115,47,42
+415,Babakan Ciparay,Cirangrang,1,5,164,94,58
+416,Babakan Ciparay,Cirangrang,2,5,20,15,83
+417,Babakan Ciparay,Cirangrang,2,6,74,45,61
+418,Babakan Ciparay,Sukahaji,1,1,41,17,44
+419,Babakan Ciparay,Sukahaji,2,1,107,18,17
+420,Babakan Ciparay,Sukahaji,3,1,78,56,72
+421,Babakan Ciparay,Sukahaji,4,1,53,24,47
+422,Babakan Ciparay,Sukahaji,6,1,70,42,60
+423,Babakan Ciparay,Sukahaji,8,1,86,62,74
+424,Babakan Ciparay,Sukahaji,1,2,68,29,48
+425,Babakan Ciparay,Sukahaji,2,2,79,15,20
+426,Babakan Ciparay,Sukahaji,3,2,143,65,47
+427,Babakan Ciparay,Sukahaji,4,2,58,14,25
+428,Babakan Ciparay,Sukahaji,6,2,59,38,64
+429,Babakan Ciparay,Sukahaji,8,2,38,31,86
+430,Babakan Ciparay,Sukahaji,1,3,67,34,55
+431,Babakan Ciparay,Sukahaji,2,3,77,16,22
+432,Babakan Ciparay,Sukahaji,3,3,131,54,41
+433,Babakan Ciparay,Sukahaji,4,3,56,39,72
+434,Babakan Ciparay,Sukahaji,6,3,115,76,67
+435,Babakan Ciparay,Sukahaji,8,3,77,25,34
+436,Babakan Ciparay,Sukahaji,1,4,83,35,44
+437,Babakan Ciparay,Sukahaji,2,4,133,9,7
+438,Babakan Ciparay,Sukahaji,3,4,122,32,26
+439,Babakan Ciparay,Sukahaji,4,4,77,48,68
+440,Babakan Ciparay,Sukahaji,6,4,39,17,46
+441,Babakan Ciparay,Sukahaji,8,4,66,41,64
+442,Babakan Ciparay,Sukahaji,1,5,43,21,51
+443,Babakan Ciparay,Sukahaji,2,5,74,10,14
+444,Babakan Ciparay,Sukahaji,3,5,94,37,39
+445,Babakan Ciparay,Sukahaji,4,5,81,39,49
+446,Babakan Ciparay,Sukahaji,6,5,77,45,60
+447,Babakan Ciparay,Sukahaji,8,5,88,0,0
+448,Babakan Ciparay,Sukahaji,1,6,122,67,57
+449,Babakan Ciparay,Sukahaji,2,6,81,31,40
+450,Babakan Ciparay,Sukahaji,3,6,193,47,24
+451,Babakan Ciparay,Sukahaji,4,6,147,60,42
+452,Babakan Ciparay,Sukahaji,6,6,105,71,70
+453,Babakan Ciparay,Sukahaji,8,6,67,36,59
+454,Babakan Ciparay,Sukahaji,1,7,24,23,96
+455,Babakan Ciparay,Sukahaji,2,7,93,36,40
+456,Babakan Ciparay,Sukahaji,3,7,152,63,42
+457,Babakan Ciparay,Sukahaji,4,7,67,20,31
+458,Babakan Ciparay,Sukahaji,6,7,109,81,76
+459,Babakan Ciparay,Sukahaji,8,7,155,32,21
+460,Babakan Ciparay,Sukahaji,1,8,67,35,58
+461,Babakan Ciparay,Sukahaji,2,8,80,32,41
+462,Babakan Ciparay,Sukahaji,3,8,202,83,41
+463,Babakan Ciparay,Sukahaji,4,8,152,50,34
+464,Babakan Ciparay,Sukahaji,6,8,111,84,78
+465,Babakan Ciparay,Sukahaji,1,9,120,59,53
+466,Babakan Ciparay,Sukahaji,2,9,83,34,43
+467,Babakan Ciparay,Sukahaji,3,9,195,87,45
+468,Babakan Ciparay,Sukahaji,4,9,88,36,42
+469,Babakan Ciparay,Sukahaji,6,9,148,99,69
+470,Babakan Ciparay,Sukahaji,1,10,73,52,100
+471,Babakan Ciparay,Sukahaji,2,10,71,15,22
+472,Babakan Ciparay,Sukahaji,6,10,201,138,70
+473,Babakan Ciparay,Sukahaji,1,11,141,132,100
+474,Babakan Ciparay,Sukahaji,2,11,61,15,25
+475,Babakan Ciparay,Sukahaji,2,12,107,31,30
+476,Babakan Ciparay,Babakan,4,1,70,43,64
+477,Babakan Ciparay,Babakan,5,1,22,7,32
+478,Babakan Ciparay,Babakan,6,1,35,30,88
+479,Babakan Ciparay,Babakan,7,1,35,27,77
+480,Babakan Ciparay,Babakan,8,1,52,26,52
+481,Babakan Ciparay,Babakan,9,1,25,25,100
+482,Babakan Ciparay,Babakan,10,1,61,33,60
+483,Babakan Ciparay,Babakan,11,1,19,11,58
+484,Babakan Ciparay,Babakan,13,1,47,35,74
+485,Babakan Ciparay,Babakan,13,2,34,32,94
+486,Babakan Ciparay,Babakan,4,2,21,17,94
+487,Babakan Ciparay,Babakan,5,2,16,6,38
+488,Babakan Ciparay,Babakan,6,2,36,25,69
+489,Babakan Ciparay,Babakan,7,2,36,23,64
+490,Babakan Ciparay,Babakan,8,2,60,50,86
+491,Babakan Ciparay,Babakan,9,2,49,29,94
+492,Babakan Ciparay,Babakan,10,2,42,25,86
+493,Babakan Ciparay,Babakan,11,2,24,6,25
+494,Babakan Ciparay,Babakan,13,3,38,38,100
+495,Babakan Ciparay,Babakan,4,3,53,33,70
+496,Babakan Ciparay,Babakan,5,3,40,19,48
+497,Babakan Ciparay,Babakan,6,3,80,21,35
+498,Babakan Ciparay,Babakan,7,3,25,14,56
+499,Babakan Ciparay,Babakan,8,3,45,36,84
+500,Babakan Ciparay,Babakan,9,3,48,27,56
+501,Babakan Ciparay,Babakan,10,3,46,31,69
+502,Babakan Ciparay,Babakan,11,3,55,2,4
+503,Babakan Ciparay,Babakan,13,4,29,29,100
+504,Babakan Ciparay,Babakan,4,4,51,46,96
+505,Babakan Ciparay,Babakan,5,4,26,11,42
+506,Babakan Ciparay,Babakan,6,4,37,19,61
+507,Babakan Ciparay,Babakan,7,4,36,23,64
+508,Babakan Ciparay,Babakan,8,4,46,23,52
+509,Babakan Ciparay,Babakan,9,4,65,28,43
+510,Babakan Ciparay,Babakan,10,4,44,33,75
+511,Babakan Ciparay,Babakan,11,4,33,16,48
+512,Babakan Ciparay,Babakan,13,5,30,30,100
+513,Babakan Ciparay,Babakan,4,5,45,38,90
+514,Babakan Ciparay,Babakan,5,5,16,4,25
+515,Babakan Ciparay,Babakan,6,5,58,40,75
+516,Babakan Ciparay,Babakan,7,5,31,15,48
+517,Babakan Ciparay,Babakan,8,5,39,26,70
+518,Babakan Ciparay,Babakan,9,5,95,56,59
+519,Babakan Ciparay,Babakan,10,5,27,27,100
+520,Babakan Ciparay,Babakan,11,5,33,31,94
+521,Babakan Ciparay,Babakan,13,6,42,42,100
+522,Babakan Ciparay,Babakan,4,6,57,23,43
+523,Babakan Ciparay,Babakan,5,6,28,16,57
+524,Babakan Ciparay,Babakan,6,6,55,29,53
+525,Babakan Ciparay,Babakan,7,6,25,19,76
+526,Babakan Ciparay,Babakan,8,6,12,3,33
+527,Babakan Ciparay,Babakan,9,6,48,48,100
+528,Babakan Ciparay,Babakan,10,6,27,27,100
+529,Babakan Ciparay,Babakan,11,6,44,44,100
+530,Babakan Ciparay,Babakan,13,7,36,36,100
+531,Babakan Ciparay,Babakan,4,7,58,53,100
+532,Babakan Ciparay,Babakan,5,7,62,21,34
+533,Babakan Ciparay,Babakan,6,7,60,26,55
+534,Babakan Ciparay,Babakan,7,7,12,9,75
+535,Babakan Ciparay,Babakan,8,7,25,25,100
+536,Babakan Ciparay,Babakan,10,7,23,23,100
+537,Babakan Ciparay,Babakan,11,7,30,3,10
+538,Babakan Ciparay,Babakan,10,8,41,18,46
+539,Babakan Ciparay,Babakan,10,9,50,19,38
+540,Bandung Kidul,Batununggal,5,1,17,8,47
+541,Bandung Kidul,Batununggal,9,1,29,14,48
+542,Bandung Kidul,Batununggal,10,1,65,30,46
+543,Bandung Kidul,Batununggal,11,1,77,35,45
+544,Bandung Kidul,Batununggal,12,1,63,32,51
+545,Bandung Kidul,Batununggal,5,2,63,10,24
+546,Bandung Kidul,Batununggal,9,2,41,19,46
+547,Bandung Kidul,Batununggal,10,2,72,30,42
+548,Bandung Kidul,Batununggal,11,2,63,60,95
+549,Bandung Kidul,Batununggal,12,2,54,49,91
+550,Bandung Kidul,Batununggal,5,3,65,30,46
+551,Bandung Kidul,Batununggal,9,3,50,20,40
+552,Bandung Kidul,Batununggal,10,3,56,28,50
+553,Bandung Kidul,Batununggal,11,3,39,15,38
+554,Bandung Kidul,Batununggal,12,3,56,23,41
+555,Bandung Kidul,Batununggal,5,4,44,24,55
+556,Bandung Kidul,Batununggal,9,4,39,10,26
+557,Bandung Kidul,Batununggal,10,4,67,60,90
+558,Bandung Kidul,Batununggal,11,4,54,50,93
+559,Bandung Kidul,Batununggal,12,4,60,20,33
+560,Bandung Kidul,Batununggal,9,5,50,18,36
+561,Bandung Kidul,Batununggal,10,5,72,70,97
+562,Bandung Kidul,Batununggal,11,5,38,30,79
+563,Bandung Kidul,Batununggal,11,6,41,21,51
+564,Bandung Kidul,Mengger,1,1,50,25,50
+565,Bandung Kidul,Mengger,3,1,33,17,52
+566,Bandung Kidul,Mengger,4,1,69,34,49
+567,Bandung Kidul,Mengger,1,2,41,8,20
+568,Bandung Kidul,Mengger,3,2,61,31,51
+569,Bandung Kidul,Mengger,4,2,75,40,53
+570,Bandung Kidul,Mengger,1,3,72,36,50
+571,Bandung Kidul,Mengger,3,3,48,24,50
+572,Bandung Kidul,Mengger,4,3,50,25,50
+573,Bandung Kidul,Mengger,1,4,41,20,49
+574,Bandung Kidul,Mengger,3,4,90,45,50
+575,Bandung Kidul,Mengger,4,4,30,15,50
+576,Bandung Kidul,Mengger,1,5,35,17,49
+577,Bandung Kidul,Mengger,1,6,50,25,50
+578,Bandung Kidul,Wates,3,1,42,37,88
+579,Bandung Kidul,Wates,5,1,56,50,89
+580,Bandung Kidul,Wates,3,2,30,27,90
+581,Bandung Kidul,Wates,5,2,30,21,70
+582,Bandung Kidul,Wates,7,2,26,20,77
+583,Bandung Kidul,Wates,3,3,30,28,93
+584,Bandung Kidul,Wates,5,3,45,40,89
+585,Bandung Kidul,Wates,7,3,32,29,91
+586,Bandung Kidul,Wates,3,4,63,60,95
+587,Bandung Kidul,Wates,5,4,36,30,83
+588,Bandung Kidul,Wates,7,4,29,6,21
+589,Bandung Kidul,Wates,3,5,54,50,93
+590,Bandung Kidul,Wates,5,5,38,35,92
+591,Bandung Kidul,Wates,3,6,36,30,83
+592,Bandung Kidul,Wates,3,7,30,27,90
+593,Bandung Kidul,Kujangsari,1,1,37,19,51
+594,Bandung Kidul,Kujangsari,2,1,41,34,83
+595,Bandung Kidul,Kujangsari,3,1,55,45,82
+596,Bandung Kidul,Kujangsari,4,1,95,78,82
+597,Bandung Kidul,Kujangsari,6,1,55,34,62
+598,Bandung Kidul,Kujangsari,1,2,37,28,76
+599,Bandung Kidul,Kujangsari,2,2,62,53,85
+600,Bandung Kidul,Kujangsari,3,2,48,44,92
+601,Bandung Kidul,Kujangsari,4,2,75,64,85
+602,Bandung Kidul,Kujangsari,6,2,50,34,68
+603,Bandung Kidul,Kujangsari,1,3,58,38,66
+604,Bandung Kidul,Kujangsari,2,3,64,54,84
+605,Bandung Kidul,Kujangsari,3,3,74,48,65
+606,Bandung Kidul,Kujangsari,4,3,60,36,60
+607,Bandung Kidul,Kujangsari,6,3,62,36,58
+608,Bandung Kidul,Kujangsari,1,4,43,34,79
+609,Bandung Kidul,Kujangsari,2,4,83,57,69
+610,Bandung Kidul,Kujangsari,3,4,70,40,57
+611,Bandung Kidul,Kujangsari,4,4,198,184,93
+612,Bandung Kidul,Kujangsari,6,4,60,43,81
+613,Bandung Kidul,Kujangsari,1,5,104,90,87
+614,Bandung Kidul,Kujangsari,2,5,35,22,63
+615,Bandung Kidul,Kujangsari,3,5,39,28,72
+616,Bandung Kidul,Kujangsari,6,5,82,55,67
+617,Bandung Kidul,Kujangsari,1,6,43,21,49
+618,Bandung Kidul,Kujangsari,2,6,82,45,55
+619,Bandung Kidul,Kujangsari,3,6,62,32,52
+620,Bandung Kidul,Kujangsari,4,6,68,57,84
+621,Bandung Kidul,Kujangsari,6,6,60,42,70
+622,Bandung Kidul,Kujangsari,1,7,84,52,58
+623,Bandung Kidul,Kujangsari,3,7,55,36,65
+624,Bandung Kidul,Kujangsari,6,7,75,40,53
+625,Bandung Kidul,Kujangsari,1,8,34,34,100
+626,Bandung Kidul,Kujangsari,3,8,44,38,86
+627,Bandung Kulon,Warung Muncang,1,1,41,41,100
+628,Bandung Kulon,Warung Muncang,2,1,40,40,100
+629,Bandung Kulon,Warung Muncang,3,1,26,26,100
+630,Bandung Kulon,Warung Muncang,4,1,73,73,100
+631,Bandung Kulon,Warung Muncang,5,1,56,37,66
+632,Bandung Kulon,Warung Muncang,6,1,25,25,100
+633,Bandung Kulon,Warung Muncang,7,1,35,14,47
+634,Bandung Kulon,Warung Muncang,8,1,39,5,13
+635,Bandung Kulon,Warung Muncang,9,1,45,10,28
+636,Bandung Kulon,Warung Muncang,10,1,39,39,100
+637,Bandung Kulon,Warung Muncang,1,2,60,60,100
+638,Bandung Kulon,Warung Muncang,2,2,29,29,100
+639,Bandung Kulon,Warung Muncang,3,2,29,29,100
+640,Bandung Kulon,Warung Muncang,4,2,70,70,100
+641,Bandung Kulon,Warung Muncang,5,2,44,27,61
+642,Bandung Kulon,Warung Muncang,6,2,29,29,100
+643,Bandung Kulon,Warung Muncang,7,2,25,5,26
+644,Bandung Kulon,Warung Muncang,8,2,15,1,7
+645,Bandung Kulon,Warung Muncang,9,2,32,13,45
+646,Bandung Kulon,Warung Muncang,10,2,44,44,100
+647,Bandung Kulon,Warung Muncang,1,3,31,31,100
+648,Bandung Kulon,Warung Muncang,2,3,24,24,100
+649,Bandung Kulon,Warung Muncang,3,3,24,24,100
+650,Bandung Kulon,Warung Muncang,4,3,87,87,100
+651,Bandung Kulon,Warung Muncang,5,3,52,18,35
+652,Bandung Kulon,Warung Muncang,6,3,54,54,100
+653,Bandung Kulon,Warung Muncang,7,3,50,28,64
+654,Bandung Kulon,Warung Muncang,8,3,33,21,64
+655,Bandung Kulon,Warung Muncang,9,3,26,8,31
+656,Bandung Kulon,Warung Muncang,10,3,42,42,100
+657,Bandung Kulon,Warung Muncang,1,4,66,66,100
+658,Bandung Kulon,Warung Muncang,2,4,40,40,100
+659,Bandung Kulon,Warung Muncang,3,4,40,40,100
+660,Bandung Kulon,Warung Muncang,4,4,47,47,100
+661,Bandung Kulon,Warung Muncang,5,4,56,35,63
+662,Bandung Kulon,Warung Muncang,6,4,25,25,100
+663,Bandung Kulon,Warung Muncang,7,4,24,16,76
+664,Bandung Kulon,Warung Muncang,9,4,21,9,43
+665,Bandung Kulon,Warung Muncang,10,4,38,38,100
+666,Bandung Kulon,Warung Muncang,1,5,37,37,100
+667,Bandung Kulon,Warung Muncang,2,5,24,24,100
+668,Bandung Kulon,Warung Muncang,3,5,24,24,100
+669,Bandung Kulon,Warung Muncang,4,5,36,36,100
+670,Bandung Kulon,Warung Muncang,5,5,45,32,71
+671,Bandung Kulon,Warung Muncang,6,5,30,30,100
+672,Bandung Kulon,Warung Muncang,7,5,36,9,29
+673,Bandung Kulon,Warung Muncang,9,5,22,7,54
+674,Bandung Kulon,Warung Muncang,10,5,33,33,100
+675,Bandung Kulon,Warung Muncang,1,6,54,54,100
+676,Bandung Kulon,Warung Muncang,2,6,37,37,100
+677,Bandung Kulon,Warung Muncang,3,6,37,37,100
+678,Bandung Kulon,Warung Muncang,4,6,42,42,100
+679,Bandung Kulon,Warung Muncang,5,6,52,20,38
+680,Bandung Kulon,Warung Muncang,6,6,75,75,100
+681,Bandung Kulon,Warung Muncang,7,6,28,11,46
+682,Bandung Kulon,Warung Muncang,10,6,39,39,100
+683,Bandung Kulon,Warung Muncang,1,7,75,75,100
+684,Bandung Kulon,Warung Muncang,2,7,30,30,100
+685,Bandung Kulon,Warung Muncang,3,7,30,30,100
+686,Bandung Kulon,Warung Muncang,4,7,73,73,100
+687,Bandung Kulon,Warung Muncang,5,7,44,17,39
+688,Bandung Kulon,Warung Muncang,6,7,24,24,100
+689,Bandung Kulon,Warung Muncang,7,7,45,20,50
+690,Bandung Kulon,Warung Muncang,10,7,36,19,53
+691,Bandung Kulon,Warung Muncang,1,8,14,14,100
+692,Bandung Kulon,Warung Muncang,2,8,30,30,100
+693,Bandung Kulon,Warung Muncang,6,8,22,22,100
+694,Bandung Kulon,Warung Muncang,7,8,65,49,86
+695,Bandung Kulon,Warung Muncang,6,9,42,42,100
+696,Bandung Kulon,Warung Muncang,7,9,40,15,45
+697,Bandung Kulon,Warung Muncang,6,10,31,31,100
+698,Bandung Kulon,Warung Muncang,6,11,37,37,100
+699,Bandung Kulon,Warung Muncang,6,12,55,55,100
+700,Bandung Kulon,Warung Muncang,6,13,30,30,100
+701,Bandung Kulon,Cigondewah Kidul,2,1,39,16,50
+702,Bandung Kulon,Cigondewah Kidul,2,2,140,48,37
+703,Bandung Kulon,Cigondewah Kidul,2,3,53,37,82
+704,Bandung Kulon,Cigondewah Rahayu,1,1,75,32,43
+705,Bandung Kulon,Cigondewah Rahayu,2,1,27,14,52
+706,Bandung Kulon,Cigondewah Rahayu,4,1,30,11,37
+707,Bandung Kulon,Cigondewah Rahayu,1,2,39,30,77
+708,Bandung Kulon,Cigondewah Rahayu,2,2,36,8,22
+709,Bandung Kulon,Cigondewah Rahayu,4,2,50,41,82
+710,Bandung Kulon,Cigondewah Rahayu,1,3,33,33,100
+711,Bandung Kulon,Cigondewah Rahayu,2,3,35,8,22
+712,Bandung Kulon,Cigondewah Rahayu,4,3,50,41,82
+713,Bandung Kulon,Cigondewah Rahayu,1,4,66,66,100
+714,Bandung Kulon,Cigondewah Rahayu,2,4,19,5,26
+715,Bandung Kulon,Cigondewah Rahayu,4,4,42,33,79
+716,Bandung Kulon,Cigondewah Rahayu,1,5,38,30,79
+717,Bandung Kulon,Cigondewah Rahayu,2,5,31,21,68
+718,Bandung Kulon,Cigondewah Rahayu,4,5,19,8,42
+719,Bandung Kulon,Cigondewah Rahayu,2,6,54,47,87
+720,Bandung Kulon,Cigondewah Rahayu,4,6,56,41,73
+721,Bandung Kulon,Cijerah,1,1,56,28,50
+722,Bandung Kulon,Cijerah,4,1,90,41,46
+723,Bandung Kulon,Cijerah,6,1,60,23,38
+724,Bandung Kulon,Cijerah,7,1,77,0,0
+725,Bandung Kulon,Cijerah,10,1,39,33,85
+726,Bandung Kulon,Cijerah,1,2,47,27,57
+727,Bandung Kulon,Cijerah,4,2,80,33,52
+728,Bandung Kulon,Cijerah,6,2,23,19,83
+729,Bandung Kulon,Cijerah,9,2,46,20,43
+730,Bandung Kulon,Cijerah,10,2,96,73,76
+731,Bandung Kulon,Cijerah,1,3,37,15,41
+732,Bandung Kulon,Cijerah,3,3,39,32,84
+733,Bandung Kulon,Cijerah,4,3,59,36,61
+734,Bandung Kulon,Cijerah,6,3,31,15,48
+735,Bandung Kulon,Cijerah,7,3,75,60,80
+736,Bandung Kulon,Cijerah,9,3,61,39,64
+737,Bandung Kulon,Cijerah,10,3,55,25,45
+738,Bandung Kulon,Cijerah,1,4,23,8,35
+739,Bandung Kulon,Cijerah,3,4,37,32,86
+740,Bandung Kulon,Cijerah,4,4,64,56,88
+741,Bandung Kulon,Cijerah,6,4,19,10,53
+742,Bandung Kulon,Cijerah,7,4,63,42,67
+743,Bandung Kulon,Cijerah,9,4,50,28,56
+744,Bandung Kulon,Cijerah,10,4,58,9,16
+745,Bandung Kulon,Cijerah,1,5,56,35,63
+746,Bandung Kulon,Cijerah,3,5,20,20,100
+747,Bandung Kulon,Cijerah,4,5,103,42,41
+748,Bandung Kulon,Cijerah,6,5,21,15,71
+749,Bandung Kulon,Cijerah,7,5,63,54,86
+750,Bandung Kulon,Cijerah,9,5,53,23,43
+751,Bandung Kulon,Cijerah,10,5,113,58,51
+752,Bandung Kulon,Cijerah,1,6,43,25,58
+753,Bandung Kulon,Cijerah,3,6,35,35,100
+754,Bandung Kulon,Cijerah,4,6,105,57,54
+755,Bandung Kulon,Cijerah,6,6,23,16,70
+756,Bandung Kulon,Cijerah,7,6,50,25,50
+757,Bandung Kulon,Cijerah,9,6,42,34,81
+758,Bandung Kulon,Cijerah,1,7,39,11,28
+759,Bandung Kulon,Cijerah,3,7,41,41,100
+760,Bandung Kulon,Cijerah,4,7,118,59,50
+761,Bandung Kulon,Cijerah,7,7,108,76,70
+762,Bandung Kulon,Cijerah,9,7,66,43,65
+763,Bandung Kulon,Cijerah,1,8,54,36,67
+764,Bandung Kulon,Cijerah,3,8,40,40,100
+765,Bandung Kulon,Cijerah,1,9,34,14,41
+766,Bandung Kulon,Cijerah,3,9,26,26,100
+767,Bandung Kulon,Cijerah,1,10,24,12,50
+768,Bandung Kulon,Cigondewah Kaler,2,1,94,85,94
+769,Bandung Kulon,Cigondewah Kaler,10,1,65,47,78
+770,Bandung Kulon,Cigondewah Kaler,2,2,88,75,88
+771,Bandung Kulon,Cigondewah Kaler,10,2,58,25,45
+772,Bandung Kulon,Cigondewah Kaler,2,3,84,70,86
+773,Bandung Kulon,Cigondewah Kaler,10,3,57,23,46
+774,Bandung Kulon,Cigondewah Kaler,2,4,82,65,81
+775,Bandung Kulon,Cigondewah Kaler,10,4,64,15,25
+776,Bandung Kulon,Cigondewah Kaler,2,5,92,75,83
+777,Bandung Kulon,Caringin,1,1,55,50,91
+778,Bandung Kulon,Caringin,2,1,57,30,53
+779,Bandung Kulon,Caringin,3,1,16,12,75
+780,Bandung Kulon,Caringin,1,2,68,57,84
+781,Bandung Kulon,Caringin,3,2,39,13,39
+782,Bandung Kulon,Caringin,1,3,67,47,70
+783,Bandung Kulon,Caringin,3,3,30,21,70
+784,Bandung Kulon,Caringin,4,3,38,38,100
+785,Bandung Kulon,Caringin,1,4,72,49,68
+786,Bandung Kulon,Caringin,3,4,24,8,33
+787,Bandung Kulon,Caringin,1,5,69,47,68
+788,Bandung Kulon,Caringin,3,5,29,12,41
+789,Bandung Kulon,Caringin,1,6,71,22,31
+790,Bandung Kulon,Caringin,2,6,48,17,35
+791,Bandung Kulon,Caringin,1,7,78,43,55
+792,Bandung Kulon,Caringin,1,8,70,56,80
+793,Bandung Kulon,Caringin,1,9,71,28,39
+794,Bandung Kulon,Gempol Sari,6,1,42,24,57
+795,Bandung Kulon,Gempol Sari,7,1,26,19,73
+796,Bandung Kulon,Gempol Sari,6,2,42,21,50
+797,Bandung Kulon,Gempol Sari,7,2,26,19,73
+798,Bandung Kulon,Gempol Sari,6,3,42,19,45
+799,Bandung Kulon,Gempol Sari,7,3,28,21,75
+800,Bandung Kulon,Gempol Sari,6,4,60,47,78
+801,Bandung Kulon,Gempol Sari,7,4,64,47,73
+802,Bandung Kulon,Gempol Sari,6,5,100,60,60
+803,Bandung Kulon,Gempol Sari,7,5,39,36,92
+804,Bandung Wetan,Taman Sari,6,1,23,23,100
+805,Bandung Wetan,Taman Sari,7,1,23,23,100
+806,Bandung Wetan,Taman Sari,13,1,56,43,77
+807,Bandung Wetan,Taman Sari,15,1,49,33,67
+808,Bandung Wetan,Taman Sari,16,1,27,20,74
+809,Bandung Wetan,Taman Sari,18,1,27,15,56
+810,Bandung Wetan,Taman Sari,19,1,25,14,56
+811,Bandung Wetan,Taman Sari,20,1,13,13,100
+812,Bandung Wetan,Taman Sari,6,2,13,11,85
+813,Bandung Wetan,Taman Sari,7,2,25,23,92
+814,Bandung Wetan,Taman Sari,13,2,32,25,78
+815,Bandung Wetan,Taman Sari,16,2,57,48,84
+816,Bandung Wetan,Taman Sari,18,2,41,34,83
+817,Bandung Wetan,Taman Sari,19,2,18,15,83
+818,Bandung Wetan,Taman Sari,20,2,28,25,89
+819,Bandung Wetan,Taman Sari,6,3,15,15,100
+820,Bandung Wetan,Taman Sari,7,3,39,27,69
+821,Bandung Wetan,Taman Sari,13,3,13,13,100
+822,Bandung Wetan,Taman Sari,15,3,39,18,46
+823,Bandung Wetan,Taman Sari,16,3,62,57,92
+824,Bandung Wetan,Taman Sari,18,3,45,35,78
+825,Bandung Wetan,Taman Sari,19,3,18,13,72
+826,Bandung Wetan,Taman Sari,20,3,28,22,79
+827,Bandung Wetan,Taman Sari,6,4,19,19,100
+828,Bandung Wetan,Taman Sari,7,4,29,13,45
+829,Bandung Wetan,Taman Sari,13,4,30,24,80
+830,Bandung Wetan,Taman Sari,15,4,15,11,73
+831,Bandung Wetan,Taman Sari,16,4,42,37,88
+832,Bandung Wetan,Taman Sari,18,4,19,19,100
+833,Bandung Wetan,Taman Sari,19,4,17,17,100
+834,Bandung Wetan,Taman Sari,20,4,24,20,83
+835,Bandung Wetan,Taman Sari,6,5,19,15,79
+836,Bandung Wetan,Taman Sari,7,5,53,40,75
+837,Bandung Wetan,Taman Sari,11,5,36,18,50
+838,Bandung Wetan,Taman Sari,13,5,25,22,88
+839,Bandung Wetan,Taman Sari,15,5,29,17,59
+840,Bandung Wetan,Taman Sari,16,5,32,27,84
+841,Bandung Wetan,Taman Sari,18,5,66,27,41
+842,Bandung Wetan,Taman Sari,19,5,9,7,78
+843,Bandung Wetan,Taman Sari,20,5,37,32,86
+844,Bandung Wetan,Taman Sari,6,6,16,12,75
+845,Bandung Wetan,Taman Sari,7,6,44,32,73
+846,Bandung Wetan,Taman Sari,11,6,30,20,67
+847,Bandung Wetan,Taman Sari,13,6,17,14,82
+848,Bandung Wetan,Taman Sari,15,6,42,36,86
+849,Bandung Wetan,Taman Sari,16,6,37,30,81
+850,Bandung Wetan,Taman Sari,18,6,31,28,90
+851,Bandung Wetan,Taman Sari,20,6,28,22,79
+852,Bandung Wetan,Taman Sari,7,7,49,33,67
+853,Bandung Wetan,Taman Sari,11,7,18,15,83
+854,Bandung Wetan,Taman Sari,12,7,29,18,62
+855,Bandung Wetan,Taman Sari,13,7,25,25,100
+856,Bandung Wetan,Taman Sari,15,7,28,19,68
+857,Bandung Wetan,Taman Sari,16,7,29,21,72
+858,Bandung Wetan,Taman Sari,18,7,30,28,93
+859,Bandung Wetan,Taman Sari,20,7,20,18,90
+860,Bandung Wetan,Taman Sari,7,8,41,19,46
+861,Bandung Wetan,Taman Sari,12,8,9,8,89
+862,Bandung Wetan,Taman Sari,15,8,30,24,80
+863,Bandung Wetan,Taman Sari,20,8,15,15,100
+864,Bandung Wetan,Taman Sari,15,9,50,34,68
+865,Bandung Wetan,Taman Sari,15,10,43,36,84
+866,Bandung Wetan,Citarum,5,5,13,12,92
+867,Bandung Wetan,Citarum,5,6,17,17,100
+868,Bandung Wetan,Citarum,5,10,27,16,59
+869,Batununggal,Gumuruh,1,1,15,12,80
+870,Batununggal,Gumuruh,3,1,26,26,100
+871,Batununggal,Gumuruh,5,1,25,20,80
+872,Batununggal,Gumuruh,1,2,11,11,100
+873,Batununggal,Gumuruh,3,2,39,12,30
+874,Batununggal,Gumuruh,5,2,20,14,70
+875,Batununggal,Gumuruh,6,2,60,51,85
+876,Batununggal,Gumuruh,1,3,6,6,100
+877,Batununggal,Gumuruh,3,3,23,0,0
+878,Batununggal,Gumuruh,5,3,28,20,71
+879,Batununggal,Gumuruh,1,4,12,12,100
+880,Batununggal,Gumuruh,3,4,18,18,100
+881,Batununggal,Gumuruh,5,4,63,27,42
+882,Batununggal,Gumuruh,6,4,47,42,89
+883,Batununggal,Gumuruh,1,5,19,19,100
+884,Batununggal,Gumuruh,3,5,27,7,26
+885,Batununggal,Gumuruh,5,5,47,35,74
+886,Batununggal,Gumuruh,6,5,33,30,91
+887,Batununggal,Gumuruh,1,6,18,18,100
+888,Batununggal,Gumuruh,3,6,40,31,78
+889,Batununggal,Gumuruh,5,6,69,52,75
+890,Batununggal,Gumuruh,6,6,57,30,53
+891,Batununggal,Gumuruh,3,7,24,24,100
+892,Batununggal,Gumuruh,5,7,43,25,58
+893,Batununggal,Gumuruh,6,7,86,24,28
+894,Batununggal,Gumuruh,3,8,27,7,26
+895,Batununggal,Gumuruh,5,8,46,32,70
+896,Batununggal,Gumuruh,6,8,66,24,35
+897,Batununggal,Gumuruh,3,9,27,20,74
+898,Batununggal,Gumuruh,5,9,48,34,71
+899,Batununggal,Gumuruh,3,10,26,19,73
+900,Batununggal,Kacapiring,6,2,102,61,63
+901,Batununggal,Kacapiring,6,6,36,20,56
+902,Batununggal,Kacapiring,6,7,21,16,76
+903,Batununggal,Kacapiring,6,8,21,14,67
+904,Batununggal,Kacapiring,6,9,44,26,63
+905,Batununggal,Kacapiring,6,10,40,15,38
+906,Batununggal,Binong,2,1,60,40,100
+907,Batununggal,Binong,3,1,33,30,91
+908,Batununggal,Binong,4,1,56,19,34
+909,Batununggal,Binong,7,1,39,22,56
+910,Batununggal,Binong,9,1,74,74,100
+911,Batununggal,Binong,2,2,42,23,55
+912,Batununggal,Binong,3,2,26,23,88
+913,Batununggal,Binong,4,2,24,8,79
+914,Batununggal,Binong,7,2,59,31,53
+915,Batununggal,Binong,2,3,52,23,44
+916,Batununggal,Binong,3,3,33,20,61
+917,Batununggal,Binong,4,3,56,19,34
+918,Batununggal,Binong,6,3,38,23,61
+919,Batununggal,Binong,7,3,25,5,20
+920,Batununggal,Binong,8,3,48,32,67
+921,Batununggal,Binong,9,3,58,58,100
+922,Batununggal,Binong,2,4,49,23,47
+923,Batununggal,Binong,3,4,32,25,78
+924,Batununggal,Binong,4,4,48,19,40
+925,Batununggal,Binong,6,4,89,67,75
+926,Batununggal,Binong,7,4,28,28,100
+927,Batununggal,Binong,8,4,51,44,86
+928,Batununggal,Binong,10,4,60,10,17
+929,Batununggal,Binong,2,5,54,23,43
+930,Batununggal,Binong,3,5,23,19,83
+931,Batununggal,Binong,4,5,49,19,39
+932,Batununggal,Binong,6,5,92,41,45
+933,Batununggal,Binong,7,5,40,24,60
+934,Batununggal,Binong,8,5,49,5,10
+935,Batununggal,Binong,10,5,66,7,11
+936,Batununggal,Binong,2,6,20,12,60
+937,Batununggal,Binong,3,6,37,17,46
+938,Batununggal,Binong,4,6,49,19,39
+939,Batununggal,Binong,6,6,100,76,76
+940,Batununggal,Binong,7,6,56,10,18
+941,Batununggal,Binong,8,6,56,41,73
+942,Batununggal,Binong,10,6,14,5,36
+943,Batununggal,Binong,2,7,33,26,79
+944,Batununggal,Binong,3,7,38,33,87
+945,Batununggal,Binong,4,7,13,5,39
+946,Batununggal,Binong,10,7,38,5,13
+947,Batununggal,Binong,3,8,29,29,100
+948,Batununggal,Binong,4,8,48,19,40
+949,Batununggal,Binong,3,9,31,12,39
+950,Batununggal,Binong,4,9,19,9,47
+951,Batununggal,Binong,3,10,22,18,82
+952,Batununggal,Binong,4,10,67,17,25
+953,Batununggal,Maleer,3,1,36,18,56
+954,Batununggal,Maleer,5,1,40,12,30
+955,Batununggal,Maleer,7,1,22,22,100
+956,Batununggal,Maleer,5,2,21,7,33
+957,Batununggal,Maleer,7,2,42,18,43
+958,Batununggal,Maleer,3,3,42,40,95
+959,Batununggal,Maleer,5,3,43,13,30
+960,Batununggal,Maleer,7,3,58,29,50
+961,Batununggal,Maleer,5,4,49,39,80
+962,Batununggal,Maleer,7,4,26,26,100
+963,Batununggal,Maleer,5,5,64,27,42
+964,Batununggal,Maleer,7,5,24,14,60
+965,Batununggal,Maleer,7,6,50,19,38
+966,Batununggal,Maleer,7,7,36,31,86
+967,Batununggal,Kebon Waru,1,1,42,35,83
+968,Batununggal,Kebon Waru,2,1,46,34,74
+969,Batununggal,Kebon Waru,8,1,60,48,80
+970,Batununggal,Kebon Waru,1,2,53,36,68
+971,Batununggal,Kebon Waru,3,2,40,40,100
+972,Batununggal,Kebon Waru,8,2,30,26,87
+973,Batununggal,Kebon Waru,1,3,46,34,74
+974,Batununggal,Kebon Waru,2,3,58,29,50
+975,Batununggal,Kebon Waru,3,3,36,35,97
+976,Batununggal,Kebon Waru,8,3,40,34,85
+977,Batununggal,Kebon Waru,1,4,40,29,73
+978,Batununggal,Kebon Waru,2,4,41,28,68
+979,Batununggal,Kebon Waru,3,4,39,39,100
+980,Batununggal,Kebon Waru,8,4,55,32,58
+981,Batununggal,Kebon Waru,2,5,55,43,78
+982,Batununggal,Kebon Waru,3,5,24,24,100
+983,Batununggal,Kebon Waru,8,5,40,28,70
+984,Batununggal,Kebon Waru,2,6,68,54,79
+985,Batununggal,Kebon Waru,3,6,78,63,81
+986,Batununggal,Kebon Waru,2,7,47,38,81
+987,Batununggal,Kebon Waru,3,7,60,57,95
+988,Batununggal,Kebon Waru,8,7,42,29,69
+989,Batununggal,Kebon Waru,2,8,50,37,74
+990,Batununggal,Kebon Waru,3,8,54,43,80
+991,Batununggal,Kebon Waru,2,9,43,37,86
+992,Batununggal,Kebon Waru,3,9,36,35,97
+993,Batununggal,Kebon Waru,2,10,42,34,81
+994,Batununggal,Kebon Waru,2,11,38,38,100
+995,Batununggal,Cibangkong,7,1,46,19,41
+996,Batununggal,Cibangkong,10,1,39,25,64
+997,Batununggal,Cibangkong,12,1,72,28,39
+998,Batununggal,Cibangkong,7,2,34,25,74
+999,Batununggal,Cibangkong,10,2,60,49,82
+1000,Batununggal,Cibangkong,12,2,39,31,79
+1001,Batununggal,Cibangkong,7,3,46,22,48
+1002,Batununggal,Cibangkong,10,3,55,36,65
+1003,Batununggal,Cibangkong,12,3,42,36,86
+1004,Batununggal,Cibangkong,7,4,42,36,86
+1005,Batununggal,Cibangkong,10,4,45,22,49
+1006,Batununggal,Cibangkong,12,4,72,54,75
+1007,Batununggal,Cibangkong,6,5,44,27,61
+1008,Batununggal,Cibangkong,7,5,55,51,93
+1009,Batununggal,Cibangkong,10,5,36,23,64
+1010,Batununggal,Cibangkong,12,5,62,53,85
+1011,Batununggal,Cibangkong,1,6,44,36,82
+1012,Batununggal,Cibangkong,6,6,45,37,82
+1013,Batununggal,Cibangkong,7,6,49,32,65
+1014,Batununggal,Cibangkong,10,6,24,20,83
+1015,Batununggal,Cibangkong,12,6,78,67,86
+1016,Batununggal,Cibangkong,7,7,41,37,95
+1017,Batununggal,Cibangkong,10,7,52,27,52
+1018,Batununggal,Cibangkong,12,7,80,63,79
+1019,Batununggal,Cibangkong,7,8,38,29,83
+1020,Batununggal,Cibangkong,10,8,46,37,80
+1021,Batununggal,Cibangkong,7,9,28,23,82
+1022,Batununggal,Samoja,2,1,21,18,90
+1023,Batununggal,Samoja,4,1,25,19,86
+1024,Batununggal,Samoja,2,2,15,11,79
+1025,Batununggal,Samoja,4,2,31,13,48
+1026,Batununggal,Samoja,2,3,15,11,79
+1027,Batununggal,Samoja,4,3,25,19,79
+1028,Batununggal,Samoja,2,4,19,13,76
+1029,Batununggal,Samoja,4,4,27,23,92
+1030,Batununggal,Samoja,2,5,28,24,89
+1031,Batununggal,Kebon Gedang,4,1,39,28,72
+1032,Batununggal,Kebon Gedang,7,1,30,28,93
+1033,Batununggal,Kebon Gedang,8,1,57,48,84
+1034,Batununggal,Kebon Gedang,4,2,55,50,91
+1035,Batununggal,Kebon Gedang,7,2,41,37,90
+1036,Batununggal,Kebon Gedang,8,2,62,40,65
+1037,Batununggal,Kebon Gedang,4,3,38,35,92
+1038,Batununggal,Kebon Gedang,7,3,41,37,90
+1039,Batununggal,Kebon Gedang,8,3,48,32,67
+1040,Batununggal,Kebon Gedang,4,4,44,40,91
+1041,Batununggal,Kebon Gedang,7,4,47,38,81
+1042,Batununggal,Kebon Gedang,8,4,51,44,86
+1043,Batununggal,Kebon Gedang,4,5,35,30,86
+1044,Batununggal,Kebon Gedang,7,5,46,42,91
+1045,Batununggal,Kebon Gedang,8,5,49,5,10
+1046,Batununggal,Kebon Gedang,4,6,35,32,91
+1047,Batununggal,Kebon Gedang,8,6,56,41,73
+1048,Batununggal,Kebon Gedang,4,7,33,33,100
+1049,Batununggal,Kebon Gedang,8,7,52,38,73
+1050,Bojongloa Kaler,Babakan Tarogong,4,1,32,16,50
+1051,Bojongloa Kaler,Babakan Tarogong,7,1,55,38,70
+1052,Bojongloa Kaler,Babakan Tarogong,4,2,68,25,38
+1053,Bojongloa Kaler,Babakan Tarogong,7,2,66,38,58
+1054,Bojongloa Kaler,Babakan Tarogong,4,3,56,35,63
+1055,Bojongloa Kaler,Babakan Tarogong,7,3,127,72,57
+1056,Bojongloa Kaler,Babakan Tarogong,4,4,37,16,46
+1057,Bojongloa Kaler,Babakan Tarogong,7,4,123,69,56
+1058,Bojongloa Kaler,Babakan Tarogong,4,5,58,30,52
+1059,Bojongloa Kaler,Babakan Tarogong,7,5,177,115,65
+1060,Bojongloa Kaler,Babakan Tarogong,7,6,104,55,53
+1061,Bojongloa Kaler,Babakan Tarogong,4,6,69,36,52
+1062,Bojongloa Kaler,Babakan Tarogong,4,7,72,17,24
+1063,Bojongloa Kaler,Babakan Tarogong,7,7,168,45,27
+1064,Bojongloa Kaler,Babakan Tarogong,4,8,50,14,29
+1065,Bojongloa Kaler,Babakan Tarogong,4,9,83,49,59
+1066,Bojongloa Kaler,Babakan Tarogong,4,10,52,23,45
+1067,Bojongloa Kaler,Jamika,5,1,96,37,39
+1068,Bojongloa Kaler,Jamika,10,1,33,26,79
+1069,Bojongloa Kaler,Jamika,5,2,86,7,8
+1070,Bojongloa Kaler,Jamika,10,2,75,72,96
+1071,Bojongloa Kaler,Jamika,5,3,129,17,13
+1072,Bojongloa Kaler,Jamika,10,3,87,44,51
+1073,Bojongloa Kaler,Jamika,5,4,168,4,2
+1074,Bojongloa Kaler,Jamika,10,4,125,14,11
+1075,Bojongloa Kaler,Jamika,5,5,129,17,13
+1076,Bojongloa Kaler,Jamika,10,5,83,14,17
+1077,Bojongloa Kaler,Jamika,5,6,118,14,12
+1078,Bojongloa Kaler,Jamika,10,6,127,39,31
+1079,Bojongloa Kaler,Jamika,5,7,145,21,14
+1080,Bojongloa Kaler,Suka Asih,8,1,105,24,24
+1081,Bojongloa Kaler,Suka Asih,8,2,126,36,29
+1082,Bojongloa Kaler,Suka Asih,8,3,59,7,12
+1083,Bojongloa Kaler,Suka Asih,8,4,53,23,45
+1084,Bojongloa Kaler,Suka Asih,8,5,45,20,56
+1085,Bojongloa Kaler,Suka Asih,8,6,55,13,28
+1086,Bojongloa Kaler,Suka Asih,8,7,30,15,63
+1087,Bojongloa Kaler,Suka Asih,8,8,100,53,60
+1088,Bojongloa Kaler,Kopo,1,1,90,85,96
+1089,Bojongloa Kaler,Kopo,7,1,86,44,61
+1090,Bojongloa Kaler,Kopo,10,1,80,15,22
+1091,Bojongloa Kaler,Kopo,11,1,50,23,46
+1092,Bojongloa Kaler,Kopo,12,1,192,136,71
+1093,Bojongloa Kaler,Kopo,11,2,50,19,38
+1094,Bojongloa Kaler,Kopo,12,2,177,99,56
+1095,Bojongloa Kaler,Kopo,1,2,145,60,46
+1096,Bojongloa Kaler,Kopo,7,2,48,25,52
+1097,Bojongloa Kaler,Kopo,10,2,75,31,55
+1098,Bojongloa Kaler,Kopo,11,3,47,16,34
+1099,Bojongloa Kaler,Kopo,12,3,250,177,71
+1100,Bojongloa Kaler,Kopo,1,3,160,84,57
+1101,Bojongloa Kaler,Kopo,7,3,75,35,64
+1102,Bojongloa Kaler,Kopo,10,3,53,24,45
+1103,Bojongloa Kaler,Kopo,11,4,142,92,65
+1104,Bojongloa Kaler,Kopo,12,4,92,85,92
+1105,Bojongloa Kaler,Kopo,1,4,125,39,35
+1106,Bojongloa Kaler,Kopo,7,4,79,42,53
+1107,Bojongloa Kaler,Kopo,10,4,73,39,60
+1108,Bojongloa Kaler,Kopo,11,5,133,51,38
+1109,Bojongloa Kaler,Kopo,12,5,56,56,100
+1110,Bojongloa Kaler,Kopo,1,5,155,45,33
+1111,Bojongloa Kaler,Kopo,7,5,191,123,64
+1112,Bojongloa Kaler,Kopo,10,5,132,45,37
+1113,Bojongloa Kaler,Kopo,12,6,103,103,100
+1114,Bojongloa Kaler,Kopo,1,6,123,50,43
+1115,Bojongloa Kaler,Kopo,7,6,46,22,48
+1116,Bojongloa Kaler,Kopo,12,7,105,85,81
+1117,Bojongloa Kaler,Kopo,1,7,145,59,45
+1118,Bojongloa Kaler,Kopo,7,7,0.35,23,30
+1119,Bojongloa Kaler,Kopo,12,8,56,55,98
+1120,Bojongloa Kaler,Kopo,1,8,128,62,56
+1121,Bojongloa Kaler,Kopo,7,8,89,37,42
+1122,Bojongloa Kaler,Kopo,7,9,77,40,52
+1123,Bojongloa Kaler,Kopo,7,10,135,56,44
+1124,Bojongloa Kaler,Kopo,7,11,87,50,57
+1125,Bojongloa Kaler,Kopo,7,12,76,30,39
+1126,Bojongloa Kaler,Babakan Asih,1,1,100,76,86
+1127,Bojongloa Kaler,Babakan Asih,2,1,54,41,76
+1128,Bojongloa Kaler,Babakan Asih,3,1,75,35,56
+1129,Bojongloa Kaler,Babakan Asih,4,1,30,16,100
+1130,Bojongloa Kaler,Babakan Asih,5,1,60,18,32
+1131,Bojongloa Kaler,Babakan Asih,7,1,80,42,63
+1132,Bojongloa Kaler,Babakan Asih,1,2,45,15,50
+1133,Bojongloa Kaler,Babakan Asih,2,2,40,32,100
+1134,Bojongloa Kaler,Babakan Asih,3,2,73,64,88
+1135,Bojongloa Kaler,Babakan Asih,4,2,45,8,80
+1136,Bojongloa Kaler,Babakan Asih,5,2,45,14,36
+1137,Bojongloa Kaler,Babakan Asih,7,2,75,31,51
+1138,Bojongloa Kaler,Babakan Asih,1,3,60,31,65
+1139,Bojongloa Kaler,Babakan Asih,2,3,44,31,94
+1140,Bojongloa Kaler,Babakan Asih,3,3,50,39,93
+1141,Bojongloa Kaler,Babakan Asih,4,3,60,22,85
+1142,Bojongloa Kaler,Babakan Asih,5,3,65,19,32
+1143,Bojongloa Kaler,Babakan Asih,7,3,110,64,66
+1144,Bojongloa Kaler,Babakan Asih,1,4,100,45,51
+1145,Bojongloa Kaler,Babakan Asih,2,4,70,34,68
+1146,Bojongloa Kaler,Babakan Asih,3,4,35,30,86
+1147,Bojongloa Kaler,Babakan Asih,4,4,54,47,98
+1148,Bojongloa Kaler,Babakan Asih,5,4,55,30,64
+1149,Bojongloa Kaler,Babakan Asih,7,4,90,55,65
+1150,Bojongloa Kaler,Babakan Asih,1,5,102,36,35
+1151,Bojongloa Kaler,Babakan Asih,2,5,45,25,74
+1152,Bojongloa Kaler,Babakan Asih,3,5,40,28,78
+1153,Bojongloa Kaler,Babakan Asih,4,5,48,29,74
+1154,Bojongloa Kaler,Babakan Asih,5,5,95,72,81
+1155,Bojongloa Kaler,Babakan Asih,7,5,80,49,65
+1156,Bojongloa Kaler,Babakan Asih,1,6,100,70,71
+1157,Bojongloa Kaler,Babakan Asih,2,6,34,7,28
+1158,Bojongloa Kaler,Babakan Asih,3,6,30,20,80
+1159,Bojongloa Kaler,Babakan Asih,4,6,55,33,75
+1160,Bojongloa Kaler,Babakan Asih,5,6,40,22,73
+1161,Bojongloa Kaler,Babakan Asih,7,6,65,33,56
+1162,Bojongloa Kaler,Babakan Asih,1,7,90,25,31
+1163,Bojongloa Kaler,Babakan Asih,2,7,70,37,53
+1164,Bojongloa Kaler,Babakan Asih,3,7,65,47,77
+1165,Bojongloa Kaler,Babakan Asih,4,7,60,34,68
+1166,Bojongloa Kaler,Babakan Asih,7,7,110,78,87
+1167,Bojongloa Kaler,Babakan Asih,1,8,90,62,74
+1168,Bojongloa Kaler,Babakan Asih,4,8,45,18,69
+1169,Bojongloa Kaler,Babakan Asih,7,8,60,48,92
+1170,Bojongloa Kaler,Babakan Asih,1,9,82,25,34
+1171,Bojongloa Kaler,Babakan Asih,4,9,35,19,100
+1172,Bojongloa Kaler,Babakan Asih,1,10,86,66,93
+1173,Bojongloa Kaler,Babakan Asih,4,10,55,45,94
+1174,Bojongloa Kaler,Babakan Asih,4,11,30,7,88
+1175,Bojongloa Kidul,Cibaduyut,1,1,23,13,57
+1176,Bojongloa Kidul,Cibaduyut,3,1,58,51,88
+1177,Bojongloa Kidul,Cibaduyut,6,1,66,56,85
+1178,Bojongloa Kidul,Cibaduyut,7,1,46,24,24
+1179,Bojongloa Kidul,Cibaduyut,8,1,48,21,44
+1180,Bojongloa Kidul,Cibaduyut,1,2,54,34,63
+1181,Bojongloa Kidul,Cibaduyut,3,2,70,36,51
+1182,Bojongloa Kidul,Cibaduyut,6,2,57,23,40
+1183,Bojongloa Kidul,Cibaduyut,7,2,36,14,39
+1184,Bojongloa Kidul,Cibaduyut,8,2,73,26,36
+1185,Bojongloa Kidul,Cibaduyut,1,3,13,8,62
+1186,Bojongloa Kidul,Cibaduyut,3,3,67,48,72
+1187,Bojongloa Kidul,Cibaduyut,6,3,61,53,87
+1188,Bojongloa Kidul,Cibaduyut,7,3,23,18,78
+1189,Bojongloa Kidul,Cibaduyut,8,3,68,24,35
+1190,Bojongloa Kidul,Cibaduyut,1,4,13,9,69
+1191,Bojongloa Kidul,Cibaduyut,3,4,26,20,77
+1192,Bojongloa Kidul,Cibaduyut,6,4,52,22,42
+1193,Bojongloa Kidul,Mekar Wangi,5,1,90,44,73
+1194,Bojongloa Kidul,Mekar Wangi,5,2,94,45,48
+1195,Bojongloa Kidul,Mekar Wangi,5,3,111,59,53
+1196,Bojongloa Kidul,Mekar Wangi,5,4,78,56,72
+1197,Bojongloa Kidul,Mekar Wangi,5,5,145,83,58
+1198,Bojongloa Kidul,Cibaduyut Wetan,1,1,59,27,46
+1199,Bojongloa Kidul,Cibaduyut Wetan,2,1,42,40,95
+1200,Bojongloa Kidul,Cibaduyut Wetan,3,1,47,33,70
+1201,Bojongloa Kidul,Cibaduyut Wetan,1,2,64,37,63
+1202,Bojongloa Kidul,Cibaduyut Wetan,2,2,39,29,74
+1203,Bojongloa Kidul,Cibaduyut Wetan,3,2,36,21,62
+1204,Bojongloa Kidul,Cibaduyut Wetan,1,3,39,25,64
+1205,Bojongloa Kidul,Cibaduyut Wetan,2,3,33,17,52
+1206,Bojongloa Kidul,Cibaduyut Wetan,2,4,36,18,55
+1207,Bojongloa Kidul,Cibaduyut Wetan,3,4,43,24,56
+1208,Bojongloa Kidul,Cibaduyut Wetan,2,5,36,29,74
+1209,Bojongloa Kidul,Cibaduyut Wetan,3,5,52,28,54
+1210,Bojongloa Kidul,Cibaduyut Wetan,2,6,38,24,63
+1211,Bojongloa Kidul,Cibaduyut Wetan,2,7,49,24,49
+1212,Bojongloa Kidul,Cibaduyut Wetan,2,8,33,12,36
+1213,Bojongloa Kidul,Cibaduyut Kidul,4,1,52,21,56
+1214,Bojongloa Kidul,Cibaduyut Kidul,5,1,65,39,62
+1215,Bojongloa Kidul,Cibaduyut Kidul,6,1,64,48,76
+1216,Bojongloa Kidul,Cibaduyut Kidul,4,2,50,35,76
+1217,Bojongloa Kidul,Cibaduyut Kidul,5,2,84,23,27
+1218,Bojongloa Kidul,Cibaduyut Kidul,6,2,63,45,96
+1219,Bojongloa Kidul,Cibaduyut Kidul,4,3,42,27,64
+1220,Bojongloa Kidul,Cibaduyut Kidul,5,3,70,42,63
+1221,Bojongloa Kidul,Cibaduyut Kidul,6,3,39,26,67
+1222,Bojongloa Kidul,Cibaduyut Kidul,5,4,57,29,51
+1223,Bojongloa Kidul,Cibaduyut Kidul,6,4,57,1,2
+1224,Bojongloa Kidul,Cibaduyut Kidul,5,5,66,43,65
+1225,Bojongloa Kidul,Cibaduyut Kidul,6,5,60,44,75
+1226,Bojongloa Kidul,Cibaduyut Kidul,5,6,65,52,80
+1227,Bojongloa Kidul,Cibaduyut Kidul,6,6,42,37,93
+1228,Bojongloa Kidul,Cibaduyut Kidul,5,7,44,0,0
+1229,Bojongloa Kidul,Cibaduyut Kidul,6,7,29,23,92
+1230,Buahbatu,Jati Sari,6,1,42,36,86
+1231,Buahbatu,Jati Sari,1,2,40,32,80
+1232,Buahbatu,Jati Sari,6,2,36,24,67
+1233,Buahbatu,Jati Sari,1,3,30,22,73
+1234,Buahbatu,Jati Sari,6,3,50,21,42
+1235,Buahbatu,Jati Sari,1,4,59,45,76
+1236,Buahbatu,Jati Sari,6,4,50,37,74
+1237,Buahbatu,Jati Sari,6,5,26,22,85
+1238,Buahbatu,Cijaura,8,1,34,34,100
+1239,Buahbatu,Cijaura,12,1,60,30,50
+1240,Buahbatu,Cijaura,1,2,29,15,52
+1241,Buahbatu,Cijaura,2,2,51,20,39
+1242,Buahbatu,Cijaura,3,2,69,30,43
+1243,Buahbatu,Cijaura,8,2,32,32,100
+1244,Buahbatu,Cijaura,12,2,58,25,43
+1245,Buahbatu,Cijaura,1,3,31,15,48
+1246,Buahbatu,Cijaura,3,3,133,50,38
+1247,Buahbatu,Cijaura,4,3,68,30,44
+1248,Buahbatu,Cijaura,8,3,36,15,42
+1249,Buahbatu,Cijaura,12,3,27,10,37
+1250,Buahbatu,Cijaura,2,4,51,25,49
+1251,Buahbatu,Cijaura,3,4,72,35,49
+1252,Buahbatu,Cijaura,4,4,68,30,44
+1253,Buahbatu,Cijaura,12,4,105,52,50
+1254,Buahbatu,Cijaura,3,5,138,70,51
+1255,Buahbatu,Cijaura,12,5,66,33,50
+1256,Buahbatu,Cijaura,8,6,69,35,51
+1257,Buahbatu,Cijaura,8,7,33,16,48
+1258,Buahbatu,Cijaura,8,8,29,15,52
+1259,Buahbatu,Margasari,3,1,22,10,45
+1260,Buahbatu,Margasari,2,2,39,20,51
+1261,Buahbatu,Margasari,3,2,35,17,49
+1262,Buahbatu,Margasari,19,2,64,32,50
+1263,Buahbatu,Margasari,2,3,60,30,50
+1264,Buahbatu,Margasari,3,3,43,21,49
+1265,Buahbatu,Margasari,19,3,56,23,41
+1266,Buahbatu,Margasari,2,4,65,33,51
+1267,Buahbatu,Margasari,19,4,39,20,51
+1268,Buahbatu,Margasari,2,5,70,35,50
+1269,Buahbatu,Margasari,19,5,76,33,43
+1270,Buahbatu,Sekejati,4,1,76,38,50
+1271,Buahbatu,Sekejati,4,2,85,45,53
+1272,Buahbatu,Sekejati,1,3,40,20,50
+1273,Buahbatu,Sekejati,4,3,59,30,51
+1274,Buahbatu,Sekejati,11,3,104,21,20
+1275,Buahbatu,Sekejati,14,3,139,70,50
+1276,Buahbatu,Sekejati,1,4,31,15,48
+1277,Buahbatu,Sekejati,4,4,105,53,50
+1278,Buahbatu,Sekejati,4,5,112,56,50
+1279,Buahbatu,Sekejati,11,5,50,25,50
+1280,Buahbatu,Sekejati,11,7,112,56,50
+1281,Cibeunying Kaler,Neglasari,2,1,40,29,73
+1282,Cibeunying Kaler,Neglasari,2,2,32,15,47
+1283,Cibeunying Kaler,Neglasari,2,3,49,33,67
+1284,Cibeunying Kaler,Neglasari,2,4,32,21,66
+1285,Cibeunying Kaler,Neglasari,2,5,39,23,59
+1286,Cibeunying Kaler,Neglasari,2,6,41,28,68
+1287,Cibeunying Kaler,Neglasari,2,7,53,40,75
+1288,Cibeunying Kaler,Neglasari,2,8,55,51,93
+1289,Cibeunying Kaler,Neglasari,2,9,53,31,58
+1290,Cibeunying Kaler,Cigadung,13,1,23,18,78
+1291,Cibeunying Kaler,Cigadung,15,1,77,60,78
+1292,Cibeunying Kaler,Cigadung,13,2,30,20,67
+1293,Cibeunying Kaler,Cigadung,15,2,71,65,92
+1294,Cibeunying Kaler,Cigadung,13,3,74,60,81
+1295,Cibeunying Kaler,Cigadung,15,3,84,75,89
+1296,Cibeunying Kaler,Cigadung,13,4,33,20,61
+1297,Cibeunying Kaler,Cigadung,15,4,51,40,78
+1298,Cibeunying Kaler,Cigadung,13,5,41,35,85
+1299,Cibeunying Kaler,Cigadung,15,5,30,20,67
+1300,Cibeunying Kaler,Cigadung,13,6,40,30,75
+1301,Cibeunying Kaler,Cigadung,15,6,163,130,80
+1302,Cibeunying Kaler,Cigadung,13,7,40,30,75
+1303,Cibeunying Kaler,Cigadung,13,8,39,25,64
+1304,Cibeunying Kaler,Cigadung,13,9,80,60,75
+1305,Cibeunying Kidul,Sukapada,3,1,32,24,75
+1306,Cibeunying Kidul,Sukapada,4,1,38,17,45
+1307,Cibeunying Kidul,Sukapada,5,1,31,10,32
+1308,Cibeunying Kidul,Sukapada,11,1,18,8,44
+1309,Cibeunying Kidul,Sukapada,12,1,19,8,42
+1310,Cibeunying Kidul,Sukapada,13,1,80,23,29
+1311,Cibeunying Kidul,Sukapada,14,1,44,12,27
+1312,Cibeunying Kidul,Sukapada,15,1,26,12,46
+1313,Cibeunying Kidul,Sukapada,3,2,42,35,83
+1314,Cibeunying Kidul,Sukapada,4,2,35,23,66
+1315,Cibeunying Kidul,Sukapada,5,2,27,10,37
+1316,Cibeunying Kidul,Sukapada,11,2,80,22,28
+1317,Cibeunying Kidul,Sukapada,12,2,29,12,41
+1318,Cibeunying Kidul,Sukapada,13,2,52,13,25
+1319,Cibeunying Kidul,Sukapada,14,2,67,15,22
+1320,Cibeunying Kidul,Sukapada,15,2,35,16,46
+1321,Cibeunying Kidul,Sukapada,3,3,35,18,51
+1322,Cibeunying Kidul,Sukapada,4,3,35,32,91
+1323,Cibeunying Kidul,Sukapada,5,3,11,4,36
+1324,Cibeunying Kidul,Sukapada,11,3,52,16,31
+1325,Cibeunying Kidul,Sukapada,12,3,13,6,46
+1326,Cibeunying Kidul,Sukapada,13,3,50,12,24
+1327,Cibeunying Kidul,Sukapada,14,3,50,12,24
+1328,Cibeunying Kidul,Sukapada,15,3,52,12,23
+1329,Cibeunying Kidul,Sukapada,3,4,43,42,98
+1330,Cibeunying Kidul,Sukapada,4,4,45,37,82
+1331,Cibeunying Kidul,Sukapada,5,4,35,19,54
+1332,Cibeunying Kidul,Sukapada,11,4,69,32,46
+1333,Cibeunying Kidul,Sukapada,12,4,19,12,63
+1334,Cibeunying Kidul,Sukapada,13,4,94,34,36
+1335,Cibeunying Kidul,Sukapada,14,4,49,9,18
+1336,Cibeunying Kidul,Sukapada,15,4,50,14,28
+1337,Cibeunying Kidul,Sukapada,3,5,43,24,56
+1338,Cibeunying Kidul,Sukapada,4,5,57,42,74
+1339,Cibeunying Kidul,Sukapada,11,5,43,23,53
+1340,Cibeunying Kidul,Sukapada,12,5,34,30,88
+1341,Cibeunying Kidul,Sukapada,14,5,50,13,26
+1342,Cibeunying Kidul,Sukapada,15,5,23,9,39
+1343,Cibeunying Kidul,Sukapada,3,6,40,25,63
+1344,Cibeunying Kidul,Sukapada,4,6,47,33,70
+1345,Cibeunying Kidul,Sukapada,11,6,42,23,55
+1346,Cibeunying Kidul,Sukapada,12,6,45,14,31
+1347,Cibeunying Kidul,Sukapada,14,6,37,12,32
+1348,Cibeunying Kidul,Sukapada,3,7,45,30,67
+1349,Cibeunying Kidul,Sukapada,4,7,34,20,59
+1350,Cibeunying Kidul,Sukapada,11,7,50,14,28
+1351,Cibeunying Kidul,Sukapada,12,7,13,3,23
+1352,Cibeunying Kidul,Sukapada,11,8,37,25,68
+1353,Cibeunying Kidul,Sukapada,11,9,47,12,26
+1354,Cibeunying Kidul,Pasirlayung,1,1,116,100,86
+1355,Cibeunying Kidul,Pasirlayung,12,1,51,44,86
+1356,Cibeunying Kidul,Pasirlayung,1,2,60,44,73
+1357,Cibeunying Kidul,Pasirlayung,12,2,42,42,100
+1358,Cibeunying Kidul,Pasirlayung,1,3,57,45,79
+1359,Cibeunying Kidul,Pasirlayung,12,3,56,42,75
+1360,Cibeunying Kidul,Pasirlayung,1,4,114,100,88
+1361,Cibeunying Kidul,Pasirlayung,12,4,54,43,80
+1362,Cibeunying Kidul,Pasirlayung,1,5,113,89,79
+1363,Cibeunying Kidul,Pasirlayung,12,5,45,44,98
+1364,Cibeunying Kidul,Pasirlayung,1,6,116,105,91
+1365,Cibeunying Kidul,Pasirlayung,12,6,50,44,88
+1366,Cibeunying Kidul,Pasirlayung,12,7,40,32,80
+1367,Cibeunying Kidul,Pasirlayung,12,8,38,33,87
+1368,Cibeunying Kidul,Pasirlayung,12,9,39,33,85
+1369,Cibeunying Kidul,Padasuka,3,1,14,14,100
+1370,Cibeunying Kidul,Padasuka,9,1,54,21,39
+1371,Cibeunying Kidul,Padasuka,11,1,30,12,0
+1372,Cibeunying Kidul,Padasuka,3,2,15,12,80
+1373,Cibeunying Kidul,Padasuka,9,2,32,21,66
+1374,Cibeunying Kidul,Padasuka,11,2,25,13,0
+1375,Cibeunying Kidul,Padasuka,3,3,34,19,79
+1376,Cibeunying Kidul,Padasuka,9,3,32,21,66
+1377,Cibeunying Kidul,Padasuka,11,3,24,8,0
+1378,Cibeunying Kidul,Padasuka,3,4,17,16,94
+1379,Cibeunying Kidul,Padasuka,9,4,44,30,68
+1380,Cibeunying Kidul,Padasuka,11,4,25,8,0
+1381,Cibeunying Kidul,Padasuka,3,5,28,28,100
+1382,Cibeunying Kidul,Padasuka,9,5,35,17,49
+1383,Cibeunying Kidul,Padasuka,11,5,40,16,0
+1384,Cibeunying Kidul,Padasuka,3,6,28,27,96
+1385,Cibeunying Kidul,Padasuka,9,6,52,25,48
+1386,Cibeunying Kidul,Padasuka,11,6,50,16,0
+1387,Cibeunying Kidul,Padasuka,3,7,19,19,100
+1388,Cibeunying Kidul,Padasuka,9,7,64,26,41
+1389,Cibeunying Kidul,Padasuka,11,7,20,9,45
+1390,Cibeunying Kidul,Cikutra,6,1,49,26,53
+1391,Cibeunying Kidul,Cikutra,6,2,38,29,76
+1392,Cibeunying Kidul,Cikutra,6,3,35,18,51
+1393,Cibeunying Kidul,Cikutra,6,4,26,23,88
+1394,Cibeunying Kidul,Cikutra,6,5,27,10,37
+1395,Cibeunying Kidul,Cikutra,6,6,34,20,59
+1396,Cibeunying Kidul,Cikutra,6,7,88,50,57
+1397,Cibiru,Palasari,5,1,46,43,92
+1398,Cibiru,Palasari,11,1,110,74,82
+1399,Cibiru,Palasari,14,1,25,22,92
+1400,Cibiru,Palasari,5,2,58,47,81
+1401,Cibiru,Palasari,11,2,61,61,100
+1402,Cibiru,Palasari,14,2,21,21,100
+1403,Cibiru,Palasari,5,3,31,27,76
+1404,Cibiru,Palasari,11,3,37,37,100
+1405,Cibiru,Palasari,14,3,40,37,95
+1406,Cibiru,Palasari,5,4,36,29,87
+1407,Cibiru,Palasari,11,4,28,27,100
+1408,Cibiru,Palasari,14,4,37,35,95
+1409,Cibiru,Palasari,5,5,82,52,72
+1410,Cibiru,Palasari,11,5,86,85,100
+1411,Cibiru,Palasari,14,5,20,17,85
+1412,Cibiru,Palasari,11,6,49,21,39
+1413,Cibiru,Pasir Biru,2,1,34,25,86
+1414,Cibiru,Pasir Biru,8,1,58,34,62
+1415,Cibiru,Pasir Biru,9,1,45,35,85
+1416,Cibiru,Pasir Biru,2,2,34,21,70
+1417,Cibiru,Pasir Biru,8,2,70,58,85
+1418,Cibiru,Pasir Biru,9,2,45,45,100
+1419,Cibiru,Pasir Biru,2,3,34,19,79
+1420,Cibiru,Pasir Biru,8,3,81,78,94
+1421,Cibiru,Pasir Biru,9,3,50,38,83
+1422,Cibiru,Pasir Biru,2,4,29,18,78
+1423,Cibiru,Pasir Biru,8,4,51,45,90
+1424,Cibiru,Pasir Biru,9,4,41,12,33
+1425,Cibiru,Pasir Biru,2,5,39,25,76
+1426,Cibiru,Pasir Biru,8,5,91,56,62
+1427,Cibiru,Pasir Biru,9,5,48,35,80
+1428,Cibiru,Pasir Biru,2,6,39,37,88
+1429,Cibiru,Cisurupan,2,1,29,27,100
+1430,Cibiru,Cisurupan,6,1,35,30,80
+1431,Cibiru,Cisurupan,9,1,67,14,23
+1432,Cibiru,Cisurupan,10,1,35,17,56
+1433,Cibiru,Cisurupan,2,2,35,35,100
+1434,Cibiru,Cisurupan,6,2,36,34,91
+1435,Cibiru,Cisurupan,9,2,84,26,30
+1436,Cibiru,Cisurupan,10,2,63,32,52
+1437,Cibiru,Cisurupan,2,3,28,0,0
+1438,Cibiru,Cisurupan,6,3,30,18,66
+1439,Cibiru,Cisurupan,9,3,57,21,38
+1440,Cibiru,Cisurupan,10,3,62,25,47
+1441,Cibiru,Cisurupan,2,4,22,21,100
+1442,Cibiru,Cisurupan,5,4,52,40,78
+1443,Cibiru,Cisurupan,6,4,23,16,73
+1444,Cibiru,Cisurupan,9,4,44,17,38
+1445,Cibiru,Cisurupan,2,5,24,23,100
+1446,Cibiru,Cisurupan,5,5,60,28,74
+1447,Cibiru,Cisurupan,6,5,65,45,71
+1448,Cibiru,Cisurupan,9,5,71,11,15
+1449,Cibiru,Cisurupan,6,6,38,28,62
+1450,Cibiru,Cipadung,12,1,59,48,96
+1451,Cibiru,Cipadung,12,2,60,17,45
+1452,Cibiru,Cipadung,12,3,54,26,50
+1453,Cibiru,Cipadung,12,4,47,41,100
+1454,Cibiru,Cipadung,12,5,52,47,100
+1455,Cicendo,Arjuna,2,1,16,16,100
+1456,Cicendo,Arjuna,7,1,56,56,100
+1457,Cicendo,Arjuna,2,2,16,16,100
+1458,Cicendo,Arjuna,5,2,30,30,100
+1459,Cicendo,Arjuna,2,3,31,16,100
+1460,Cicendo,Arjuna,5,3,28,28,100
+1461,Cicendo,Arjuna,7,3,52,52,100
+1462,Cicendo,Arjuna,2,4,10,10,100
+1463,Cicendo,Arjuna,5,4,27,27,100
+1464,Cicendo,Arjuna,6,4,25,25,100
+1465,Cicendo,Arjuna,6,5,37,37,100
+1466,Cicendo,Arjuna,7,6,24,24,100
+1467,Cicendo,Arjuna,8,7,68,68,100
+1468,Cicendo,Arjuna,5,8,60,55,100
+1469,Cicendo,Arjuna,8,8,47,47,100
+1470,Cicendo,Arjuna,5,9,42,42,100
+1471,Cicendo,Arjuna,5,10,29,29,100
+1472,Cicendo,Arjuna,5,11,37,37,100
+1473,Cicendo,Arjuna,5,12,31,31,100
+1474,Cicendo,Arjuna,5,13,42,42,100
+1475,Cicendo,Sukaraja,1,1,88,88,100
+1476,Cicendo,Sukaraja,2,1,97,97,100
+1477,Cicendo,Sukaraja,3,1,88,85,97
+1478,Cicendo,Sukaraja,7,1,110,110,100
+1479,Cicendo,Sukaraja,10,1,46,32,70
+1480,Cicendo,Sukaraja,1,2,57,57,100
+1481,Cicendo,Sukaraja,2,2,96,96,100
+1482,Cicendo,Sukaraja,3,2,36,34,94
+1483,Cicendo,Sukaraja,7,2,170,160,94
+1484,Cicendo,Sukaraja,10,2,58,55,95
+1485,Cicendo,Sukaraja,1,3,28,28,100
+1486,Cicendo,Sukaraja,2,3,92,92,100
+1487,Cicendo,Sukaraja,3,3,34,34,100
+1488,Cicendo,Sukaraja,7,3,144,144,100
+1489,Cicendo,Sukaraja,10,3,78,63,81
+1490,Cicendo,Sukaraja,1,4,63,63,100
+1491,Cicendo,Sukaraja,2,4,56,56,100
+1492,Cicendo,Sukaraja,3,4,83,83,100
+1493,Cicendo,Sukaraja,7,4,136,136,100
+1494,Cicendo,Sukaraja,10,4,52,46,88
+1495,Cicendo,Sukaraja,1,5,77,77,100
+1496,Cicendo,Sukaraja,2,5,90,90,100
+1497,Cicendo,Sukaraja,3,5,86,81,94
+1498,Cicendo,Sukaraja,7,5,128,128,100
+1499,Cicendo,Sukaraja,10,5,88,81,92
+1500,Cicendo,Sukaraja,1,6,51,51,100
+1501,Cicendo,Sukaraja,2,6,123,123,100
+1502,Cicendo,Sukaraja,3,6,76,71,93
+1503,Cicendo,Sukaraja,7,6,168,154,92
+1504,Cicendo,Sukaraja,10,6,82,76,93
+1505,Cicendo,Sukaraja,1,7,39,39,100
+1506,Cicendo,Sukaraja,2,7,77,77,100
+1507,Cicendo,Sukaraja,3,7,88,85,97
+1508,Cicendo,Sukaraja,7,7,48,48,100
+1509,Cicendo,Sukaraja,1,8,67,67,100
+1510,Cicendo,Sukaraja,2,8,56,56,100
+1511,Cicendo,Sukaraja,3,8,56,56,100
+1512,Cicendo,Sukaraja,7,8,61,61,100
+1513,Cicendo,Sukaraja,2,9,105,105,100
+1514,Cicendo,Sukaraja,3,9,86,86,100
+1515,Cicendo,Sukaraja,2,10,111,111,100
+1516,Cicendo,Sukaraja,1,11,132,115,87
+1517,Cicendo,Pasirkaliki,5,1,15,15,100
+1518,Cicendo,Pasirkaliki,5,2,50,50,100
+1519,Cicendo,Pasirkaliki,5,3,35,35,100
+1520,Cicendo,Pasirkaliki,5,5,50,49,98
+1521,Cicendo,Pajajaran,5,1,93,80,86
+1522,Cicendo,Pajajaran,6,1,103,50,49
+1523,Cicendo,Pajajaran,7,1,75,46,61
+1524,Cicendo,Pajajaran,9,1,24,19,79
+1525,Cicendo,Pajajaran,5,2,84,82,98
+1526,Cicendo,Pajajaran,6,2,121,115,95
+1527,Cicendo,Pajajaran,9,2,45,21,47
+1528,Cicendo,Pajajaran,3,3,115,110,96
+1529,Cicendo,Pajajaran,5,3,50,35,70
+1530,Cicendo,Pajajaran,6,3,70,18,26
+1531,Cicendo,Pajajaran,9,3,39,25,64
+1532,Cicendo,Pajajaran,3,4,72,48,67
+1533,Cicendo,Pajajaran,5,4,48,26,54
+1534,Cicendo,Pajajaran,6,4,83,39,47
+1535,Cicendo,Pajajaran,7,4,61,42,69
+1536,Cicendo,Pajajaran,9,4,39,35,90
+1537,Cicendo,Pajajaran,3,5,132,99,75
+1538,Cicendo,Pajajaran,5,5,40,31,78
+1539,Cicendo,Pajajaran,6,5,72,53,74
+1540,Cicendo,Pajajaran,9,5,50,31,62
+1541,Cicendo,Pajajaran,3,6,63,55,87
+1542,Cicendo,Pajajaran,6,6,62,46,74
+1543,Cicendo,Pajajaran,9,6,68,57,84
+1544,Cicendo,Pajajaran,10,6,93,85,91
+1545,Cicendo,Pajajaran,3,7,133,118,89
+1546,Cicendo,Pajajaran,6,7,51,25,49
+1547,Cicendo,Pajajaran,9,7,32,6,19
+1548,Cicendo,Pajajaran,6,8,64,60,94
+1549,Cicendo,Pajajaran,9,8,29,28,97
+1550,Cicendo,Pajajaran,10,8,130,52,40
+1551,Cicendo,Pajajaran,6,9,140,37,26
+1552,Cicendo,Pajajaran,9,9,37,5,14
+1553,Cicendo,Pajajaran,10,9,86,37,43
+1554,Cicendo,Pajajaran,10,10,45,16,36
+1555,Cicendo,Husein Sastranegara,7,1,47,40,85
+1556,Cicendo,Husein Sastranegara,7,2,62,50,81
+1557,Cicendo,Husein Sastranegara,12,2,38,17,45
+1558,Cicendo,Husein Sastranegara,4,3,92,63,68
+1559,Cicendo,Husein Sastranegara,5,3,58,47,81
+1560,Cicendo,Husein Sastranegara,7,3,48,40,83
+1561,Cicendo,Husein Sastranegara,4,4,100,56,56
+1562,Cicendo,Husein Sastranegara,5,4,38,30,79
+1563,Cicendo,Husein Sastranegara,7,4,51,45,88
+1564,Cicendo,Husein Sastranegara,12,4,47,35,74
+1565,Cicendo,Husein Sastranegara,4,5,30,23,77
+1566,Cicendo,Husein Sastranegara,5,5,54,45,83
+1567,Cicendo,Husein Sastranegara,12,5,75,19,25
+1568,Cicendo,Husein Sastranegara,4,6,62,58,94
+1569,Cicendo,Husein Sastranegara,5,6,82,75,91
+1570,Cicendo,Husein Sastranegara,12,6,64,29,45
+1571,Cicendo,Husein Sastranegara,5,7,36,32,89
+1572,Cicendo,Husein Sastranegara,12,7,47,24,51
+1573,Cicendo,Husein Sastranegara,5,8,58,50,86
+1574,Cicendo,Husein Sastranegara,7,8,48,47,98
+1575,Cicendo,Husein Sastranegara,12,8,62,28,45
+1576,Cicendo,Husein Sastranegara,5,9,44,44,100
+1577,Cidadap,Ledeng,4,1,71,30,42
+1578,Cidadap,Ledeng,5,1,25,23,92
+1579,Cidadap,Ledeng,4,2,54,47,90
+1580,Cidadap,Ledeng,5,2,23,21,91
+1581,Cidadap,Ledeng,4,3,99,92,94
+1582,Cidadap,Ledeng,5,3,57,48,84
+1583,Cidadap,Ledeng,4,4,75,61,98
+1584,Cidadap,Ledeng,5,4,35,34,97
+1585,Cidadap,Ledeng,4,5,118,82,69
+1586,Cidadap,Ledeng,5,5,57,37,86
+1587,Cidadap,Ledeng,5,6,54,46,85
+1588,Cidadap,Ledeng,5,7,66,63,95
+1589,Cidadap,Hegarmanah,1,1,21,13,82
+1590,Cidadap,Hegarmanah,3,1,37,32,86
+1591,Cidadap,Hegarmanah,8,1,33,27,84
+1592,Cidadap,Hegarmanah,1,2,119,54,69
+1593,Cidadap,Hegarmanah,3,2,6,6,44
+1594,Cidadap,Hegarmanah,8,2,72,36,92
+1595,Cidadap,Hegarmanah,1,3,140,70,84
+1596,Cidadap,Hegarmanah,3,3,99,92,94
+1597,Cidadap,Hegarmanah,8,3,73,60,98
+1598,Cidadap,Hegarmanah,1,4,57,27,64
+1599,Cidadap,Hegarmanah,3,4,121,85,69
+1600,Cidadap,Hegarmanah,8,4,34,23,88
+1601,Cidadap,Hegarmanah,1,5,72,30,42
+1602,Cidadap,Hegarmanah,3,5,72,37,92
+1603,Cidadap,Hegarmanah,8,5,181,170,84
+1604,Cidadap,Hegarmanah,1,6,48,23,48
+1605,Cidadap,Hegarmanah,3,6,57,27,64
+1606,Cidadap,Hegarmanah,8,6,76,62,95
+1607,Cidadap,Hegarmanah,1,7,58,48,84
+1608,Cidadap,Hegarmanah,3,7,63,50,78
+1609,Cidadap,Hegarmanah,8,7,133,76,69
+1610,Cidadap,Hegarmanah,3,8,99,85,94
+1611,Cidadap,Hegarmanah,3,9,33,27,84
+1612,Cidadap,Hegarmanah,3,10,106,106,100
+1613,Cidadap,Hegarmanah,3,11,99,86,94
+1614,Cidadap,Ciumbuleuit,1,1,62,17,40
+1615,Cidadap,Ciumbuleuit,10,1,75,39,52
+1616,Cidadap,Ciumbuleuit,11,1,27,24,89
+1617,Cidadap,Ciumbuleuit,1,2,43,17,40
+1618,Cidadap,Ciumbuleuit,10,2,49,33,67
+1619,Cidadap,Ciumbuleuit,11,2,49,32,65
+1620,Cidadap,Ciumbuleuit,1,3,21,1,7
+1621,Cidadap,Ciumbuleuit,10,3,32,24,73
+1622,Cidadap,Ciumbuleuit,11,3,51,43,90
+1623,Cidadap,Ciumbuleuit,1,4,49,20,41
+1624,Cidadap,Ciumbuleuit,10,4,75,39,52
+1625,Cidadap,Ciumbuleuit,11,4,61,54,92
+1626,Cidadap,Ciumbuleuit,1,5,59,12,20
+1627,Cidadap,Ciumbuleuit,10,5,71,18,82
+1628,Cidadap,Ciumbuleuit,11,5,58,47,81
+1629,Cidadap,Ciumbuleuit,1,6,48,23,48
+1630,Cidadap,Ciumbuleuit,10,6,60,34,57
+1631,Cidadap,Ciumbuleuit,11,6,79,17,22
+1632,Cidadap,Ciumbuleuit,1,7,48,23,48
+1633,Cidadap,Ciumbuleuit,1,8,44,23,52
+1634,Cidadap,Ciumbuleuit,1,9,54,29,54
+1635,Cinambo,Pakemitan,1,1,37,28,76
+1636,Cinambo,Pakemitan,3,1,35,15,43
+1637,Cinambo,Pakemitan,1,2,70,35,47
+1638,Cinambo,Pakemitan,3,2,30,15,50
+1639,Cinambo,Pakemitan,3,3,35,15,43
+1640,Cinambo,Pakemitan,3,4,46,40,87
+1641,Cinambo,Pakemitan,3,5,96,59,61
+1642,Cinambo,Sukamulya,1,1,51,28,76
+1643,Cinambo,Sukamulya,4,1,49,20,44
+1644,Cinambo,Sukamulya,5,1,58,35,66
+1645,Cinambo,Sukamulya,6,1,50,34,74
+1646,Cinambo,Sukamulya,1,2,77,50,71
+1647,Cinambo,Sukamulya,4,2,24,14,64
+1648,Cinambo,Sukamulya,5,2,37,14,41
+1649,Cinambo,Sukamulya,6,2,45,41,100
+1650,Cinambo,Sukamulya,1,3,63,41,71
+1651,Cinambo,Sukamulya,4,3,34,22,71
+1652,Cinambo,Sukamulya,5,3,52,38,100
+1653,Cinambo,Sukamulya,6,3,35,29,91
+1654,Cinambo,Sukamulya,1,4,65,39,85
+1655,Cinambo,Sukamulya,4,4,68,49,79
+1656,Cinambo,Sukamulya,6,4,50,35,76
+1657,Cinambo,Sukamulya,6,5,105,59,61
+1658,Cinambo,Cisaranten Wetan,1,1,68,18,28
+1659,Cinambo,Cisaranten Wetan,3,1,19,3,20
+1660,Cinambo,Cisaranten Wetan,1,2,41,25,69
+1661,Cinambo,Cisaranten Wetan,3,2,68,23,37
+1662,Cinambo,Cisaranten Wetan,1,3,42,20,54
+1663,Cinambo,Cisaranten Wetan,3,3,118,57,52
+1664,Cinambo,Cisaranten Wetan,1,4,40,15,48
+1665,Cinambo,Cisaranten Wetan,3,4,82,14,17
+1666,Cinambo,Babakan Penghulu,2,1,60,9,16
+1667,Cinambo,Babakan Penghulu,3,1,77,14,19
+1668,Cinambo,Babakan Penghulu,4,1,73,41,59
+1669,Cinambo,Babakan Penghulu,5,1,80,38,49
+1670,Cinambo,Babakan Penghulu,6,1,84,29,35
+1671,Cinambo,Babakan Penghulu,2,2,58,20,38
+1672,Cinambo,Babakan Penghulu,3,2,76,14,19
+1673,Cinambo,Babakan Penghulu,4,2,71,10,14
+1674,Cinambo,Babakan Penghulu,5,2,78,32,42
+1675,Cinambo,Babakan Penghulu,6,2,75,55,76
+1676,Cinambo,Babakan Penghulu,2,3,78,27,36
+1677,Cinambo,Babakan Penghulu,3,3,75,26,35
+1678,Cinambo,Babakan Penghulu,4,3,72,12,17
+1679,Cinambo,Babakan Penghulu,6,3,106,32,31
+1680,Cinambo,Babakan Penghulu,3,4,75,20,27
+1681,Cinambo,Babakan Penghulu,4,4,66,17,26
+1682,Cinambo,Babakan Penghulu,6,4,79,18,24
+1683,Cinambo,Babakan Penghulu,4,5,112,22,20
+1684,Coblong,Sekeloa,2,1,77,69,90
+1685,Coblong,Sekeloa,2,2,44,0,0
+1686,Coblong,Sekeloa,2,3,43,25,61
+1687,Coblong,Sekeloa,2,4,41,0,0
+1688,Coblong,Sekeloa,2,5,101,58,60
+1689,Coblong,Sekeloa,2,6,112,0,0
+1690,Coblong,Sadang Serang,13,1,61,42,49
+1691,Coblong,Sadang Serang,14,1,47,39,87
+1692,Coblong,Sadang Serang,21,1,133,61,46
+1693,Coblong,Sadang Serang,13,2,33,12,52
+1694,Coblong,Sadang Serang,14,2,37,29,89
+1695,Coblong,Sadang Serang,21,2,105,104,100
+1696,Coblong,Sadang Serang,13,3,75,68,59
+1697,Coblong,Sadang Serang,14,3,65,58,92
+1698,Coblong,Sadang Serang,21,3,115,97,87
+1699,Coblong,Sadang Serang,13,4,56,43,54
+1700,Coblong,Sadang Serang,14,4,65,59,95
+1701,Coblong,Sadang Serang,21,4,80,71,91
+1702,Coblong,Sadang Serang,13,5,38,25,75
+1703,Coblong,Sadang Serang,14,5,59,48,84
+1704,Coblong,Sadang Serang,21,5,45,41,100
+1705,Coblong,Sadang Serang,13,6,50,38,81
+1706,Coblong,Sadang Serang,21,6,75,69,93
+1707,Coblong,Sadang Serang,13,7,33,21,70
+1708,Coblong,Sadang Serang,21,7,85,75,91
+1709,Coblong,Lebak Gede,1,1,39,26,67
+1710,Coblong,Lebak Gede,2,1,80,37,97
+1711,Coblong,Lebak Gede,3,1,50,26,79
+1712,Coblong,Lebak Gede,14,1,39,38,100
+1713,Coblong,Lebak Gede,15,1,50,32,100
+1714,Coblong,Lebak Gede,1,2,68,44,65
+1715,Coblong,Lebak Gede,2,2,50,38,97
+1716,Coblong,Lebak Gede,3,2,40,25,66
+1717,Coblong,Lebak Gede,14,2,32,27,90
+1718,Coblong,Lebak Gede,15,2,55,32,59
+1719,Coblong,Lebak Gede,1,3,45,40,95
+1720,Coblong,Lebak Gede,2,3,40,37,97
+1721,Coblong,Lebak Gede,3,3,55,34,65
+1722,Coblong,Lebak Gede,14,3,34,27,96
+1723,Coblong,Lebak Gede,15,3,71,70,99
+1724,Coblong,Lebak Gede,1,4,57,53,96
+1725,Coblong,Lebak Gede,3,4,64,37,59
+1726,Coblong,Lebak Gede,14,4,80,74,97
+1727,Coblong,Lebak Gede,15,4,55,50,94
+1728,Coblong,Lebak Gede,1,5,57,53,96
+1729,Coblong,Lebak Gede,3,5,78,58,74
+1730,Coblong,Lebak Gede,14,5,76,65,88
+1731,Coblong,Lebak Gede,15,5,60,50,96
+1732,Coblong,Lebak Gede,1,6,60,53,96
+1733,Coblong,Lebak Gede,14,6,65,53,84
+1734,Coblong,Lebak Gede,15,6,77,39,93
+1735,Coblong,Lebak Gede,15,7,47,29,83
+1736,Coblong,Lebak Gede,14,7,45,36,88
+1737,Gedebage,Rancanumpang,1,1,40,39,100
+1738,Gedebage,Rancanumpang,2,1,15,12,92
+1739,Gedebage,Rancanumpang,1,2,36,31,86
+1740,Gedebage,Rancanumpang,2,2,15,13,100
+1741,Gedebage,Rancanumpang,1,3,35,34,100
+1742,Gedebage,Rancanumpang,2,3,20,18,95
+1743,Gedebage,Rancanumpang,1,4,32,30,94
+1744,Gedebage,Rancanumpang,1,5,39,36,95
+1745,Gedebage,Rancabolang,1,1,55,49,89
+1746,Gedebage,Rancabolang,2,1,25,25,100
+1747,Gedebage,Rancabolang,3,1,22,22,100
+1748,Gedebage,Rancabolang,4,1,16,3,19
+1749,Gedebage,Rancabolang,1,2,60,49,82
+1750,Gedebage,Rancabolang,2,2,89,74,83
+1751,Gedebage,Rancabolang,3,2,21,21,100
+1752,Gedebage,Rancabolang,4,2,21,11,52
+1753,Gedebage,Rancabolang,1,3,56,46,82
+1754,Gedebage,Rancabolang,2,3,37,28,76
+1755,Gedebage,Rancabolang,3,3,43,38,88
+1756,Gedebage,Rancabolang,4,3,18,14,78
+1757,Gedebage,Rancabolang,1,4,26,24,92
+1758,Gedebage,Rancabolang,2,4,40,33,83
+1759,Gedebage,Rancabolang,3,4,50,39,78
+1760,Gedebage,Rancabolang,1,5,61,57,93
+1761,Gedebage,Rancabolang,2,5,23,10,43
+1762,Gedebage,Rancabolang,3,5,72,43,60
+1763,Gedebage,Rancabolang,1,6,34,28,82
+1764,Gedebage,Rancabolang,2,6,47,35,74
+1765,Gedebage,Cimencrang,1,1,26,17,65
+1766,Gedebage,Cimencrang,5,1,41,28,68
+1767,Gedebage,Cimencrang,6,1,22,17,77
+1768,Gedebage,Cimencrang,1,2,21,20,95
+1769,Gedebage,Cimencrang,5,2,37,28,76
+1770,Gedebage,Cimencrang,6,2,29,27,93
+1771,Gedebage,Cimencrang,1,3,27,22,81
+1772,Gedebage,Cimencrang,5,3,49,25,51
+1773,Gedebage,Cimencrang,6,3,23,19,83
+1774,Gedebage,Cimencrang,5,4,35,22,63
+1775,Gedebage,Cisaranten Kidul,1,1,64,35,57
+1776,Gedebage,Cisaranten Kidul,1,2,70,43,64
+1777,Gedebage,Cisaranten Kidul,1,3,119,70,59
+1778,Kiaracondong,Babakan Surabaya,1,1,32,25,78
+1779,Kiaracondong,Babakan Surabaya,2,1,25,20,80
+1780,Kiaracondong,Babakan Surabaya,3,1,16,10,63
+1781,Kiaracondong,Babakan Surabaya,4,1,34,8,24
+1782,Kiaracondong,Babakan Surabaya,5,1,22,22,100
+1783,Kiaracondong,Babakan Surabaya,6,1,28,11,39
+1784,Kiaracondong,Babakan Surabaya,7,1,28,28,100
+1785,Kiaracondong,Babakan Surabaya,8,1,32,19,59
+1786,Kiaracondong,Babakan Surabaya,9,1,32,24,75
+1787,Kiaracondong,Babakan Surabaya,10,1,25,15,60
+1788,Kiaracondong,Babakan Surabaya,11,1,36,36,100
+1789,Kiaracondong,Babakan Surabaya,12,1,42,0,0
+1790,Kiaracondong,Babakan Surabaya,13,1,47,42,89
+1791,Kiaracondong,Babakan Surabaya,14,1,31,27,87
+1792,Kiaracondong,Babakan Surabaya,1,2,31,15,48
+1793,Kiaracondong,Babakan Surabaya,2,2,25,8,32
+1794,Kiaracondong,Babakan Surabaya,3,2,25,6,24
+1795,Kiaracondong,Babakan Surabaya,4,2,17,5,29
+1796,Kiaracondong,Babakan Surabaya,5,2,35,7,20
+1797,Kiaracondong,Babakan Surabaya,6,2,19,11,58
+1798,Kiaracondong,Babakan Surabaya,7,2,41,35,85
+1799,Kiaracondong,Babakan Surabaya,8,2,47,35,74
+1800,Kiaracondong,Babakan Surabaya,9,2,34,34,100
+1801,Kiaracondong,Babakan Surabaya,10,2,20,20,100
+1802,Kiaracondong,Babakan Surabaya,11,2,32,32,100
+1803,Kiaracondong,Babakan Surabaya,12,2,39,17,44
+1804,Kiaracondong,Babakan Surabaya,13,2,37,37,100
+1805,Kiaracondong,Babakan Surabaya,14,2,32,3,9
+1806,Kiaracondong,Babakan Surabaya,1,3,15,15,100
+1807,Kiaracondong,Babakan Surabaya,2,3,31,20,65
+1808,Kiaracondong,Babakan Surabaya,3,3,31,6,25
+1809,Kiaracondong,Babakan Surabaya,4,3,20,7,35
+1810,Kiaracondong,Babakan Surabaya,5,3,32,21,66
+1811,Kiaracondong,Babakan Surabaya,6,3,25,16,73
+1812,Kiaracondong,Babakan Surabaya,7,3,27,9,33
+1813,Kiaracondong,Babakan Surabaya,8,3,36,12,33
+1814,Kiaracondong,Babakan Surabaya,9,3,17,5,29
+1815,Kiaracondong,Babakan Surabaya,10,3,45,45,100
+1816,Kiaracondong,Babakan Surabaya,11,3,49,49,100
+1817,Kiaracondong,Babakan Surabaya,12,3,44,25,57
+1818,Kiaracondong,Babakan Surabaya,13,3,58,58,100
+1819,Kiaracondong,Babakan Surabaya,14,3,41,16,39
+1820,Kiaracondong,Babakan Surabaya,1,4,25,23,92
+1821,Kiaracondong,Babakan Surabaya,2,4,26,18,69
+1822,Kiaracondong,Babakan Surabaya,3,4,23,14,61
+1823,Kiaracondong,Babakan Surabaya,4,4,25,10,40
+1824,Kiaracondong,Babakan Surabaya,5,4,32,27,84
+1825,Kiaracondong,Babakan Surabaya,6,4,22,13,59
+1826,Kiaracondong,Babakan Surabaya,7,4,26,6,23
+1827,Kiaracondong,Babakan Surabaya,8,4,38,7,18
+1828,Kiaracondong,Babakan Surabaya,9,4,24,20,83
+1829,Kiaracondong,Babakan Surabaya,10,4,60,40,67
+1830,Kiaracondong,Babakan Surabaya,11,4,31,31,100
+1831,Kiaracondong,Babakan Surabaya,12,4,26,11,42
+1832,Kiaracondong,Babakan Surabaya,13,4,90,72,80
+1833,Kiaracondong,Babakan Surabaya,14,4,25,0,0
+1834,Kiaracondong,Babakan Surabaya,1,5,15,15,100
+1835,Kiaracondong,Babakan Surabaya,2,5,23,20,87
+1836,Kiaracondong,Babakan Surabaya,3,5,19,10,53
+1837,Kiaracondong,Babakan Surabaya,4,5,18,6,33
+1838,Kiaracondong,Babakan Surabaya,5,5,27,7,26
+1839,Kiaracondong,Babakan Surabaya,6,5,20,11,55
+1840,Kiaracondong,Babakan Surabaya,7,5,42,12,29
+1841,Kiaracondong,Babakan Surabaya,8,5,62,12,19
+1842,Kiaracondong,Babakan Surabaya,9,5,19,19,100
+1843,Kiaracondong,Babakan Surabaya,11,5,44,44,100
+1844,Kiaracondong,Babakan Surabaya,12,5,44,20,45
+1845,Kiaracondong,Babakan Surabaya,13,5,34,34,100
+1846,Kiaracondong,Babakan Surabaya,14,5,64,22,34
+1847,Kiaracondong,Babakan Surabaya,1,6,17,17,100
+1848,Kiaracondong,Babakan Surabaya,2,6,23,20,87
+1849,Kiaracondong,Babakan Surabaya,3,6,16,10,63
+1850,Kiaracondong,Babakan Surabaya,4,6,20,6,30
+1851,Kiaracondong,Babakan Surabaya,5,6,28,8,29
+1852,Kiaracondong,Babakan Surabaya,7,6,59,15,25
+1853,Kiaracondong,Babakan Surabaya,12,6,81,81,100
+1854,Kiaracondong,Babakan Surabaya,14,6,65,50,77
+1855,Kiaracondong,Babakan Surabaya,1,7,19,19,100
+1856,Kiaracondong,Babakan Surabaya,2,7,24,18,75
+1857,Kiaracondong,Babakan Surabaya,3,7,15,10,67
+1858,Kiaracondong,Babakan Surabaya,4,7,30,1,3
+1859,Kiaracondong,Babakan Surabaya,5,7,25,20,80
+1860,Kiaracondong,Babakan Surabaya,9,7,25,20,80
+1861,Kiaracondong,Babakan Surabaya,14,7,43,22,51
+1862,Kiaracondong,Babakan Surabaya,2,8,20,13,65
+1863,Kiaracondong,Babakan Surabaya,3,8,22,17,77
+1864,Kiaracondong,Babakan Surabaya,4,8,29,3,10
+1865,Kiaracondong,Babakan Surabaya,9,8,33,33,100
+1866,Kiaracondong,Babakan Surabaya,14,8,53,51,96
+1867,Kiaracondong,Babakan Surabaya,2,9,22,16,73
+1868,Kiaracondong,Babakan Surabaya,4,9,20,2,10
+1869,Kiaracondong,Babakan Surabaya,14,9,75,70,93
+1870,Kiaracondong,Sukapura,1,1,29,18,90
+1871,Kiaracondong,Sukapura,2,1,60,26,43
+1872,Kiaracondong,Sukapura,3,1,78,15,19
+1873,Kiaracondong,Sukapura,4,1,60,30,50
+1874,Kiaracondong,Sukapura,5,1,67,15,22
+1875,Kiaracondong,Sukapura,6,1,40,10,25
+1876,Kiaracondong,Sukapura,7,1,151,70,46
+1877,Kiaracondong,Sukapura,1,2,50,18,36
+1878,Kiaracondong,Sukapura,2,2,64,13,20
+1879,Kiaracondong,Sukapura,3,2,65,5,8
+1880,Kiaracondong,Sukapura,4,2,38,20,53
+1881,Kiaracondong,Sukapura,5,2,28,5,18
+1882,Kiaracondong,Sukapura,6,2,58,5,9
+1883,Kiaracondong,Sukapura,7,2,68,20,29
+1884,Kiaracondong,Sukapura,1,3,29,18,86
+1885,Kiaracondong,Sukapura,2,3,35,20,57
+1886,Kiaracondong,Sukapura,3,3,62,7,11
+1887,Kiaracondong,Sukapura,4,3,30,30,100
+1888,Kiaracondong,Sukapura,5,3,72,7,10
+1889,Kiaracondong,Sukapura,6,3,46,6,13
+1890,Kiaracondong,Sukapura,7,3,107,35,33
+1891,Kiaracondong,Sukapura,6,4,40,5,13
+1892,Kiaracondong,Sukapura,1,4,17,16,94
+1893,Kiaracondong,Sukapura,2,4,50,5,10
+1894,Kiaracondong,Sukapura,3,4,57,5,9
+1895,Kiaracondong,Sukapura,4,4,66,5,8
+1896,Kiaracondong,Sukapura,5,4,50,5,10
+1897,Kiaracondong,Sukapura,7,4,170,60,35
+1898,Kiaracondong,Sukapura,1,5,60,13,22
+1899,Kiaracondong,Sukapura,2,5,61,13,32
+1900,Kiaracondong,Sukapura,3,5,45,7,16
+1901,Kiaracondong,Sukapura,4,5,67,20,30
+1902,Kiaracondong,Sukapura,5,5,61,5,8
+1903,Kiaracondong,Sukapura,6,5,67,20,30
+1904,Kiaracondong,Sukapura,7,5,73,40,55
+1905,Kiaracondong,Sukapura,1,6,61,14,23
+1906,Kiaracondong,Sukapura,2,6,50,23,46
+1907,Kiaracondong,Sukapura,3,6,52,20,38
+1908,Kiaracondong,Sukapura,4,6,67,30,45
+1909,Kiaracondong,Sukapura,5,6,51,4,8
+1910,Kiaracondong,Sukapura,6,6,67,30,45
+1911,Kiaracondong,Sukapura,7,6,45,45,100
+1912,Kiaracondong,Sukapura,1,7,34,25,96
+1913,Kiaracondong,Sukapura,2,7,42,26,81
+1914,Kiaracondong,Sukapura,3,7,61,42,69
+1915,Kiaracondong,Sukapura,4,7,60,20,33
+1916,Kiaracondong,Sukapura,5,7,42,42,100
+1917,Kiaracondong,Sukapura,6,7,67,20,30
+1918,Kiaracondong,Sukapura,1,8,64,13,20
+1919,Kiaracondong,Sukapura,2,8,59,11,19
+1920,Kiaracondong,Sukapura,3,8,39,39,100
+1921,Kiaracondong,Sukapura,4,8,62,39,63
+1922,Kiaracondong,Sukapura,5,8,39,39,100
+1923,Kiaracondong,Sukapura,6,8,69,39,57
+1924,Kiaracondong,Sukapura,1,9,60,26,43
+1925,Kiaracondong,Sukapura,4,9,151,30,20
+1926,Kiaracondong,Sukapura,5,9,54,15,28
+1927,Kiaracondong,Sukapura,6,9,63,15,24
+1928,Kiaracondong,Sukapura,4,10,68,20,29
+1929,Kiaracondong,Sukapura,4,11,71,35,49
+1930,Kiaracondong,Sukapura,4,12,170,60,35
+1931,Kiaracondong,Sukapura,4,13,73,40,55
+1932,Kiaracondong,Kebon Kangkung,1,1,29,18,90
+1933,Kiaracondong,Kebon Kangkung,3,1,78,15,19
+1934,Kiaracondong,Kebon Kangkung,5,1,60,30,50
+1935,Kiaracondong,Kebon Kangkung,8,1,42,40,95
+1936,Kiaracondong,Kebon Kangkung,9,1,31,25,81
+1937,Kiaracondong,Kebon Kangkung,1,2,50,18,36
+1938,Kiaracondong,Kebon Kangkung,3,2,65,5,8
+1939,Kiaracondong,Kebon Kangkung,5,2,38,20,53
+1940,Kiaracondong,Kebon Kangkung,8,2,30,30,100
+1941,Kiaracondong,Kebon Kangkung,9,2,70,28,40
+1942,Kiaracondong,Kebon Kangkung,3,1,29,18,86
+1943,Kiaracondong,Kebon Kangkung,3,3,62,9,15
+1944,Kiaracondong,Kebon Kangkung,5,3,30,30,100
+1945,Kiaracondong,Kebon Kangkung,8,3,35,7,20
+1946,Kiaracondong,Kebon Kangkung,9,3,33,19,58
+1947,Kiaracondong,Kebon Kangkung,1,4,17,16,94
+1948,Kiaracondong,Kebon Kangkung,3,4,57,5,9
+1949,Kiaracondong,Kebon Kangkung,5,4,66,5,8
+1950,Kiaracondong,Kebon Kangkung,8,4,59,7,12
+1951,Kiaracondong,Kebon Kangkung,9,4,44,25,57
+1952,Kiaracondong,Kebon Kangkung,1,5,60,13,22
+1953,Kiaracondong,Kebon Kangkung,3,5,45,7,16
+1954,Kiaracondong,Kebon Kangkung,5,5,67,20,30
+1955,Kiaracondong,Kebon Kangkung,8,5,72,30,42
+1956,Kiaracondong,Kebon Kangkung,9,5,31,26,84
+1957,Kiaracondong,Kebon Kangkung,1,6,61,14,23
+1958,Kiaracondong,Kebon Kangkung,5,6,67,30,45
+1959,Kiaracondong,Kebon Kangkung,8,6,60,15,25
+1960,Kiaracondong,Kebon Kangkung,9,6,61,31,51
+1961,Kiaracondong,Kebon Kangkung,1,7,34,25,96
+1962,Kiaracondong,Kebon Kangkung,5,7,60,20,33
+1963,Kiaracondong,Kebon Kangkung,8,7,46,46,100
+1964,Kiaracondong,Kebon Kangkung,9,7,72,19,26
+1965,Kiaracondong,Kebon Kangkung,5,8,62,39,63
+1966,Kiaracondong,Kebon Kangkung,9,8,59,36,61
+1967,Kiaracondong,Kebon Jayanti,1,1,36,10,28
+1968,Kiaracondong,Kebon Jayanti,2,1,46,20,43
+1969,Kiaracondong,Kebon Jayanti,3,1,40,30,75
+1970,Kiaracondong,Kebon Jayanti,4,1,46,25,54
+1971,Kiaracondong,Kebon Jayanti,5,1,46,15,33
+1972,Kiaracondong,Kebon Jayanti,6,1,37,10,27
+1973,Kiaracondong,Kebon Jayanti,7,1,35,0,0
+1974,Kiaracondong,Kebon Jayanti,8,1,38,22,58
+1975,Kiaracondong,Kebon Jayanti,9,1,26,16,62
+1976,Kiaracondong,Kebon Jayanti,10,1,36,36,100
+1977,Kiaracondong,Kebon Jayanti,11,1,37,14,38
+1978,Kiaracondong,Kebon Jayanti,12,1,39,10,26
+1979,Kiaracondong,Kebon Jayanti,1,2,24,10,42
+1980,Kiaracondong,Kebon Jayanti,2,2,26,15,58
+1981,Kiaracondong,Kebon Jayanti,3,2,23,20,87
+1982,Kiaracondong,Kebon Jayanti,4,2,27,22,81
+1983,Kiaracondong,Kebon Jayanti,5,2,31,25,100
+1984,Kiaracondong,Kebon Jayanti,6,2,37,12,32
+1985,Kiaracondong,Kebon Jayanti,7,2,37,20,54
+1986,Kiaracondong,Kebon Jayanti,8,2,20,20,100
+1987,Kiaracondong,Kebon Jayanti,9,2,19,6,32
+1988,Kiaracondong,Kebon Jayanti,10,2,38,28,74
+1989,Kiaracondong,Kebon Jayanti,11,2,31,12,39
+1990,Kiaracondong,Kebon Jayanti,12,2,48,20,42
+1991,Kiaracondong,Kebon Jayanti,1,3,20,12,60
+1992,Kiaracondong,Kebon Jayanti,2,3,46,20,67
+1993,Kiaracondong,Kebon Jayanti,3,3,22,18,82
+1994,Kiaracondong,Kebon Jayanti,4,3,41,25,61
+1995,Kiaracondong,Kebon Jayanti,5,3,28,21,75
+1996,Kiaracondong,Kebon Jayanti,6,3,34,21,62
+1997,Kiaracondong,Kebon Jayanti,7,3,46,14,30
+1998,Kiaracondong,Kebon Jayanti,8,3,30,20,67
+1999,Kiaracondong,Kebon Jayanti,9,3,16,8,50
+2000,Kiaracondong,Kebon Jayanti,10,3,39,36,92
+2001,Kiaracondong,Kebon Jayanti,11,3,38,15,39
+2002,Kiaracondong,Kebon Jayanti,12,3,52,20,38
+2003,Kiaracondong,Kebon Jayanti,1,4,44,20,45
+2004,Kiaracondong,Kebon Jayanti,2,4,45,18,75
+2005,Kiaracondong,Kebon Jayanti,3,4,46,40,87
+2006,Kiaracondong,Kebon Jayanti,4,4,43,25,58
+2007,Kiaracondong,Kebon Jayanti,5,4,30,25,83
+2008,Kiaracondong,Kebon Jayanti,6,4,27,12,44
+2009,Kiaracondong,Kebon Jayanti,7,4,36,29,81
+2010,Kiaracondong,Kebon Jayanti,8,4,42,21,53
+2011,Kiaracondong,Kebon Jayanti,9,4,24,24,100
+2012,Kiaracondong,Kebon Jayanti,10,4,58,37,64
+2013,Kiaracondong,Kebon Jayanti,11,4,35,13,37
+2014,Kiaracondong,Kebon Jayanti,12,4,63,36,57
+2015,Kiaracondong,Kebon Jayanti,1,5,23,11,48
+2016,Kiaracondong,Kebon Jayanti,2,5,38,25,83
+2017,Kiaracondong,Kebon Jayanti,3,5,19,10,53
+2018,Kiaracondong,Kebon Jayanti,4,5,33,30,91
+2019,Kiaracondong,Kebon Jayanti,5,5,41,25,61
+2020,Kiaracondong,Kebon Jayanti,6,5,33,9,27
+2021,Kiaracondong,Kebon Jayanti,7,5,23,10,43
+2022,Kiaracondong,Kebon Jayanti,8,5,42,25,60
+2023,Kiaracondong,Kebon Jayanti,9,5,21,5,24
+2024,Kiaracondong,Kebon Jayanti,10,5,53,0,0
+2025,Kiaracondong,Kebon Jayanti,11,5,31,10,32
+2026,Kiaracondong,Kebon Jayanti,12,5,40,20,50
+2027,Kiaracondong,Kebon Jayanti,1,6,55,25,45
+2028,Kiaracondong,Kebon Jayanti,2,6,23,23,100
+2029,Kiaracondong,Kebon Jayanti,4,6,39,25,64
+2030,Kiaracondong,Kebon Jayanti,5,6,47,15,32
+2031,Kiaracondong,Kebon Jayanti,8,6,30,10,33
+2032,Kiaracondong,Kebon Jayanti,9,6,19,12,63
+2033,Kiaracondong,Kebon Jayanti,10,6,53,30,57
+2034,Kiaracondong,Kebon Jayanti,12,6,62,23,37
+2035,Kiaracondong,Kebon Jayanti,1,7,28,13,46
+2036,Kiaracondong,Kebon Jayanti,2,7,15,10,67
+2037,Kiaracondong,Kebon Jayanti,4,7,24,20,83
+2038,Kiaracondong,Kebon Jayanti,8,7,33,33,100
+2039,Kiaracondong,Kebon Jayanti,9,7,21,7,33
+2040,Kiaracondong,Kebon Jayanti,10,7,57,35,61
+2041,Kiaracondong,Kebon Jayanti,12,7,41,7,17
+2042,Kiaracondong,Kebon Jayanti,9,8,18,15,83
+2043,Kiaracondong,Kebon Jayanti,10,8,68,36,53
+2044,Kiaracondong,Kebon Jayanti,12,8,55,21,38
+2045,Kiaracondong,Cicaheum,10,1,51,19,37
+2046,Kiaracondong,Cicaheum,12,1,10,10,100
+2047,Kiaracondong,Cicaheum,10,2,62,32,52
+2048,Kiaracondong,Cicaheum,12,2,34,17,63
+2049,Kiaracondong,Cicaheum,10,3,54,25,46
+2050,Kiaracondong,Cicaheum,12,3,55,15,27
+2051,Kiaracondong,Cicaheum,10,4,67,22,33
+2052,Kiaracondong,Cicaheum,12,4,60,40,67
+2053,Kiaracondong,Cicaheum,10,5,72,9,13
+2054,Kiaracondong,Cicaheum,12,5,38,20,53
+2055,Kiaracondong,Cicaheum,10,6,96,22,23
+2056,Kiaracondong,Cicaheum,12,6,55,35,64
+2057,Kiaracondong,Cicaheum,12,7,60,15,25
+2058,Kiaracondong,Babakan Sari,17,1,65,40,62
+2059,Kiaracondong,Babakan Sari,1,1,67,30,45
+2060,Kiaracondong,Babakan Sari,2,1,50,20,40
+2061,Kiaracondong,Babakan Sari,3,1,40,20,50
+2062,Kiaracondong,Babakan Sari,4,1,45,20,44
+2063,Kiaracondong,Babakan Sari,5,1,53,30,57
+2064,Kiaracondong,Babakan Sari,6,1,60,34,57
+2065,Kiaracondong,Babakan Sari,9,1,63,23,37
+2066,Kiaracondong,Babakan Sari,10,1,64,34,53
+2067,Kiaracondong,Babakan Sari,12,1,62,22,35
+2068,Kiaracondong,Babakan Sari,14,1,55,25,45
+2069,Kiaracondong,Babakan Sari,15,1,55,35,64
+2070,Kiaracondong,Babakan Sari,18,1,56,20,36
+2071,Kiaracondong,Babakan Sari,1,2,64,34,53
+2072,Kiaracondong,Babakan Sari,2,2,50,25,50
+2073,Kiaracondong,Babakan Sari,3,2,60,40,67
+2074,Kiaracondong,Babakan Sari,4,2,56,56,100
+2075,Kiaracondong,Babakan Sari,5,2,52,40,77
+2076,Kiaracondong,Babakan Sari,6,2,67,37,55
+2077,Kiaracondong,Babakan Sari,9,2,86,33,38
+2078,Kiaracondong,Babakan Sari,10,2,66,29,44
+2079,Kiaracondong,Babakan Sari,12,2,57,32,56
+2080,Kiaracondong,Babakan Sari,14,2,64,26,41
+2081,Kiaracondong,Babakan Sari,15,2,66,26,39
+2082,Kiaracondong,Babakan Sari,17,2,50,25,50
+2083,Kiaracondong,Babakan Sari,18,2,56,56,100
+2084,Kiaracondong,Babakan Sari,1,3,67,44,66
+2085,Kiaracondong,Babakan Sari,2,3,70,40,57
+2086,Kiaracondong,Babakan Sari,3,3,70,30,43
+2087,Kiaracondong,Babakan Sari,4,3,65,40,62
+2088,Kiaracondong,Babakan Sari,5,3,70,30,43
+2089,Kiaracondong,Babakan Sari,6,3,75,40,53
+2090,Kiaracondong,Babakan Sari,9,3,76,30,39
+2091,Kiaracondong,Babakan Sari,10,3,56,20,36
+2092,Kiaracondong,Babakan Sari,12,3,55,25,45
+2093,Kiaracondong,Babakan Sari,14,3,67,30,45
+2094,Kiaracondong,Babakan Sari,15,3,63,23,37
+2095,Kiaracondong,Babakan Sari,17,3,50,20,40
+2096,Kiaracondong,Babakan Sari,18,3,64,34,53
+2097,Kiaracondong,Babakan Sari,1,4,40,35,88
+2098,Kiaracondong,Babakan Sari,2,4,44,44,100
+2099,Kiaracondong,Babakan Sari,3,4,66,40,61
+2100,Kiaracondong,Babakan Sari,4,4,51,34,67
+2101,Kiaracondong,Babakan Sari,5,4,50,50,100
+2102,Kiaracondong,Babakan Sari,6,4,50,50,100
+2103,Kiaracondong,Babakan Sari,9,4,63,23,37
+2104,Kiaracondong,Babakan Sari,10,4,51,34,67
+2105,Kiaracondong,Babakan Sari,12,4,55,25,45
+2106,Kiaracondong,Babakan Sari,14,4,70,30,43
+2107,Kiaracondong,Babakan Sari,15,4,67,30,45
+2108,Kiaracondong,Babakan Sari,17,4,66,40,61
+2109,Kiaracondong,Babakan Sari,18,4,39,39,100
+2110,Kiaracondong,Babakan Sari,1,5,40,40,100
+2111,Kiaracondong,Babakan Sari,2,5,60,33,55
+2112,Kiaracondong,Babakan Sari,3,5,60,40,67
+2113,Kiaracondong,Babakan Sari,4,5,60,34,57
+2114,Kiaracondong,Babakan Sari,5,5,55,23,42
+2115,Kiaracondong,Babakan Sari,6,5,50,39,78
+2116,Kiaracondong,Babakan Sari,9,5,55,35,64
+2117,Kiaracondong,Babakan Sari,10,5,70,30,43
+2118,Kiaracondong,Babakan Sari,12,5,64,34,53
+2119,Kiaracondong,Babakan Sari,14,5,64,34,53
+2120,Kiaracondong,Babakan Sari,15,5,63,23,37
+2121,Kiaracondong,Babakan Sari,17,5,50,20,40
+2122,Kiaracondong,Babakan Sari,18,5,55,35,64
+2123,Kiaracondong,Babakan Sari,1,6,66,20,30
+2124,Kiaracondong,Babakan Sari,2,6,69,31,45
+2125,Kiaracondong,Babakan Sari,3,6,70,37,53
+2126,Kiaracondong,Babakan Sari,4,6,50,50,100
+2127,Kiaracondong,Babakan Sari,6,6,50,20,40
+2128,Kiaracondong,Babakan Sari,9,6,60,34,57
+2129,Kiaracondong,Babakan Sari,10,6,70,30,43
+2130,Kiaracondong,Babakan Sari,12,6,50,20,40
+2131,Kiaracondong,Babakan Sari,14,7,50,25,50
+2132,Kiaracondong,Babakan Sari,15,6,55,30,55
+2133,Kiaracondong,Babakan Sari,17,6,56,56,100
+2134,Kiaracondong,Babakan Sari,18,6,75,30,40
+2135,Kiaracondong,Babakan Sari,2,7,39,39,100
+2136,Kiaracondong,Babakan Sari,3,7,44,44,100
+2137,Kiaracondong,Babakan Sari,4,7,55,25,45
+2138,Kiaracondong,Babakan Sari,6,7,67,30,45
+2139,Kiaracondong,Babakan Sari,9,7,63,23,37
+2140,Kiaracondong,Babakan Sari,10,7,38,38,100
+2141,Kiaracondong,Babakan Sari,12,7,70,30,43
+2142,Kiaracondong,Babakan Sari,15,7,63,23,37
+2143,Kiaracondong,Babakan Sari,17,7,75,40,53
+2144,Kiaracondong,Babakan Sari,18,7,66,26,39
+2145,Kiaracondong,Babakan Sari,2,8,70,30,43
+2146,Kiaracondong,Babakan Sari,3,8,75,30,40
+2147,Kiaracondong,Babakan Sari,9,8,66,26,39
+2148,Kiaracondong,Babakan Sari,12,8,70,30,43
+2149,Kiaracondong,Babakan Sari,18,8,66,26,39
+2150,Kiaracondong,Babakan Sari,3,9,70,30,43
+2151,Kiaracondong,Babakan Sari,9,9,63,23,37
+2152,Kiaracondong,Babakan Sari,17,9,75,30,40
+2153,Kiaracondong,Babakan Sari,9,10,63,23,37
+2154,Kiaracondong,Babakan Sari,9,11,55,35,64
+2155,Kiaracondong,Babakan Sari,9,12,66,26,39
+2156,Kiaracondong,Babakan Sari,9,13,67,30,45
+2157,Lengkong,Paledang,2,1,36,18,53
+2158,Lengkong,Paledang,2,2,48,22,48
+2159,Lengkong,Paledang,2,3,29,15,100
+2160,Lengkong,Malabar,6,1,35,0,0
+2161,Lengkong,Malabar,6,2,37,17,46
+2162,Lengkong,Malabar,6,3,48,14,29
+2163,Lengkong,Malabar,6,4,32,15,47
+2164,Lengkong,Malabar,6,5,11,9,82
+2165,Lengkong,Malabar,6,6,45,13,29
+2166,Lengkong,Lingkar Selatan,2,1,26,26,100
+2167,Lengkong,Lingkar Selatan,9,1,27,21,78
+2168,Lengkong,Lingkar Selatan,2,2,29,29,100
+2169,Lengkong,Lingkar Selatan,9,2,26,26,100
+2170,Lengkong,Lingkar Selatan,2,3,22,22,100
+2171,Lengkong,Lingkar Selatan,9,3,29,26,90
+2172,Lengkong,Lingkar Selatan,2,4,57,16,28
+2173,Lengkong,Lingkar Selatan,9,4,31,27,87
+2174,Lengkong,Lingkar Selatan,2,5,29,11,69
+2175,Lengkong,Lingkar Selatan,9,5,36,34,94
+2176,Lengkong,Lingkar Selatan,2,6,92,25,100
+2177,Lengkong,Lingkar Selatan,9,6,34,31,91
+2178,Lengkong,Lingkar Selatan,2,7,19,19,100
+2179,Lengkong,Lingkar Selatan,9,7,31,28,90
+2180,Lengkong,Lingkar Selatan,2,8,44,16,40
+2181,Lengkong,Lingkar Selatan,9,8,30,27,90
+2182,Lengkong,Lingkar Selatan,2,9,20,8,40
+2183,Lengkong,Cijagra,2,1,25,25,45
+2184,Lengkong,Cijagra,2,2,15,9,60
+2185,Lengkong,Cijagra,2,3,22,22,100
+2186,Lengkong,Cijagra,2,4,57,16,28
+2187,Lengkong,Cijagra,2,5,17,11,69
+2188,Lengkong,Cijagra,2,6,92,59,66
+2189,Lengkong,Cijagra,2,7,80,36,45
+2190,Lengkong,Cijagra,2,8,44,16,40
+2191,Lengkong,Burangrang,2,1,41,35,85
+2192,Lengkong,Burangrang,2,2,101,42,43
+2193,Lengkong,Burangrang,2,3,69,32,47
+2194,Lengkong,Burangrang,2,4,44,16,40
+2195,Lengkong,Burangrang,2,5,21,12,60
+2196,Lengkong,Burangrang,2,6,30,10,36
+2197,Lengkong,Burangrang,2,7,17,11,69
+2198,Lengkong,Burangrang,2,8,33,14,42
+2199,Lengkong,Burangrang,2,9,48,18,38
+2200,Lengkong,Burangrang,2,10,36,22,69
+2201,Lengkong,Burangrang,2,11,23,21,100
+2202,Lengkong,Burangrang,2,12,45,15,39
+2203,Lengkong,Turangga,6,1,56,56,100
+2204,Lengkong,Turangga,8,1,38,32,84
+2205,Lengkong,Turangga,11,1,60,43,100
+2206,Lengkong,Turangga,6,2,67,67,100
+2207,Lengkong,Turangga,8,2,24,17,71
+2208,Lengkong,Turangga,11,2,23,23,100
+2209,Lengkong,Turangga,6,3,85,0,0
+2210,Lengkong,Turangga,8,3,21,14,67
+2211,Lengkong,Turangga,11,3,50,50,100
+2212,Lengkong,Turangga,6,4,20,18,90
+2213,Lengkong,Turangga,8,4,21,12,57
+2214,Lengkong,Turangga,11,4,61,61,100
+2215,Lengkong,Turangga,6,5,77,77,100
+2216,Lengkong,Turangga,8,5,54,34,63
+2217,Lengkong,Turangga,11,5,25,25,100
+2218,Lengkong,Turangga,6,6,32,32,100
+2219,Lengkong,Turangga,8,6,25,21,84
+2220,Lengkong,Turangga,6,7,50,40,80
+2221,Lengkong,Turangga,8,7,25,21,84
+2222,Lengkong,Turangga,8,8,25,25,100
+2223,Lengkong,Turangga,8,9,23,23,100
+2224,Lengkong,Turangga,8,10,61,61,100
+2225,Lengkong,Cikawao,2,1,17,16,94
+2226,Lengkong,Cikawao,5,1,37,25,71
+2227,Lengkong,Cikawao,6,1,58,20,34
+2228,Lengkong,Cikawao,8,1,13,13,100
+2229,Lengkong,Cikawao,2,2,64,33,52
+2230,Lengkong,Cikawao,5,2,33,15,48
+2231,Lengkong,Cikawao,6,2,52,25,48
+2232,Lengkong,Cikawao,8,2,25,25,100
+2233,Lengkong,Cikawao,2,3,35,19,76
+2234,Lengkong,Cikawao,5,3,28,15,60
+2235,Lengkong,Cikawao,6,3,38,10,26
+2236,Lengkong,Cikawao,8,3,31,31,100
+2237,Lengkong,Cikawao,2,4,17,14,100
+2238,Lengkong,Cikawao,5,4,34,20,59
+2239,Lengkong,Cikawao,6,4,49,20,41
+2240,Lengkong,Cikawao,8,4,26,26,100
+2241,Lengkong,Cikawao,2,5,25,12,48
+2242,Lengkong,Cikawao,5,5,45,20,44
+2243,Lengkong,Cikawao,6,5,34,20,59
+2244,Lengkong,Cikawao,8,5,23,23,100
+2245,Lengkong,Cikawao,2,6,23,11,48
+2246,Lengkong,Cikawao,5,6,34,21,62
+2247,Lengkong,Cikawao,6,6,18,18,100
+2248,Lengkong,Cikawao,8,6,30,30,100
+2249,Lengkong,Cikawao,2,7,66,23,35
+2250,Lengkong,Cikawao,5,7,46,23,50
+2251,Lengkong,Cikawao,6,7,33,13,39
+2252,Lengkong,Cikawao,8,7,8,8,100
+2253,Lengkong,Cikawao,8,8,31,31,100
+2254,Lengkong,Cikawao,8,9,30,30,100
+2255,Mandalajati,Jatihandap,6,1,51,20,40
+2256,Mandalajati,Jatihandap,2,2,9,6,74
+2257,Mandalajati,Jatihandap,6,2,47,30,79
+2258,Mandalajati,Jatihandap,14,2,20,18,88
+2259,Mandalajati,Jatihandap,2,3,20,3,33
+2260,Mandalajati,Jatihandap,6,3,61,15,25
+2261,Mandalajati,Jatihandap,14,3,56,43,77
+2262,Mandalajati,Jatihandap,2,4,26,24,94
+2263,Mandalajati,Jatihandap,6,4,76,58,76
+2264,Mandalajati,Jatihandap,14,4,36,25,69
+2265,Mandalajati,Jatihandap,1,5,36,24,67
+2266,Mandalajati,Jatihandap,2,5,50,31,65
+2267,Mandalajati,Jatihandap,6,5,19,19,100
+2268,Mandalajati,Jatihandap,14,5,50,31,63
+2269,Mandalajati,Jatihandap,1,6,55,46,81
+2270,Mandalajati,Jatihandap,2,6,30,25,86
+2271,Mandalajati,Jatihandap,6,6,55,27,49
+2272,Mandalajati,Jatihandap,14,6,53,2,4
+2273,Mandalajati,Jatihandap,1,7,64,38,60
+2274,Mandalajati,Jatihandap,2,7,15,10,67
+2275,Mandalajati,Jatihandap,6,7,69,59,86
+2276,Mandalajati,Jatihandap,14,7,40,16,75
+2277,Mandalajati,Jatihandap,1,8,28,8,27
+2278,Mandalajati,Jatihandap,6,8,56,45,80
+2279,Mandalajati,Jatihandap,1,9,35,20,58
+2280,Mandalajati,Jatihandap,6,9,34,27,79
+2281,Mandalajati,Sindang Jaya,2,1,62,20,73
+2282,Mandalajati,Sindang Jaya,8,1,26,0,0
+2283,Mandalajati,Sindang Jaya,10,1,23,4,17
+2284,Mandalajati,Sindang Jaya,2,2,46,38,83
+2285,Mandalajati,Sindang Jaya,8,2,31,4,12
+2286,Mandalajati,Sindang Jaya,10,2,23,0,0
+2287,Mandalajati,Sindang Jaya,2,3,29,8,27
+2288,Mandalajati,Sindang Jaya,8,3,41,5,12
+2289,Mandalajati,Sindang Jaya,10,3,22,2,9
+2290,Mandalajati,Sindang Jaya,2,4,57,51,91
+2291,Mandalajati,Sindang Jaya,8,4,39,6,15
+2292,Mandalajati,Sindang Jaya,8,5,37,6,16
+2293,Mandalajati,Sindang Jaya,8,6,51,0,0
+2294,Mandalajati,Pasir Impun,1,1,25,9,36
+2295,Mandalajati,Pasir Impun,2,1,18,11,61
+2296,Mandalajati,Pasir Impun,3,1,72,21,29
+2297,Mandalajati,Pasir Impun,6,1,55,32,62
+2298,Mandalajati,Pasir Impun,9,1,32,15,47
+2299,Mandalajati,Pasir Impun,10,1,29,14,48
+2300,Mandalajati,Pasir Impun,1,2,23,11,48
+2301,Mandalajati,Pasir Impun,2,2,35,13,37
+2302,Mandalajati,Pasir Impun,3,2,79,34,43
+2303,Mandalajati,Pasir Impun,4,2,48,33,70
+2304,Mandalajati,Pasir Impun,9,2,28,17,61
+2305,Mandalajati,Pasir Impun,11,2,93,70,76
+2306,Mandalajati,Pasir Impun,1,3,35,18,51
+2307,Mandalajati,Pasir Impun,2,3,52,23,44
+2308,Mandalajati,Pasir Impun,3,3,65,26,40
+2309,Mandalajati,Pasir Impun,4,3,48,19,40
+2310,Mandalajati,Pasir Impun,6,3,37,20,61
+2311,Mandalajati,Pasir Impun,7,3,35,24,69
+2312,Mandalajati,Pasir Impun,9,3,24,13,54
+2313,Mandalajati,Pasir Impun,10,3,48,26,54
+2314,Mandalajati,Pasir Impun,11,3,51,48,94
+2315,Mandalajati,Pasir Impun,1,4,42,25,60
+2316,Mandalajati,Pasir Impun,2,4,48,19,40
+2317,Mandalajati,Pasir Impun,3,4,39,13,33
+2318,Mandalajati,Pasir Impun,6,4,63,33,57
+2319,Mandalajati,Pasir Impun,7,4,39,26,67
+2320,Mandalajati,Pasir Impun,9,4,25,12,48
+2321,Mandalajati,Pasir Impun,11,4,57,41,72
+2322,Mandalajati,Pasir Impun,1,5,56,27,48
+2323,Mandalajati,Pasir Impun,2,5,44,14,32
+2324,Mandalajati,Pasir Impun,3,5,57,15,26
+2325,Mandalajati,Pasir Impun,5,5,37,14,41
+2326,Mandalajati,Pasir Impun,7,5,47,39,83
+2327,Mandalajati,Pasir Impun,9,5,42,22,52
+2328,Mandalajati,Pasir Impun,2,6,27,9,33
+2329,Mandalajati,Pasir Impun,5,6,70,30,43
+2330,Mandalajati,Karang Pamulang,7,1,13,8,58
+2331,Mandalajati,Karang Pamulang,8,1,57,23,1
+2332,Mandalajati,Karang Pamulang,6,2,40,32,80
+2333,Mandalajati,Karang Pamulang,7,2,18,10,58
+2334,Mandalajati,Karang Pamulang,8,2,61,2,2
+2335,Mandalajati,Karang Pamulang,6,3,57,49,86
+2336,Mandalajati,Karang Pamulang,7,3,68,0,0
+2337,Mandalajati,Karang Pamulang,8,3,25,3,12
+2338,Mandalajati,Karang Pamulang,6,4,30,22,73
+2339,Mandalajati,Karang Pamulang,7,4,22,19,87
+2340,Mandalajati,Karang Pamulang,8,4,12,12,12
+2341,Mandalajati,Karang Pamulang,6,5,37,21,58
+2342,Mandalajati,Karang Pamulang,7,5,28,21,75
+2343,Mandalajati,Karang Pamulang,8,5,27,13,48
+2344,Mandalajati,Karang Pamulang,6,6,35,35,100
+2345,Mandalajati,Karang Pamulang,7,6,56,40,71
+2346,Mandalajati,Karang Pamulang,6,7,10,9,90
+2347,Panyileukan,Cipadung Wetan,2,1,38,13,63
+2348,Panyileukan,Cipadung Wetan,2,2,29,10,49
+2349,Panyileukan,Cipadung Wetan,2,3,34,12,57
+2350,Panyileukan,Cipadung Kulon,2,1,48,41,71
+2351,Panyileukan,Cipadung Kulon,3,1,45,18,50
+2352,Panyileukan,Cipadung Kulon,4,1,29,26,96
+2353,Panyileukan,Cipadung Kulon,2,2,78,29,37
+2354,Panyileukan,Cipadung Kulon,3,2,46,35,81
+2355,Panyileukan,Cipadung Kulon,4,2,26,25,65
+2356,Panyileukan,Cipadung Kulon,2,3,54,11,20
+2357,Panyileukan,Cipadung Kulon,3,3,42,34,79
+2358,Panyileukan,Cipadung Kulon,4,3,40,37,65
+2359,Panyileukan,Cipadung Kulon,2,4,60,19,25
+2360,Panyileukan,Cipadung Kulon,3,4,73,21,28
+2361,Panyileukan,Cipadung Kulon,4,4,40,26,70
+2362,Panyileukan,Cipadung Kulon,3,5,43,23,70
+2363,Panyileukan,Cipadung Kulon,4,5,48,60,65
+2364,Rancasari,Mekar Jaya,4,1,73,66,90
+2365,Rancasari,Mekar Jaya,2,2,77,57,74
+2366,Rancasari,Mekar Jaya,4,2,85,72,85
+2367,Rancasari,Mekar Jaya,2,3,50,42,84
+2368,Rancasari,Mekar Jaya,4,3,66,61,92
+2369,Rancasari,Mekar Jaya,2,4,60,52,87
+2370,Rancasari,Mekar Jaya,2,5,73,62,85
+2371,Rancasari,Mekar Jaya,2,6,84,42,52
+2372,Rancasari,Mekar Jaya,2,7,43,35,85
+2373,Rancasari,Derwati,2,1,39,30,77
+2374,Rancasari,Derwati,2,2,53,49,92
+2375,Rancasari,Derwati,2,3,49,46,94
+2376,Rancasari,Derwati,2,4,40,33,83
+2377,Rancasari,Derwati,2,5,59,50,85
+2378,Rancasari,Derwati,2,6,24,18,75
+2379,Rancasari,Cipamokolan,1,1,40,33,87
+2380,Rancasari,Cipamokolan,1,2,50,49,100
+2381,Rancasari,Cipamokolan,1,3,57,43,80
+2382,Rancasari,Cipamokolan,1,4,60,36,62
+2383,Rancasari,Cipamokolan,1,5,55,25,51
+2384,Rancasari,Cipamokolan,1,6,110,88,81
+2385,Rancasari,Cipamokolan,1,7,95,75,81
+2386,Rancasari,Cipamokolan,1,8,37,35,100
+2387,Regol,Pasirluyu,1,1,77,42,57
+2388,Regol,Pasirluyu,3,1,36,26,72
+2389,Regol,Pasirluyu,4,1,32,22,88
+2390,Regol,Pasirluyu,5,1,30,12,40
+2391,Regol,Pasirluyu,1,2,70,46,66
+2392,Regol,Pasirluyu,3,2,67,28,42
+2393,Regol,Pasirluyu,4,2,46,42,95
+2394,Regol,Pasirluyu,5,2,32,17,53
+2395,Regol,Pasirluyu,1,3,74,30,45
+2396,Regol,Pasirluyu,3,3,18,9,50
+2397,Regol,Pasirluyu,4,3,50,17,36
+2398,Regol,Pasirluyu,5,3,81,28,35
+2399,Regol,Pasirluyu,1,4,49,24,56
+2400,Regol,Pasirluyu,3,4,17,4,24
+2401,Regol,Pasirluyu,4,4,35,17,77
+2402,Regol,Pasirluyu,5,4,38,26,68
+2403,Regol,Pasirluyu,1,5,30,18,72
+2404,Regol,Pasirluyu,3,5,78,23,29
+2405,Regol,Pasirluyu,4,5,48,25,54
+2406,Regol,Pasirluyu,5,5,69,33,48
+2407,Regol,Pasirluyu,1,6,20,11,73
+2408,Regol,Pasirluyu,3,6,30,16,53
+2409,Regol,Pasirluyu,4,6,37,13,37
+2410,Regol,Pasirluyu,5,6,26,26,100
+2411,Regol,Pasirluyu,3,7,44,39,89
+2412,Regol,Pasirluyu,4,7,29,23,92
+2413,Regol,Pasirluyu,5,7,38,38,100
+2414,Regol,Pasirluyu,3,8,40,14,35
+2415,Regol,Pasirluyu,4,8,34,27,87
+2416,Regol,Pasirluyu,3,9,65,56,86
+2417,Regol,Pungkur,4,1,19,19,100
+2418,Regol,Pungkur,5,1,32,21,66
+2419,Regol,Pungkur,4,2,23,19,83
+2420,Regol,Pungkur,5,2,23,14,61
+2421,Regol,Pungkur,4,3,13,11,85
+2422,Regol,Pungkur,5,3,25,20,80
+2423,Regol,Pungkur,4,4,20,20,100
+2424,Regol,Pungkur,5,4,24,22,92
+2425,Regol,Pungkur,4,5,35,35,100
+2426,Regol,Pungkur,5,5,27,27,100
+2427,Regol,Pungkur,4,6,29,17,59
+2428,Regol,Pungkur,5,6,24,18,75
+2429,Regol,Pungkur,4,7,38,12,32
+2430,Regol,Pungkur,5,7,30,27,90
+2431,Regol,Pungkur,4,8,29,29,100
+2432,Regol,Pungkur,5,8,35,32,91
+2433,Regol,Pungkur,5,9,37,30,81
+2434,Regol,Ciseureuh,5,1,42,40,95
+2435,Regol,Ciseureuh,6,1,56,50,89
+2436,Regol,Ciseureuh,8,1,73,36,49
+2437,Regol,Ciseureuh,5,2,49,36,73
+2438,Regol,Ciseureuh,6,2,33,28,85
+2439,Regol,Ciseureuh,8,2,47,25,53
+2440,Regol,Ciseureuh,5,3,34,25,74
+2441,Regol,Ciseureuh,6,3,114,74,65
+2442,Regol,Ciseureuh,8,3,36,19,53
+2443,Regol,Ciseureuh,5,4,34,26,76
+2444,Regol,Ciseureuh,6,4,42,27,64
+2445,Regol,Ciseureuh,8,4,51,51,100
+2446,Regol,Ciseureuh,5,5,46,37,80
+2447,Regol,Ciseureuh,6,5,112,80,71
+2448,Regol,Ciseureuh,5,6,61,36,59
+2449,Regol,Ciseureuh,6,6,66,46,70
+2450,Regol,Ciseureuh,5,7,137,113,82
+2451,Regol,Ciseureuh,6,7,55,30,55
+2452,Regol,Ciseureuh,5,8,87,56,64
+2453,Regol,Ciseureuh,5,9,127,76,60
+2454,Regol,Ciateul,3,1,15,15,100
+2455,Regol,Ciateul,6,1,21,17,81
+2456,Regol,Ciateul,7,1,59,43,73
+2457,Regol,Ciateul,3,2,26,24,92
+2458,Regol,Ciateul,6,2,21,19,90
+2459,Regol,Ciateul,7,2,79,78,99
+2460,Regol,Ciateul,3,3,12,12,100
+2461,Regol,Ciateul,6,3,17,14,82
+2462,Regol,Ciateul,7,3,60,44,73
+2463,Regol,Ciateul,3,4,14,14,100
+2464,Regol,Ciateul,6,4,26,19,73
+2465,Regol,Ciateul,7,4,75,58,77
+2466,Regol,Ciateul,3,5,18,18,100
+2467,Regol,Ciateul,6,5,33,16,48
+2468,Regol,Ciateul,7,5,52,45,87
+2469,Regol,Ciateul,3,6,19,19,100
+2470,Regol,Ciateul,3,7,19,19,100
+2471,Sukajadi,Sukabungah,2,1,157,113,72
+2472,Sukajadi,Sukabungah,3,1,67,40,60
+2473,Sukajadi,Sukabungah,4,1,64,59,92
+2474,Sukajadi,Sukabungah,5,1,23,23,100
+2475,Sukajadi,Sukabungah,6,1,37,30,81
+2476,Sukajadi,Sukabungah,7,1,71,55,78
+2477,Sukajadi,Sukabungah,10,1,58,46,79
+2478,Sukajadi,Sukabungah,2,2,122,90,73
+2479,Sukajadi,Sukabungah,3,2,56,42,74
+2480,Sukajadi,Sukabungah,4,2,40,38,95
+2481,Sukajadi,Sukabungah,5,2,53,53,100
+2482,Sukajadi,Sukabungah,6,2,20,17,83
+2483,Sukajadi,Sukabungah,7,2,60,50,84
+2484,Sukajadi,Sukabungah,10,2,43,40,93
+2485,Sukajadi,Sukabungah,2,3,52,36,69
+2486,Sukajadi,Sukabungah,3,3,35,35,100
+2487,Sukajadi,Sukabungah,4,3,28,27,98
+2488,Sukajadi,Sukabungah,5,3,45,45,100
+2489,Sukajadi,Sukabungah,6,3,37,32,86
+2490,Sukajadi,Sukabungah,7,3,68,61,90
+2491,Sukajadi,Sukabungah,10,3,49,41,84
+2492,Sukajadi,Sukabungah,2,4,63,44,70
+2493,Sukajadi,Sukabungah,3,4,23,11,47
+2494,Sukajadi,Sukabungah,4,4,43,41,96
+2495,Sukajadi,Sukabungah,5,4,52,52,100
+2496,Sukajadi,Sukabungah,6,4,52,46,89
+2497,Sukajadi,Sukabungah,7,4,84,79,94
+2498,Sukajadi,Sukabungah,10,4,59,53,90
+2499,Sukajadi,Sukabungah,2,5,68,49,72
+2500,Sukajadi,Sukabungah,3,5,60,32,53
+2501,Sukajadi,Sukabungah,4,5,60,59,98
+2502,Sukajadi,Sukabungah,5,5,60,60,100
+2503,Sukajadi,Sukabungah,6,5,40,34,85
+2504,Sukajadi,Sukabungah,7,5,90,90,100
+2505,Sukajadi,Sukabungah,10,5,45,40,89
+2506,Sukajadi,Sukabungah,2,6,57,40,70
+2507,Sukajadi,Sukabungah,3,6,52,40,78
+2508,Sukajadi,Sukabungah,4,6,63,63,100
+2509,Sukajadi,Sukabungah,6,6,45,41,92
+2510,Sukajadi,Sukabungah,10,6,38,31,83
+2511,Sukajadi,Sukabungah,2,7,20,17,85
+2512,Sukajadi,Sukabungah,3,7,63,48,76
+2513,Sukajadi,Sukabungah,4,7,54,50,93
+2514,Sukajadi,Sukabungah,6,7,23,20,89
+2515,Sukajadi,Sukabungah,2,8,50,44,88
+2516,Sukajadi,Sukabungah,3,8,47,38,80
+2517,Sukajadi,Sukabungah,4,8,50,45,90
+2518,Sukajadi,Sukabungah,6,8,37,33,90
+2519,Sukajadi,Sukabungah,2,9,85,67,79
+2520,Sukajadi,Sukabungah,4,9,68,65,96
+2521,Sukajadi,Sukabungah,6,9,35,31,89
+2522,Sukajadi,Sukabungah,2,10,51,41,81
+2523,Sukajadi,Sukabungah,4,10,118,108,91
+2524,Sukajadi,Sukabungah,6,10,72,59,82
+2525,Sukajadi,Sukagalih,2,1,17,16,95
+2526,Sukajadi,Sukagalih,3,1,40,35,88
+2527,Sukajadi,Sukagalih,4,1,95,58,61
+2528,Sukajadi,Sukagalih,2,2,29,16,54
+2529,Sukajadi,Sukagalih,3,2,45,30,67
+2530,Sukajadi,Sukagalih,4,2,85,69,82
+2531,Sukajadi,Sukagalih,2,3,47,30,63
+2532,Sukajadi,Sukagalih,3,3,69,45,65
+2533,Sukajadi,Sukagalih,4,3,49,22,45
+2534,Sukajadi,Sukagalih,2,4,52,28,54
+2535,Sukajadi,Sukagalih,3,4,43,26,61
+2536,Sukajadi,Sukagalih,4,4,64,33,52
+2537,Sukajadi,Sukagalih,2,5,47,45,96
+2538,Sukajadi,Sukagalih,3,5,150,120,80
+2539,Sukajadi,Sukagalih,4,5,40,21,53
+2540,Sukajadi,Sukagalih,2,6,30,25,83
+2541,Sukajadi,Sukagalih,3,6,39,27,69
+2542,Sukajadi,Sukagalih,2,7,45,40,89
+2543,Sukajadi,Sukagalih,3,7,18,11,61
+2544,Sukasari,Isola,1,1,137,93,68
+2545,Sukasari,Isola,2,1,137,103,75
+2546,Sukasari,Isola,6,1,74,74,100
+2547,Sukasari,Isola,1,2,183,131,72
+2548,Sukasari,Isola,2,2,156,139,89
+2549,Sukasari,Isola,6,2,82,72,88
+2550,Sukasari,Isola,1,3,114,97,85
+2551,Sukasari,Isola,2,3,86,72,84
+2552,Sukasari,Isola,6,3,80,76,95
+2553,Sukasari,Isola,6,4,138,104,75
+2554,Sukasari,Isola,6,5,80,74,92
+2555,Sukasari,Isola,6,6,163,108,66
+2556,Sukasari,Isola,6,7,60,51,86
+2557,Sumur Bandung,Merdeka,5,1,25,15,60
+2558,Sumur Bandung,Merdeka,5,2,32,24,100
+2559,Sumur Bandung,Merdeka,5,3,49,24,62
+2560,Sumur Bandung,Merdeka,5,4,59,24,100
+2561,Sumur Bandung,Merdeka,5,5,67,20,100
+2562,Sumur Bandung,Merdeka,5,6,71,39,93
+2563,Sumur Bandung,Kebon Pisang,9,1,41,20,49
+2564,Sumur Bandung,Kebon Pisang,11,1,13,13,100
+2565,Sumur Bandung,Kebon Pisang,9,2,32,15,47
+2566,Sumur Bandung,Kebon Pisang,11,2,22,12,55
+2567,Sumur Bandung,Kebon Pisang,9,3,37,17,46
+2568,Sumur Bandung,Kebon Pisang,11,3,22,17,77
+2569,Sumur Bandung,Kebon Pisang,9,4,35,0,0
+2570,Sumur Bandung,Kebon Pisang,11,4,18,1,6
+2571,Sumur Bandung,Kebon Pisang,9,5,45,13,29
+2572,Sumur Bandung,Kebon Pisang,11,5,20,10,50
+2573,Sumur Bandung,Kebon Pisang,9,6,36,15,42
+2574,Sumur Bandung,Kebon Pisang,11,6,26,11,42
+2575,Sumur Bandung,Kebon Pisang,9,7,48,14,29
+2576,Sumur Bandung,Kebon Pisang,11,7,24,15,63
+2577,Sumur Bandung,Kebon Pisang,9,8,44,15,34
+2578,Sumur Bandung,Kebon Pisang,9,9,11,9,82
+2579,Sumur Bandung,Braga,3,1,25,16,64
+2580,Sumur Bandung,Braga,4,1,16,16,100
+2581,Sumur Bandung,Braga,7,1,18,13,72
+2582,Sumur Bandung,Braga,8,1,21,21,100
+2583,Sumur Bandung,Braga,3,2,23,23,100
+2584,Sumur Bandung,Braga,4,2,18,12,67
+2585,Sumur Bandung,Braga,7,2,14,7,50
+2586,Sumur Bandung,Braga,8,2,22,14,64
+2587,Sumur Bandung,Braga,3,3,31,31,100
+2588,Sumur Bandung,Braga,4,3,16,10,63
+2589,Sumur Bandung,Braga,7,3,6,6,100
+2590,Sumur Bandung,Braga,8,3,20,13,65
+2591,Sumur Bandung,Braga,4,4,16,12,100
+2592,Sumur Bandung,Braga,7,4,24,19,79
+2593,Sumur Bandung,Braga,8,4,25,22,88
+2594,Sumur Bandung,Braga,4,5,25,16,64
+2595,Sumur Bandung,Braga,7,5,25,9,36
+2596,Sumur Bandung,Braga,8,5,52,25,48
+2597,Sumur Bandung,Braga,4,6,16,8,50
+2598,Sumur Bandung,Braga,7,6,13,10,77
+2599,Sumur Bandung,Braga,8,6,19,12,63
+2600,Sumur Bandung,Babakan Ciamis,1,1,15,15,100
+2601,Sumur Bandung,Babakan Ciamis,3,1,37,19,51
+2602,Sumur Bandung,Babakan Ciamis,7,1,14,14,100
+2603,Sumur Bandung,Babakan Ciamis,8,1,40,13,33
+2604,Sumur Bandung,Babakan Ciamis,1,2,21,19,90
+2605,Sumur Bandung,Babakan Ciamis,3,2,42,29,69
+2606,Sumur Bandung,Babakan Ciamis,7,2,28,18,64
+2607,Sumur Bandung,Babakan Ciamis,8,2,8,8,100
+2608,Sumur Bandung,Babakan Ciamis,1,3,46,37,82
+2609,Sumur Bandung,Babakan Ciamis,3,3,38,27,71
+2610,Sumur Bandung,Babakan Ciamis,7,3,15,14,93
+2611,Sumur Bandung,Babakan Ciamis,8,3,10,10,100
+2612,Sumur Bandung,Babakan Ciamis,1,4,34,27,79
+2613,Sumur Bandung,Babakan Ciamis,3,4,62,37,60
+2614,Sumur Bandung,Babakan Ciamis,7,4,32,28,88
+2615,Sumur Bandung,Babakan Ciamis,8,4,24,17,71
+2616,Sumur Bandung,Babakan Ciamis,3,5,50,36,72
+2617,Sumur Bandung,Babakan Ciamis,7,5,30,20,67
+2618,Sumur Bandung,Babakan Ciamis,8,5,30,14,48
+2619,Sumur Bandung,Babakan Ciamis,3,6,25,16,64
+2620,Sumur Bandung,Babakan Ciamis,7,6,29,25,86
+2621,Sumur Bandung,Babakan Ciamis,8,6,38,19,50
+2622,Sumur Bandung,Babakan Ciamis,3,7,43,31,72
+2623,Sumur Bandung,Babakan Ciamis,7,7,45,43,96
+2624,Sumur Bandung,Babakan Ciamis,8,7,34,11,32
+2625,Sumur Bandung,Babakan Ciamis,8,8,40,29,73
+2626,Ujungberung,Pasanggrahan,6,1,55,19,40
+2627,Ujungberung,Pasanggrahan,12,1,134,24,19
+2628,Ujungberung,Pasanggrahan,5,2,78,14,25
+2629,Ujungberung,Pasanggrahan,6,2,134,3,2
+2630,Ujungberung,Pasanggrahan,12,2,103,13,14
+2631,Ujungberung,Pasanggrahan,5,3,77,13,18
+2632,Ujungberung,Pasanggrahan,6,3,137,13,10
+2633,Ujungberung,Pasanggrahan,12,3,108,9,9
+2634,Ujungberung,Pasanggrahan,5,4,111,41,43
+2635,Ujungberung,Pasanggrahan,6,4,103,7,8
+2636,Ujungberung,Pasanggrahan,12,4,111,7,6
+2637,Ujungberung,Pasanggrahan,5,5,104,4,4
+2638,Ujungberung,Pasanggrahan,6,5,92,6,7
+2639,Ujungberung,Pasanggrahan,6,6,57,5,10
+2640,Ujungberung,Cigending,5,1,29,5,17
+2641,Ujungberung,Cigending,3,2,44,10,25
+2642,Ujungberung,Cigending,5,2,30,30,100
+2643,Ujungberung,Cigending,3,3,39,26,72
+2644,Ujungberung,Cigending,5,3,25,9,36
+2645,Ujungberung,Cigending,5,4,33,10,37
+2646,Ujungberung,Cigending,3,5,53,19,40
+2647,Ujungberung,Cigending,3,6,53,18,40
+2648,Ujungberung,Pasir Wangi,1,1,40,18,86
+2649,Ujungberung,Pasir Wangi,8,1,75,16,23
+2650,Ujungberung,Pasir Wangi,9,1,78,48,68
+2651,Ujungberung,Pasir Wangi,1,2,24.2,16,73
+2652,Ujungberung,Pasir Wangi,9,2,56,10,20
+2653,Ujungberung,Pasir Wangi,10,2,61,51,93
+2654,Ujungberung,Pasir Wangi,8,3,88,12,14
+2655,Ujungberung,Pasir Wangi,9,3,101,12,13
+2656,Ujungberung,Pasir Wangi,1,4,25.3,15,71
+2657,Ujungberung,Pasir Wangi,8,4,86,23,28
+2658,Ujungberung,Pasir Wangi,9,4,92,9,11
+2659,Ujungberung,Pasir Wangi,10,4,100,77,82
+2660,Ujungberung,Pasir Wangi,9,5,57,35,70
+2661,Ujungberung,Pasir Wangi,10,5,62,28,48
+2662,Ujungberung,Pasir Endah,1,1,60,8,15
+2663,Ujungberung,Pasir Endah,3,1,48,35,83
+2664,Ujungberung,Pasir Endah,6,1,79,13,18
+2665,Ujungberung,Pasir Endah,1,2,52,13,35
+2666,Ujungberung,Pasir Endah,3,2,45,20,67
+2667,Ujungberung,Pasir Endah,6,2,79,75,97
+2668,Ujungberung,Pasir Endah,1,3,119,53,49
+2669,Ujungberung,Pasir Endah,3,3,54,9,18
+2670,Ujungberung,Pasir Endah,6,3,53,45,96
+2671,Ujungberung,Pasir Endah,1,4,57,49,96
+2672,Ujungberung,Pasir Endah,3,4,55,33,62
+2673,Ujungberung,Pasir Endah,6,4,65,51,93
+2674,Ujungberung,Pasir Endah,1,5,89,82,96
+2675,Ujungberung,Pasir Endah,3,5,80,18,24
+2676,Ujungberung,Pasir Endah,6,5,63,55,98
+2677,Ujungberung,Pasir Endah,1,6,78,60,85
+2678,Ujungberung,Pasir Endah,3,6,56,10,20
+2679,Ujungberung,Pasir Endah,6,6,72,32,53
+2680,Ujungberung,Pasir Endah,3,7,101,30,33
+2681,Ujungberung,Pasir Endah,6,7,100,77,84

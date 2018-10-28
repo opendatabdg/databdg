@@ -1,0 +1,595 @@
+No.,Kecamatan,Kelurahan,RW,Jumlah Kepala Rumah Tangga,Jumlah Kepala Keluarga,"Jumlah Masyarakat terlayani Sarana Air Minum untuk minum, mandi, dan cuci (perpipaan atau non perpipaan terlindungi yang layak) (rumah tangga)"
+1,Andir,Campaka,1,265,399,181
+2,Andir,Campaka,2,493,768,241
+3,Andir,Campaka,3,106,145,15
+4,Andir,Campaka,5,221,353,155
+5,Andir,Campaka,6,338,509,70
+6,Andir,Ciroyom,1,491,654,9
+7,Andir,Ciroyom,3,332,390,139
+8,Andir,Ciroyom,4,235,297,90
+9,Andir,Ciroyom,5,204,204,9
+10,Andir,Ciroyom,6,297,419,135
+11,Andir,Ciroyom,8,330,623,271
+12,Andir,Dungus Cariang,3,223,296,131
+13,Andir,Dungus Cariang,4,40,58,35
+14,Andir,Dungus Cariang,6,169,275,77
+15,Andir,Dungus Cariang,7,338,439,215
+16,Andir,Dungus Cariang,10,266,369,218
+17,Andir,Dungus Cariang,11,270,456,151
+18,Andir,Garuda,3,196,273,157
+19,Andir,Garuda,4,416,477,167
+20,Andir,Garuda,6,285,407,138
+21,Andir,Kebon Jeruk,2,165,328,157
+22,Andir,Kebon Jeruk,3,218,370,205
+23,Andir,Kebon Jeruk,4,61,62,44
+24,Andir,Kebon Jeruk,5,266,447,266
+25,Andir,Kebon Jeruk,8,230,375,222
+26,Andir,Maleber,4,385,476,180
+27,Andir,Maleber,6,474,628,195
+28,Andir,Maleber,7,317,366,130
+29,Andir,Maleber,8,323,513,50
+30,Antapani,Antapani Kidul,18,269,294,240
+31,Antapani,Antapani Kidul,19,272,278,149
+32,Antapani,Antapani Kulon,5,677,718,631
+33,Antapani,Antapani Kulon,6,176,199,168
+34,Antapani,Antapani Kulon,7,338,355,338
+35,Antapani,Antapani Tengah,1,231,267,231
+36,Antapani,Antapani Tengah,8,295,301,63
+37,Antapani,Antapani Tengah,9,345,422,194
+38,Antapani,Antapani Tengah,22,341,366,232
+39,Antapani,Antapani Tengah,23,414,414,67
+40,Antapani,Antapani Wetan,1,420,442,420
+41,Antapani,Antapani Wetan,7,673,697,673
+42,Antapani,Antapani Wetan,8,542,564,542
+43,Antapani,Antapani Wetan,9,645,665,639
+44,Antapani,Antapani Wetan,10,453,470,453
+45,Arcamanik,Cisaranten Bina Harapan,3,138,151,120
+46,Arcamanik,Cisaranten Bina Harapan,7,115,137,86
+47,Arcamanik,Cisaranten Bina Harapan,9,149,164,149
+48,Arcamanik,Sukamiskin,5,253,269,0
+49,Astanaanyar,Cibadak,4,163,344,109
+50,Astanaanyar,Cibadak,5,139,183,107
+51,Astanaanyar,Cibadak,7,420,1215,336
+52,Astanaanyar,Karang Anyar,4,106,126,106
+53,Astanaanyar,Karang Anyar,8,161,269,158
+54,Astanaanyar,Nyengseret,2,98,159,78
+55,Astanaanyar,Nyengseret,4,396,446,143
+56,Astanaanyar,Nyengseret,5,271,343,122
+57,Astanaanyar,Nyengseret,6,220,370,197
+58,Astanaanyar,Nyengseret,7,131,243,116
+59,Astanaanyar,Pelindung Hewan,1,303,363,257
+60,Astanaanyar,Pelindung Hewan,5,297,353,102
+61,Astanaanyar,Pelindung Hewan,6,161,223,161
+62,Astanaanyar,Pelindung Hewan,8,202,325,180
+63,Babakan Ciparay,Babakan,4,329,378,18
+64,Babakan Ciparay,Babakan,5,210,293,96
+65,Babakan Ciparay,Babakan,6,333,575,0
+66,Babakan Ciparay,Babakan,7,200,412,17
+67,Babakan Ciparay,Babakan,8,266,384,230
+68,Babakan Ciparay,Babakan,9,312,482,212
+69,Babakan Ciparay,Babakan,10,339,522,210
+70,Babakan Ciparay,Babakan,11,238,389,95
+71,Babakan Ciparay,Babakan,13,256,411,111
+72,Babakan Ciparay,Babakan Ciparay,6,1264,1923,1167
+73,Babakan Ciparay,Babakan Ciparay,7,698,742,512
+74,Babakan Ciparay,Babakan Ciparay,9,1062,1216,1062
+75,Babakan Ciparay,Cirangrang,1,414,492,414
+76,Babakan Ciparay,Cirangrang,2,531,572,320
+77,Babakan Ciparay,Sukahaji,1,797,815,735
+78,Babakan Ciparay,Sukahaji,2,1013,1061,845
+79,Babakan Ciparay,Sukahaji,3,1304,1380,562
+80,Babakan Ciparay,Sukahaji,4,752,866,686
+81,Babakan Ciparay,Sukahaji,6,1010,1052,1003
+82,Babakan Ciparay,Sukahaji,8,554,554,537
+83,Bandung Kidul,Batununggal,5,168,199,153
+84,Bandung Kidul,Batununggal,9,209,308,187
+85,Bandung Kidul,Batununggal,10,332,675,292
+86,Bandung Kidul,Batununggal,11,312,389,160
+87,Bandung Kidul,Batununggal,12,233,236,209
+88,Bandung Kidul,Kujangsari,1,440,862,440
+89,Bandung Kidul,Kujangsari,2,367,530,344
+90,Bandung Kidul,Kujangsari,3,447,603,447
+91,Bandung Kidul,Kujangsari,4,496,580,496
+92,Bandung Kidul,Kujangsari,6,437,528,375
+93,Bandung Kidul,Mengger,1,289,422,253
+94,Bandung Kidul,Mengger,3,232,258,199
+95,Bandung Kidul,Mengger,4,224,316,224
+96,Bandung Kidul,Wates,3,285,466,224
+97,Bandung Kidul,Wates,5,205,313,182
+98,Bandung Kidul,Wates,7,87,152,60
+99,Bandung Kulon,Caringin,1,617,680,545
+100,Bandung Kulon,Caringin,2,105,114,47
+101,Bandung Kulon,Caringin,3,132,205,82
+102,Bandung Kulon,Caringin,4,38,59,30
+103,Bandung Kulon,Cigondewah Kaler,2,426,790,426
+104,Bandung Kulon,Cigondewah Kaler,10,225,485,225
+105,Bandung Kulon,Cigondewah Kidul,2,207,346,196
+106,Bandung Kulon,Cigondewah Rahayu,1,251,447,244
+107,Bandung Kulon,Cigondewah Rahayu,2,202,265,70
+108,Bandung Kulon,Cigondewah Rahayu,4,247,391,70
+109,Bandung Kulon,Cijerah,1,413,818,279
+110,Bandung Kulon,Cijerah,3,237,281,234
+111,Bandung Kulon,Cijerah,4,602,671,45
+112,Bandung Kulon,Cijerah,6,177,247,177
+113,Bandung Kulon,Cijerah,7,436,534,435
+114,Bandung Kulon,Cijerah,9,318,465,272
+115,Bandung Kulon,Cijerah,10,361,387,360
+116,Bandung Kulon,Gempol Sari,6,286,408,211
+117,Bandung Kulon,Gempol Sari,7,183,241,79
+118,Bandung Kulon,Warung Muncang,1,378,517,378
+119,Bandung Kulon,Warung Muncang,2,254,458,254
+120,Bandung Kulon,Warung Muncang,3,210,391,210
+121,Bandung Kulon,Warung Muncang,4,428,554,293
+122,Bandung Kulon,Warung Muncang,5,349,611,273
+123,Bandung Kulon,Warung Muncang,6,479,742,479
+124,Bandung Kulon,Warung Muncang,7,299,376,246
+125,Bandung Kulon,Warung Muncang,8,87,202,87
+126,Bandung Kulon,Warung Muncang,9,125,152,66
+127,Bandung Kulon,Warung Muncang,10,271,402,265
+128,Bandung Wetan,Citarum,5,57,62,57
+129,Bandung Wetan,Taman Sari,6,105,133,105
+130,Bandung Wetan,Taman Sari,7,303,523,274
+131,Bandung Wetan,Taman Sari,11,84,132,42
+132,Bandung Wetan,Taman Sari,12,38,57,22
+133,Bandung Wetan,Taman Sari,13,198,276,176
+134,Bandung Wetan,Taman Sari,15,325,475,229
+135,Bandung Wetan,Taman Sari,16,286,443,276
+136,Bandung Wetan,Taman Sari,18,259,365,259
+137,Bandung Wetan,Taman Sari,19,87,114,87
+138,Bandung Wetan,Taman Sari,20,193,279,185
+139,Batununggal,Binong,2,310,445,201
+140,Batununggal,Binong,3,304,429,134
+141,Batununggal,Binong,4,429,601,250
+142,Batununggal,Binong,6,319,412,319
+143,Batununggal,Binong,7,247,262,247
+144,Batununggal,Binong,8,204,407,173
+145,Batununggal,Binong,9,132,149,132
+146,Batununggal,Binong,10,178,363,178
+147,Batununggal,Cibangkong,1,44,49,0
+148,Batununggal,Cibangkong,6,89,99,0
+149,Batununggal,Cibangkong,7,374,398,2
+150,Batununggal,Cibangkong,10,357,383,3
+151,Batununggal,Cibangkong,12,445,578,330
+152,Batununggal,Gumuruh,1,81,124,81
+153,Batununggal,Gumuruh,3,277,442,231
+154,Batununggal,Gumuruh,5,389,457,389
+155,Batununggal,Gumuruh,6,349,425,224
+156,Batununggal,Kacapiring,6,256,494,251
+157,Batununggal,Kebon Gedang,4,279,415,279
+158,Batununggal,Kebon Gedang,7,205,368,205
+159,Batununggal,Kebon Gedang,8,375,712,315
+160,Batununggal,Kebon Waru,1,181,200,84
+161,Batununggal,Kebon Waru,2,488,645,114
+162,Batununggal,Kebon Waru,3,367,415,172
+163,Batununggal,Kebon Waru,8,267,302,53
+164,Batununggal,Maleer,3,74,189,54
+165,Batununggal,Maleer,5,217,357,105
+166,Batununggal,Maleer,7,258,407,127
+167,Batununggal,Samoja,2,92,151,6
+168,Batununggal,Samoja,4,98,516,51
+169,Bojongloa Kaler,Babakan Asih,1,763,801,487
+170,Bojongloa Kaler,Babakan Asih,2,298,409,220
+171,Bojongloa Kaler,Babakan Asih,3,334,365,264
+172,Bojongloa Kaler,Babakan Asih,4,334,390,287
+173,Bojongloa Kaler,Babakan Asih,5,321,331,51
+174,Bojongloa Kaler,Babakan Asih,7,586,597,585
+175,Bojongloa Kaler,Babakan Tarogong,4,569,718,289
+176,Bojongloa Kaler,Babakan Tarogong,7,819,1036,404
+177,Bojongloa Kaler,Jamika,5,870,891,0
+178,Bojongloa Kaler,Jamika,10,530,549,497
+179,Bojongloa Kaler,Kopo,1,971,975,970
+180,Bojongloa Kaler,Kopo,7,1023,1025,1018
+181,Bojongloa Kaler,Kopo,10,366,368,246
+182,Bojongloa Kaler,Kopo,11,422,422,374
+183,Bojongloa Kaler,Kopo,12,1031,1031,929
+184,Bojongloa Kaler,Suka Asih,8,531,838,92
+185,Bojongloa Kidul,Cibaduyut,1,103,141,84
+186,Bojongloa Kidul,Cibaduyut,3,221,257,153
+187,Bojongloa Kidul,Cibaduyut,6,236,238,235
+188,Bojongloa Kidul,Cibaduyut,7,105,141,43
+189,Bojongloa Kidul,Cibaduyut,8,189,243,189
+190,Bojongloa Kidul,Cibaduyut Kidul,4,125,178,100
+191,Bojongloa Kidul,Cibaduyut Kidul,5,443,515,385
+192,Bojongloa Kidul,Cibaduyut Kidul,6,329,468,221
+193,Bojongloa Kidul,Cibaduyut Wetan,1,157,211,96
+194,Bojongloa Kidul,Cibaduyut Wetan,2,303,417,186
+195,Bojongloa Kidul,Cibaduyut Wetan,3,176,254,108
+196,Bojongloa Kidul,Mekar Wangi,5,486,568,65
+197,Buahbatu,Cijaura,1,60,84,50
+198,Buahbatu,Cijaura,2,102,131,100
+199,Buahbatu,Cijaura,3,412,447,395
+200,Buahbatu,Cijaura,4,136,163,130
+201,Buahbatu,Cijaura,8,233,272,227
+202,Buahbatu,Cijaura,12,316,347,295
+203,Buahbatu,Jati Sari,1,129,187,94
+204,Buahbatu,Jati Sari,6,204,260,204
+205,Buahbatu,Margasari,2,234,240,234
+206,Buahbatu,Margasari,3,100,115,94
+207,Buahbatu,Margasari,19,235,279,233
+208,Buahbatu,Sekejati,1,71,80,71
+209,Buahbatu,Sekejati,4,437,481,430
+210,Buahbatu,Sekejati,11,266,283,177
+211,Buahbatu,Sekejati,14,139,144,139
+212,Cibeunying Kaler,Cigadung,13,400,519,298
+213,Cibeunying Kaler,Cigadung,15,476,494,390
+214,Cibeunying Kaler,Neglasari,2,394,460,266
+215,Cibeunying Kidul,Cikutra,6,297,425,264
+216,Cibeunying Kidul,Padasuka,3,145,291,144
+217,Cibeunying Kidul,Padasuka,9,313,417,301
+218,Cibeunying Kidul,Padasuka,11,214,249,194
+219,Cibeunying Kidul,Pasirlayung,1,576,656,445
+220,Cibeunying Kidul,Pasirlayung,12,415,471,360
+221,Cibeunying Kidul,Sukapada,3,280,290,209
+222,Cibeunying Kidul,Sukapada,4,291,318,162
+223,Cibeunying Kidul,Sukapada,5,104,104,98
+224,Cibeunying Kidul,Sukapada,11,438,567,364
+225,Cibeunying Kidul,Sukapada,12,172,218,156
+226,Cibeunying Kidul,Sukapada,13,276,345,237
+227,Cibeunying Kidul,Sukapada,14,297,373,257
+228,Cibeunying Kidul,Sukapada,15,186,237,158
+229,Cibiru,Cipadung,12,225,297,140
+230,Cibiru,Cisurupan,2,134,174,58
+231,Cibiru,Cisurupan,5,93,112,53
+232,Cibiru,Cisurupan,6,221,239,153
+233,Cibiru,Cisurupan,9,281,298,18
+234,Cibiru,Cisurupan,10,159,180,1
+235,Cibiru,Palasari,5,251,296,209
+236,Cibiru,Palasari,11,339,360,155
+237,Cibiru,Palasari,14,141,149,84
+238,Cibiru,Pasir Biru,2,182,219,67
+239,Cibiru,Pasir Biru,8,344,398,344
+240,Cibiru,Pasir Biru,9,217,254,68
+241,Cicendo,Arjuna,2,73,166,58
+242,Cicendo,Arjuna,5,326,373,326
+243,Cicendo,Arjuna,6,62,78,62
+244,Cicendo,Arjuna,7,132,150,132
+245,Cicendo,Arjuna,8,115,161,115
+246,Cicendo,Husein Sastranegara,4,284,301,147
+247,Cicendo,Husein Sastranegara,5,370,389,370
+248,Cicendo,Husein Sastranegara,7,256,266,0
+249,Cicendo,Husein Sastranegara,12,333,365,199
+250,Cicendo,Pajajaran,3,515,627,485
+251,Cicendo,Pajajaran,5,315,493,281
+252,Cicendo,Pajajaran,6,766,873,635
+253,Cicendo,Pajajaran,7,136,178,98
+254,Cicendo,Pajajaran,9,363,460,358
+255,Cicendo,Pajajaran,10,354,403,354
+256,Cicendo,Pasirkaliki,5,150,168,135
+257,Cicendo,Sukaraja,1,602,611,580
+258,Cicendo,Sukaraja,2,903,907,903
+259,Cicendo,Sukaraja,3,633,659,633
+260,Cicendo,Sukaraja,7,965,999,916
+261,Cicendo,Sukaraja,10,404,443,404
+262,Cidadap,Ciumbuleuit,1,422,422,305
+263,Cidadap,Ciumbuleuit,10,351,351,98
+264,Cidadap,Ciumbuleuit,11,319,331,194
+265,Cidadap,Hegarmanah,1,400,686,278
+266,Cidadap,Hegarmanah,3,749,749,580
+267,Cidadap,Hegarmanah,8,593,594,471
+268,Cidadap,Ledeng,4,401,401,315
+269,Cidadap,Ledeng,5,303,303,215
+270,Cinambo,Babakan Penghulu,2,184,196,184
+271,Cinambo,Babakan Penghulu,3,296,303,266
+272,Cinambo,Babakan Penghulu,4,384,394,384
+273,Cinambo,Babakan Penghulu,5,154,158,154
+274,Cinambo,Babakan Penghulu,6,330,344,330
+275,Cinambo,Cisaranten Wetan,1,168,186,125
+276,Cinambo,Cisaranten Wetan,3,269,269,219
+277,Cinambo,Pakemitan,1,107,137,70
+278,Cinambo,Pakemitan,3,242,303,206
+279,Cinambo,Sukamulya,1,223,261,125
+280,Cinambo,Sukamulya,4,160,216,125
+281,Cinambo,Sukamulya,5,125,153,113
+282,Cinambo,Sukamulya,6,261,325,216
+283,Coblong,Lebak Gede,1,319,319,171
+284,Coblong,Lebak Gede,2,115,115,113
+285,Coblong,Lebak Gede,3,264,264,242
+286,Coblong,Lebak Gede,14,350,350,145
+287,Coblong,Lebak Gede,15,372,372,348
+288,Coblong,Sadang Serang,13,329,406,329
+289,Coblong,Sadang Serang,14,260,292,260
+290,Coblong,Sadang Serang,21,624,653,267
+291,Coblong,Sekeloa,2,400,562,276
+292,Gedebage,Cimencrang,1,74,88,0
+293,Gedebage,Cimencrang,5,162,199,0
+294,Gedebage,Cimencrang,6,74,89,0
+295,Gedebage,Cisaranten Kidul,1,247,303,0
+296,Gedebage,Rancabolang,1,292,391,52
+297,Gedebage,Rancabolang,2,261,318,81
+298,Gedebage,Rancabolang,3,208,302,21
+299,Gedebage,Rancabolang,4,55,79,0
+300,Gedebage,Rancanumpang,1,179,208,0
+301,Gedebage,Rancanumpang,2,45,53,0
+302,Kiaracondong,Babakan Sari,1,344,411,226
+303,Kiaracondong,Babakan Sari,2,452,531,396
+304,Kiaracondong,Babakan Sari,3,555,649,442
+305,Kiaracondong,Babakan Sari,4,382,442,311
+306,Kiaracondong,Babakan Sari,5,280,331,225
+307,Kiaracondong,Babakan Sari,6,419,494,300
+308,Kiaracondong,Babakan Sari,9,846,1016,549
+309,Kiaracondong,Babakan Sari,10,415,470,338
+310,Kiaracondong,Babakan Sari,12,483,561,336
+311,Kiaracondong,Babakan Sari,14,370,439,225
+312,Kiaracondong,Babakan Sari,15,432,516,296
+313,Kiaracondong,Babakan Sari,17,487,592,406
+314,Kiaracondong,Babakan Sari,18,477,550,342
+315,Kiaracondong,Babakan Surabaya,1,154,212,145
+316,Kiaracondong,Babakan Surabaya,2,219,368,219
+317,Kiaracondong,Babakan Surabaya,3,160,237,153
+318,Kiaracondong,Babakan Surabaya,4,213,326,207
+319,Kiaracondong,Babakan Surabaya,5,201,279,201
+320,Kiaracondong,Babakan Surabaya,6,111,176,105
+321,Kiaracondong,Babakan Surabaya,7,223,338,185
+322,Kiaracondong,Babakan Surabaya,8,215,224,90
+323,Kiaracondong,Babakan Surabaya,9,184,338,184
+324,Kiaracondong,Babakan Surabaya,10,150,185,135
+325,Kiaracondong,Babakan Surabaya,11,192,192,192
+326,Kiaracondong,Babakan Surabaya,12,269,284,212
+327,Kiaracondong,Babakan Surabaya,13,266,355,264
+328,Kiaracondong,Babakan Surabaya,14,429,629,373
+329,Kiaracondong,Cicaheum,10,402,429,210
+330,Kiaracondong,Cicaheum,12,305,435,208
+331,Kiaracondong,Kebon Jayanti,1,230,230,125
+332,Kiaracondong,Kebon Jayanti,2,194,279,154
+333,Kiaracondong,Kebon Jayanti,3,150,172,108
+334,Kiaracondong,Kebon Jayanti,4,253,253,230
+335,Kiaracondong,Kebon Jayanti,5,217,265,148
+336,Kiaracondong,Kebon Jayanti,6,168,168,111
+337,Kiaracondong,Kebon Jayanti,7,177,177,164
+338,Kiaracondong,Kebon Jayanti,8,233,319,191
+339,Kiaracondong,Kebon Jayanti,9,164,242,160
+340,Kiaracondong,Kebon Jayanti,10,402,414,249
+341,Kiaracondong,Kebon Jayanti,11,172,172,105
+342,Kiaracondong,Kebon Jayanti,12,400,400,219
+343,Kiaracondong,Kebon Kangkung,1,234,268,167
+344,Kiaracondong,Kebon Kangkung,3,328,338,68
+345,Kiaracondong,Kebon Kangkung,5,450,483,158
+346,Kiaracondong,Kebon Kangkung,8,344,389,163
+347,Kiaracondong,Kebon Kangkung,9,401,403,300
+348,Kiaracondong,Sukapura,1,379,423,227
+349,Kiaracondong,Sukapura,2,391,391,166
+350,Kiaracondong,Sukapura,3,459,470,100
+351,Kiaracondong,Sukapura,4,983,1074,647
+352,Kiaracondong,Sukapura,5,464,520,71
+353,Kiaracondong,Sukapura,6,517,585,127
+354,Kiaracondong,Sukapura,7,614,636,559
+355,Lengkong,Burangrang,2,483,555,336
+356,Lengkong,Cijagra,2,344,389,292
+357,Lengkong,Cikawao,2,247,319,247
+358,Lengkong,Cikawao,5,250,303,211
+359,Lengkong,Cikawao,6,282,435,209
+360,Lengkong,Cikawao,8,217,342,217
+361,Lengkong,Lingkar Selatan,2,266,295,248
+362,Lengkong,Lingkar Selatan,9,244,287,244
+363,Lengkong,Malabar,6,208,228,135
+364,Lengkong,Paledang,2,95,121,95
+365,Lengkong,Turangga,6,387,387,377
+366,Lengkong,Turangga,8,317,377,304
+367,Lengkong,Turangga,11,202,225,200
+368,Mandalajati,Jatihandap,1,218,223,208
+369,Mandalajati,Jatihandap,2,136,147,130
+370,Mandalajati,Jatihandap,6,459,507,321
+371,Mandalajati,Jatihandap,14,235,315,190
+372,Mandalajati,Karang Pamulang,6,209,247,186
+373,Mandalajati,Karang Pamulang,7,205,218,176
+374,Mandalajati,Karang Pamulang,8,180,206,44
+375,Mandalajati,Pasir Impun,1,181,273,123
+376,Mandalajati,Pasir Impun,2,224,286,220
+377,Mandalajati,Pasir Impun,3,312,384,312
+378,Mandalajati,Pasir Impun,4,94,106,68
+379,Mandalajati,Pasir Impun,5,103,127,103
+380,Mandalajati,Pasir Impun,6,143,180,59
+381,Mandalajati,Pasir Impun,7,121,156,40
+382,Mandalajati,Pasir Impun,9,151,216,151
+383,Mandalajati,Pasir Impun,10,77,97,43
+384,Mandalajati,Pasir Impun,11,200,252,133
+385,Mandalajati,Sindang Jaya,2,174,225,103
+386,Mandalajati,Sindang Jaya,8,211,244,63
+387,Mandalajati,Sindang Jaya,10,53,64,23
+388,Panyileukan,Cipadung Kulon,2,225,234,212
+389,Panyileukan,Cipadung Kulon,3,255,265,193
+390,Panyileukan,Cipadung Kulon,4,258,260,152
+391,Panyileukan,Cipadung Wetan,2,53,73,25
+392,Rancasari,Cipamokolan,1,484,522,0
+393,Rancasari,Derwati,2,264,321,0
+394,Rancasari,Mekar Jaya,2,382,470,0
+395,Rancasari,Mekar Jaya,4,224,249,0
+396,Regol,Ciateul,3,123,186,109
+397,Regol,Ciateul,6,118,205,114
+398,Regol,Ciateul,7,325,330,325
+399,Regol,Ciseureuh,5,617,953,324
+400,Regol,Ciseureuh,6,478,600,295
+401,Regol,Ciseureuh,8,207,263,207
+402,Regol,Pasirluyu,1,294,347,294
+403,Regol,Pasirluyu,3,395,517,112
+404,Regol,Pasirluyu,4,275,467,125
+405,Regol,Pasirluyu,5,314,418,94
+406,Regol,Pungkur,4,206,368,172
+407,Regol,Pungkur,5,257,366,206
+408,Sukajadi,Sukabungah,2,725,948,388
+409,Sukajadi,Sukabungah,3,403,891,162
+410,Sukajadi,Sukabungah,4,588,1029,186
+411,Sukajadi,Sukabungah,5,233,289,138
+412,Sukajadi,Sukabungah,6,398,679,263
+413,Sukajadi,Sukabungah,7,373,468,252
+414,Sukajadi,Sukabungah,10,292,396,128
+415,Sukajadi,Sukagalih,2,267,463,160
+416,Sukajadi,Sukagalih,3,404,530,285
+417,Sukajadi,Sukagalih,4,333,509,271
+418,Sukasari,Isola,1,434,627,288
+419,Sukasari,Isola,2,379,562,376
+420,Sukasari,Isola,6,677,946,374
+421,Sumur Bandung,Babakan Ciamis,1,115,159,62
+422,Sumur Bandung,Babakan Ciamis,3,297,368,250
+423,Sumur Bandung,Babakan Ciamis,7,193,334,193
+424,Sumur Bandung,Babakan Ciamis,8,223,294,205
+425,Sumur Bandung,Braga,3,79,121,79
+426,Sumur Bandung,Braga,4,103,156,103
+427,Sumur Bandung,Braga,7,100,156,100
+428,Sumur Bandung,Braga,8,159,333,153
+429,Sumur Bandung,Kebon Pisang,9,329,360,232
+430,Sumur Bandung,Kebon Pisang,11,145,210,139
+431,Sumur Bandung,Merdeka,5,168,217,164
+432,Ujungberung,Cigending,3,169,225,124
+433,Ujungberung,Cigending,5,111,199,111
+434,Ujungberung,Pasanggrahan,5,339,412,317
+435,Ujungberung,Pasanggrahan,6,537,760,537
+436,Ujungberung,Pasanggrahan,12,432,547,432
+437,Ujungberung,Pasir Endah,1,406,454,271
+438,Ujungberung,Pasir Endah,3,406,451,344
+439,Ujungberung,Pasir Endah,6,459,509,420
+440,Ujungberung,Pasir Wangi,1,103,113,93
+441,Ujungberung,Pasir Wangi,8,239,260,239
+442,Ujungberung,Pasir Wangi,9,343,390,340
+443,Ujungberung,Pasir Wangi,10,207,218,203
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,

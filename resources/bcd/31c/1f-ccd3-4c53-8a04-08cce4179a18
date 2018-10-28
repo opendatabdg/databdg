@@ -1,0 +1,668 @@
+No.,Kecamatan,Kelurahan,ID Survey,Pemilik Menara,Lokasi,Operator,Longdesimal,Latdesimal,Tower Height,Building Heights,Struktur Tower,Kategori,Tahun Pendirian,Kelistrikan,Status Lahan,Keterangan Lain-lain
+1,Gedebage,Rancabolang,Team 1 site 2,Tower Bersama Group,Jl. Gedebage Selatan,Telkomsel- Smartfren,107.687346,-6.952163,72,0,4 Kaki,BTS,2003,PLN + GENSET,Sewa,-
+2,Gedebage,Rancabolang,Team 1 site 3,Natrindo Telepon Seluler,Jl. Gedebage Rancabolang,Tidak Teridentifikasi,107.686927,-6.95375,42,0,3 Kaki,BTS,2008,PLN,Sewa,Menara Tidak Aktif
+3,Gedebage,Rancanumpang,Team 1 site 6,Tower Bersama Group,Jl. Rancanumpang Rt 05/07,Telkomsel,107.704759,-6.964942,65,0,4 Kaki,BTS,-,PLN,Sewa,-
+4,Panyileukan,Cipadung Kidul,Team 1 site 11,Xl Axiata,Jl. Cimencrang Rt 04/04,XL,107.70841,-6.944872,32,0,3 Kaki,BTS,-,PLN,Sewa,-
+6,Panyileukan,Cipadung Kidul,Team 1 site 13,Tower Bersama Group,Kp. Panyileukan Rt 03/01,Telkomsel- HCPT- Smartfren,107.715687,-6.938283,42,0,4 Kaki,BTS,2004,PLN,Sewa,-
+7,Panyileukan,Cipadung Kidul,Team 1 site 14,Xl Axiata,Jl. Soekarno Hatta No.754,XL,107.710083,-6.936429,3,16,Pole Rooftop,BTS,-,PLN,Sewa,-
+8,Panyileukan,Mekarmulya,Team 1 site 15,Protelindo,Jl. Mekarmulya,Tidak Teridentifikasi,107.699515,-6.935509,42,0,Monopole,BTS,-,PLN,Sewa,Menara Tidak Aktif
+10,Panyileukan,Cipadung Wetan,Team 1 Site 19,Protelindo,Jl. Gempol No.2,XL Axiata- Telkomsel- HCPT,107.705084,-6.930326,31,0,3 Kaki,BTS,2005,PLN,Sewa,IMB dalam Proses
+11,Panyileukan,Cipadung Kulon,Team 1 Site 20,Natrindo Telepon Seluler,Jl. H. Nasution,Tidak Teridentifikasi,107.709813,-6.924835,32,0,3 Kaki,BTS,2008,PLN,Sewa,Menara Tidak Aktif
+12,Panyileukan,Cipadung Kulon,Team 1 Site 21,Telkom,Jl. H. Nasution Km. 12.5,Telkomsel,107.709469,-6.922147,62,0,4 Kaki,BTS,-,PLN,Hak,-
+13,Cibiru,Palasari,Team 1 Site 22,Xl Axiata,Kp. Mekarsari Rt 01/01,XL Axiata- HCPT,107.710183,-6.92269,32,0,3 Kaki,BTS,-,PLN,Sewa,-
+14,Panyileukan,Cipadung Kulon,Team 1 Site 24,Tower Bersama Group,Jl. Sindang Sari VI,Telkomsel- XL Axiata- HCPT,107.700455,-6.920664,42,0,4 Kaki,BTS,-,PLN,Sewa,-
+15,Panyileukan,Mekarmulya,Team 1 Site 27,Daya Mitra Telekomunikasi,Jl. Pasar Induk Gedebage Rt 04/06,Telkomsel,107.69657,-6.931005,30,0,Monopole,BTS,2016,PLN,Sewa,-
+16,Panyileukan,Mekarmulya,Team 1 Site 28,Ibs,Jl. Belakang Pasar Induk Gedebage,Smartfren- XL Axiata- HCPT,107.700323,-6.929948,42,0,3 Kaki,BTS,-,PLN,Sewa,-
+17,Gedebage,Rancabolang,Team 1 Site 35,Xl Axiata,Jl. Gede Bage Selatan,XL- Telkomsel- Smartfren- HCPT,107.687366,-6.964429,32,0,4 Kaki,BTS,-,PLN,Sewa,-
+18,Gedebage,Rancabolang,Team 1 Site 36,Pt. Global Indonesia,Jl. Pinus X,Telkomsel- Tidak Teridentifikasi,107.696735,-6.96662,32,0,Kamuflase Minaret Di Masjid,BTS,-,PLN,Sewa,-
+19,Rancasari,Derwati,Team 1 Site 37,Natrindo Telepon Seluler,Jl. Derwati Rt 05/05,Tidak Teridentifikasi,107.684744,-6.965642,32,0,3 Kaki,BTS,-,PLN,Sewa,Menara Tidak Aktif
+20,Rancasari,Derwati,Team 1 Site 39,Telkomsel,Jl. Terusan Saluyu,Telkomsel,107.67029,-6.950355,25,0,Monopole,BTS,-,PLN,Sewa,-
+21,Gedebage,Cisaranten Kidul,Team 1 Site 42,Telkomsel,Jl. Babakan Riung Bandung,Telkomsel,107.682245,-6.939642,62,0,4 Kaki,BTS,-,PLN,Sewa,-
+22,Rancasari,Cipamokolan,Team 1 Site 44,Natrindo Telepon Seluler,Jl. Ranca Loa,AXIS,107.676674,-6.947139,42,0,3 Kaki,BTS,-,PLN,Sewa,Menara Tidak Aktif
+23,Rancasari,Cipamokolan,Team 1 Site 45,Xl Axiata,Jl. Ranca Loa,Telkomsel,107.675875,-6.947903,32,0,4 Kaki,BTS,-,PLN,Sewa,-
+24,Rancasari,Derwati,Team 1 Site 47,Xl Axiata,Jl. Cipamokolan,XL,107.677275,-6.959601,62,0,4 Kaki,BTS,-,PLN + GENSET,Sewa,-
+25,Rancasari,Mekarjaya,Team 1 Site 48,Sampoerna Telekomunikasi Indonesia,Jl. Raya Marga Cinta No. 27,Smartfren- Telkomsel,107.674719,-6.96368,42,0,3 Kaki,BTS,-,PLN,Sewa,-
+26,Buahbatu,Margasari,Team 1 Site 51,Tower Bersama Group,Jl. Rancasawo,Indosat,107.670884,-6.95969,62,0,4 Kaki,BTS,-,PLN,Sewa,-
+27,Rancasari,Mekarjaya,Team 1 Site 53,Solusi Tunas Pratama,Jl.Pasir Sangara Blok Rw 08,XL,107.660436,-6.96558,12,6,Pole Rooftop,BTS,2008,PLN,Sewa,-
+28,Buahbatu,Cijaura,Team 1 Site 54,Net Tower Asia,Jl. Cijaura Hilir Rt 04/12,Telkomsel- HCPT,107.660033,-6.965889,42,0,Kamuflase Pohon,BTS,2012,PLN,Sewa,-
+29,Rancasari,Mekarjaya,Team 1 Site 55,Tower Bersama Group,Komp. Pasir Pogor,Telkomsel- Smartfren,107.662155,-6.963316,32,0,4 Kaki,BTS,2014,PLN,Sewa,-
+30,Buahbatu,Margacinta,Team 1 Site 56,Telkom,Jl. Ciwastra No. 245,Telkomsel- HCPT,107.66289,-6.959307,48,0,4 Kaki,BTS,1996,PLN + GENSET,Hak,-
+31,Buahbatu,Cijaura,Team 1 Site 57,Tower Bersama Group,Jl. Cijaura Ilir Rt 15/06,Telkomsel,107.659549,-6.960354,9,10,Pole Rooftop,BTS,2015,PLN,Sewa,-
+32,Buahbatu,Cijaura,Team 1 Site 61,Bakrie Telekom,Jl. Cijaura Ilir No. 62,Tidak Teridentifikasi,107.656512,-6.957143,6,8,Pole Rooftop,BTS,-,PLN,Sewa,Menara Tidak Aktif
+33,Buahbatu,Cijaura,Team 1 Site 62,Telkomsel,Jl. Margaasih No. 3B,Telkomsel,107.653295,-6.958473,52,0,4 Kaki,BTS,-,PLN,Sewa,-
+34,Buahbatu,Cijaura,Team 1 Site 64,Xl Axiata,Jl. Margaasri,XL- Indosat,107.652205,-6.958837,30,0,3 Kaki,BTS,-,PLN + GENSET,Sewa,-
+35,Buahbatu,Margasari,Team 1 Site 69,Xl Axiata,Jl. Cipagalo Ilir Rt 2/6,XL,107.647777,-6.950113,32,0,3 Kaki,BTS,2005,PLN + GENSET,Sewa,-
+36,Buahbatu,Cijaura,Team 1 Site 70,Smartfren,Jl. Soekarno Hatta No.546,Smartfren,107.649201,-6.94398,62,0,4 Kaki,BTS,2007,PLN,Hak,-
+37,Buahbatu,Cijaura,Team 1 Site 72,Global Tower,Jl. Pasar Kordon,-,107.63976,-6.954365,32,0,Kamuflase Minaret Di Masjid,BTS,-,PLN,Sewa,Tidak Aktitf Mesjid
+38,Kiara Condong,Sukapura,Team 1 Site 73,Telkomsel,Jl. Soekarno Hatta No. 639,Telkomsel,107.649878,-6.942386,6,9,Pole Rooftop,BTS,-,PLN,Sewa,-
+39,Kiara Condong,Sukapura,Team 1 Site 74,Xl Axiata,Jl. Cidurian Utara,XL,107.654139,-6.939848,32,0,4 Kaki,BTS,-,PLN + GENSET,Sewa,-
+40,Buahbatu,Margacinta,Team 1 Site 75,Protelindo,Jl. Margacinta No. 524,XL,107.643029,-6.954922,6,12,Kamuflase Torn Air,BTS,-,PLN,Sewa,-
+41,Buahbatu,Margasari,Team 1 Site 77,Telkomsel,Jl. Ibrahim Aji No. 327. Rt 08/02,Telkomsel,107.641312,-6.951844,17,0,Kamuflase Minaret Di Masjid,BTS,-,PLN,Sewa,Tidak bisa masuk site
+42,Buahbatu,Margasari,Team 1 Site 80,Telkomsel,Jl. Kiarasari 1,Telkomsel,107.644093,-6.94899,36,0,4 Kaki,BSC,-,PLN + GENSET,Sewa,-
+43,Buahbatu,Sekejati,Team 1 Site 83,Tower Bersama Group,Jl. Cijawura Girang Rt 13/08,HCPT- Smartfren- XL- Telkomsel,107.653095,-6.947755,36,0,4 Kaki,BTS,2012,PLN,Sewa,-
+44,Buahbatu,Sekejati,Team 1 Site 84,Telkomsel,Jl. Jupiter No. 87,Telkomsel- Smartfren,107.655721,-6.945939,6,9,Pole Rooftop,BTS,-,PLN,Sewa,-
+45,Rancasari,Manjah Lega,Team 1 Site 87,Pt. Mas Sarana Jaya,Jl. Soekarno Hatta No. 644,XL- Telkomsel- HCPT,107.669139,-6.94041,6,24,Pole Rooftop,BTS,2012,PLN,Sewa,RS. AL Islam- Ada 3 poles
+46,Rancasari,Manjah Lega,Team 1 Site 92,Protelindo,Jl. Mercuri Tengah No 42,XL,107.668466,-6.945758,6,8,Kamuflase Torn Air,BTS,-,PLN,Sewa,-
+47,Rancasari,Manjah Lega,Team 1 Site 94,Protelindo,Jl. Manjah Lega,XL,107.670175,-6.952189,20,0,3 Kaki,BTS,2011,PLN,Sewa,IMB dalam Proses
+48,Buahbatu,Jatisari,Team 1 Site 99,Indosat,Jl. Kawaluyaan Indah Raya No 4,Indosat,107.662873,-6.934482,4,32,Pole Rooftop,BTS,2007,PLN,Sewa,-
+49,Buahbatu,Jatisari,Team 1 Site 100,Daya Mitra Telekomunikasi,Jl. Kawaluyaan Rt 01/06,Telkomsel,107.622622,-6.924725,20,0,Microcell Pole,BTS,-,PLN,Sewa,-
+50,Buahbatu,Jatisari,Team 1 Site 103,Smartfren,Jl. Kawaluyaan Raya No. 39,Smartfren,107.659604,-6.936962,20,6,4 Kaki,BTS,-,PLN,Sewa,-
+51,Buahbatu,Jatisari,Team 1 Site 105,Telkomsel,Jl. Komplek Kpad Pindad Timur,Telkomsel,107.654966,-6.939251,42,0,4 Kaki,BTS,-,PLN,Sewa,-
+52,Buahbatu,Sekajati,Team 1 Site 108,Tower Bersama Group,Jl. Rancabolang,Telkomsel,107.663642,-6.940928,20,0,Microcell Pole,BTS,2016,PLN,Sewa,-
+53,Buahbatu,Sekajati,Team 1 Site 109,Xl Axiata,Jl. Rancabolang,XL,107.663401,-6.943592,15,0,Microcell Pole,BTS,-,PLN,Sewa,-
+54,Buahbatu,Manjah Lega,Team 1 Site 111,Tritunggal Putra Perkasa,Jl. Rancabolang Margahayu Raya,Tidak Teridentifikasi,107.661746,-6.950642,30,6,4 Kaki,BTS,-,PLN,Sewa,Menara Tidak Aktif
+55,Buahbatu,Sekejati,Team 1 Site 112,Telkomsel,Jl. Rancabolang Margahayu Raya,Telkomsel,107.661372,-6.952211,52,0,4 Kaki,BTS,-,PLN,Sewa,-
+56,Buahbatu,Sekejati,Team 1 Site 113,Xl Axiata,Jl. Rancabolang No. 241,XL- HCPT- Smartfren,107.661802,-6.952293,32,0,4 Kaki,BTS,-,PLN,Sewa,-
+57,Cibiru,Cipadung,Team 1 Site 117,Tower Bersama Group,Jl. A.H Nasution Rt 01/02 Km 13,Telkomsel- HCPT- XL- Smartfren,107.712245,-6.929339,42,0,4 Kaki,BTS,-,PLN,Sewa,-
+58,Cibiru,Palasari,Team 1 Site 119,Telkomsel,Jl. Cilengkrang 2 Kp. Gandol Rt 03/05,Telkomsel,107.720919,-6.913996,42,0,4 Kaki,BTS,-,PLN,Sewa,-
+59,Cibiru,Cisurupan,Team 1 Site 123,Xl Axiata,Jl. Cilengkrang 1 No. 113,XL,107.719049,-6.913265,15,0,Monopole,BTS,-,PLN,Sewa,-
+60,Ujung Berung,Cimoreat,Team 1 Site 124,Telkomsel,Kp. Ciwaru,Telkomsel,107.71767,-6.899573,42,0,3 Kaki,BTS,-,PLN,Sewa,-
+61,Cibiru,Cipadung,Team 1 Site 125,Daya Mitra Telekomunikasi,Jl. Kusuma Utama,Telkomsel,107.715273,-6.915244,25,0,Monopole,BTS,2015,PLN,Sewa,-
+62,Cibiru,Palasari,Team 1 Site 126,Tower Bersama Group,Jl. Cilengkrang 2 Rt 03/03,Telkomsel- HCPT,107.714316,-6.919085,52,0,4 Kaki,BTS,2014,PLN,Sewa,-
+63,Cibiru,Pasir Biru,Team 1 Site 127,Tower Bersama Group,Jl. Sukaluyu Rt 01/12,Telkomsel- Indosat- HCPT,107.723411,-6.919404,55,0,4 Kaki,BTS,2015,PLN,Sewa,-
+64,Cibiru,Pasir Biru,Team 1 Site 128,Xl Axiata,Kp. Mekarsari Rt 05/09,XL,107.724231,-6.91862,30,0,4 Kaki,BTS,-,PLN,Sewa,-
+65,Cibiru,Cipadung,Team 1 Site 129,Tower Bersama Group,Jl. Cipadung Rt 03/13,Smartfren,107.720369,-6.92293,20,6,4 Kaki,BTS,2017,PLN,Sewa,-
+66,Cibiru,Cipadung,Team 1 Site 130,Tower Bersama Group,Jl. Manisi Gg. Reformasi No. 5 Rt 03/13,Telkomsel- HCPT,107.719964,-6.923887,42,0,4 Kaki,BTS,2010,PLN,Sewa,-
+67,Cibiru,Pasir Biru,Team 1 Site 133,Telkomsel,Jl. Raya Cibiru,Telkomsel- HCPT,107.722183,-6.932906,52,0,4 Kaki,BTS,2003,PLN,Sewa,-
+68,Cibiru,Cipadung,Team 1 Site 135,Xl Axiata,Jl. Manisi No. 3,XL- HCPT,107.717962,-6.934242,52,0,4 Kaki,BTS,-,PLN,Sewa,-
+69,Ujung Berung,Pasanggrahan,Team 1 Site 141,Sampoerna Telekomunikasi Indonesia,Jl. Nagrog Kp. Paledang,XL- Telkomsel,107.711042,-6.909483,25,0,4 Kaki,BTS,2007,PLN,Sewa,-
+70,Ujung Berung,Pasanggrahan,Team 1 Site 143,Telkomsel,Jl. Nagrog,Telkomsel,107.710385,-6.90762,30,0,3 Kaki,BTS,-,PLN,Sewa,-
+71,Cinambo,Sukamulya,Team 1 Site 144,Telkomsel,Jl. Raya Ujung Berung No. 130,Telkomsel,107.700696,-6.914212,15,0,Monopole,BTS,-,PLN,Sewa,-
+72,Ujung Berung,Pasir Jati,Team 1 Site 147,Indosat,Kp. Nagrog,Indosat,107.706124,-6.908655,6,6,Pole Rooftop,BTS,-,PLN,Sewa,-
+73,Ujung Berung,Melati Wangi,Team 1 Site 152,Daya Mitra Telekomunikasi,Jl. Parata Kp. Ciherang,Telkomsel- Smartfren,107.703931,-6.893719,42,0,4 Kaki,BTS,2011,PLN,Sewa,Smartfren Belum Aktif
+74,Ujung Berung,Cigending,Team 1 Site 155,Solusi Tunas Pratama,Jl. Segar Atas Rt 06/10,Telkomsel,107.698332,-6.908659,25,0,Monopole,BTS,-,PLN,Sewa,-
+75,Ujung Berung,Ujung Berung,Team 1 Site 156,Telkomsel,Komp. Ujung Berung Indah Rt 01/12,Telkomsel,107.695679,-6.913107,9,9,Pole Rooftop,BTS,2017,PLN,Sewa,-
+76,Ujung Berung,Pasir Endah,Team 1 Site 158,Daya Mitra Telekomunikasi,Jl. Rahayu Rt 02/06,Telkomsel,107.691943,-6.907954,36,0,3 Kaki,BTS,2014,PLN,Sewa,-
+77,Arcamanik,Cisaranten,Team 1 Site 160,Tower Bersama Group,Jl. Cicukang,Telkomsel- HCPT,107.683545,-6.913299,31,0,3 Kaki,BTS,-,PLN,Sewa,-
+78,Arcamanik,Cisaranten Kulon,Team 1 Site 162,Tower Bersama Group,Jl. Permata Bumi Raya,Telkomsel,107.682471,-6.920383,42,0,4 Kaki,BTS,-,PLN,Sewa,-
+79,Arcamanik,Cisaranten Kulon,Team 1 Site 165,Telkomsel,Jl. Cingised,Telkomsel- HCPT,107.67705,-6.929015,42,0,4 Kaki,BTS,2006,PLN,Sewa,-
+80,Arcamanik,Cisaranten Kulon,Team 1 Site 168,Xl Axiata,Jl.Parakan Saat 147 Rt 02/13,XL- Indosat,107.668849,-6.931761,31,0,3 Kaki,BTS,2005,PLN,Sewa,-
+81,Arcamanik,Cisaranten Endah,Team 1 Site 171,Telkomsel,Jl. Gading Utama,Telkomsel,107.671138,-6.937548,15,12,3 Kaki,BTS,-,PLN,Sewa,-
+82,Arcamanik,Cisaranten Endah,Team 1 Site 172,Hutchison Cp Telekomunication,Jl. Terusan Cisaranten,HCPT,107.6771,-6.93694,15,9,3 Kaki,BTS,2016,PLN,Sewa,-
+83,Arcamanik,Cisaranten Kulon,Team 1 Site 175,Tower Bersama Group,"Jl, Cisaranten",Telkomsel- HCPT,107.679717,-6.931967,52,0,4 Kaki,BTS,-,PLN,Sewa,-
+84,Arcamanik,Cisaranten Kulon,Team 1 Site 176,Xl Axiata,Jl. Cisaranten Kulon,XL,107.679672,-6.931029,32,0,4 Kaki,BTS,-,PLN + GENSET,Sewa,-
+85,Arcamanik,Cisaranten Kulon,Team 1 Site 177,Xl Axiata,Jl. Sumber Sari No. 101,XL- HCPT,107.682011,-6.937348,32,0,3 Kaki,BTS,-,PLN,Sewa,-
+86,Cinambo,Babakan Panghulu,Team 1 Site 178,Daya Mitra Telekomunikasi,Jl. Soekarno Hatta,Telkomsel,107.684974,-6.937067,25,0,Monopole,BTS,2016,PLN,Sewa,-
+87,Cinambo,Cisaranten Wetan,Team 1 Site 180,Protelindo,Gg. H. Apandi Rt 03/06,Telkomsel,107.687006,-6.927313,6,9,Pole Rooftop,BTS,-,PLN,Sewa,Data dari protel tidak ada
+88,Cinambo,Cisaranten Wetan,Team 1 Site 181,Xl Axiata,Jl. Cisaranten Wetan,XL- HCPT,107.687224,-6.924641,32,0,3 Kaki,BTS,-,PLN,Sewa,-
+89,Cinambo,Cisaranten Wetan,Team 1 Site 184,Solusi Tunas Pratama,Jl. Golef,XL- Telkomsel,107.689131,-6.917887,15,0,Monopole,BTS,-,PLN,Sewa,-
+90,Arcamanik,Cisaranten Bina Harapan,Team 1 Site 185,Telkomsel,Jl. Raya Golf Rt 01/11,Telkomsel,107.690846,-6.913117,15,0,Monopole,BTS,-,PLN,Sewa,-
+91,Cinambo,Cisaranten Wetan,Team 1 Site 186,Ibs,Jl. Soekarno Hatta (Sinarmas),Smartfren- HCPT- XL,107.687422,-6.932592,42,0,4 Kaki,BTS,-,PLN + GENSET,Sewa,-
+92,Cinambo,Babakan Panghulu,Team 1 Site 187,Telkomsel,Jl. Soekarno Hatta No 813,Telkomsel,107.693477,-6.936097,30,0,4 Kaki,BTS,-,PLN,Sewa,-
+93,Cinambo,Pakemitan,Team 1 Site 188,Telkomsel,Jl. Cinambo Rt 01/05,Telkomsel,107.691353,-6.924745,60,0,4 Kaki,BTS,2003,PLN,Sewa,-
+94,Cinambo,Sukamulya,Team 1 Site 189,Xl Axiata,Jl. Rs. Suradi Raja,XL,107.700416,-6.914868,60,0,4 Kaki,BTS,-,PLN,Sewa,-
+95,Mandala Jati,Sindang Jaya,Team 1 Site 191,Telkomsel,Jl. A.H Nasution No. 89,Telkomsel,107.684083,-6.90641,3,6,Pole Rooftop,BTS,-,PLN,Sewa,-
+96,Arcamanik,Sukamiskin,Team 1 Site 194,Smartfren,Jl. Pacuan Kuda,Smartfren,107.672794,-6.909458,12,0,Monopole,BTS,-,PLN,Sewa,-
+97,Arcamanik,Sukamiskin,Team 1 Site 195,Telkomsel,Jl. R. Les Subandi No. 21 Pertanian Timur,Telkomsel,107.677073,-6.906655,15,0,Monopole,BTS,-,PLN,Sewa,-
+98,Arcamanik,Sukamiskin,Team 1 Site 196,Protelindo,Jl. Terusan Pasantren,XL,107.678551,-6.909131,-,0,Pole Rooftop,BTS,-,PLN,Sewa,Tidak Bisa Masuk Site
+99,Arcamanik,Sukamiskin,Team 1 Site 197,Telkomsel,Jl. Terusan Pasantren,Telkomsel,107.678677,-6.910683,12,0,4 Kaki,BTS,-,PLN,Sewa,-
+100,Arcamanik,Sukamiskin,Team 1 Site 198,Xl Axiata,Jl. Terusan Pasantren,XL,107.68131,-6.914079,32,0,3 Kaki,BTS,-,PLN,Sewa,-
+101,Arcamanik,Sukamiskin,Team 1 Site 199,Bandung Tv,Jl. Pacuan Kuda ( Bandung Tv),HCPT- Smartfren,107.678842,-6.911383,42,0,4 Kaki,BTS,-,PLN,Sewa,-
+102,Arcamanik,Sukamiskin,Team 1 Site 200,Telkomsel,Jl. Golef Barat 111,Telkomsel,107.675119,-6.91736,6,9,Pole Rooftop,BTS,-,PLN,Sewa,-
+103,Arcamanik,Sukamiskin,Team 1 Site 201,Telkomsel,Jl. Atlentik 2,Telkomsel- Indosat,107.672696,-6.919231,20,0,Monopole,BTS,-,PLN,Sewa,-
+104,Arcamanik,Sukamiskin,Team 1 Site 202,Daya Mitra Telekomunikasi,Jl. Arcamanik Endah,Telkomsel,107.671715,-6.920298,42,0,4 Kaki,BTS,-,PLN,Sewa,-
+105,Arcamanik,Sukamiskin,Team 1 Site 204,Xl Axiata,Komp. Arcamanik Endah,XL- HCPT,107.675939,-6.922308,32,0,3 Kaki,BTS,-,PLN + GENSET,Sewa,-
+106,Arcamanik,Cisaranten Endah,Team 1 Site 207,Daya Mitra Telekomunikasi,Jl. Parakan Saat,Smartfren- Telkomsel- XL- HCPT,107.669301,-6.923265,20,0,Monopole,BTS,-,PLN,Sewa,-
+107,Bandung Kidul,Kujangsari,Team 1 Site 208,Telkomsel,Jl. Raya Bojong Soang Samping Transmart,Indosat- Telomsel,107.638246,-6.966249,62,0,4 Kaki,BTS,-,PLN,Sewa,-
+108,Bandung Kidul,Batu Nunggal,Team 1 Site 212,Daya Mitra Telekomunikasi,Jl. Sekelimus Utara Rw 8,Telkomsel,107.638573,-6.951626,15,0,Monopole,BTS,-,PLN,Sewa,-
+109,Bandung Kidul,Kujangsari,Team 1 Site 214,Telkomsel,Jl. Ciparay - Buahbatu,Telkomsel,107.64377,-6.959415,12,0,Monopole,BTS,-,PLN,Sewa,-
+110,Bandung Kidul,Kujangsari,Team 1 Site 215,Xl Axiata,Jl. H. Badran Raya,XL,107.6445,-6.961353,6,9,Pole Rooftop,BTS,-,PLN,Sewa,-
+111,Bandung Kidul,Kujangsari,Team 1 Site 219,Telkomsel,Jl. Raya Ciganitri,Telkomsel,107.648094,-6.965048,42,0,4 Kaki,BTS,2003,PLN,Sewa,-
+112,Bandung Kidul,Batu Nunggal,Team 1 Site 222,Telkomsel,Jl. Batu Indah Raya,Telkomsel,107.629058,-6.954009,6,9,Pole Rooftop,BTS,-,PLN,Sewa,-
+113,Bandung Kidul,Pasawahan,Team 1 Site 223,Xl Axiata,Jl. Cigelereng Rt 02/07,XL- HCPT- Telkomsel- Ceria- Indosat,107.615319,-6.961109,32,0,4 Kaki,BTS,-,PLN,Sewa,Perbatasan Kab. Bandung
+114,Bandung Kidul,Kuates,Team 1 Site 224,Tower Bersama Group,Jl. Naradirja,Indosat- HCPT- Telkomsel- XL,107.609212,-6.961003,32,0,4 Kaki,BTS,-,PLN,Sewa,-
+115,Bandung Kidul,Batu Nunggal,Team 1 Site 227,Telkomsel,Jl. Batu Nunggal Indah Raya No. 51,Telkomsel,107.624364,-6.953333,6,6,Pole Rooftop,BTS,-,PLN,Sewa,Tidak Bisa Masuk Site
+116,Bandung Kidul,Batu Nunggal,Team 1 Site 228,Xl Axiata,Jl. Batu Nunggal Indah Raya II,XL,107.628661,-6.956171,6,6,Pole Rooftop,BTS,-,PLN,Sewa,-
+117,Bandung Kidul,Batu Nunggal,Team 1 Site 229,Daya Mitra Telekomunikasi,Komp. Batu Nunggal Permai I,Telkomsel,107.630501,-6.956938,6,6,Pole Rooftop,BTS,-,PLN,Sewa,-
+118,Bandung Kidul,Mengger,Team 1 Site 231,Xl Axiata,Jl. Batu Nunggal Indah,XL,107.625908,-6.962639,25,0,4 Kaki,BTS,-,PLN + GENSET,Sewa,-
+119,Bandung Kidul,Mengger,Team 1 Site 233,Telkomsel,Jl. Batu Nunggal Indah,Telkomsel,107.626399,-6.957349,-,0,Pole Rooftop,BTS,-,PLN,Sewa,-
+120,Lengkong,Cijagra,Team 1 Site 234,Telkomsel,Jl. Komplek Mandiri,Telkomsel,107.625811,-6.946818,15,0,Monopole,BTS,-,PLN,Sewa,-
+121,Lengkong,Cijagra,Team 1 Site 237,Telkomsel,Jl. Terusan Buah Batu,Telkomsel,107.626866,-6.941906,6,12,Pole Rooftop,BTS,-,PLN,Sewa,-
+122,Lengkong,Cijagra,Team 1 Site 239,Telkomsel,Jl. Kr (T.K Yayasan Telkom),Telkomsel,107.621681,-6.937836,6,6,Pole Rooftop,BTS,2014,PLN,Sewa,-
+123,Lengkong,Cijagra,Team 1 Site 240,Xl Axiata,Jl. Wesel (Komplek Postal),XL- HCPT,107.621698,-6.940111,32,0,4 Kaki,BTS,-,PLN,Sewa,Tidak Bisa Masuk Site Karena Tidak Ada Yang Jaga
+124,Lengkong,Burangrang,Team 1 Site 242,Mgt Radio,Jl. Buah Batu No. 8,Smartfren,107.616875,-6.930133,50,0,4 Kaki,BTS,-,PLN,Sewa,-
+125,Lengkong,Burangrang,Team 1 Site 243,Telkomsel,Jl. Buahbatu No. 26,Telkomsel,107.617209,-6.931348,20,12,3 Kaki,BTS,2006,PLN,Sewa,Gedung Dekopin
+126,Lengkong,Burangrang,Team 1 Site 244,Xl Axiata,Jl. Burangrang Dalam,XL,107.619008,-6.927513,32,0,Monopole,BTS,-,PLN + GENSET,Sewa,-
+127,Lengkong,Paledang,Team 1 Site 246,Smartfren,Jl. Asia Afrika 11 Rt 1/6,Smartfren- Telkomsel,107.612253,-6.922233,4,27,Pole Rooftop,BTS,-,PLN,Sewa,Wisma HSBC
+128,Lengkong,Cikawao,Team 1 Site 247,Tower Bersama Group,Jl. Dalem Kaum No. 85,Telkomsel,107.60938,-6.92289,25,6,4 Kaki,BTS,-,PLN,Sewa,-
+129,Bandung Kidul,Mengger,Team 1 Site 250,Hutchison Cp Telekomunication,Kp. Mekar Mulya Rw 4,HCPT,107.634461,-6.962313,30,0,Kamuflase Pohon,BTS,2015,PLN,Sewa,-
+131,Bandung Kidul,Batu Nunggal,Team 1 Site 252,Daya Mitra Telekomunikasi,Jl. Parakan Asri,Telkomsel- XL,107.6316,-6.952135,6,12,Pole Rooftop,BTS,-,PLN,Sewa,-
+132,Bandung Kidul,Batu Nunggal,Team 1 Site 254,Protelindo,Jl. Soekarno Hatta No. 402A,XL,107.623707,-6.949822,15,24,Pole Rooftop,BTS,-,PLN,Sewa,-
+133,Bandung Kidul,Batu Nunggal,Team 1 Site 255,Solusi Tunas Pratama,Jl. Soekarno Hatta No. 402,Esia,107.623807,-6.949998,12,24,Pole Rooftop,BTS,-,PLN,Sewa,Menara Tidak Aktif
+134,Lengkong,Turangga,Team 1 Site 256,Xl Axiata,Jl. Kliningan Asri,XL- Telkomsel,107.628377,-6.942446,25,0,4 Kaki,BTS,-,PLN + GENSET,Sewa,-
+136,Lengkong,Turangga,Team 1 Site 258,Mara Fm,Jl. Guntur Sari Wetan,Indosat,107.634337,-6.945107,62,0,4 Kaki,BTS,-,PLN,Sewa,Menara Tidak Aktif
+137,Batu Nunggal,Gumuruh,Team 1 Site 259,Daya Mitra Telekomunikasi,Jl. Jati Indah I,XL- Telkomsel- HCPT,107.636496,-6.942846,32,0,3 Kaki,BTS,-,PLN,Sewa,-
+138,Batu Nunggal,Gumuruh,Team 1 Site 260,Telkomsel,Jl. Soekarno Hatta No. 549,Telkomsel,107.63724,-6.946264,6,16,Pole Rooftop,BTS,-,PLN,Sewa,-
+139,Batu Nunggal,Binong,Team 1 Site 263,Tower Bersama Group,Jl. Kiara Condong No. 350,Telkomsel- HCPT,107.642189,-6.936935,26,6,4 Kaki,BTS,2004,PLN,Sewa,Toko shapuua
+140,Batu Nunggal,Kebon Gedang,Team 1 Site 267,Smartfren,Jl. Kiara Condong,Smartfen,107.644483,-6.926835,10,6,3 Kaki,BTS,-,PLN,Sewa,-
+141,Batu Nunggal,Cibangkong,Team 1 Site 270,Hutchison Cp Telekomunication,Jl. Gatsu No. 245,HCPT,107.63347,-6.926108,12,9,4 Kaki,BTS,-,PLN,Sewa,-
+142,Lengkong,Lingkar Selatan,Team 1 Site 274,Natrindo Telepon Seluler,Jl. Pelajar Pejuang,Axis,107.626345,-6.926513,25,6,3 Kaki,BTS,-,PLN,Sewa,Universitas Kebangsaan Menara Tidak Aktif
+143,Lengkong,Lingkar Selatan,Team 1 Site 275,Xl Axiata,Jl. Pelajar Pejuang,XL- HCPT- Smartfren,107.626641,-6.926505,25,0,4 Kaki,BTS,2012,PLN,Sewa,Universitas Kebangsaan
+144,Batu Nunggal,Samoja,Team 1 Site 276,Telkomsel,Jl. Gatot Subroto No. 133,Telkomsel,107.627008,-6.924539,29,6,4 Kaki,BTS,-,PLN,Sewa,Toko Al-Malik Tidak Diizinkan Harus ada surat dari Telkomsel
+145,Lengkong,Turangga,Team 1 Site 281,Telkomsel,Jl. Pelajar Pejuang,Telkomsel,107.625377,-6.935605,6,33,Pole Rooftop,BTS,-,PLN,Sewa,Hotel Horison
+146,Lengkong,Turangga,Team 1 Site 282,Indosat,Jl. Pelajar Pejuang,Indosat,107.625555,-6.935256,6,30,Pole Rooftop,BTS,-,PLN,Sewa,Hotel Horison
+147,Lengkong,Turangga,Team 1 Site 285,Xl Axiata,Jl. Karawitan No. 60,XL,107.626635,-6.934697,25,6,3 Kaki,BTS,-,PLN,Sewa,-
+149,Lengkong,Malabar,Team 1 Site 287,Natrindo Telepon Seluler,Jl. Katapang,Axis,107.619649,-6.921653,25,9,3 Kaki,BTS,-,PLN,Sewa,Menara Tidak Aktif
+150,Lengkong,Malabar,Team 1 Site 289,Daya Mitra Telekomunikasi,Jl. Gatot Subroto,Telkomsel- HCPT- XL- Axis,107.623632,-6.923301,6,29,Pole Rooftop,BTS,-,PLN,Sewa,Hotel Papandayan- Axis Off
+151,Lengkong,Malabar,Team 1 Site 290,Telkomsel,Jl. Talaga Bodas,Telkomsel,107.622207,-6.928143,6,12,Pole Rooftop,BTS,-,PLN,Sewa,Gedung Graha Kadin
+152,Mandala Jati,Pasir Impun,Team 1 Site 294,Telkomsel,Jl. Pasir Impun,Telkomsel,107.677615,-6.903672,15,0,Combat,BTS,2013,PLN,Sewa,-
+153,Mandala Jati,Pasir Impun,Team 1 Site 295,Tower Bersama Group, Jl. Raya Pasir Impun Rw 03,Indosat- HCPT,107.676291,-6.900493,42,0,4 Kaki,BTS,-,PLN,Sewa,-
+154,Mandala Jati,Pasir Impun,Team 1 Site 296,Telkomsel, Jl. Raya Pasir Impun,Telkomsel,107.676168,-6.898767,42,0,4 Kaki,BTS,2014,PLN,Sewa,-
+155,Mandala Jati,Karang Pamulang,Team 1 Site 299,Protelindo,Jl. Pasir Impun Atas,HCPT,107.67652,-6.896175,25,6,3 Kaki,BTS,-,PLN,Sewa,Data dari protel tidak ada
+156,Mandala Jati,Cikadut,Team 1 Site 300,Telkomsel,Jl. Pasir Impun (Kab. Bandung),Telkomsel,107.680077,-6.889631,36,0,Monopole,BTS,2006,PLN,Sewa,PerBatasan Kab. Bandung
+157,Mandala Jati,Pasir Impun,Team 1 Site 301,Xl Axiata,Babakan Baru Rt 04/05,XL- HCPT,107.581518,-6.890626,32,0,4 Kaki,BTS,-,PLN,Sewa,-
+158,Mandala Jati,Karang Pamulang,Team 1 Site 302,Xl Axiata,Jl. Raya Mande Rt 03/04,XL,107.669424,-6.897011,6,6,Pole Rooftop,BTS,-,PLN,Sewa,Tidak Bisa Masuk Tidak Berpenghuni
+159,Mandala Jati,Karang Pamulang,Team 1 Site 308,Xl Axiata,Jl. Pasir Impun Barat Rt 04/08,XL- Indosat,107.675011,-6.902911,32,0,4 Kaki,BTS,-,PLN,Sewa,-
+160,Mandala Jati,Jati Handap,Team 1 Site 311,Protelindo,Jl. Ahmad Yani No. 103,XL,107.659862,-6.902113,3,9,Pole Rooftop,BTS,-,PLN,Sewa,Toko Sinar Logam Tidak Bisa Masuk Harus Ada Surat Dari XL
+161,Mandala Jati,Jati Handap,Team 1 Site 314,Indosat,Jl. H. Aceng Rt 07/08,Indosat- HCPT- Telkomsel,107.660797,-6.895002,42,0,4 Kaki,BTS,-,PLN,Sewa,-
+162,Mandala Jati,Jati Handap,Team 1 Site 315,Xl Axiata,Jl. Jati Handap No. 1 Rt 02/09,XL,107.661551,-6.89352,9,6,Pole Rooftop,BTS,2008,PLN,Sewa,-
+163,Cibenying Kidul,Cilayung,Team 1 Site 316,Natrindo Telepon Seluler,Jl. Pasir Layung Atas,HCPT- Axis,107.661351,-6.887674,42,0,4 Kaki,BTS,-,PLN,Sewa,-
+164,Cibenying Kidul,Pasir Layung,Team 1 Site 317,Telkomsel,Jl. Pasir Layung Rt 01/03,Telkomsel,107.658004,-6.892076,8,8,Pole Rooftop,BTS,2013,PLN,Sewa,-
+165,Cibenying Kidul,Pasir Layung,Team 1 Site 319,Xl Axiata,Jl. Terusan Cimuncang Atas,XL- Indosat,107.651649,-6.89445,31,0,3 Kaki,BTS,-,PLN,Sewa,-
+166,Cibenying Kidul,Cibenying,Team 1 Site 321,Xl Axiata,Jl. Bojong Koneng Atas,XL,107.6474,-6.888258,20,0,Monopole,BTS,-,PLN,Sewa,-
+168,Cibenying Kidul,Suka Pada,Team 1 Site 324,Tower Bersama Group,Jl. Cikutra No. 168 Rt.06/01,Telkomsel,107.643681,-6.89966,9,12,Pole Rooftop,BTS,2014,PLN,Sewa,-
+169,Cibenying Kidul,Cikutra,Team 1 Site 325,Telkomsel,Jl. P.H.H. Mustofa,Telkomsel,107.641073,-6.900111,15,0,Combat,BTS,-,PLN,Sewa,Universitas Sangga Buana (Combat)
+170,Cibenying Kidul,Cikutra,Team 1 Site 326,Ibs,Jl. P.H.H. Mustofa,Smartfren,107.640802,-6.900163,3,20,Pole Rooftop,BTS,-,PLN,Sewa,Universitas Sangga Buana
+171,Cibenying Kidul,Cicadas,Team 1 Site 328,Pt. Sinar Harapan Dirga Terdepan,Jl. Pramuka Tengah Asrama Pusenif,Telkomsel,107.634073,-6.904268,26,0,Monopole,BTS,-,PLN,Sewa,-
+172,Cibenying Kidul,Cicadas,Team 1 Site 329,Natrindo Telepon Seluler,Jl. Supratman No. 60,Axis- XL,107.631203,-6.905535,36,0,Monopole,BTS,2006,PLN,Sewa,Axis Off
+173,Antapani,Parakan Saat,Team 1 Site 336,Telkomsel,Jl. Cibodas Raya,Telkomsel,107.665087,-6.926198,52,0,4 Kaki,BTS,-,PLN,Sewa,-
+174,Antapani,Parakan Saat,Team 1 Site 338,Tower Bersama Group,Jl. Cibodas,Inosat- Flexi- Axis- Esia,107.664062,-6.924757,42,0,4 Kaki,BTS,-,PLN,Sewa,Flexi- Axis- Esia Off
+175,Antapani,Antapani Kulon,Team 1 Site 343,Bakrie Telekom,Jl. Antapani No. 4,Esia- Indosat,107.660479,-6.917668,52,0,4 Kaki,BTS,-,PLN,Sewa,Tidak Bisa Masuk Tidak Berpenghuni- Esia Off
+176,Antapani,Antapani Kulon,Team 1 Site 344,Pt Bali Com Tower,Jl. Purwakarta 717,Telkomsel- HCPT,107.661032,-6.91721,15,9,Kamuflase Minaret Di Masjid,BTS,-,PLN,Sewa,-
+177,Antapani,Antapani Tengah,Team 1 Site 347,Ibs,Jl. Terusan Jakarta No. 184,Smartfren,107.661581,-6.914291,9,9,Pole Rooftop,BTS,-,PLN,Sewa,-
+178,Antapani,Antapani Tengah,Team 1 Site 348,Xl Axiata,Jl. Terusan Jakarta No. 184,XL,107.661693,-6.914226,6,9,Kamuflase Torn Air,BTS,-,PLN,Sewa,-
+179,Antapani,Antapani Wetan,Team 1 Site 349,Telkomsel,Jl. Sindang Sari Rw 08,Telkomsel,107.664598,-6.906813,6,6,Pole Rooftop,BTS,-,PLN,Sewa,Tidak Diperbolehkan Masuk Ruang Selter
+180,Antapani,Antapani Wetan,Team 1 Site 350,Natrindo Telepon Seluler,Jl. Sindang Sari Rt 07/09,XL,107.66427,-6.90867,42,0,3 Kaki,BTS,2006,PLN,Sewa,-
+181,Antapani,Antapani Tengah,Team 1 Site 353,Tower Bersama Group,Jl. Terusan Jakarta 112,Telkomsel- Smartfren,107.655305,-6.912749,9,12,Pole Rooftop,BTS,-,PLN,Sewa,Tidak Diperbolehkan Masuk Ruang Selter
+182,Antapani,Antapani Tengah,Team 1 Site 354,Xl Axiata,Jl. Depok Raya,XL,107.657343,-6.914439,32,0,4 Kaki,BTS,-,PLN,Sewa,-
+183,Antapani,Antapani Tengah,Team 1 Site 355,Telkomsel,Jl. Cikampek Raya,Telkomsel,107.657434,-6.916226,42,0,4 Kaki,BTS,-,PLN,Sewa,-
+184,Kiara Condong,Sukapura,Team 1 Site 356,Hutchison Cp Telekomunication,Jl. Cidurian Utara No. 37 Rt 01/09,HCPT,107.653969,-6.934935,20,6,3 Kaki,BTS,2016,PLN,Sewa,Klinik Pratama Bhakti Sehat Waluya
+185,Kiara Condong,Sukapura,Team 1 Site 360,Telkomsel,Jl. Terusan Psm Rt 06/06,Telkomsel,107.652278,-6.930385,42,0,4 Kaki,BTS,-,PLN,Sewa,-
+186,Antapani,Antapani Kidul,Team 1 Site 362,Indosat,Jl. Randu Sari Raya,Indosat- Telkomsel- HCPT,107.660747,-6.926125,46,0,4 Kaki,BTS,2001,PLN,Sewa,-
+187,Antapani,Antapani Kidul,Team 1 Site 367,Natrindo Telepon Seluler,Jl. Sari Indah Rt 03/13,Axis- XL- Telkomsel- HCPT,107.654842,-6.921781,32,0,3 Kaki,BTS,2007,PLN,Sewa,-
+188,Kiara Condong,Babakan Sari,Team 1 Site 370,Indosat,Jl. Kampus 1 No. 39,Indosat,107.649542,-6.924715,3,12,Pole Rooftop,BTS,-,PLN,Sewa,-
+189,Kiara Condong,Babakan Sari,Team 1 Site 371,Telkomsel,Jl. Kiara Condong,Telkomsel,107.644968,-6.921815,20,6,4 Kaki,BTS,-,PLN,Sewa,-
+190,Antapani,Babakan Surabaya,Team 1 Site 376,Telkomsel,Jl. Terusan Jakarta No. 18A,Telkomsel,107.647246,-6.913365,15,0,Monopole,BTS,-,PLN,Sewa,-
+191,Antapani,Babakan Surabaya,Team 1 Site 377,Telkomsel,Jl. Terusan Jakarta (Griya),Telkomsel,107.645371,-6.914389,3,21,Pole Rooftop,BTS,-,PLN,Sewa,Tidak Bisa Masuk Harus Ada Surat Izin Telkomsel
+192,Kiara Condong,Babakan Surabaya,Team 1 Site 378,Natrindo Telepon Seluler,Jl. Atlas Barat No. 8,Axis,107.645973,-6.915026,15,6,Pole Rooftop,BTS,-,PLN,Sewa,Tidak Bisa Masuk Tidak Berpenghunil
+193,Kiara Condong,Kebon Jayanti,Team 1 Site 380,Telkomsel,Jl. Kiara Condong No. 277,Telkomsel,107.64429,-6.929052,20,6,3 Kaki,BTS,-,PLN,Sewa,Tidak Bisa Masuk Tidak Berpenghunil
+194,Kiara Condong,Kebon Kangkung,Team 1 Site 382,Xl Axiata,Jl. Ibrahim Adjie ( Kiara Condong No 321),XL- Indosat,107.643791,-6.931208,3,9,Pole Rooftop,BTS,-,PLN,Sewa,Tidak Diperbolehkan Masuk
+195,Kiara Condong,Sukapura,Team 1 Site 383,Xl Axiata,Jl. Terusan Gatot Subroto Samping Pindad,XL- Telkomsel-Smartfren,107.647203,-6.934843,42,0,4 Kaki,BTS,-,PLN,Sewa,Area Universitas Unjani
+196,Kiara Condong,Kebon Kangkung,Team 1 Site 386,Xl Axiata,Jl. Terusan Kiara Condong ,XL,107.642109,-6.944227,15,0,Microcell Pole,BTS,-,PLN,Sewa,-
+197,Batu Nunggal,Kebon Gedang,Team 1 Site 387,Protelindo,Jl. Kiara Condong,Telkomsel,107.644042,-6.925338,9,6,Pole Rooftop,BTS,-,PLN,Sewa,Tidak Diperbolehkan Masuk
+198,Batu Nunggal,Kebon Waru,Team 1 Site 388,Xl Axiata,Jl. Kiara Condong No. 92,XL,107.643407,-6.923157,42,0,4 Kaki,MSC,-,PLN,Sewa,-
+199,Cibenying Kidul,Pada Suka,Team 1 Site 390,Natrindo Telepon Seluler,Jl. Jendral Ahmad Yani,XL,107.654727,-6.902907,20,10,3 Kaki,BTS,-,PLN,Sewa,Gedung BPR (Tidak Berpenghuni)
+200,Cibenying Kidul,Pada Suka,Team 1 Site 392,Ibs,Jl. Jendral Ahmad Yani,Smartfren- Indosat- XL,107.65147,-6.90438,20,12,4 Kaki,BTS,-,PLN,Sewa,Ruko Tidak Diperbolehkan Masuk
+201,Cibenying Kidul,Pada Suka,Team 1 Site 396,Telkomsel,Jl. Jendral Ahmad Yani Rw. 07,Telkomsel,107.646424,-6.907041,4,8,Pole Rooftop,BTS,-,PLN,Sewa,Toko Sinar Surya
+202,Cibenying Kidul,Pasir Hayong,Team 1 Site 398,Telkomsel,Jl. Jendral Ahmad Yani No. 971,Telkomsel,107.657469,-6.902067,20,12,3 Kaki,BTS,-,PLN,Sewa,-
+203,Cibenying Kidul,Pada Suka,Team 1 Site 401,Natrindo Telepon Seluler,Jl. Cikutra No. 10,Axis,107.643873,-6.907999,15,8,3 Kaki,BTS,2010,PLN,Sewa,Tidak Diperbolehkan Masuk
+204,Cibeunying kaler,Cikutra,Team 1 Site 402,Xl Axiata,Jl. Jendral Ahmad Yani,XL,107.643869,-6.908652,6,18,Pole Rooftop,BTS,-,PLN,Sewa,-
+205,Cibenying Kidul,Cicadas,Team 1 Site 403,Tower Bersama Group,Jl. Jendral Ahmad Yani No. 393,Smartfren- Esia- NTS,107.638299,-6.911323,25,8,4 Kaki,BTS,2014,PLN,Sewa,Esia- NTS Off
+206,Cibenying Kidul,Cicadas,Team 1 Site 405,Telkomsel,Jl. Jendral Ahmad Yani,Telkomsel,107.639463,-6.910643,20,12,3 Kaki,BTS,-,PLN,Sewa,-
+207,Cibenying Kidul,Cicadas,Team 1 Site 406,Telkomsel,Jl. Sukamulus,Telkomsel,107.63753,-6.908271,6,12,Pole Rooftop,BTS,-,PLN,Sewa,-
+208,Cibenying Kidul,Cicadas,Team 1 Site 407,Daya Mitra Telekomunikasi,Jl. Asep Berlian No. 35,Telkomsel,107.640238,-6.907399,20,0,Microcell Pole,BTS,2016,PLN,Sewa,-
+209,Cibenying Kidul,Cicadas,Team 1 Site 409,Pt. Mas Sarana Jaya,Jl. Cikutra No. 7,XL- Axis,107.643812,-6.906786,6,16,Pole Rooftop,BTS,2012,PLN,Sewa,RS. Santo Yusuf
+210,Cibenying Kidul,Cikutra,Team 1 Site 411,Solusi Tunas Pratama,Jl. Cikutra ,Telkomsel- HCPT,107.641583,-6.904126,36,0,3 Kaki,BTS,-,PLN,Sewa,-
+211,Batu Nunggal,Kacapiring,Team 1 Site 413,Protelindo,Jl. Sukabumi Dalam No. 14B,XL- Smartfren,107.636714,-6.917611,12,12,Pole Rooftop,BTS,2013,PLN,Sewa,IMB dalam Proses
+212,Batu Nunggal,Kebon Waru,Team 1 Site 414,Radio Urban Fm,Jl. Anyar No. 52,Indosat,107.638417,-6.918204,20,12,4 Kaki,BTS,2000,PLN,Hak,Urban Radio
+213,Lengkong,Lengkong Selatan,Team 1 Site 416,Tower Bersama Group,Jl. Turangga Barat 111,XL,107.633838,-6.931932,45,0,4 Kaki,BTS,-,PLN,Sewa,-
+214,Batu Nunggal,Kacapiring,Team 1 Site 418,Natrindo Telepon Seluler,Jl. Jendral Ahmad Yani No. 326,NTS,107.634747,-6.912998,15,10,3 Kaki,BTS,2006,PLN,Sewa,Toko Lampu Tidak Aktif- NTS Off
+215,Batu Nunggal,Kacapiring,Team 1 Site 420,Xl Axiata,Jl. Jendral Ahmad Yani No. 432,XL,107.640922,-6.909825,20,12,4 Kaki,BTS,-,PLN,Sewa,TB Besi Kaca Intan Jaya
+216,Batu Nunggal,Kacapiring,Team 1 Site 421,Daya Mitra Telekomunikasi,Jl. Jendral Ahmad Yani No. 456,Telkomsel,107.641687,-6.909481,12,12,Pole Rooftop,BTS,-,PLN,Sewa,Toko Sales dan Servis Elektronik
+217,Kiara Condong,Babakan Surabaya,Team 1 Site 422,Telkomsel,Jl. Ibrahim Adjie,Telkomsel,107.644334,-6.911203,6,24,Pole Rooftop,BTS,-,PLN,Sewa,3 Pole
+218,Batu Nunggal,Kacapiring,Team 1 Site 424,Telkomsel,Jl. Cianjur,Telkomsel,107.633916,-6.915795,6,20,Pole Rooftop,BTS,-,PLN,Sewa,Informa
+219,Batu Nunggal,Kacapiring,Team 1 Site 425,Radio Maestro,Jl. Kacapiring No. 12,Indosat- Smartfren,107.628604,-6.918337,45,12,4 Kaki,BTS,-,PLN,Hak,Radio Maestro
+220,Batu Nunggal,Kacapiring,Team 1 Site 427,Xl Axiata,Jl. Ahmad Yani No. 249,XL,107.627546,-6.917167,10,0,Microcell Pole,BTS,-,PLN,Sewa,-
+221,Batu Nunggal,Kacapiring,Team 1 Site 428,Abdi Komunika,Jl. Laswi No. 12,Telkomsel,107.630349,-6.916982,42,16,4 Kaki,BTS,1996,PLN,Hak,Graha Agrodana
+222,Batu Nunggal,Gumuruh,Team 1 Site 431,Xl Axiata,Jl. Gumuruh,XL- HCPT,107.637956,-6.933895,36,0,3 Kaki,BTS,2006,PLN + GENSET,Sewa,-
+223,Batu Nunggal,Majeer,Team 1 Site 433,Xl Axiata,Jl. Gatot Subroto,XL,107.635369,-6.927198,6,16,Pole Rooftop,BTS,-,PLN,Sewa,Trans Studio Tidak Diperbolehkan Masuk Manajemen Libur
+224,Batu Nunggal,Majeer,Team 1 Site 434,Indosat,Jl. Gatot Subroto,Indosat,107.637185,-6.925338,6,16,Pole Rooftop,BTS,-,PLN,Sewa,Trans Studio Tidak Diperbolehkan Masuk Manajemen Libur
+225,Batu Nunggal,Majeer,Team 1 Site 435,Telkomsel,Jl. Gatot Subroto,Telkomsel,107.637204,-6.925313,10,16,3 Kaki,BTS,-,PLN,Sewa,Trans Studio Tidak Diperbolehkan Masuk Manajemen Libur
+226,Lengkong,Karang Anyar,Team 1 Site 436,Xl Axiata,Jl. Lengkong Besar,XL,107.613034,-6.92893,25,8,3 Kaki,BTS,-,PLN,Sewa,-
+227,Lengkong,Karang Anyar,Team 1 Site 437,Telkomsel,Jl. Lengkong Besar,Telkomsel,107.612868,-6.92876,6,12,Pole Rooftop,BTS,-,PLN,Sewa,-
+228,Lengkong,Cikawao,Team 1 Site 440,Telkomsel,Jl. Cikawao No. 18 Rt 001/008,Telkomsel- Indosat,107.614204,-6.927694,25,8,4 Kaki,BTS,-,PLN,Sewa,Avilla
+229,Batu Nunggal,Paledang,Team 1 Site 441,Indosat,Jl. Karapitan Sunda,Indosat- Esia- Telkomsel,107.617554,-6.923002,3,48,Pole Rooftop,BTS,-,PLN,Sewa,Gedung CIMB Niaga Manajemen Libur- Esia Off
+230,Batu Nunggal,Paledang,Team 1 Site 442,Xl Axiata,Jl. Sunda,XL,107.617574,-6.922983,6,48,Pole Rooftop,BTS,-,PLN,Sewa,Gedung CIMB Niaga Manajemen Libur
+231,Lengkong,Paledang,Team 1 Site 443,Telkomsel,Jl. Asia Afrika,Telkomsel,107.612185,-6.921908,12,0,Microcell Pole,BTS,-,PLN,Sewa,Wisma HSBC
+232,Lengkong,Paledang,Team 1 Site 444,Xl Axiata,Jl. Asia Afrika,XL,107.612097,-6.92184,10,0,Microcell Pole,BTS,-,PLN,Sewa,-
+233,Lengkong,Turangga,Team 1 Site 445,Xl Axiata,Jl. Terusan Buah Batu No. 281,XL,107.633121,-6.947499,6,12,Pole Rooftop,BTS,-,PLN,Sewa,-
+234,Bandung Kidul,Batu Nunggal,Team 1 Site 446,Telkomsel,Jl. Sekelimus Barat,Telkomsel,107.636267,-6.948899,52,0,4 Kaki,BTS,-,PLN,Sewa,Kantor PR
+235,Bandung Kidul,Batu Nunggal,Team 1 Site 447,Xl Axiata,Jl. Sekelimus Barat,XL,107.637066,-6.950024,36,0,3 Kaki,BTS,-,PLN,Sewa,-
+236,Rancasari,Cipamokolan,Team 1 Site 451,Telkomsel,Jl. Rancabolang,Telkomsel- HCPT,107.676864,-6.953813,36,0,Monopole,BTS,-,PLN,Sewa,-
+237,Buahbatu,Sekejati,Team 1 Site 452,Telkomsel,Jl. Soekarno Hatta,Telkomsel,107.659135,-6.943082,6,20,Pole Rooftop,BTS,-,PLN,Sewa,Metro Indah Mall
+238,Buahbatu,Cijagra,Team 1 Site 453,Telkomsel,Jl. Soekarno Hatta No. 526,Telkomsel,107.641052,-6.94625,6,10,Pole Rooftop,BTS,-,PLN,Sewa,CareFoure Kircon
+239,Andir,Maleber,Team 2 site 2,Daya Mitra Telekomunikasi,Jl. Jendral Sudirman No. 702 Rt 01/2,Telkomsel,107.57277,-6.916112,18,0,Microcell Pole,BTS,-,PLN,Sewa,-
+240,Bandung Kulon,Cijerah,Team 2 site 3,Xl Axiata,Gg. Mama Oto Rw.06,XL- Telkomsel- HCPT,107.570686,-6.913324,32,0,3 Kaki,BTS,-,PLN + GENSET,Sewa,-
+241,Bandung Kulon,Cigondewah,Team 2 site 6,Natrindo Telepon Seluler,Jl. Cigondewah Barat Gg. Mesjid H. Newan Rt 04/01,AXIS- HCPT,107.566069,-6.951223,32,0,4 Kaki,BTS,-,PLN,Sewa,-
+242,Bandung Kulon,Cigondewah Rahayu,Team 2 site 7,Tower Bersama Group,Jl. Taman Holis Rt 02/03,Telkomsel- HCPT- Flexi- Esia,107.561825,-6.948363,32,0,4 Kaki,BTS,-,PLN,Sewa,Flexi dan Esia Tidak aktif
+243,Bandung Kulon,Cigondewah Kidul,Team 2 site 8,Xl Axiata,Jl. Taman Holis Blok C1,XL,107.562924,-6.944399,20,0,4 Kaki,BTS,-,PLN + GENSET,Sewa,-
+244,Bandung Kulon,Cigondewah,Team 2 site 10,Tower Bersama Group,Jl. Cigondewah Rt 09/06,Telkomsel- HCPT- Smartfren,107.564602,-6.944795,32,0,4 Kaki,BTS,2014,PLN,Sewa,-
+245,Bandung Kulon,Cibuntu,Team 2 site 17,Tower Bersama Group,Jl. Cijerah Rt 04,XL Axiata- Telkomsel- HCPT- Indosat,107.566476,-6.926187,52,0,4 Kaki,BTS,-,PLN,Sewa,-
+246,Bandung Kulon,Cijerah,Team 2 site 20,Telkomsel,Jl. Melongasih Rt 07/08,Telkomsel,107.565552,-6.919398,6,12,Pole Rooftop,BTS,-,PLN,Sewa,-
+247,Bandung Kulon,Cibuntu,Team 2 site 21,Natrindo Telepon Seluler,Jl. Holis Rt 07/07,Smartfren- HCPT,107.686927,-6.95375,36,0,3 Kaki,BTS,-,PLN,Sewa,-
+248,Bandung Kulon,Cibuntu,Team 2 site 22,Xl Axiata,Taman Holis,XL,107.68674,-6.955451,25,7,4 Kaki,BTS,-,PLN,Sewa,-
+249,Babakan Ciparay,Margahayu Utara,Team 2 site 24,Tower Bersama Group,Jl. Terusan Holis Rt 01/10,Telkomsel,107.568437,-6.945369,32,0,4 Kaki,BTS,2015,PLN,Sewa,-
+250,Bandung Kulon,Gempol Asri,Team 2 site 25,Natrindo Telepon Seluler,Jl. Jati Blok F Bumi Asri,XL- AXIS- Telkomsel- Esia,107.554162,-6.934475,32,0,3 Kaki,BTS,-,PLN,Sewa,AXIS dan Esia Tidak Aktif
+251,Bandung Kulon,Warung Muncang,Team 2 site 29,Dian Swastika Sentosa (Dss),Jl. Holis No. 35,Smartfren,107.575983,-6.919818,9,10,Pole Rooftop,BTS,-,PLN,Sewa,-
+252,Bandung Kulon,Warung Muncang,Team 2 site 31,Telkomsel,Jl. Terusan Suryani Cibuntu Timur No.4 Rt 6,Telkomsel- XL Axiata,107.580133,-6.923406,32,0,4 Kaki,BTS,-,PLN,Sewa,-
+253,Bandung Kulon,Cibuntu,Team 2 Site 33,Dian Swastika Sentosa (Dss),Jl. Cijerah Rt. 03/03,Smartfren,107.566832,-6.92511,20,8,4 Kaki,BTS,-,PLN,Sewa,-
+254,Andir,Ciroyom,Team 2 Site 34,Tower Bersama Group,Jl. Rajawali Timur No. 11 Rt 08/06,XL Axiata- Telkomsel,107.585426,-6.915748,9,12,Pole Rooftop,BTS,-,PLN,Sewa,Tidak bisa masuk site
+255,Bandung Kulon,Cijerah,Team 2 Site 39,Hutchison Cp Telekomunication,Jl. Cijerah,HCPT,107.568224,-6.922626,3,12,Pole Rooftop,BTS,-,PLN,Sewa,Tidak ada siapa-siapa di site
+256,Bandung Kulon,Cibuntu,Team 2 Site 42,Telkomsel,Jl. H. Alfi Rt 03/01,Telkomsel,107.573243,-6.919558,25,0,Monopole,BTS,-,PLN,Sewa,Tidak bisa masuk
+257,Andir,Andir,Team 2 Site 43,Mobicell,Jl. Sudirman,Indosat,107.575878,-6.91697,15,10,4 Kaki,BTS,-,PLN,Sewa,-
+258,Andir,Andir,Team 2 Site 44,Telkomsel,Jl. Sudirman,Telkomsel,107.575583,-6.917311,15,10,4 Kaki,BTS,-,PLN,Sewa,-
+259,Andir,Dunguscariang,Team 2 Site 45,Xl Axiata,Gg. Ra Barnas 1 Rt 04/06,XL Axiata,107.581069,-6.913302,30,0,4 Kaki,BSC,-,PLN + GENSET,Sewa,-
+260,Andir,Dunguscariang,Team 2 Site 46,Protelindo,Jl. Ciroyom No. 155 Rt 01/02,Telkomsel- XL Axiata,107.579575,-6.908666,9,8,Pole Rooftop,BTS,-,PLN,Sewa,IMB dalam Proses
+261,Andir,Dunguscariang,Team 2 Site 47,Natrindo Telepon Seluler,Jl. Garuda No. 115,Telkomsel- HCPT- MTS,107.578736,-6.908947,20,12,3 Kaki,BTS,-,PLN,Sewa,-
+262,Andir,Ciroyom,Team 2 Site 49,Daya Mitra Telekomunikasi,Jl. Ciroyom (Pasar Ciroyom),Smartfren- Telkomsel,107.587172,-6.914056,9,10,Pole Rooftop,BTS,-,PLN,Sewa,-
+263,Andir,Ciroyom,Team 2 Site 51,Telkomsel,Jl. Sudirman Rt 01/03,Telkomsel,107.589785,-6.918962,3,12,Pole Rooftop,BTS,-,PLN,Sewa,-
+264,Babakan Ciparay,Sukahaji,Team 2 Site 52,Xl Axiata,Jl. Jamika No. 96,XL Axiata,107.585576,-6.922843,12,16,3 Kaki,BTS,-,PLN,Sewa,-
+265,Bandung Kulon,Cijerah,Team 2 Site 53,Xl Axiata,Jl. Mekar Indah Rt 08/08,XL Axiata,107.56503,-6.923194,25,0,3 Kaki,BTS,-,PLN + GENSET,Sewa,-
+266,Bandung Kulon,Cijerah,Team 2 Site 54,Telkomsel,Jl. Mekar Indah No. 1 Rt 08/08,Telkomsel,107.565003,-6.923369,32,0,Monopole,BTS,-,PLN,Sewa,-
+267,Andir,Maleber,Team 2 Site 55,Telkomsel,Jl. Maleber Barat No. 52,Telkomsel,107.571036,-6.907733,9,10,Pole Rooftop,BTS,-,PLN,Sewa,-
+268,Andir,Jamika,Team 2 Site 61,Telkomsel,Jl. Cibadak No. 336,Telkomsel,107.592893,-6.919689,9,12,3 Kaki,BTS,-,PLN,Sewa,-
+269,Andir,Jamika,Team 2 Site 62,Telkomsel,Jl. Jendral Sudirman,Telkomsel,107.586235,-6.91879,9,9,Pole Rooftop,BTS,-,PLN,Sewa,-
+270,Andir,Garuda,Team 2 Site 63,Indosat,Jl. Cibeureum,Indosat,107.568017,-6.908287,6,25,Pole Rooftop,BTS,-,PLN,Sewa,-
+271,Andir,Garuda,Team 2 Site 64,Xl Axiata,Jl. Cibeureum No. 14,XL Axiata- HCPT- Smartfren,107.568487,-6.907955,31,0,3 Kaki,BTS,-,PLN + GENSET,Sewa,-
+272,Babakan Ciparay,Babakan,Team 2 Site 68,Daya Mitra Telekomunikasi,Jl. Caringin Blok Kopat,NTS,107.57339,-6.943425,12,15,Pole Rooftop,BTS,-,PLN,Sewa,-
+273,Babakan Ciparay,Babakan Ciparay,Team 2 Site 71,Tower Bersama Group,Jl. Caringin No. 113,HCPT- Telkomsel- Smartfren,107.582082,-6.945399,3,12,Pole Rooftop,BTS,-,PLN,Sewa,-
+274,Babakan Ciparay,Babakan Ciparay,Team 2 Site 72,Tritunggal Putra Perkasa,Jl. Caringin Rt 02/05,XL,107.578507,-6.94359,15,10,3 Kaki,BTS,2016,PLN,Sewa,-
+275,Babakan Ciparay,Babakan Ciparay,Team 2 Site 74,Xl Axiata,Jl. Makan Caringin Rt 04/02,XL,107.583416,-6.947519,6,8,Pole Rooftop,BTS,-,PLN,Sewa,-
+276,Babakan Ciparay,Margahayu Utara,Team 2 Site 76,Telkomsel,Jl. Margagjaya Iii,Telkomsel,107.576116,-6.949438,52,0,4 Kaki,BTS,-,PLN,Sewa,-
+277,Babakan Ciparay,Margahayu Utara,Team 2 Site 77,Xl Axiata,Jl. Margajaya,NTS- HCPT- XL- Indosat,107.577473,-6.948699,32,0,3 Kaki,BTS,-,PLN + GENSET,Sewa,-
+278,Babakan Ciparay,Margasuka,Team 2 Site 83,Telkomsel,Jl. Kopo Mas Regency 9D,Telkomsel,107.579849,-6.959115,15,10.5,Pole Rooftop,BTS,-,PLN,Sewa,Tidak Boleh Masuk Harus Ada Surat Izin Dari Telkomsel
+279,Babakan Ciparay,Margasuka,Team 2 Site 84,Daya Mitra Telekomunikasi,Jl. Kopo Mas Regency,HCPT- XL,107.578526,-6.95803,6,10.5,Pole Rooftop,BTS,-,PLN,Sewa,Tidak Ada Siapa-Siapa di Site
+280,Babakan Ciparay,Cilangrang,Team 2 Site 85,Pt. Mas Sarana Jaya,Jl. Kopo No. 599,Telkomsel- Indosat- XL- HCPT- Smartfren,107.581516,-6.960136,3,20,Pole Rooftop,BTS,2011,PLN,Sewa,Di Miko Mall Ada 8 Pole
+281,Babakan Ciparay,Cilangrang,Team 2 Site 87,Xl Axiata,Jl. Cirangrang Timur Rt 03/02,Telkomsel- XL,107.58698,-6.955292,55,0,4 Kaki,BTS,2003,PLN,Sewa,-
+282,Babakan Ciparay,Margasuka,Team 2 Site 89,Telkomsel,Jl. Kopo Cirangrang No. 550,Telkomsel,107.583183,-6.955487,6,10,Pole Rooftop,BTS,2015,PLN,Sewa,KWH Disegel 
+283,Babakan Ciparay,Cilangrang,Team 2 Site 90,Telkomsel,Jl. Kopo No. 469 Rt 02/01,Telkomsel,107.585402,-6.952469,20,8,3 Kaki,BTS,2007,PLN,Sewa,-
+284,Babakan Ciparay,Babakan Ciparay,Team 2 Site 95,Telkomsel,Komp. Taman Surya Indah Jl. Soekarno Hatta No. 150,Telkomsel,107.581071,-6.938319,20,10.5,3 Kaki,BTS,-,PLN,Sewa,-
+285,Babakan Ciparay,Babakan Ciparay,Team 2 Site 97,Tower Bersama Group,Jl. Babakan Ciparay 108,Telkomsel- Smartfren- Esia- Flexi,107.583343,-6.941608,52,0,4 Kaki,BTS,-,PLN,Sewa,Esia dan Flexi Tidak Aktif
+286,Bojong Loa Kidul,Kebun loya,Team 2 Site 105,Radio Rama,Jl. Blora Selatan No. 37,Telkomsel- Smartfren,107.600964,-6.942812,72,0,4 Kaki,BTS,-,PLN,Sewa,-
+287,Bojong Loa Kidul,Kebun loya,Team 2 Site 106,Protelindo,Jl. Blora Sari 1 No 41 Rt 01/02,XL,107.599957,-6.944564,3,8,Pole Rooftop,BTS,-,PLN,Sewa,-
+288,Bojong Loa Kidul,Situ Subur,Team 2 Site 107,Solusi Tunas Pratama,Jl. Kebon Loya 2 Rt 11/04,Esia- HCPT,107.597119,-6.941062,42,0,4 Kaki,BTS,-,PLN,Sewa,Esia Tidak Aktif
+289,Bojong Loa Kidul,Situ Subur,Team 2 Site 108,Xl Axiata,Jl. Leuwi Panjang Kebon Lega 2 Rt 13/04,XL,107.597544,-6.941596,32,0,4 Kaki,BTS,2000,PLN + GENSET,Sewa,-
+290,Bojong Loa kaler,Babakan Asih,Team 2 Site 110,Protelindo,Jl. Kopo 178 Rt 04/03,XL,107.595814,-6.934473,3,12,Pole Rooftop,BTS,-,PLN,Sewa,-
+291,Bojong Loa Kidul,Mekar Wangi,Team 2 Site 118,Telkomsel,Jl. Mekar Wangi Laksana,Telkomsel,107.605548,-6.953196,6,12,Pole Rooftop,BTS,-,PLN,Sewa,-
+292,Bojong Loa Kidul,Mekar Wangi,Team 2 Site 119,Xl Axiata,Babakan Muslimin Rt 03/06,XL,107.609037,-6.955594,6,10,Pole Rooftop,BTS,-,PLN,Sewa,-
+294,Bojong Loa Kidul,Mekar Wangi,Team 2 Site 124,Telkomsel,Jl. Soekarno Hatta No. 378,Telkomsel,107.600934,-6.948219,9,12,Pole Rooftop,BTS,-,PLN,Sewa,-
+295,Bojong Loa Kidul,Situ Saur,Team 2 Site 127,Telkomsel,Jl. Peta,Telkomsel,107.597459,-6.937915,36,8,4 Kaki,BTS,-,PLN,Sewa,Menara Tidak Aktif
+296,Bojong Loa Kidul,Kebon Lega,Team 2 Site 128,Xl Axiata,Jl. Soekarno Hatta No. 162,XL,107.597728,-6.948119,12,16,3 Kaki,BTS,-,PLN,Sewa,-
+297,Babakan Ciparay,Babakan,Team 2 Site 130,Daya Mitra Telekomunikasi,Jl. Soekarno Hatta No. 162,Telkomsel,107.577995,-6.935259,25,0,Microcell Pole,BTS,2016,PLN,Sewa,-
+298,Babakan Ciparay,Sukahaji,Team 2 Site 133,Xl Axiata,Jl. Pagarsih Barat,HCPT,107.584348,-6.921888,18,12,3 Kaki,BTS,-,PLN,Sewa,Menara Tidak Aktif
+299,Babakan Ciparay,Babakan,Team 2 Site 136,Telkomsel,Jl. Taman Lili Gardania,Telkomsel,107.580812,-6.929174,62,-,4 Kaki,MSC,-,PLN,Sewa,-
+300,Andir,Kebon Jeruk,Team 2 Site 137,Telkomsel,Jl. Kebon Jati No. 152,Telkomsel,107.596126,-6.915755,3,12,Pole Rooftop,BTS,-,PLN,Sewa,-
+301,Andir,Kebon Jeruk,Team 2 Site 139,Dian Swastika Sentosa (Dss),Jl. Pasir Kaliki No 22,HCPT- Smartfren,107.597961,-6.915299,15,9,4 Kaki,BTS,-,PLN,Sewa,-
+302,Regol,Wates,Team 2 Site 140,Smartfren,Jl. Mohammad Toha No. 380,Smartfren,107.61268,-6.958499,15,11,Pole Rooftop,BTS,2017,PLN,Sewa,Smartfren Baru
+303,Regol,Ciseureuh,Team 2 Site 142,Telkomsel,Jl. Mohammad Toha,Telkomsel,107.61045,-6.951763,6,8,Pole Rooftop,BTS,-,PLN,Sewa,-
+304,Regol,Wates,Team 2 Site 143,Smartfren,Jl. Mohammad Toha No. 279,XL- Smartfren- Esia,107.610452,-6.951799,16,8,4 Kaki,BTS,-,PLN,Sewa,XL Belum Aktif- Esia Tidak Aktif
+305,Regol,Ciseureuh,Team 2 Site 145,Daya Mitra Telekomunikasi,Jl. Mohammad Toha No. 355 D,Telkomsel,107.611846,-6.954718,6,14,Pole Rooftop,BTS,2016,PLN,Sewa,-
+306,Regol,Pasir Luyu,Team 2 Site 148,Daya Mitra Telekomunikasi,Jl. Menggar Girang 1 No. 39,Telkomsel- HCPT,107.615906,-6.951856,15,8,3 Kaki,BTS,-,PLN,Sewa,Mesjid Pasantren Nurohmah
+307,Regol,Pasri Luyu,Team 2 Site 149,Xl Axiata,Jl. Mengger 1 No. 39,XL,107.616001,-6.951891,9,10,Pole Rooftop,BTS,-,PLN,Sewa,Pesantren Nurohmah
+308,Regol,Mengger,Team 2 Site 150,Tower Bersama Group,Jl. Kutra Raya No. 2,Indosat- XL- H3i,107.622156,-6.955885,50,0,4 Kaki,BTS,2001,PLN,Sewa,-
+309,Bandung Kidul,Mengger,Team 2 Site 151,Telkomsel,Jl. Sukamanah No. 102 Rt 03/02,Telkomsel,107.622509,-6.956775,36,0,4 Kaki,BTS,-,PLN,Sewa,-
+310,Regol,Pasir Luyu,Team 2 Site 154,Telkomsel,Jl. Soekarno Hatta No. 438,Telkomsel,107.618777,-6.94928,14,0,Combat,BTS,-,PLN,Sewa,-
+311,Regol,Ancol,Team 2 Site 159,Protelindo,Jl. Pasir Salam Raya 1 No. 36,XL,107.619172,-6.945241,25,0,Monopole,BTS,2009,PLN,Sewa,IMB dalam Proses
+312,Regol,Ancol,Team 2 Site 160,Tower Bersama Group,Jl. Pasir Salam Rt 06/09,HCPT- Smartfren- Telkomsel,107.618325,-6.94391,30,0,Monopole,BTS,-,PLN,Sewa,-
+313,Regol,Ciseureuh,Team 2 Site 161,Protelindo,Jl. Mohammad Toha No. 49,XL,107.606872,-6.941031,8,8,Pole Rooftop,BTS,2012,PLN,Sewa,IMB dalam Proses
+314,Regol,Ciseureuh,Team 2 Site 162,Smartfren,Jl. Babakan Priangan Iii,Smartfren,107.612896,-6.94741,6,9,Pole Rooftop,BTS,2017,GENSET,Sewa,New Site
+315,Bojong Loa Kaler,Jamika,Team 2 Site 163,Telkomsel,Jl. Pagarsih No. 142 Rt 10/04,Telkomsel,107.591758,-6.922633,9,12,3 Kaki,BTS,-,PLN,Sewa,-
+316,Astana Anyar,Cibabat,Team 2 Site 164,Xl Axiata,Jl. H. Supari No. 51,XL,107.596637,-6.925184,9,8,Pole Rooftop,BTS,-,PLN,Sewa,-
+317,Bojong Loa Kidul,Cibaduyut,Team 2 Site 168,Natrindo Telepon Seluler,Jl. Ciparay Tengah No. 3 Rt 05/01,AXIS,107.592848,-6.962134,32,0,3 Kaki,BTS,-,PLN,Sewa,Site Sudah Tidak Aktif
+318,Bojong Loa Kidul,Cibaduyut Wetan,Team 2 Site 169,Telkomsel,Jl. Anta Boga No. 2 ,Telomsel,107.595426,-6.959352,15,0,Monopole,BTS,-,PLN,Sewa,Kawasan TVRI
+319,Bojong Loa Kidul,Cibaduyut,Team 2 Site 171,Telkomsel,Jl. Cibaduyut Raya No. 142,Telkomsel,107.592709,-6.955679,12,8,3 Kaki,BTS,-,PLN,Sewa,-
+320,Andir,Cibadak,Team 2 Site 174,Telkomsel,Jl. Jendral Sudirman No. 21 A,Telkomsel,107.596322,-6.91992,20,11,4 Kaki,BTS,-,PLN,Sewa,Toko Selalu tutup
+321,Astana Anyar,Cibadak,Team 2 Site 175,Natrindo Telepon Seluler,Jl. Cibadak,Tidak Teridentifikasi,107.593837,-6.921409,32,0,Monopole,BTS,2006,PLN,Sewa,Menara Tidak Aktif
+322,Astana Anyar,Astana Anyar,Team 2 Site 177,Telkomsel,Jl. Astana Anyar No.,XL- HCPT- Telkomsel,107.59933,-6.925128,20,13,3 Kaki,BTS,2004,PLN,Sewa,-
+323,Astana Anyar,Nyengseret,Team 2 Site 179,Telkomsel,Jl. Pajagalan No. 89,Telkomsel,107.600554,-6.928283,20,11,3 Kaki,BTS,-,PLN,Sewa,Tidak ada Orang Rumah Kosong
+324,Astana Anyar,Panjuhan,Team 2 Site 181,Xl Axiata,Jl. Kopo No. 38A,Xl- Telkomsel- HCPT,107.597536,-6.928882,15,11,3 Kaki,BTS,-,PLN,Sewa,Toko tutup
+325,Astana Anyar,Panjuhan,Team 2 Site 182,Natrindo Telepon Seluler,Jl. Kopo No.,Tidak Teridentifikasi,107.597851,-6.927239,3,8,Pole Rooftop,BTS,-,PLN,Sewa,6 pole Belum Aktif Tidak Ada Antena Toko Tutup
+326,Astana Anyar,Pelindung Hewan,Team 2 Site 183,Telkomsel,Jl. Inhoftank No. 21,Telkomsel,107.603118,-6.938996,3,12,Pole Rooftop,BTS,2016,PLN,Sewa,Menara Belum Aktif
+327,Astana Anyar,Pelindung Hewan,Team 2 Site 184,Smartfren,Jl. Inhoftank No. 29 M,Smartfren,107.60313,-6.939331,9,8,Pole Rooftop,BTS,2016,PLN,Sewa,Tidak Ada Siapa-siapa Tutup
+328,Regol,Ancol,Team 2 Site 189,Smartfren,Jl. Ancol Timur 10,Smartfren,107.61727,-6.935759,10,14,Pole Rooftop,BTS,2016,PLN,Sewa,Tidak Ada Siapa-siapa
+329,Regol,Ancol,Team 2 Site 190,Protelindo,Jl. Srimahi Dalam No. 289,XL,107.615803,-6.935805,7,8,Pole Rooftop,BTS,-,PLN,Sewa,IMB dalam Proses
+330,Regol,Cigelereng,Team 2 Site 193,Radio Garuda Fm 105.5,Jl. M. Ramdhan No. 49A,Indosat,107.612881,-6.935113,58,0,4 Kaki,BTS,1997,PLN,Hak,-
+331,Regol,Ciateul,Team 2 Site 194,Protelindo,Jl. M. Ramdhan No. 5,XL,107.614687,-6.932656,9,9,Pole Rooftop,BTS,-,PLN,Sewa,Tidak Ada Siapa-siapa Tutup
+332,Astana Anyar,Pungkur,Team 2 Site 196,Pt Ma Xl,Jl. Pungkur No. 9,HCPT- Indosat,107.606295,-6.928183,9,20,Pole Rooftop,BTS,-,PLN,Sewa,3m 8 Pole- 9m 1 Pole ITC Kebon Kelapa 
+333,Astana Anyar,Pungkur,Team 2 Site 198,Protelindo,Jl. Pungkur No. 4,XL,107.606325,-6.928839,7,20,Pole Rooftop,BTS,-,PLN,Sewa,3 Pole ITC Kebon Kelapa
+334,Regol,Pungkur,Team 2 Site 200,Natrindo Telepon Seluler,Jl. Pungkur (Abdul Muis) No. 49 B,NTS,107.605347,-6.927361,15,11,3 Kaki,BTS,-,PLN,Sewa,Menara Tidak Aktif Gereja Yesus Sejati
+335,Regol,Pungkur,Team 2 Site 201,Telkomsel,Jl. Pungkur,Telkomsel,107.607002,-6.927542,20,7,4 Kaki,BTS,-,PLN,Sewa,Toko Tutup
+336,Astana Anyar,Nyengseret,Team 2 Site 209,Hutchison Cp Telekomunication,Jl. Oto Iskandar Dinata,Telkomsel- HCPT,107.603044,-6.935261,9,11,Pole Rooftop,BTS,-,PLN,Sewa,Mercy Duta Phone
+337,Regol,Citroen,Team 2 Site 212,Natrindo Telepon Seluler,Jl. Mengger Girang,Natrindo Telepon Seluler,107.603036,-6.931232,3,27,Combat,BTS,-,PLN,Sewa,Ada Foto Tidak Ada  Form
+338,Babakan Ciparay,Jamika,Team 2 Site 214,Natrindo Telepon Seluler,Jl. Terusan Pasir Koja,NTS,107.588288,-6.9261,36,0,Monopole,BTS,2006,PLN,Sewa,-
+339,Sumur Bandung,Kebon Pisang,Team 2 Site 216,Indosat,Jl. Ahmad Yani,Indosat,107.618451,-6.921881,15,16,Pole Rooftop,BTS,-,PLN,Sewa,Tidak Ada Siapa-siapa Tutup
+340,Lengkong,Malabar,Team 2 Site 217,Telkomsel,Jl. Gatot Subroto No. 9,Telkomsel,107.618404,-6.922514,15,11,3 Kaki,BTS,-,PLN,Sewa,-
+341,Sumur Bandung,Kebon Pisang,Team 2 Site 218,Daya Mitra Telekomunikasi,Jl. Sundono No. 34 A,Tidak teridentifikasi,107.617828,-6.920148,15,10,3 Kaki,BTS,-,PLN,Sewa,Menara Belum Aktif
+342,Sumur Bandung,Kebon Pisang,Team 2 Site 219,Yogya Group,Jl. Sunda No. 83,Tidak teridentifikasi,107.618041,-6.91778,25,15,4 Kaki,BTS,-,PLN,Sewa,Tidak Ada Operator
+343,Sumur Bandung,Kebon Pisang,Team 2 Site 222,Telkomsel,Jl. Naripan No. 57-59,Telkomsel,107.614107,-6.920434,6,20,Pole Rooftop,BTS,-,PLN,Sewa,3 Pole
+344,Regol,Balong Gede,Team 2 Site 223,Daya Mitra Telekomunikasi,Jl. Dalem Kaum No. 54,Telkomsel,107.605886,-6.922394,6,24,Pole Rooftop,BTS,2013,PLN,Sewa,-
+345,Regol,Balong Gede,Team 2 Site 224,Xl Axiata,Jl. Dalem Kaum No. 54,XL,107.606215,-6.922443,6,24,Pole Rooftop,BTS,-,PLN,Sewa,2 Pole
+346,Regol,Balong Gede,Team 2 Site 225,Xl Axiata,Jl. Dewi Sartika,XL,107.60618,-6.923858,12,0,Microcell Pole,MSC,2015,PLN,Sewa,Bahu Jalan Yogya MCP
+347,Regol,Balong Gede,Team 2 Site 226,Indotek Jaya Lestari,Jl. Dalem Kaum,Telkomsel,107.606012,-6.923928,7,0,Combat,BTS,-,PLN,Sewa,BTS Nempel Di Dinding  Epidemic X Gray Scale
+348,Regol,Balong Gede,Team 2 Site 227,Telkomsel,Jl. Dalem Kaum,Telkomsel,107.6056,-6.923532,6,24,Pole Rooftop,BTS,2013,PLN,Sewa,2 Pole
+349,Regol,Kebon Pisang,Team 2 Site 228,Ibs,Jl. Dalem Kaum,Tidak teridentifikasi,107.605021,-6.92213,6,20,Pole Rooftop,BTS,-,PLN,Sewa,3 Pole- Menara Tidak Diketahui Operator Tidak Aktif
+350,Sumur Bandung,Sumur Bandung,Team 2 Site 229,Telkomsel,Jl. Asia Afrika No. 57-59,Telkomsel,107.607506,-6.920673,6,60,Pole Rooftop,BTS,-,PLN,Sewa,6M 2 Pole- 3M 5 Pole- Bank BRI
+351,Sumur Bandung,Sumur Bandung,Team 2 Site 230,Indosat,Jl. Braga,Indosat,107.609942,-6.91945,6,12,Pole Rooftop,BTS,-,PLN,Sewa,Toko Kacamata
+352,Cicendo,Sukaraja,Team 2 Site 233,Lita Fm,Jl. Budi No. 42,Tidak teridentifikasi,107.558706,-6.890928,45,0,4 Kaki,BTS,-,PLN,Hak,Sudah Tidak Ada Operator
+353,Cicendo,Sukaraja,Team 2 Site 235,Tower Bersama Group,Jl. Bumi Sugih,HCPT- Telkomsel- Indosat- Smartfren,107.558519,-6.88933,30,0,4 Kaki,BTS,-,PLN,Sewa,-
+354,Andir,Cempaka,Team 2 Site 238,Hutchison Cp Telekomunication,Jl. Babakan Cianjur No. 27 Rt 02/07,HCPT,107.565137,-6.893907,8,12,Pole Rooftop,BTS,2012,PLN,Sewa,-
+355,Cicendo,Cempaka,Team 2 Site 240,Daya Mitra Telekomunikasi,Jl. Gunung Batu No. 201,Telkomsel- XL,107.567366,-6.889653,12,11,Pole Rooftop,BTS,2012,PLN,Sewa,-
+356,Cicendo,Cempaka,Team 2 Site 241,Smartfren,Jl. Gunung Batu No. 201,Smartfren,107.56756,-6.889591,12,11,Pole Rooftop,BTS,2017,PLN,Sewa,Ruko Mapple
+357,Cicendo,Sukaraja,Team 2 Site 243,Natrindo Telepon Seluler,Jl. Agusta,Xl- NTS,107.572872,-6.895116,36,0,Monopole,BTS,-,PLN,Sewa,Komplek Auki- NTS tidak Aktif
+358,Sukajadi,Sukawarna,Team 2 Site 249,Solusi Tunas Pratama,Jl. Surya Sumantri Kav. 8 B,H3I,107.581215,-6.881535,15,12,3 Kaki,BTS,2006,PLN,Sewa,-
+359,Sukajadi,Sukagalih,Team 2 Site 251,Xl Axiata,Jl. Surya Sumatri No. 32,XL,107.582177,-6.889228,3,16,Pole Rooftop,BTS,-,PLN,Sewa,Hotel Verona
+360,Sukajadi,Sukawarna,Team 2 Site 254,Telkomsel,Jl. Surya Sumantri,Telkomsel- XL,107.580966,-6.885379,3,52,Pole Rooftop,BTS,-,PLN,Sewa,Kampus Maranata
+361,Sukajadi,Sukawarna,Team 2 Site 255,Tidak Teridentifikasi,Jl. Surya Sumantri No. 91,XL- Telkomsel- Indosat- Smartfren,107.580876,-6.883462,3,60,Pole Rooftop,BTS,-,PLN,Sewa,3 pemilik- 6 Pole- Hotel Majesty
+362,Bojong Loa Kaler,Sukaasih,Team 2 Site 259,Daya Mitra Telekomunikasi,Jl. Babakan Ciparay,Telkomsel,107.58484,-6.930082,3,12,Pole Rooftop,BTS,2016,PLN,Sewa,-
+363,Cicendo,Husein,Team 2 Site 260,Tidak Teridentifikasi,Jl. Husein,HCPT- Smartfren,107.572285,-6.903236,36,0,4 Kaki,BTS,-,PLN,Sewa,Komplek AURI
+364,Andir,Maleber,Team 2 Site 261,Telkomsel,Jl. Maleber No. 112 Rt 06/06,Telkomsel,107.572119,-6.903556,5,8,Pole Rooftop,BTS,-,PLN,Sewa,-
+365,Andir,Maleber,Team 2 Site 262,Telkomsel,Jl. Maleber No.. 12 A,Telkomsel,107.576179,-6.906072,3,8,Pole Rooftop,BTS,-,PLN,Sewa,-
+366,Cicendo,Arjuna,Team 2 Site 266,Telkomsel,Jl. Indosari No. 11 C  Rt 11/08,Telkomsel,107.591575,-6.913427,12,0,Microcell Pole,BTS,-,PLN,Sewa,-
+367,Cicendo,Arjuna,Team 2 Site 267,Tidak Teridentifikasi,Jl. Paskal,Unidentifikasi,107.597552,-6.914505,3,16,Pole Rooftop,BTS,-,PLN,Sewa,Tidak diketahui pemiliknya Tidak ada managemen AmnEsia Club Karaoke 
+368,Cicendo,Arjuna,Team 2 Site 268,Smartfren,Jl. Pasir Kaliki,Smartfren,107.598013,-6.911272,3,12,Pole Rooftop,BTS,-,PLN,Sewa,SMAN 6 Bandung
+369,Cicendo,Arjuna,Team 2 Site 269,Telkomsel,Jl. Pasir Kaliki,Telkomsel,107.597764,-6.910776,42,0,4 Kaki,BTS,-,PLN,Sewa,-
+370,Cicendo,Arjuna,Team 2 Site 271,Telkomsel,Jl. Samiaji Rt 10/05,Telkomsel,107.595063,-6.908947,5,9,Pole Rooftop,BTS,-,PLN,Sewa,-
+371,Cicendo,Arjuna,Team 2 Site 272,Xl Axiata,Jl. Kresna No. 32,XL,107.593603,-6.909399,15,11,4 Kaki,BTS,-,PLN,Sewa,-
+372,Cicendo,Arjuna,Team 2 Site 273,Telkomsel,Jl. Pajagalan No. 123 C,Telkomsel,107.590548,-6.907159,15,0,Microcell Pole,BTS,-,PLN,Sewa,Sebelah Alfa
+373,Cicendo,Arjuna,Team 2 Site 274,Xl Axiata,Jl. Pajagalan No.,XL,107.589184,-6.906902,6,11,Pole Rooftop,BTS,-,PLN,Sewa,Bank BCA
+375,Cicendo,Pajajaran,Team 2 Site 280,Smartfren,Jl. Pajajaran No. 94,Smartfren- HCPT,107.591869,-6.906903,3,16,Pole Rooftop,BTS,-,PLN,Sewa,Mega Cell
+376,Cicendo,Pamoyanan,Team 2 Site 281,Smartfren,Jl. Pasir Kaliki,Smartfren,107.596781,-6.902112,6,11,Pole Rooftop,BTS,2017,PLN,Sewa,Baru Menara Belum Aktif
+378,Cicendo,Pamoyanan,Team 2 Site 283,Telkomsel,Jl. Dr. Junjunan,Telkomsel,107.589189,-6.895646,3,20,Pole Rooftop,BTS,-,PLN,Sewa,RS. Hermina
+380,Bojong Loa Kidul,Kebon Lega,Team 2 Site 288,Xl Axiata,Jl. Cibaduyut No. 32 Rt 07/07,XL- HCPT,107.591262,-6.94769,32,0,3 Kaki,BTS,-,PLN,Sewa,-
+381,Sukajadi,Sukabunga,Team 2 Site 289,Xl Axiata,Jl. Sukajadi No. 16,XL,107.597336,-6.895785,20,10,4 Kaki,BTS,-,PLN,Sewa,-
+383,Sukajadi,Cipedes,Team 2 Site 293,Solusi Tunas Pratama,Jl. Sukajadi,Esia- HCPT,107.59707,-6.894556,3,11,Pole Rooftop,BTS,-,PLN,Sewa,Esia Off- Menara Sudah Tidak Aktif Indah Foto Elektronik
+384,Sukajadi,Sukajadi,Team 2 Site 294,Indosat,Jl. Sukajadi No. 84,Indosat,107.597134,-6.892128,6,12,Pole Rooftop,BTS,-,PLN,Sewa,Toko Abadi
+385,Sukajadi,Pasteur,Team 2 Site 298,Protelindo,Jl. Sukajadi,HCPT,107.596872,-6.88519,9,20,Pole Rooftop,BTS,2015,PLN,Sewa,Noval Hotel
+386,Sukajadi,Pasteur,Team 2 Site 299,Natrindo Telepon Seluler,Jl. Sukajadi,AXIS,107.596814,-6.885118,9,10,Pole Rooftop,BTS,-,PLN,Sewa,Menara Sudah Tidak Aktif Noval Hotel
+387,Sukajadi,Pasteur,Team 2 Site 300,Telkomsel,Jl. Sukajadi No. 152 C,Telkomsel,107.597338,-6.88837,20,8,3 Kaki,BTS,2004,PLN,Sewa,-
+388,Sukajadi,Cipedes,Team 2 Site 307,Telkomsel,Jl. Babakan Caringin,Telkomsel,107.587598,-6.888278,42,0,4 Kaki,BTS,-,PLN,Sewa,-
+389,Sukajadi,Sukagalih,Team 2 Site 308,Protelindo,Jl. Cipedes Tengah,XL,107.59079,-6.881884,3,8,Pole Rooftop,BTS,-,PLN,Sewa,-
+390,Sukajadi,Sukagalih,Team 2 Site 309,Telkomsel,Jl. Setra Indah 3,Telkomsel,107.589586,-6.883379,30,0,Minaret Di Masjid,BTS,2001,PLN,Sewa,-
+391,Sukajadi,Sukagalih,Team 2 Site 310,Milik Mesjid,Jl. Cipedes Tengah 1,Telkomsel- Indosat,107.589555,-6.879126,25,0,Minaret Di Masjid,BTS,-,PLN,Sewa,Mesjid Hasanu Rohmah
+392,Sukajadi,Pasteur,Team 2 Site 317,Protelindo,Jl. Sukajadi No. 62 Rt /10,Xl- Indosat,107.599189,-6.892192,8,11,Pole Rooftop,BTS,-,PLN,Sewa,Tutup X Plus- IMB dalam Proses
+393,Cicendo,Pajajaran,Team 2 Site 318,Pwu (Prima Indra Utama),Jl. Pasir Kaliki,Tidak Teridentifikasi,107.596758,-6.906257,5,24,Pole Rooftop,BTS,-,PLN,Sewa,Pa Alfa Istana Plasa Harus Ada Surat izin Indosat
+394,Cicendo,Pajajaran,Team 2 Site 319,Smartfren,Jl. Pasir Kaliki ( Gedung Black Berry),Smartfren,107.597481,-6.904986,11,0,Combat,BTS,-,PLN,Sewa,Sebrang IP Menempel Ke Papan Reklame
+395,Cicendo,Pajajaran,Team 2 Site 320,Ibs,Jl.  Dr. Junjunan No. 143-149,Smartfren- Indosat- Xl- Esia- Telkomsel,107.585378,-6.893451,6.3,36,Pole Rooftop,BTS,-,PLN,Sewa,6M 4Pole- 3M 6 Pole- BTC Pasteur Harus Ada Id Card Dinas
+396,Sukajadi,Sukagalih,Team 2 Site 322,Xl Axiata,Jl.  Dr. Junjunan No. 116,XL- Indosat,107.589521,-6.895594,6,32,Pole Rooftop,BTS,-,PLN,Sewa,4 Pole- XL Off- Hotel Grand Aquila
+397,Sukajadi,Sukagalih,Team 2 Site 323,Daya Mitra Telekomunikasi,Jl.  Dr. Junjunan No. 64,Telkomsel,107.593082,-6.897671,6,13,Pole Rooftop,BTS,-,PLN,Sewa,-
+398,Coblong,Cipaganti,Team 2 Site 325,Telkomsel,Jl. Dr. Selamet No. 17,Telkomsel,107.602946,-6.898251,13,7,3 Kaki,BTS,-,PLN,Sewa,Tidak Bisa Masuk harus ada Izin Dari Telkomsel
+399,Coblong,Taman Sari,Team 2 Site 326,Daya Mitra Telekomunikasi,Jl. Kebon Bibit Tengah No. 27,Telkomsel,107.606211,-6.897981,10,8,Pole Rooftop,BTS,2015,PLN,Sewa,-
+400,Bandung Wetan,Taman Sari,Team 2 Site 327,Pt. Mas Sarana Jaya,Jl. Cihampelas No. 82,Telkomsel- XL,107.604865,-6.901004,5,28,Pole Rooftop,BTS,2016,PLN,Sewa,4 Pole- Hotel Grandia
+401,Cicendo,Cicendo,Team 2 Site 331,Ibs,Jl. Dr. Rifai No,Smartfren,107.603744,-6.904107,12,36,Pole Rooftop,BTS,-,PLN,Sewa,6 Pole 12M 1 Pole 3M- Gedung Sinarmas
+402,Cicendo,Pasir Kaliki,Team 2 Site 332,Pt. Mas Sarana Jaya,Jl. Dr. Cipto No. 1,Telkomsel- XL,107.59823,-6.906219,6,24,Pole Rooftop,BTS,-,PLN,Sewa,4 Pole Rs Melinda 2
+403,Cicendo,Pajajaran,Team 2 Site 334,Xl Axiata,Jl. Pajajaran,XL,107.601262,-6.907019,30,0,Monopole,BTS,-,PLN,Sewa,Gor Koni Pajajaran
+404,Cicendo,Pasir Kaliki,Team 2 Site 336,Smartfren,Jl. Cicendo Rt 04/05,Smarftfren,107.603712,-6.91084,21,0,Monopole,BTS,2017,PLN,Sewa,Baru Berdiri 2 Bulan- Belakanng Asuransi Asei
+405,Cicendo,Pasir Kaliki,Team 2 Site 337,Pt. Mas Sarana Jaya,Jl. Otista No. 16,Telkomsel- XL- HCPT- Smartfren- Esia,107.603785,-6.913276,3,24,Pole Rooftop,BTS,-,PLN,Sewa,6 Pole- Hotel Swiss- Esia Off
+406,Cicendo,Pasir Kaliki,Team 2 Site 338,Telkomsel,Jl. Marjuk No. 4-6,Telkomsel,107.602514,-6.91202,6,12,Pole Rooftop,BTS,2016,PLN,Sewa,Hotel Serena
+407,Cicendo,Pasir Kaliki,Team 2 Site 339,Tower Bersama Group,Jl. Pasir Kaliki No. 36-42,HCPT,107.598099,-6.911872,6,32,Pole Rooftop,BTS,2016,PLN,Sewa,Hotel Dream
+408,Cicendo,Pasir Kaliki,Team 2 Site 340,Solusi Tunas Pratama,Jl. Pasir Kaliki No. ,XL- Telkomsel,107.598195,-6.911837,30,0,Monopole,BTS,2015,PLN,Sewa,Tidak Bisa Msuk Belakang RM- Sebelah Zodiak Hotel
+410,Sukasari,Sarijadi,Team 2 Site 342,Milik Sekolah,Jl. Sari Manis,Flexi,107.574027,-6.878226,50,0,Monopole,BTS,2003,PLN,Sewa,Tower Sudah Dihibahan Ke SMKN 15 Bandung Flexi Tidak Aktif
+411,Sukasari,Sarijadi,Team 2 Site 343,Xl Axiata,Jl. Sari Asih 4 No. 16,XL- Telkomsel- HCPT,107.576288,-6.874042,30,0,4 Kaki,BTS,-,PLN + GENSET,Sewa,-
+412,Sukasari,Sarijadi,Team 2 Site 344,Ibs,Jl. Sari Rasa Blok 1 No. 27,Smartfren,107.580135,-6.876419,25,9,4 Kaki,BTS,2017,GENSET,Sewa,-
+413,Sukasari,Sarijadi,Team 2 Site 346,Protelindo,Jl. Cilandak,Smartfren- Telkomsel- HCPT- Indosat,107.580709,-6.875633,25,12,3 Kaki,BTS,-,PLN,Sewa,Ponpes Al-Barokah- IMB dalam proses
+415,Sukasari,Sukarasa,Team 2 Site 350,Telkomsel,Jl. Geger Kalong Hilir No. 119,Telkomsel,107.585664,-6.868708,6,8,Pole Rooftop,BTS,2017,PLN,Sewa,Hotel Pilatus
+416,Sukasari,KPAD,Team 2 Site 352,Tower Bersama Group,Jl. Pakgatot Raya No. 80,Smartfren- XL- HCPT- Indosat,107.586916,-6.864829,30,0,Monopole,BTS,-,PLN,Sewa,Di Dalam Lapangan Bola
+417,Sukasari,KPAD,Team 2 Site 353,Daya Mitra Telekomunikasi,Jl. Interdan 77,Telkomsel,107.586445,-6.866025,32,0,Minaret Di Masjid,BTS,-,PLN,Sewa,Mesjid
+418,Sukasari,KPAD,Team 2 Site 354,Natrindo Telepon Seluler,Jl. Geger Kalong Girang,NTS,107.584433,-6.862132,30,0,Monopole,BTS,-,PLN,Sewa,Menara Sudah Tidak Aktif NTS Off
+420,Sukasari,Geger Kalong,Team 2 Site 356,Xl Axiata,Jl. Geger Kalong,XL,107.589677,-6.863616,12,0,Microcell Pole,BTS,-,PLN,Sewa,Tidak Diketahui Pemilik Dari Menara Dan Operatornya
+421,Sukasari,Geger Kalong,Team 2 Site 357,Telkomsel,Jl. Geger Kalong No. 38,Telkomsel,107.589907,-6.863903,7,8,Pole Rooftop,BTS,-,PLN,Sewa,SMM Swalayan
+422,Sukasari,Geger Kalong,Team 2 Site 358,Indosat,Jl. Geger Kalong Girang,Indosat,107.591326,-6.864494,6,12,Pole Rooftop,BTS,-,PLN,Sewa,3 Pole 6 Meter
+423,Sukasari,Geger Kalong,Team 2 Site 359,Smartfren,Jl. Geger Kalong Rt 05/03,Smartfren,107.592823,-6.864739,20,9,Pole Rooftop,BTS,-,GENSET,Sewa,Sudah Tidak Aktif- Smartfen OFF
+424,Sukasari,Geger Kalong,Team 2 Site 361,Telkom,Jl. Geger Kalong Hilir No.55,Telkomsel- HCPT,107.589282,-6.870194,55,0,4 Kaki,BTS,-,PLN,Sewa,-
+425,Sukasari,Geger Kalong,Team 2 Site 363,Telkomsel,Jl. Cipedes Atas Rt 03/07,Telkomsel,107.59091,-6.874704,25,0,Monopole,BTS,2016,PLN,Sewa,Site Bermasalah Baru 6 Bulan
+426,Sukasari,Geger Kalong,Team 2 Site 364,Oz Radio 103.1 Fm,Jl. Setra Jati 11 No. 14 Bandung,Telkomsel- XL,107.587901,-6.875838,42,0,4 Kaki,BTS,-,PLN,Hak,Radio Oz 103.1 Fm
+427,Sukasari,Geger Kalong,Team 2 Site 368,Ibs,Jl. Setia Budi,Telkomsel- HCPT,107.592628,-6.866141,6,28,Pole Rooftop,BTS,-,PLN,Sewa,UNPAS
+428,Sukasari,Geger Kalong,Team 2 Site 369,Telkomsel,Jl. Setia Budi 191,Telkomsel- XL,107.593035,-6.866779,6,24,Pole Rooftop,BTS,-,PLN,Sewa,5 Pole
+429,Cidadap,Cidedeng,Team 2 Site 371,Natrindo Telepon Seluler,Jl. Setia Budi 49,AXIS,107.594568,-6.85743,52,0,3 Kaki,BTS,2006,PLN,Sewa,Tower Tidak Aktif
+430,Sukasari,Isola,Team 2 Site 372,Telkomsel,Jl. Setia Budi 269/275,Telkomsel,107.594845,-6.85498,2,40,Pole Rooftop,BTS,-,PLN,Sewa,Hotel Mercure
+431,Sukasari,Isola,Team 2 Site 374,Hutchison Cp Telekomunication,Jl. Setia Budi,HCPT,107.594232,-6.854537,18,8,3 Kaki,BTS,2017,PLN,Sewa,-
+432,Cidadap,Ledeng,Team 2 Site 377,Tower Bersama Group,Jl. Dr. Somamudi Km 10 No. 8B / 9 Rt 03/02,Telkomsel- Indosat- HCPT- Smarrtfren,107.602058,-6.846624,50,0,4 Kaki,BTS,2000,PLN,Sewa,-
+433,Cidadap,Ledeng,Team 2 Site 378,Menara Polda Jabar,Jl. Setia Budi Km 10,Telkomsel- XL,107.599312,-6.847204,52,0,4 Kaki,BTS,-,PLN,Sewa,Menara Pemancar Radio Polri
+434,Cidadap,Ledeng,Team 2 Site 380,Telkomsel,Jl. Setia Budi No. 268A,Telkomsel- XL,107.595548,-6.86158,30,0,Monopole,BTS,-,PLN,Sewa,-
+435,Cidadap,Ledeng,Team 2 Site 381,Indosat,Jl. Cipaku I No. 2,Indosat,107.596143,-6.863507,3,8,Pole Rooftop,BTS,-,PLN,Sewa,Tidak Ada Siapa-Siapa
+436,Sukasari,Geger Kalong,Team 2 Site 382,Xl Axiata,Jl. Dr. Setia Budi No. 228,XL,107.59431,-6.86487,15,0,Microcell Pole,BTS,-,PLN,Sewa,Kamuflase
+437,Cidadap,Ledeng,Team 2 Site 384,Protelindo,Jl. Cipaku Indah 3 No. 11 Rt. 03/02,XL,107.599552,-6.864108,6,14,Pole Rooftop,BTS,2012,PLN,Sewa,Hotel Catelya
+438,Cidadap,Ledeng,Team 2 Site 387,Natrindo Telepon Seluler,Jl. Kapten. Abd. Hamid ,NTS,107.5973,-6.866115,36,0,Monopole,BTS,2006,PLN,Sewa,-
+439,Cidadap,Hegarmanah,Team 2 Site 388,Tower Bersama Group,Jl. Hegarmanah No. 152/ Rt03/03,Telkomsel- Smartfren,107.600886,-6.866391,32,0,Kamuflase Pohon,BTS,2015,PLN,Sewa,SCAPA AD
+440,Cidadap,Hegarmanah,Team 2 Site 389,Solusi Tunas Pratama,Jl. Setia Budi,Smartfren- HCPT,107.594686,-6.872192,25,15,4 Kaki,BTS,-,PLN,Sewa,Bank BRI
+441,Cidadap,Hegarmanah,Team 2 Site 390,Xl Axiata,Jl. Setia Budi,XL,107.594577,-6.872302,25,15,3 Kaki,BTS,-,PLN,Sewa,Bank BRI
+442,Cidadap,Hegarmanah,Team 2 Site 391,"Sindo Trijaya 91,3 Fm",Jl. Setia Budi No. 170 B1,Tidak Teridentifikasi,107.594737,-6.872723,25,12,4 Kaki,BTS,-,PLN,Sewa,Radio Sindo Tidak ada Operator
+443,Cidadap,Hegarmanah,Team 2 Site 393,Telkomsel,Jl. Setia Budi,Telkomsel,107.596029,-6.87358,36,0,Monopole,BTS,-,PLN,Sewa,-
+444,Cidadap,Hegarmanah,Team 2 Site 394,Indosat,Jl. Setia Budi,Telkomsel- XL- Indosat,107.597135,-6.874827,2,56,Combat,BTS,-,PLN,Sewa,4 Pole 10M- Nempel di gedung
+445,Bojong Loa Kaler,Babakan Tarogong,Team 2 Site 398,Xl Axiata,Jl. Peta,XL,107.588296,-6.92995,25,0,4 Kaki,BSC,-,PLN + GENSET,Sewa,-
+447,Cidadap,Ciumbuleuit,Team 2 Site 405,Pemancar Radio Rrt,Jl. Ciumbuleuit Atas (Punclut),Indosat- Smartfren,107.613186,-6.851769,30,0,4 Kaki,BTS,-,PLN,Sewa,Pemancar Radio RRI
+448,Cidadap,Ciumbuleuit,Team 2 Site 406,Xl Axiata,Jl. Cimaja Rt 02/10,XL- Esia,107.611868,-6.855277,25,0,4 Kaki,BTS,-,PLN + GENSET,Sewa,Esia Off
+449,Cidadap,Ciumbuleuit,Team 2 Site 407,Solusi Tunas Pratama,Jl. Ciumbuleuit Atas,Smartfren- HCPT,107.606265,-6.86256,35,0,3 Kaki,BTS,-,PLN,Sewa,Tidak Bisa Masuk Pagar dikunci
+450,Cidadap,Ciumbuleuit,Team 2 Site 409,Smartfren,Jl. Ciumbuleuit 152,Smartfren- HCPT,107.606487,-6.867695,3,28,Pole Rooftop,BTS,-,PLN,Sewa,Hotel Grand Arjuna
+451,Coblong,Cipaganti,Team 2 Site 413,Telkomsel,Jl. Cihampelas No. 326,Telkomsel,107.604702,-6.88481,12,0,Microcell Pole,BTS,-,PLN,Sewa,-
+452,Coblong,Cipaganti,Team 2 Site 414,Telkomsel,Jl. Pelesiran No. 61 Rt 06/06,Telkomsel,107.60632,-5.895322,6,14,Pole Rooftop,BTS,2017,PLN,Sewa,-
+453,Bandung Wetan,Taman Sari,Team 2 Site 416,Tidak Teridentifikasi,Jl. Taman Sari,Tidak Teridentifikasi,107.608474,-6.893787,26,0,Microcell Pole,BTS,-,PLN,Sewa,Disegel Tidak Ada Operator
+454,Coblong,Taman Sari,Team 2 Site 417,Xl Axiata,Jl. Taman Sari,HCPT- XL- Telkomsel,107.608283,-6.890322,55,0,4 Kaki,BTS,-,PLN,Sewa,Didalam Kampus ITB
+455,Coblong,Taman Sari,Team 2 Site 418,Telkomsel,Jl. Ganesa,Telkomsel- Indosat,107.610121,-6.888286,6,36,Pole Rooftop,BTS,-,PLN,Sewa,Gedung ITB Pole- 2 Pole 6M- 9 Pole 3M
+456,Coblong,Taman Sari,Team 2 Site 419,Indosat,Jl. Ganesa,Indosat,107.611069,-6.89054,12,20,Pole Rooftop,BTS,-,PLN,Sewa,Gedung ITB Pole- 2 Pole 12M- 1 Pole 3M
+457,Coblong,Taman Sari,Team 2 Site 420,Telkomsel,Jl. Sabuga,Telkomsel,107.608533,-6.886019,3,16,Pole Rooftop,BTS,-,PLN,Sewa,Gedung Sabuga
+458,Coblong,Taman Sari,Team 2 Site 421,Xl Axiata,Jl. Sabuga,AXIS- XL,107.608477,-6.8858,3,16,Pole Rooftop,BTS,-,PLN,Sewa,Gedung Sabuga
+459,Cidadap,Hegarmanah,Team 2 Site 423,Tidak Teridentifikasi,Jl. Ciumbuleuit ,Telkomsel- Esia- XL- Indosat,107.604853,-6.880982,3,80,Pole Rooftop,BTS,-,PLN,Sewa,Hotel Galery Cicendo- Esia Off- Telkomsel Pindah ke Hariis
+460,Cidadap,Hegarmanah,Team 2 Site 425,Rase Fm,Jl. Setiabudi No.,HCPT- Esia,107.602727,-6.883298,80,0,4 Kaki,BTS,-,PLN,Sewa,Rase FM
+461,Coblong,Cipaganti,Team 2 Site 426,Xl Axiata,Jl. Cihampelas No. 225-229,XL,107.604134,-6.885329,6,24,Pole Rooftop,BTS,-,PLN,Sewa,Hotel Nyailendra- 3Pole 6M
+462,Coblong,Cipaganti,Team 2 Site 427,Tower Bersama Group,Jl. Cihampelas No. 264,Indosat- HCPT- Telkomsel,107.603743,-6.887854,6,12,Pole Rooftop,BTS,-,PLN,Sewa,Tidak Bisa Masuk dan tidak Boleh Foto Izin Tower Bersama Group- 2 Pole 6M
+463,Coblong,Cipaganti,Team 2 Site 428,Smartfren,Jl. Cihampelas,Smartfren,107.603514,-6.888538,6,20,Pole Rooftop,BTS,-,PLN,Sewa,Hotel Cihampelas 2- 2Pole 6M
+464,Coblong,Cipaganti,Team 2 Site 429,Pt. Mas Sarana Jaya,Jl. Cihampelas,XL/Axis- Telkomsel- HCPT,107.603057,-6.892174,6,32,Pole Rooftop,BTS,-,PLN,Sewa,RS Advent- 5 Pole
+465,Coblong,Cipaganti,Team 2 Site 431,Telkomsel,Jl. Cihampelas No. 182,Telkomsel,107.604202,-6.893611,20,12,3 Kaki,BTS,-,PLN,Sewa,Toko CIA Bank Mandiri
+466,Coblong,Cihampelas,Team 2 Site 432,Retower Asia,Jl. Cihampelas No. 112,XL- Smartfren,107.604496,-6.898165,6,16,Pole Rooftop,BTS,-,PLN,Sewa,3 Pole 6M
+467,Coblong,Cipaganti,Team 2 Site 434,Telkomsel,Jl. Cihampelas No. 129,HCPT- Telkomsel- XL/Axis- Indosat,107.603304,-6.895941,20,32,4 Kaki,BTS,-,PLN,Sewa,Hotel Fave dan Aston- 1 Pole 6M- 2 Pole 3M
+468,Coblong,Cipaganti,Team 2 Site 435,Pt. Mas Sarana Jaya,Jl. Cihampelas,XL,107.603635,-6.896779,6,16,Pole Rooftop,BTS,-,PLN,Sewa,Hotel Promenade 2 Pole
+469,Bandung Wetan,Taman Sari,Team 2 Site 436,Smartfren,Jl. Taman Sari,Smartfren,107.608372,-6.904839,12,12,Pole Rooftop,BTS,-,PLN,Sewa,1 Pole 12M- 3 Pole 6M- UNPAS Taman Sari
+470,Bandung Wetan,Taman Sari,Team 2 Site 437,Pt. Mas Sarana Jaya,Jl. Taman Sari No. 7,HCPT- XL- Indosat- NTS,107.607965,-6.902748,3,20,Pole Rooftop,BTS,-,PLN,Sewa,UNISBA Taman Sari- 4 Pole 3M
+471,Bandung Wetan,Taman Sari,Team 2 Site 438,Xl Axiata,Jl. Re Martadinata No. 7,XL,107.609489,-6.906171,55,0,4 Kaki,MSC,-,PLN + GENSET,Hak,Galeri XL
+472,Bandung Wetan,Taman Sari,Team 2 Site 441,Solusi Tunas Pratama,Jl. Ir. H. Juanda No. 33,Indosat- Telkomsel,107.610507,-6.90422,6,36,Pole Rooftop,BTS,2010,PLN,Sewa,Hotel Holly Day In - 4 Pole XL- HCPT Off
+473,Bandung Wetan,Taman Sari,Team 2 Site 442,Camslindo,Jl. Ir. H. Juanda No. 33,Smartfren,107.610488,-6.904274,6,40,Pole Rooftop,BTS,2010,PLN,Sewa,Hotel Holly Day In- 4 Pole
+474,Coblong,Lebak Siliwangi,Team 2 Site 444,Kin (Komet Infra Nusantara),Jl. Ganesa 7,Telkomsel,107.611044,-6.894038,36,12,4 Kaki,BTS,-,PLN,Sewa,Masjid Salman- Sudah Berakhir Kontrak Tetapi Masih Aktif
+475,Coblong,Lebak Siliwangi,Team 2 Site 446,Dian Swastika Sentosa (Dss),Jl. Ganesa 7,Smartfren,107.611004,-6.894391,15,20,Pole Rooftop,BTS,-,PLN,Sewa,Masjid Salman- Sudah Berakhir Kontrak Tetapi Masih Aktif
+476,Coblong,Lebak Siliwangi,Team 2 Site 447,Xl Axiata,Jl. Ganesa 7,XL,107.610984,-6.894392,10,24,Pole Rooftop,BTS,-,PLN,Sewa,Masjid Salman- Sudah Berakhir Kontrak Tetapi Masih Aktif
+477,Coblong,Lebak Siliwangi,Team 2 Site 449,Telkomsel,Jl. Ir.H. Juanda,Telkomsel,107.612982,-6.893496,10,0,Microcell Pole,BTS,-,PLN,Sewa,-
+478,Coblong,Lebak Siliwangi,Team 2 Site 451,Smartfren,Jl. Ir.H. Juanda No. 151,Smartfren,107.613236,-6.888721,6,8,Pole Rooftop,BTS,-,PLN,Sewa,2 Pole
+479,Coblong,Lebak Siliwangi,Team 2 Site 452,Telkomsel,Jl. Ir.H. Juanda Dago,Telkomsel,107.613504,-6.885413,10,0,Microcell Pole,BTS,-,PLN,Sewa,-
+480,Coblong,Lebak Siliwangi,Team 2 Site 453,Radio Zora Fm,Jl. Sumur Bandung No. 13,HCPT- XL,107.612898,-6.886279,80,0,4 Kaki,BTS,-,PLN,Sewa,Radio Zora 90-1 Fm
+481,Coblong,Lebak Siliwangi,Team 2 Site 454,Telkomsel,Jl. Siliwangi,Telkomsel,107.612824,-6.885215,15,0,Monopole,BTS,-,PLN,Sewa,Disegel
+482,Coblong,Dago,Team 2 Site 455,Pt. Mas Sarana Jaya,Jl. Ir.H. Juanda No. 181,Telkomsel. Smartfren- XL- HCPT,107.613236,-6.884752,3,64,Pole Rooftop,BTS,-,PLN,Sewa,Hotel Dago Butik- 7 Pole
+483,Coblong,Dago,Team 2 Site 460,Telkomsel,Jl. Sangkuriang No. 33 Rt 02/14,Telkomsel,107.608311,-6.881939,6,11,Pole Rooftop,BTS,-,PLN,Sewa,Mesjid Al-Hikmah
+484,Coblong,Dago,Team 2 Site 462,Telkomsel,Jl. Cisitu Lama Rt 07/12,Telkomsel. Indosat,107.611182,-6.878284,43,0,3 Kaki,BTS,2006,PLN,Sewa,-
+485,Coblong,Dago,Team 2 Site 464,Daya Mitra Telekomunikasi,Jl. Cisitu Indah 4 No. 45 Rt 04/05,Telkomsel,107.614206,-6.876754,25,0,Microcell Pole,BTS,-,PLN,Sewa,Baru
+486,Coblong,Dago,Team 2 Site 465,Ibs,Jl. Ir.H. Juanda No. 381A,Smartfren,107.619111,-6.870704,6,24,Pole Rooftop,BTS,-,PLN,Sewa,Hotel The Jayakarta Bandung
+487,Coblong,Dago,Team 2 Site 467,Indosat,Jl. Ir.H. Juanda No. 381A,Indosat,107.619699,-6.871034,6,24,Pole Rooftop,BTS,-,PLN,Sewa,Hotel The Jayakarta Bandung
+488,Coblong,Dago,Team 2 Site 468,Daya Mitra Telekomunikasi,Jl. Ir.H. Juanda No. 381A,HCPT,107.619693,-6.87101,6,24,Pole Rooftop,BTS,-,PLN,Sewa,Hotel The Jayakarta Bandung
+489,Coblong,Dago,Team 2 Site 469,Xl Axiata,Jl. Ir.H. Juanda No. 381A,XL,107.619694,-6.871007,6,24,Pole Rooftop,BTS,-,PLN,Sewa,Hotel The Jayakarta Bandung
+490,Cibenying Kidul,Cigadung,Team 2 Site 470,Telkomsel,Jl. Cigadung Raya Baru,Telkomsel,107.623974,-6.86769,42,0,4 Kaki,BTS,-,PLN,Sewa,-
+491,Cibenying Kidul,Cigadung,Team 2 Site 471,Natrindo Telepon Seluler,Jl. Cigadung Raya Barat,NTS- HCPT,107.624004,-6.868447,45,0,3 Kaki,BTS,-,PLN,Sewa,-
+492,Cibenying Kidul,Cigadung,Team 2 Site 472,Xl Axiata,Jl. Cigadung Raya Barat,XL,107.623973,-6.868625,36,0,Monopole,BTS,-,PLN + GENSET,Sewa,Dago Golf
+493,Cibeunying kaler,Cigadung,Team 2 Site 475,Telkomsel,Jl. Tubagus Ismail Vii No. 60,Telkomsel,107.62171,-6.880003,55,0,4 Kaki,BTS,-,PLN,Sewa,Pondok Pesantren Miftahul Khoir
+494,Cibeunying kaler,Sekeloa,Team 2 Site 477,Telkomsel,Jl. Bangbayong,Telkomsel,107.617029,-6.88167,9,10,Pole Rooftop,BTS,-,PLN,Sewa,Tidak Ada Siapa-siapa- New Site
+495,Coblong,Taman Sari,Team 2 Site 478,Telkomsel,Jl. Taman Sari 21 C,Telkomsel,107.608869,-6.900497,15,10,4 Kaki,BTS,-,PLN,Sewa,-
+496,Coblong,Dago,Team 2 Site 479,Telkomsel,Jl. Ir.H. Juanda,Telkomsel,107.61582,-6.882751,60,0,4 Kaki,BTS,2004,PLN + GENSET,Hak,Grapari Telkomsel
+497,Coblong,Sekeloa,Team 2 Site 480,Prima Indo,Jl. Ir.H. Juanda No. 234,HCPT,107.614859,-6.883175,6,10,Pole Rooftop,BTS,2015,PLN,Sewa,-
+498,Cibeunying kaler,Cigadung,Team 2 Site 481,Daya Mitra Telekomunikasi,Jl. Cukang Kawung No.28 Rt 08/13,Telkomsel,107.633464,-6.890693,15,0,Microcell Pole,BTS,-,PLN,Sewa,New Site
+499,Cibeunying kaler,Sekeloa,Team 2 Site 486,Xl Axiata,Jl. Cindulang Baru No. 53 Rt 04/11,XL- Telkomsel,107.61948,-6.886021,51,0,4 Kaki,BTS,2001,PLN + GENSET,Sewa,-
+500,Cibeunying kaler,Sekeloa,Team 2 Site 487,Natrindo Telepon Seluler,Jl. Cindulang Baru Rt 04/11,Axis,107.619759,-6.885787,42,0,4 Kaki,BTS,2006,PLN,Sewa,Menara Tidak Aktif
+501,Coblong,Sadang Serang,Team 2 Site 490,Telkom,Jl. Sadang Sari,Telkomsel,107.626471,-6.889632,52,0,4 Kaki,BTS,-,PLN + GENSET,Sewa,Tidak Boleh Masuk Harus Ada Izin Telkom
+502,Cibeunying kaler,Sukaluyu,Team 2 Site 497,Natrindo Telepon Seluler,Jl. Gagak No. 36 Rt 01/03,XL,107.625071,-6.897172,52,0,3 Kaki,BTS,-,PLN,Sewa,-
+503,Coblong,Lebak Gede,Team 2 Site 500,Kin (Komet Infra Nusantara),Jl. Dipatiukur No. 40,Smartfren,107.616466,-6.89614,25,0,4 Kaki,BTS,2016,PLN,Sewa,Toko Kencana Pajajaran
+504,Coblong,Sekeloa,Team 2 Site 503,Telkomsel,Jl. Sekeloa Rt 05/03,Telkomsel,107.619369,-6.890116,32,0,4 Kaki,BTS,-,PLN,Sewa,Kampus Unpad
+505,Coblong,Sekeloa,Team 2 Site 505,Xl Axiata,Jl. Dipatiukur No. 138,XL,107.614737,-6.885665,25,0,Microcell Pole,BTS,-,PLN,Sewa,-
+506,Coblong,Sekeloa,Team 2 Site 506,Telkomsel,Jl. Dipatiukur ,Tidak Teridentifikasi,107.615019,-6.886689,25,0,Microcell Pole,BTS,-,PLN,Sewa,Belum Ada Operator
+507,Coblong,Lebak Gede,Team 2 Site 507,Telkomsel,Jl. Dipatiukur ,Tidak Teridentifikasi,107.616433,-6.890179,25,0,Microcell Pole,BTS,-,PLN,Sewa,Belum Ada Operator
+508,Cibeunying kaler,Cihaurgeulis,Team 2 Site 508,Telkomsel,Jl. Brigjend Katamso No. 3-5,Telkomsel,107.632659,-6.902681,36,11,Pole Rooftop,BTS,-,PLN,Sewa,Tk Merpati Pos
+509,Cibeunying kaler,Neglasari,Team 2 Site 509,Telkomsel,Jl. Cikutra No. 312,Telkomsel,107.638002,-6.893616,6,13,Pole Rooftop,BTS,-,PLN,Sewa,Klinik Averum
+510,Cibeunying kaler,Neglasari,Team 2 Site 511,Indosat,Jl.. Cikutra Baru Iv,Indosat,107.640379,-6.895803,42,0,4 Kaki,BTS,-,PLN,Sewa,Tidak Bisa Masuk
+511,Coblong,Lebak Gede,Team 2 Site 515,Pertamina,Jl. Raya Diponegoro,Tidak Teridentifikasi,107.617873,-6.89905,25,0,4 Kaki,BTS,-,PLN,Hak,Tidak Ada Operator
+512,Coblong,Lebak Gede,Team 2 Site 516,Telkom,Jl. Japati No. 1,Telkomsel,107.618702,-6.89837,3,36,Pole Rooftop,BTS,-,PLN,Sewa,Telkom
+513,Coblong,Sadang Serang,Team 2 Site 518,Smartfren,Jl. Surapati No. 233,Smartfren,107.632927,-6.898104,62,0,4 Kaki,BTS,-,PLN,Sewa,Tidak Diperbolehkan Masuk Galery Smartfren
+514,Cibenying Kidul,Cikutra,Team 2 Site 520,Tower Bersama Group,Jl. Cikutra Raya No. 168 C,Telkomsel,107.643243,-6.899624,9,11,Pole Rooftop,BTS,-,PLN,Sewa,4 Pole 12 M
+515,Cibenying Kidul,Cikutra,Team 2 Site 521,Telkomsel,Jl. P.H.H. Mustofa,Telkomsel,107.641731,-6.899701,3,40,Pole Rooftop,BTS,-,PLN,Sewa,Prime Park Hotel
+516,Cibeunying kaler,Cihaurgeulis,Team 2 Site 523,Protelindo,Jl. Surapati No. 68,HCPT,107.628291,-6.900135,6,14,Pole Rooftop,BTS,-,PLN,Sewa,-
+517,Cibeunying kaler,Cihaurgeulis,Team 2 Site 524,Smartfren,Jl. Surapati No. 68 Rt 02/04,Telkomsel- Smartfren,107.62837,-6.900126,20,14,3 Kaki,BTS,-,PLN,Sewa,-
+518,Cibeunying kaler,Sukaluyu,Team 2 Site 525,Telkomsel,Jl. Surapati,Telkomsel,107.633876,-6.89765,8,0,Microcell Pole,BTS,-,PLN,Sewa,-
+519,Cibeunying kaler,Sukaluyu,Team 2 Site 527,Smartfren,Jl. Pahlawan Sukaluyu 1 No. 15,Smartfren,107.632944,-6.900537,3,9,Pole Rooftop,BTS,-,PLN,Sewa,-
+520,Cibenying Kidul,Cicadas,Team 2 Site 528,Pt. Sinar Harapan Dirga Terdepan,Jl. Yudha Watsu Pramuka Kidul,Telkomsel,107.634222,-6.90417,26,0,Monopole,BTS,-,PLN,Sewa,Asrama Pusenif
+521,Bandung Wetan,Cihapit,Team 2 Site 529,Telkomsel,Jl. Anggrek No. 60,Telkomsel,107.630386,-6.910615,20,0,Microcell Pole,BTS,-,PLN,Sewa,-
+522,Sumur Bandung,Cihapit,Team 2 Site 530,Xl Axiata,Jl. R.E. Martadinata No. 142,XL,107.628062,-6.912429,25,0,Monopole,BTS,-,PLN,Sewa,Bank Syariah Bukopin
+523,Sumur Bandung,Merdeka,Team 2 Site 531,Ibs,Jl. Gudang Utara No. 28,XL- AXIS- Smartfren- HCPT,107.623115,-6.916281,30,0,4 Kaki,BTS,-,PLN,Sewa,Hub dan Gudang Utara
+524,Sumur Bandung,Merdeka,Team 2 Site 533,Telkomsel,Jl. Srigading No. 8,Telkomsel,107.623614,-6.915185,30,0,Monopole,BTS,-,PLN,Sewa,-
+525,Sumur Bandung,Merdeka,Team 2 Site 534,Xl Axiata,Jl. Menado No. 8,XL,107.620404,-6.912464,25,0,3 Kaki,BTS,-,PLN,Sewa,-
+526,Bandung Wetan,Cihapit,Team 2 Site 535,Ibs,Jl. Ciliwung No. 4,Smartfren,107.622556,-6.905683,15,0,Monopole,BTS,-,PLN,Sewa,SMKN 2 Bandung
+527,Bandung Wetan,Merdeka,Team 2 Site 538,Telkomsel,Jl. Taman Pramuka No. 159 A Rt 01/02,Telkomsel- Smartfren,107.626074,-6.90942,12,4,Pole Rooftop,BTS,-,PLN,Sewa,-
+528,Cibeunying kaler,Sukaluyu,Team 2 Site 539,Radio Rri,Jl. Diponegoro No. 6,XL- Telkomsel- HCPT,107.624668,-6.900702,25,0,4 Kaki,BTS,-,PLN,Sewa,Radio RRI Bandung
+530,Bandung Wetan,Citarum,Team 2 Site 543,Ibs,Jl. Sultan Tirtayasa No. 36,Smartfren,107.614145,-6.903198,9,10,Pole Rooftop,BTS,2016,PLN,Sewa,New Site
+531,Bandung Wetan,Citarum,Team 2 Site 544,Protelindo,Jl. Wirangunangun,Telkomsel,107.614278,-6.904529,12,8,Pole Rooftop,BTS,-,PLN,Sewa,Bumi Nanienie Guest House- IMB dalam Proses
+532,Sumur Bandung,Babakan Cianjur,Team 2 Site 547,Protelindo,Jl. Aceh No. 28,Axis,107.607983,-6.910905,42,0,Kamuflase Pohon,BTS,-,PLN,Sewa,-
+533,Bandung wetan,Merdeka,Team 2 Site 548,Xl Axiata,Jl. Riau-Martadinata No. 56,XL,107.619922,-6.906398,9,20,Pole Rooftop,BTS,-,PLN,Sewa,Hotel Serela
+534,Bandung wetan,Merdeka,Team 2 Site 549,Telkomsel,Jl. Riau-Martadinata No. 56,Telkomsel,107.619911,-6.90634,15,20,3 Kaki,BTS,-,PLN,Sewa,Hotel Serela
+535,Sumur Bandung,Babakan Ciamis,Team 2 Site 551,Xl Axiata,Jl. Merdeka,XL,107.610577,-6.909747,9,0,Microcell Pole,BTS,-,PLN,Sewa,-
+536,Sumur Bandung,Banceuy,Team 2 Site 555,Daya Mitra Telekomunikasi,Jl. Asia Afrika Depan Kantor Pos,XL,107.606197,-6.920984,10,0,Microcell Pole,BTS,-,PLN,Sewa,-
+537,Sumur Bandung,Merdeka,Team 2 Site 556,Telkomsel,Jl. Belitung No. 3,Telkomsel,107.617126,-6.911246,6,12,Pole Rooftop,BTS,2017,PLN,Sewa,Wetklin Laundry
+538,Sumur Bandung,Merdeka,Team 2 Site 557,Telkomsel,Jl. Kalimantan No. 8,Telkomsel,107.615165,-6.912591,20,10,Microcell Pole,BTS,-,PLN,Sewa,SMAN 3 Bandung
+539,Sumur Bandung,Merdeka,Team 2 Site 558,Xl Axiata,Jl. Kalimantan No. 12,XL,107.616046,-6.914557,42,0,4 Kaki,BTS,-,PLN,Sewa,Perpustakaan Pusat Disjarahad
+540,Sumur Bandung,Merdeka,Team 2 Site 559,Telkomsel,Jl. Kalimantan,Telkomsel,107.61403,-6.910517,25,0,Microcell Pole,BTS,-,PLN,Sewa,-
+541,Sumur Bandung,Merdeka,Team 2 Site 560,Tni Ad,Jl. Sumatra,Indosat,107.612078,-6.910989,32,0,4 Kaki,BTS,-,PLN,Sewa,-
+542,Coblong,Lebak Gede,Team 2 Site 561,Xl Axiata,Jl. Ir. H. Juanda No. 90,XL,107.613095,-6.896226,15,0,Microcell Pole,BTS,-,PLN,Sewa,Hotel The Palais Dago
+543,Bandung wetan,Cihapit,Team 2 Site 563,Protelindo,Jl. Citarum,HCPT,107.622797,-6.904381,6,14,Pole Rooftop,BTS,-,PLN,Sewa,Hotel Citarum
+544,Bandung wetan,Cihapit,Team 2 Site 564,Telkomsel,Jl. Citarum,Telkomsel,107.622759,-6.904404,6,14,Pole Rooftop,BTS,-,PLN,Sewa,Baru Belum Aktif
+545,Bandung wetan,Citarum,Team 2 Site 566,Hutchison Cp Telekomunication,Jl. R.E. Martadinata,HCPT,107.615708,-6.906565,15,11,Pole Rooftop,BTS,-,PLN,Sewa,-
+546,Sumur Bandung,Babakan Ciamis,Team 2 Site 568,Solusi Tunas Pratama,Jl. Perintis Kemerdekaan (Vinduct),HCPT,107.607581,-6.914763,25,6,4 Kaki,BTS,-,PLN,Sewa,-
+547,Sumur Bandung,Merdeka,Team 2 Site 569,Telkomsel,Jl. R.E. Martadinata No. 15,Telkomsel,107.611997,-6.906407,15,12,3 Kaki,BTS,-,PLN,Sewa,Hotel Anggrek Riau Junction
+548,Bandung Wetan,Citarum,Team 2 Site 571,Telkomsel,Jl. Merdeka,Telkomsel,107.610529,-6.907894,6,12,Pole Rooftop,BTS,-,PLN,Sewa,-
+549,Bandung Wetan,Citarum,Team 2 Site 572,Hutchison Cp Telekomunication,Jl. Merdeka,HCPT,107.610621,-6.907828,6,12,Pole Rooftop,BTS,-,PLN,Sewa,-
+550,Bandung Wetan,Citarum,Team 2 Site 573,Telkomsel,Jl. Merdeka,Telkomsel,107.610467,-6.907086,12,0,Microcell Pole,BTS,-,PLN,Sewa,Menara Tidak Aktif
+551,Sumur Bandung,Braga,Team 2 Site 575,Telkomsel,Jl. Banceuy,Telkomsel,107.606616,-6.919049,6,12,Pole Rooftop,BTS,-,PLN,Sewa,Toko Mulia Ban
+552,Bandung Wetan,Merdeka,Team 2 Site 576,Telkomsel,Jl. R.E. Martadinata,Telkomsel,107.621548,-6.905983,15,0,Microcell Pole,BTS,-,PLN,Sewa,-
+553,Cibeunying kaler,Sukaluyu,Team 2 Site 578,Daya Mitra Telekomunikasi,Jl. Sentot Ali Basyah No. 4,Telkomsel,107.620298,-6.900301,21,0,Monopole,BTS,2015,PLN,Sewa,Yakes Telekom
+554,Bandung Wetan,Citarum,Team 2 Site 579,Telkomsel,Jl. R.E. Martadinata,Telkomsel,107.616539,-6.906188,15,0,Microcell Pole,BTS,-,PLN,Sewa,-
+555,Andir,Kebon Jeruk,Team 2 Site 580,Smartfren,Jl. Jend. Sudirman,Smartfren,107.601178,-6.920408,6,13,Pole Rooftop,BTS,-,PLN,Sewa,Bank Sinarmas
+556,Sumur Bandung,Braga,Team 2 Site 581,Xl Axiata,Jl. Otto Iskandar Dinata,XL,107.604755,-6.915553,3,28,Pole Rooftop,BTS,-,PLN,Sewa,Bank BRI Syariah Kcp Bandung Suniaga
+557,Sumur Bandung,Braga,Team 2 Site 582,Telkomsel,Jl. Otto Iskandar Dinata,Telkomsel,107.604728,-6.915528,3,28,Pole Rooftop,BTS,-,PLN,Sewa,Bank BRI Syariah Kcp Bandung Suniaga
+558,Sumur Bandung,Braga,Team 2 Site 583,Indosat,Jl. Otto Iskandar Dinata,Indosat,107.604725,-6.915519,3,28,Pole Rooftop,BTS,-,PLN,Sewa,Bank BRI Syariah Kcp Bandung Suniaga
+560,Cicendo,Pasir Kaliki,Team 2 Site 587,Pt Buana Konidor,Jl. Pajajaran Belakang,Telkomsel,107.60254,-6.907756,9,10,Pole Rooftop,BTS,2017,PLN,Sewa,New Belum Aktif
+561,Cicendo,Pasir Kaliki,Team 2 Site 588,Telkomsel,Jl. Pasteur,Telkomsel,107.59969,-6.900588,25,0,Monopole,BTS,-,PLN,Sewa,-
+562,Bandung Kulon,Caringin,Team 2 Site 589,Telkomsel,Jl. Suryani Indah Rt 02/10,Telkomsel,107.576767,-6.922406,6,10,Pole Rooftop,BTS,-,PLN,Sewa,-
+563,Bandung Kulon,Cigondewah Kidul,Team 2 Site 590,Telkomsel,Jl. Cigondewah Kidul No. 12 Rt 04/04,Telkomsel,107.566441,-6.940984,42,0,Monopole,BTS,-,PLN,Sewa,Tidak Ada Siapa-siapa / Tidak Bisa Masuk
+564,Bandung Kulon,Cigondewah Kidul,Team 2 Site 591,Smartfren,Jl. Cigondewah Kidul,Smartfren,107.566413,-6.940973,6,10,Pole Rooftop,BTS,-,PLN,Sewa,-
+565,Bojong Loa Kaler,Kopo,Team 2 Site 592,Telkomsel,Jl. Soekarno Hatta No. 70 I,Telkomsel,107.590198,-6.946097,20,8,4 Kaki,BTS,-,PLN,Sewa,-
+566,Bandung Wetan,Braga,Team 2 Site 594,Telkomsel,Jl. Asia Afrika,Telkomsel,107.615452,-6.922092,20,42,4 Kaki,BTS,-,PLN,Sewa,Gedung Graha Indosaurya
+567,Bandung Wetan,Braga,Team 2 Site 595,Indosat,Jl. Asia Afrika,Indosat,107.616389,-6.922312,20,36,4 Kaki,BTS,-,PLN,Sewa,Wisma Bumi Putra
+568,Bandung Wetan,Braga,Team 2 Site 596,Xl Axiata,Jl. Asia Afrika,XL,107.616122,-6.922178,3,40,Combat,BTS,-,PLN,Sewa,Wisma Monex Antena Nempel Ditembok
+569,Regol,CIgelereng,Team 2 Site 599,Indosat,Jl. Moch. Toha,Indosat,107.60616,-6.939367,6,28,Pole Rooftop,BTS,-,PLN,Sewa,PT Inti
+570,Regol,CIgelereng,Team 2 Site 600,Telkomsel,Jl. Moch. Toha,Telkomsel,107.606251,-6.938738,9,32,3 Kaki,BTS,-,PLN,Sewa,PT Inti
+571,Regol,Ciateul,Team 2 Site 601,Hubdam,Jl. Moch. Toha,Telkomsel- XL,107.60676,-6.934844,52,0,4 Kaki,BTS,-,PLN,Hak,Hubdam
+572,Sumur Bandung,Braga,Team 2 Site 602,Xl Axiata,Jl. Banceuy No. 32,XL,107.606368,-6.918079,3,16,Pole Rooftop,`,2011,PLN,Sewa,-
+573,Sumur Bandung,Braga,Team 2 Site 603,Natrindo Telepon Seluler,Jl. Otista No. 43,NTS,107.604322,-6.916429,20,15,3 Kaki,BTS,-,PLN,Sewa,Menara Tidak Aktif
+574,Sumur Bandung,Merdeka,Team 2 Site 604,Gor Siliwangi/Kodam Siliwangi,Jl. Siliwangi,XL,107.618786,-6.911005,45,0,4 Kaki,BTS,-,PLN,Hak,Gor Siliwangi
+575,Sumur Bandung,Merdeka,Team 2 Site 605,Kodam Siliwangi,Jl. Siliwangi,Telkomsel- HCPT- Smartfren,107.619844,-6.91121,45,0,4 Kaki,BTS,-,PLN,Hak,Gor Siliwangi
+576,Sumur Bandung,Babakan Ciamis,Team 2 Site 606,Xl Axiata,Jl. Punawarman No. 13-15,XL,107.609042,-6.907655,3,28,Pole Rooftop,BTS,-,PLN,Sewa,BEC
+577,Sumur Bandung,Babakan Ciamis,Team 2 Site 607,Telkomsel,Jl. Punawarman No. 13-15,Telkomsel,107.608806,-6.908204,6,28,Pole Rooftop,BTS,-,PLN,Sewa,BEC
+578,Sumur Bandung,Babakan Ciamis,Team 2 Site 608,Ibs,Jl. Punawarman No. 13-15,Smartfren,107.608733,-6.908089,6,28,Pole Rooftop,BTS,-,PLN,Sewa,BEC
+579,Sumur Bandung,Babakan Ciamis,Team 2 Site 609,Hutchison Cp Telekomunication,Jl. Punawarman No. 13-15,HCPT,107.608724,-6.908071,6,28,Pole Rooftop,BTS,-,PLN,Sewa,BEC
+580,Cicendo,Pamoyanan,Team 2 Site 610,Indosat,Jl. Pasirkaliki,Indosat,107.608879,-6.907946,6,28,Pole Rooftop,BTS,-,PLN,Sewa,-
+581,Sumur Bandung,Babakan Ciamis,Team 2 Site 611,Polrestabes Bandung,Jl. Jawa No. 1,XL,107.612022,-6.914252,62,0,4 Kaki,BTS,-,PLN,Sewa,Polrestabes Bandung
+582,Arcamanik,Cisaranteun Indah,Team 2 sitetambahan_2,Bakrie Telekom,Jl. Parakaan Saat,ESIA,107.668228,-6.934056,-,-,Pole Rooftop,-,-,-,-,SITE SUDAH TIDAK AKTIF BERADA DI MASJID JAMI AT TAUFIQ
+583,Coblong,Dago,Team 2 sitetambahan_12,Telkomsel,Jl. Ir. H. Djuanda,Tidak Teridentifikasi,107.619178,-6.874449,15,-,Microcell Pole,BTS,-,GENSET,Sewa,Disegel
+584,Coblong,Dago,Team 2 sitetambahan_13,Telkomsel,Jl. Ir. H. Djuanda,Telkomsel,107.613588,-6.889206,3,16,Pole Rooftop,BTS,-,PLN,Sewa,Gedung Patra Dan 2 Pole
+585,Coblong,Lb Siliwangi,Team 2 sitetambahan_14,Indosat,Jl. Ir. H. Djuanda,Indosat,107.613132,-6.893412,3,20,Pole Rooftop,BTS,-,PLN,Sewa,RS. borromeus bandung
+586,Bandung Wetan,Citarum,Team 2 sitetambahan_15,Daya Mitra Telekomunikasi,Jl. Diponegoro,Telkomsel,107.612934,-6.900305,6,20,Pole Rooftop,BTS,-,PLN,Sewa,Butik Dukomsel
+587,Coblong,Dago,Team 2 sitetambahan_17,Telkomsel,Jl. Ir. H. Djuanda,Telkomsel,107.619357,-6.874077,3,12,Pole Rooftop,BTS,-,PLN,Sewa,Hotel Seraton
+588,Coblong,Sekoloa,Team 2 sitetambahan_18,Tower Bersama Group,Jl. Tubagus Ismail,Telkomsel,107.620332,-6.885129,9,8,Pole Rooftop,BTS,-,PLN,Sewa,RS. khusus ginjal ny.ra habibie bandung
+589,Cibeunying kaler,Neglasari,Team 2 sitetambahan_19,Ibs,Jl. Cikutra Baru,Smartfren,107.637583,-6.896516,15,-,Microcell Pole,BTS,-,PLN,Sewa, kampus itenas dan New Site
+590,Regol,Pasir Luyu,Team 2 sitetambahan_24,Telkomsel,Jl. Sukarno Hatta,Telkomsel,107.619936,-6.949003,12,-,Microcell Pole,BTS,-,PLN,Sewa,Masalah di Foto
+591,Astana Anyar,Nyengseret,Team 2 sitetambahan_26,Xl Axiata,Jl. Ibu Inggit Garnasih,XL,107.602664,-6.931159,6,21,Pole Rooftop,BTS,-,PLN,Sewa,Toko Elizabeth
+592,Andir,Kb Jeruk,Team 2 sitetambahan_27,Protelindo,Jl. Jendral Sudirman,Axis,107.601701,-6.9205,15,12,3 Kaki,BTS,-,PLN,Sewa,IMB dalam Proses
+593,cidadap,Ciumbuleuit,Team 2 sitetambahan_34,Telkomsel,Jl. Dago Giri,Telkomsel,107.624112,-6.853428,42,-,4 Kaki,BTS,-,PLN,Sewa,Site Berada Di Kebubintang bandung
+594,Coblong,Dago,Team 2 sitetambahan_35,Tower Bersama Group,Jl. Ir. H. Djuanda No 4 A/163 E,Telkomsel- Smartfren- XL,107.620111,-6.866429,32,-,4 Kaki,BTS,-,PLN,Sewa,-
+595,Sumur Bandung,BRAGA,Team 2 sitetambahan_37,Indosat,Jl. Lembang,INDOSAT,107.6104,-6.916705,6,36,Pole Rooftop,BTS,-,PLN,Sewa,HOTEL PENGHAYAR
+596,Bandung Kulon,Cibuntu,Team 2 sitetambahan_39,Xl Axiata,Jl. Jendral Sudirman,XL,107.571551,-6.914824,15,-,Microcell Pole,BTS,-,PLN,Sewa,-
+597,Babakan Ciparay,Sukahaji,Team 2 sitetambahan_40,Daya Mitra Telekomunikasi,Jl. Aksana,Telkomsel,107.581072,-6.920026,9,12,Pole Rooftop,BTS,-,PLN,Sewa,-
+598,Coblong,Lb Siliwangi,Team 2 sitetambahan_44,Smartfren,Jl. Siliwangi,Smartfren,107.608618,-6.885023,15,-,Microcell Pole,BTS,-,PLN,Sewa,-
+599,ANDIR,GARUDA,Team 2 sitetambahan_45,Natrindo Telepon Seluler,Jl. Garuda,Tidak Teridentifikasi,107.578565,-6.909219,15,12,Pole Rooftop,BTS,-,PLN,Sewa,TIDAK BOLEH DISURVEY
+600,Sukajadi,SUKA WARNA,Team 2 sitetambahan_48,Telkomsel,Jl. Surya Sumantri,Tidak Teridentifikasi,107.581304,-6.886093,-,-,Pole Rooftop,BTS,-,-,-,TIDAK BISA DI SURVEY BERADA DI UNIVERSITAS MARANATHA
+601,Sukajadi,SUKA GALIH,Team 2 sitetambahan_49,Telkomsel,Jl. Surya Sumantri,Tidak Teridentifikasi,107.581368,-6.886021,-,-,Pole Rooftop,BTS,-,-,-,TITIK MERUPAKAN TOWER INTERNET
+602,Sukajadi,SUKA WARNA ,Team 2 sitetambahan_50,Telkomsel,Jl. Lemah Neundeut,Tidak Teridentifikasi,107.581042,-6.882517,6,15,Pole Rooftop,BTS,-,PLN,Sewa,Tidak Ada Fom Surve
+603,Sukajadi,CIPEDES,Team 2 sitetambahan_54,Telkomsel,Jl. Boscha,Tidak Teridentifikasi,107.600972,-6.889843,12,-,Microcell Pole,BTS,-,PLN,Sewa,Masalah di Foto
+604,Sukajadi,PASTEUR,Team 2 sitetambahan_55,Telkomsel,Jl. Mukti,Tidak Teridentifikasi,107.598917,-6.89092,12,12,Pole Rooftop,BTS,-,PLN,Sewa,BERADA DI PASAR SEDERHANA
+605,Sukajadi,SUKA BUNGAH,Team 2 sitetambahan_59,Protelindo,Jl. Suka Jadi Gang Marnol Rt 01 Rw 04,HCPT,107.59684,-6.893438,12,12,Pole Rooftop,BTS,-,PLN,Sewa,New Site Belum Aktif
+606,COBLONG,CIPAGANTI,Team 2 sitetambahan_60,Telkomsel,Jl. Bapak Husein,Tidak Teridentifikasi,107.604014,-6.891574,-,-,Pole Rooftop,-,-,-,-,TIDAK BISA DI SURVEY LOKASI BERADA DI RS. ADVENT
+607,COBLONG,CIPAGANTI,Team 2 sitetambahan_62,Telkomsel,Jl. Cihampelas,Tidak Teridentifikasi,107.604054,-6.898577,18,6,Pole Rooftop,BTS,-,PLN,Sewa,Masalah di Foto
+608,BANDUNG WETAN,TAMAN SARI,Team 2 sitetambahan_64,Telkomsel,Jl. Pelesiran Gg. Mudiono Rt 08 Rw 08,TELKOMSEL,107.608262,-6.897095,9,12,Pole Rooftop,BTS,-,PLN,Sewa,-
+609,BANDUNG WETAN,TAMAN SARI,Team 2 sitetambahan_67,Telkomsel,Jl. H. Djuanda,TELKOMSEL,107.611928,-6.901491,15,-,Microcell Pole,BTS,-,PLN,Sewa,-
+610,SUMUR BANDUNG,KEBON PISANG,Team 2 sitetambahan_69,Telkomsel,Jl. Tamblong,TELKOMSEL,107.612164,-6.920477,6,36,Pole Rooftop,BTS,-,PLN,Sewa,HOTEL GRAND PRENGER
+611,SUMUR BANDUNG,KEBON PISANG,Team 2 sitetambahan_70,Hutchison Cp Telekomunication,Jl. Tamblong,HCPT,107.612165,-6.920496,6,26,Pole Rooftop,BTS,-,PLN,Sewa,HOTEL GRAND PRENGER
+612,SUMUR BANDUNG,KEBON PISANG,Team 2 sitetambahan_71,Telkomsel,Jl. Flores,TELKOMSEL,107.618096,-6.908336,6,24,Pole Rooftop,BTS,-,PLN,Sewa,HOTEL ARMANUSA
+613,COBLONG,LEBAK GEDE,Team 2 sitetambahan_77,Telkomsel,Jl. Dipati Ukur,Tidak Teridentifikasi,107.618141,-6.893067,-,-,4 Kaki,BTS,-,PLN,Sewa,-
+614,CICENDO,PASIR KALIKI,Team 2 sitetambahan_81,Xl Axiata,Jl. Cicendo,XL,107.604302,-6.909788,6,20,Pole Rooftop,BTS,-,PLN,Sewa,RS. MATA CICENDO
+615,ARCAMANIK,SINDANG JAYA,Team 2 sitetambahan_85,Telkomsel,Jl. Terusan Pesantren,TELKOMSEL,107.680135,-6.911364,55,-,Monopole,BTS,-,PLN,Sewa,TIDAK AKTIF
+616,ARCAMANIK,SUKA MISKIN,Team 2 sitetambahan_86,Tower Radio Kominfo,Jl. Purbasari ,Tidak Teridentifikasi,107.679767,-6.914798,62,-,4 Kaki,BTS,-,PLN,Sewa,MENARA RADIO KOMINFO
+617,Bojong Loa Kaler,SUKA ASIH,Team 2 sitetambahan_90,Indosat,Jl. Peta,INDOSAT,107.593831,-6.936318,2,36,Pole Rooftop,BTS,-,PLN,Sewa,HOTEL GRAND PASUNDAN
+618,Bojong Loa Kidul,SITU SAUER,Team 2 sitetambahan_91,Telkomsel,Jl. Peta No. 123,TELKOMSEL,107.595281,-6.937215,20,8,3 Kaki,BTS,-,PLN,Sewa,-
+619,Bojong Loa Kidul,CIBADUYUT,Team 2 sitetambahan_97,Protelindo,Jl. Cibaduyut Lama,TELKOMSEL,107.593644,-6.950763,6,12,Pole Rooftop,BTS,-,PLN,Sewa,-
+620,SUMUR BANDUNG,KEBON PISANG,Team 2 sitetambahan_103,Xl Axiata,Jl. Ahmad Yani,XL,107.626628,-6.917622,9,12,Pole Rooftop,BTS,-,PLN,Sewa,-
+621,Bojong Loa Kidul,CIBADUYUT,Team 2 sitetambahan_110,Xl Axiata,Jl. Dewi Warman,XL,107.595555,-6.955566,32,-,3 Kaki,BTS,-,PLN,Sewa,-
+622,BABAKAN CIPARAY,MARGAHAYU UTARA,Team 2 sitetambahan_117,Telkomsel,Jl. Miana,TELKOMSEL- HCPT- XL,107.57698,-6.949576,32,-,4 Kaki,BTS,-,PLN,Sewa,-
+623,BANDUNG KULON,PASIR JAYA,Team 2 sitetambahan_120,Telkomsel,Jl. Terusan Pasir Koja,TELKOMSEL- HCPT- XL,107.571246,-6.930952,72,-,4 Kaki,BTS,-,PLN,Sewa,-
+624,cidadap,LEDENG,Team 2 sitetambahan_122,Xl Axiata,Jl. Setia Budi,XL,107.594895,-6.8598574,15,-,Microcell Pole,BTS,-,PLN,Sewa,-
+625,Bojong Loa Kidul,KEBON LEGA,Team 2 sitetambahan_124,Indosat,Jl. Pakasih,INDOSAT- HCPT- XL-ESIA,107.58799,-6.950259,42,-,4 Kaki,BTS,-,PLN,Sewa,-
+626,LENGKONG,BURANGRANG,Team 2 sitetambahan_128,Met Radio,Jl. Buah Batu No. 5,SMARTFREN,107.616875,-6.930133,50,-,4 Kaki,BTS,-,PLN,Sewa,-
+627,CIBIRU,PASIR BIRU,Team 2 sitetambahan_133,Telkomsel,Jl.Cilengkrang 2 Kp. Gandol Rt 05/05,TELKOMSEL,107.720919,-6.915996,42,-,4 Kaki,BTS,-,PLN,Sewa,-
+628,CIBIRU,PASIR BIRU,Team 2 sitetambahan_135,Xl Axiata,Kp. Mekar Sari Rt 05/ 09,XL,107.724231,-6.921862,30,-,4 Kaki,BTS,-,PLN,Sewa,-
+629,Cibeunying kaler,NEGLASARI,Team 2 sitetambahan_141,Telkomsel,Jl. P.H.H Mustofa,TELKOMSEL,107.639283,-6.898936,15,-,Microcell Pole,BTS,-,PLN,-,-
+630,Bojong Loa Kaler,KOPO,Team 2 sitetambahan_145,Telkomsel,Jl. Kopo,TELKOMSEL- INDOSAT- XL,107.589228,-6.939012,62,-,4 Kaki,BTS,-,PLN,-,-
+631,BANDUNG KULON,HOLIS,Team 2 sitetambahan_147,Natrindo Telepon Seluler,Jl. Holis,AXIS- HCPT- SMARTFREN,107.573008,-6.930752,52,-,3 Kaki,BTS,-,PLN,-,-
+632,ANTAPANI,ANTAPANI KIDUL,Team 2 sitetambahan_150,Telkomsel,Jl. Antapani Mas Ii,TELKOMSEL,107.662013,-6.928703,16,-,Pole Rooftop,BTS,-,PLN,-,-
+633,Cibenying Kidul,CIKUTRA,Team 2 sitetambahan_156,Xl Axiata,Jl. Cikutra,XL,107.643807,-6.906813,6,15,Pole Rooftop,BTS,-,PLN,-,RS. SANTO YOSEP
+634,Ujung Berung,Cigending,Team 2 sitetambahan_174,Telkomsel,Jl. Vijayakusuma,Telkomsel,107.69418,-6.904663,62,0,4 Kaki,BTS,-,PLN,Sewa,-
+635,Batu Nunggal,Cibangkong,Team 2 sitetambahan_180,Telkomsel,Jl. Jendral Gatot Subroto,Telkomsel,107.637204,-6.925313,10,16,Pole Rooftop,BTS,-,PLN,Sewa,Tidak Bisa Masuk
+636,KIARA CONDONG,Kebon Kangkung,Team 2 sitetambahan_192,Xl Axiata,Jl. Mandala,XL- Telkomsel- Smartfren- Ceria,107.644572,-6.942857,25,-,3 Kaki,BTS,-,-,Sewa,-
+637,Batu Nunggal,Batununggal,Team 2 sitetambahan_193,Telkomsel,Jl. Suradharma,Telkomsel,107.635538,-6.951784,32,-,Monopole,BTS,-,PLN,Sewa,-
+638,Rancasari,Derwati,Team 2 sitetambahan_209,Telkomsel,Jl. Terusan Saluyu,Telkomsel,107.67829,-6.950355,25,-,Monopole,BTS,-,PLN,Sewa,-
+639,LENGKONG,CIJAGRA,Team 2 sitetambahan_216,Telkomsel,Jl. Bkr,Telkomsel,107.60736,-6.937694,-,-,3 Kaki,BTS,-,-,-,-
+640,REGOL,CIGELERENG,Team 2 sitetambahan_219,Ibs,Jl. Mohammad Ramdan,Tidak Teridentifikasi,107.610979,-6.936282,-,-,4 Kaki,BTS,-,-,-,-
+641,Coblong,Dago,Tambahan,Protelindo,Jl. Cisitu Indah Vl No.181 Rt.001/004,-,107.61395,-6.8729,RT 12m,-,Pole Rooftop,-,-,-,-,-
+642,Bojong Loa Kidul,Mekar wangi,Tambahan,Protelindo,Jalan Tol Moh Toha,-,107.60316,-6.96213,GF 27m,-,Monopole,-,-,-,-,-
+643,ANDIR,kebon jeruk,Tambahan,Protelindo, Jl. Gardu Jati No. 81-83 Rt.02/07 . King Garden Hotel,-,107.59788,-6.9174,RT 6m,-,Pole Rooftop,-,-,-,-,-
+644,Cibeunying kaler,Cigadung,Tambahan,Protelindo,Gg. Masjid Al-Ikhlas Rt. 02 Rw. 08,-,107.62675,-6.88318,RT 6m,-,Pole Rooftop,-,-,-,-,-
+645,Lengkong,CIJAGRA,Tambahan,Protelindo,Jl. Buah Batu No.148 Rt.01/01,-,107.62482,-6.93938,RT  6m,-,Pole Rooftop,-,-,-,-,-
+646,Bandung Kidul,Kujangsari,Tambahan,Protelindo,"Komplek Buah Batu Regensi A1 Kav No.9, Rt.09, Rw.07",-,107.63999,-6.96126,RT 6m,-,Pole Rooftop,-,-,-,-,-
+647,Lengkong,Cijagra,Tambahan,Protelindo,Jl. Sukarno – Hatta No. 505,-,107.62836,-6.94801,GF 18m,-,Monopole,-,-,-,-,-
+648,Bojong Loa Kidul,Kebon lega,Tambahan,Protelindo,Jl. Karasak Barat Mekar Mas Kav. 5E. Komplek Pertokoan Istana Mekarwangi ,-,107.602202,-6.9488793,RT 6m,-,Pole Rooftop,-,-,-,-,-
+649,Bojong Loa Kidul,Situsaeur,Tambahan,Protelindo,"Jl. Leuwi Panjang Gg. H. Samsudin, Rt.009, Rw.004",-,107.5939561,-6.9450234,RT 6m,-,Pole Rooftop,-,-,-,-,-
+650,Babakan Ciparay,Sukahaji,Tambahan,Protelindo,Jl. Babakan Ciparay Gg Air Mancur Rt.006/003,-,107.5831,-6.92996,RT 9m,-,Pole Rooftop,-,-,-,-,-
+651,Bandung Kidul,Batu Nunggal,Tambahan,Smartfren,Jl. Batu Nunggal Indah Raya Ii,Smartfren,107.628661,-6.956171,RT 6m,6,Pole Rooftop,BTS,-,PLN,Sewa,-
+652,Coblong,Dago,Tambahan,Smartfren,Jl. Ir. H. Djuanda,SMARTFREN,107.613588,-6.889206,3,16,Pole Rooftop,BTS,-,PLN,Sewa,Gedung Patra Dan 2 Pole
+653,Antapani,ANTAPANI KIDUL,Tambahan,Telkomsel,Jl. Terusan Jakarta,telkomsel,107.6648,-6.9147,RT 3m,-,Pole Rooftop,-,-,-,-,-
+654,Bandung Kidul,Batununggal,Tambahan,Telkomsel,Jl. Parakan Permai,Telkomsel,107.6311406,-6.9492728,RT 3m,-,Pole Rooftop,POLE,-,-,-,-
+655,Bandung Kulon,CIGONDEWAH KALER,Tambahan,Smartfren,Taman Holis,Smartfren,107.5618976,-6.9373755,GF 30m,-,4 Kaki,4 KAKI,-,-,-,-
+656,Bandung Wetan,TAMAN SARI,Tambahan,Daya Mitra Telekomunikasi,Jl. Wastukencana Gang Nangkasuni Bandung,-,107.6059,-6.9058602,RT 3m,-,Pole Rooftop,-,-,-,-,-
+657,Cibenying Kidul,Sukapada,Tambahan,Daya Mitra Telekomunikasi,Jl. Bojong Koneng No. 12 Rt 04 Rw 12,-,107.6437193,-6.89435,RT 6m,-,Pole Rooftop,-,-,-,-,-
+658,Kiaracondong,Kebon Kangkung,Tambahan,Daya Mitra Telekomunikasi,Jl. Ibrahim Adjie No. 373 Rt. 003 Rw. 006,Telkomsel,107.64259,-6.93409,RT 12m,-,Pole Rooftop,-,-,-,-,-
+659,Cibenying Kidul,CIKUTRA,Tambahan,Daya Mitra Telekomunikasi,"Jl. Jakarta No 73 Rt 5 Rw 3, Bandung, Jawa Barat",-,107.64258,-6.91365,RT 12m,-,Pole Rooftop,-,-,-,-,-
+660,Sukasari,Sarijadi,Tambahan,Daya Mitra Telekomunikasi,"Masjid Ta'Awun Gang Sarimanah Iv Blok 10, Perum Sarijadi Rt/Rw. 003/004",-,107.577552,-6.87852,RT 9m,-,Pole Rooftop,-,-,-,-,-
+661,Sumur Bandung,Merdeka,Tambahan,Daya Mitra Telekomunikasi,Hotel Dafam Rio Jl. Re. Martadinata (Riau) No. 160,-,107.62913,-6.91422,RT 9m,-,Pole Rooftop,-,-,-,-,-
+662,Lengkong,Cikawao,Tambahan,Daya Mitra Telekomunikasi,Jl. Melong Kidul Rt.01 / Rw.02,-,107.613863,-6.929901,RT 12m,-,Pole Rooftop,-,-,-,-,-
+663,Cibeunying kaler,Cigadung,Tambahan,Daya Mitra Telekomunikasi,Jl. Farmakologi No. 1  Rt. 02 Rw. 07,-,107.623264,-6.882719,GF 20m,-,Microcell Pole,-,-,-,-,-
+664,Andir,Kebon Jeruk,Tambahan,Daya Mitra Telekomunikasi,Jalan Stasiun Selatan No.25,-,107.59898,-6.91365,GF 30m,-,Monopole,-,-,-,-,-
+665,Coblong,CIPAGANTI,Tambahan,Daya Mitra Telekomunikasi,Jl. Cihampelas No.121B,-,107.603816,-6.89643,GF 9m,-,Microcell Pole,-,-,-,-,-
+666,Sumur Bandung,BRAGA,Tambahan,Daya Mitra Telekomunikasi,Jl. Otto Iskandar Dinata No.99,-,107.60435,-6.91808,GF 9m,-,Microcell Pole,-,-,-,-,-
+667,Sukajadi,,Tambahan,Daya Mitra Telekomunikasi,Masjid Al Muraby. Jl. Hegarmanah No.10,-,107.5823777,-6.8811867,RT 9m,-,Pole Rooftop,-,-,-,-,-
+668,Babakan Ciparay,Babakan,Tambahan,Daya Mitra Telekomunikasi,Jl. Ters. Suryani Gg. Abadi Rt.03 Rw.02,-,107.57957,-6.92615,GF 30m,-,Monopole,-,-,-,-,-
+669,Bandung Kidul,Batununggal,Tambahan,Daya Mitra Telekomunikasi,Jl. Soekarno Hatta No. 468. Kantor Pkk Propinsi Jawa Barat.,-,107.62754,-6.94972,GF 9m,-,Microcell Pole,-,-,-,-,-
+670,Sukajadi,SUKAGALIH,Tambahan,Indosat,Jl. Dr. Junjunan No. 116,Indosat,107.589722,-6.895,RT 3m,-,Pole Rooftop,-,-,-,-,-
+671,Regol,cigereleng,Tambahan,Indosat,Jl. Bkr /Pt Inti,Indosat,107.607222,-6.938333,RT 3m,-,Pole Rooftop,-,-,-,-,-
+672,Cinambo,Pakemitan,Tambahan,Kin (Komet Infra Nusantara),Jl Btr Raya,Tidak Teridentifikasi,107.69586,-6.91606,RT 9m,-,Monopole,-,-,-,-,-
+674,Andir,Kebon Jeruk,Tambahan,Retower Asia,Pasar Baru Bandung,-,107.603333,-6.9174,RT 3m,-,Pole Rooftop,-,-,-,-,-
+675,Ujung Berung,pasirwangi,Tambahan,Solusi Tunas Pratama,Jl. Ciharegem,-,107.70371,-6.90237,GF 32m,-,4 Kaki,-,-,-,-,-
+676,Lengkong,Turangga,Tambahan,Ibs,Jl. Sekar Manis,-,107.62675,-6.939614,RT 3m,-,Pole Rooftop,-,-,-,-,-
+677,Astana Anyar,Pelindung Hewan,Tambahan,Ibs,Jl. Pelindung Hewan,-,107.604538,-6.941373,RT 3m,-,Pole Rooftop,-,-,-,-,-
+678,Bandung Kulon,Cibuntu,Tambahan,Ibs,Jl. H Alpi,-,107.57155,-6.92246,GF 25m,-,4 Kaki,-,-,-,-,-
+679,Sukajadi,sukawarna,Tambahan,Daya Mitra Telekomunikasi,Jl. Sarimadu,-,107.57487,-6.88395,RT 3m,-,Pole Rooftop,-,-,-,-,-
+680,Ujung Berung,pasirwangi,Tambahan,Ibs,Jl. Pasirmalaka,-,107.70103,-6.9010747,GF 25m,-,4 Kaki,-,-,-,-,-
+681,Bojongloa Kidul,Kebonlega,Tambahan,Daya Mitra Telekomunikasi,Jl. Leuwisari Raya No. 32 Rt 001 Rw 008,-,107.59773,-6.94526,GF 20m,-,Microcell Pole,-,-,-,-,-
+682,Buahbatu,Cijawura,Tambahan,Daya Mitra Telekomunikasi,Gg. Neglasari V No.47 Rt.05 Rw.08,-,107.65601,-6.9589,GF 20m,-,Microcell Pole,-,-,-,-,-
+683,Arcamanik,Sukamiskin,Tambahan,Daya Mitra Telekomunikasi,Jl. Banjarsari Indah A-If Rt.03/Rw.015,-,107.667069,-6.919414,RT 6m,-,Pole Rooftop,-,-,-,-,-
+684,Cibenying Kidul,Pasirlayung,Tambahan,Daya Mitra Telekomunikasi,Jl. Sirna Galih No. 22 Rt/Rw. 05/04,-,107.657,-6.89526,GF 20m,-,Microcell Pole,-,-,-,-,-
+685,Cibenying Kidul,Pasirlayung,Tambahan,Daya Mitra Telekomunikasi,Jl. Mekar II Pasir Honje Rt 02 Rw 01,-,107.66429,-6.886046,RT 20m,-,4 Kaki,-,-,-,-,-

@@ -1,0 +1,649 @@
+No.,Sub Wilayah Kota,Kecamatan,Taman Per Kecamatan,Lokasi,Luas (M2) Lama,Hasil Updating RTH (m2)
+1,Bojonegara,Sukasari,Taman Gegerkalong/Setiabudhi, Jl. Setiabudhi,147.8,152.8
+2,Bojonegara,Sukasari,Taman Sukajadi/Setiabudhi, Jl. Setiabudhi,663,769.03
+3,Bojonegara,Sukasari,Taman Setiabudhi/Karang Sari, Jl. Setiabudhi,536.25,661.35
+4,Bojonegara,Sukasari,Taman Batas Kota Setiabudhi, Jl. Setiabudhi,220,350
+5,Bojonegara,Sukasari,Taman Pintu Gerbang, Jl. Cijerokaso ,344.05,574.05
+6,Bojonegara,Sukasari,Taman Batu, Jl. Cijerokaso ,2490.33,2990.33
+7,Bojonegara,Sukasari,Taman WTP (GrounTankI), Jl. Cijerokaso ,329,552
+8,Bojonegara,Sukasari,Taman Kav. 10 - Jembatan 1, Jl. Cijerokaso ,444.8,744.8
+9,Bojonegara,Sukasari,Taman Play Ground I, Jl. Cijerokaso ,264.91,464.91
+10,Bojonegara,Sukasari,Taman Play Ground II, Jl. Cijerokaso ,241.75,361.75
+11,Bojonegara,Sukasari,Taman Kav. 68 - 69, Jl. Cijerokaso ,95,209
+12,Bojonegara,Sukasari,Taman Blok F, Jl. Cijerokaso ,166.18,186.18
+13,Bojonegara,Sukasari,Taman Sebrang F. 07, Jl. Cijerokaso ,43.75,53.75
+14,Bojonegara,Sukasari,Taman Kav. 79, Jl. Cijerokaso ,68.75,88.75
+15,Bojonegara,Sukasari,Taman Kav. 88 - 106, Jl. Cijerokaso ,75.75,95.75
+16,Bojonegara,Sukasari,Taman Parkir, Jl. Cijerokaso ,762.12,1162.12
+17,Bojonegara,Sukasari,Taman Masjid dan Masjid, Jl. Cijerokaso ,706.5,956.54
+18,Bojonegara,Sukasari, Lapang Basket dan GroundTank II, Jl. Cijerokaso ,322.74,762.74
+19,Bojonegara,Sukasari, LapanganTenis, Jl. Cijerokaso ,1449.4,1653.42
+20,Bojonegara,Sukasari,Taman Lansia Komplek KPAD Gegerkalong, Komplek KPAD Gegerkalong,510,510
+21,Bojonegara,Sukasari, Jalur Raya Komplek KPAD, Komplek KPAD Gegerkalong,12900,12900
+22,Bojonegara,Sukasari, Lapangan Olahraga Komplek KPAD Gegerkalong, Komplek KPAD Gegerkalong,20150,20150
+23,Bojonegara,Sukasari,Taman Anak Komplek KPAD Gegerkalong, Komplek KPAD Gegerkalong,2007,2007
+24,Bojonegara,Sukajadi,Taman Sukajadi/Cemara, Jl. Sukajadi,395,395
+25,Bojonegara,Sukajadi,Taman Angklung, Jl. Sukajadi,1823.52,1823.52
+26,Bojonegara,Sukajadi,Taman Sukajadi/Eykman, Jl. Sukajadi,1733.44,1733.44
+27,Bojonegara,Sukajadi,Taman Setiabudhi/Cipaganti, Jl. Dr. Setiabudi,1529.7,1529.7
+28,Bojonegara,Sukajadi,Taman Setiabudhi/Sindang Sirna, Jl. Sukajadi,972,972
+29,Bojonegara,Sukajadi,Taman Sukajadi/Karangtineung, Jl. Sukajadi,1940.5,1940.5
+30,Bojonegara,Sukajadi,Taman Pulau Jl. Setiabudhi - Jl. Sukajadi,Jl. Setiabudhi - Jl. Sukajadi,796.09,796.09
+31,Bojonegara,Sukajadi,Taman Sukajadi/Karangtinggal, Jl. Sukajadi,250,250
+32,Bojonegara,Sukajadi,Taman Sukajadi/Sukamaju, Jl. Sukajadi,200,200
+33,Bojonegara,Sukajadi, Pulau Jalan Pasirkaliki/Pasteur, Jl. Sukajadi,895.6,895.6
+34,Bojonegara,Sukajadi,Taman Sukarasa, Jl. Sukarasa,-,500
+35,Bojonegara,Sukajadi,Taman Setra Ria, Jl. Setra Ria,-,49
+36,Bojonegara,Sukajadi,Taman Perumnas Sarijadi, Perumanas Sarijadi Blok 5- 7-9-13-15 dan 24,-,7447
+37,Bojonegara,Sukajadi,Taman Pro. Eykman/Makmur, Jl. Eykman,790,790
+38,Bojonegara,Sukajadi,Taman Sukajadi/Panglayungan, Jl. Sukajadi,2699.08,2699.08
+39,Bojonegara,Sukajadi, Lapang Voli Perumahan Sukamulya Indah, Komplek Perumahan Sukamulya Indah,-,408
+40,Bojonegara,Sukajadi,Taman Sukagalih, Jl. Sukagalih (depan Kelurahan),-,99
+41,Bojonegara,Sukajadi, Jalur Hijau Jalur Bungur, Jl. Bungur,264,264
+42,Bojonegara,Sukajadi,Taman Sudut Pasirkaliki 1, Jl. Pasteur,593.31,593.31
+43,Bojonegara,Sukajadi,Taman Sudut Pasirkaliki 2, Jl. Pasirkaliki,536,536
+44,Bojonegara,Sukajadi,Taman Sukamulya/Pasteur, Jl. Pasirkaliki,782.52,782.52
+45,Bojonegara,Sukajadi,Taman Surya Sumantri, Jl. Surya Sumantri / Dr. Junjunan,983.2,983.2
+46,Bojonegara,Sukajadi,Taman Sukamulya Bunderan, Jl. Pasteur,378.5,378.5
+47,Bojonegara,Sukajadi, Jalur Dr. Djundjunan, Jl. Dr. Djundjunan - Jl. Suria Sumantri,6258.56,6258.56
+48,Bojonegara,Sukajadi,Taman Eks SPBU Sukajadi, Jl. Pasteur,4251.03,4251.03
+49,Bojonegara,Sukajadi, Lapangan ABRA, Jl. Cipedes,14966.38,14966.38
+50,Bojonegara,Sukajadi, Jalur Pasteur I, Jl. Pasteur,-,900
+51,Bojonegara,Sukajadi, Jalur Pasteur I, Jl. Pasteur,-,4952.5
+52,Bojonegara,Sukajadi,TamanTenteram, Jl.Tenteram,365.6,365.6
+53,Bojonegara,Cicendo,Taman Patung Husein, Jl. Padjadjaran,518.25,518.25
+54,Bojonegara,Cicendo,Taman Dr. Rajiman, Jl. Dr. Rajiman,895.5,895.5
+55,Bojonegara,Cicendo,Taman Dr. Otten 1, Jl. Dr. Otten,3171.08,3171.08
+56,Bojonegara,Cicendo,Taman Dr. Otten 2, Jl. Dr. Otten,-,58
+57,Bojonegara,Cicendo, Pulau Jalan Westhcoop I, Jl. Dr. Otten,183.06,183.06
+58,Bojonegara,Cicendo, Pulau Jalan Westhcoop II, Jl. Dr. Otten,137.5,137.5
+59,Bojonegara,Cicendo,Taman Curie, Jl. Dr. Curie,974.04,974.04
+60,Bojonegara,Cicendo,Taman Erligh, Jl. Dr. Erligh,391,391
+61,Bojonegara,Cicendo,Taman Abdul Riva'i, Jl. Abdul Riva'I,671.7,671.7
+62,Bojonegara,Cicendo,Taman Dr. Cipto, Jl. Pajajaran,1709.18,1709.18
+63,Bojonegara,Cicendo,Taman Pandu/Padjadjaran, Jl. Pajajaran,82.25,82.25
+64,Bojonegara,Cicendo,Taman Monumen KTT Non Blok, JL. Pajajaran,1526.73,1526.73
+65,Bojonegara,Cicendo,Taman Abd. Rachman Saleh , JL. Abd. Rachman Saleh,1959.06,1959.06
+66,Bojonegara,Cicendo,Taman Supadio I, JL. Abd. Rachman Saleh,858.75,858.75
+67,Bojonegara,Cicendo,Taman Supadio II, JL. Abd. Rachman Saleh,431.5,431.5
+68,Bojonegara,Cicendo,Taman Nurtanio (Jalur), Jl. Nurtanio/Garuda,567.75,567.75
+69,Bojonegara,Cicendo,Taman Adipura, Jl. Padjajaran,1865.3,1865.3
+70,Bojonegara,Cicendo,Taman Sudut Kebon Kawung/Pasirkaliki, Jl. Kebon Kawung/Pasirkaliki,362.7,362.7
+71,Bojonegara,Cicendo,Taman Arjuna/Pendawa, Jl. Arjuna,341.4,341.4
+72,Bojonegara,Cicendo,Taman Lesmana, Jl. Lesmana,1844,1844
+73,Bojonegara,Cicendo,Taman Pandu Gereja, JL. Pandu,988,988
+74,Bojonegara,Cicendo, Lap. Kembar Empat, JL. Muhamad,4488,4488
+75,Bojonegara,Cicendo,Taman GOR Padjadjaran, Jl. Pajajaran,5745.07,5745.07
+76,Bojonegara,Cicendo,Taman Bima/Kresna, Jl. Bima,117.45,117.45
+77,Bojonegara,Cicendo,Taman Bima, Jl. Bima,555,555
+78,Bojonegara,Cicendo,Taman Pendawa, JL. Pendawa/Kresna,3861.74,3861.74
+79,Bojonegara,Cicendo,Taman Bunderan Arjuna, Jl. Arjuna,225,225
+80,Bojonegara,Cicendo, Lapangan Jatayu, Jl. Supadio,4666.5,4666.5
+81,Bojonegara,Cicendo,Taman Lapangan Olah Raga Mahmud, Jl. Mahmud,-,5330
+82,Bojonegara,Cicendo,Taman Brounsweigh, Jl. Wastukancana,490.25,490.25
+83,Bojonegara,Cicendo,Taman Dr. Hatta, Jl. Hatta,2808.07,2808.07
+84,Bojonegara,Andir,Taman Waringin, Jl. Waringin,198.1,198.1
+85,Bojonegara,Andir,Taman Rajawali/Arjuna, Jl. Rajawali,376,376
+86,Bojonegara,Andir, Jalur Sudirman, Jl. Sudirman,3158.02,3158.02
+87,Bojonegara,Andir,TPJ Sudirman - Rajawali, Jl. Sudirman,825.54,825.54
+88,Bojonegara,Andir, Bunderan Sudirman, Jl. Sudirman,735,735
+89,Bojonegara,Andir, Jalur Garuda Barat, Jl. Garuda,2405,2405
+90,Bojonegara,Andir, Jalur Elang, Jl. Elang,1395.67,1395.67
+91,Bojonegara,Andir,Taman Cimindi, Jl. Cimindi,1557.21,1557.21
+92,Bojonegara,Andir,Taman Yaplun, Jl. Yaplun,1184.96,1184.96
+93,Bojonegara,Andir,Taman Sudut Rajawali, Jl. Rajawali,666.35,666.35
+94,Bojonegara,Andir, Lapang Elang, Jl. Elang II,10306,10306
+95,Bojonegara,Andir, Bak Bunga Andir I, Jl. Garuda,104.99,104.99
+96,Bojonegara,Andir, Bak Bunga Andir II, Jl. Garuda,180,180
+97,Bojonegara,Andir, Jalur GarudaTimur, Jl. Garuda,2968.13,2968.13
+98,Bojonegara,Andir,Taman Babatan, Jl. Pasar Babatan,18307.21,18307.21
+99,Bojonegara,Andir,Taman RW. 04 Kel. Dungucariang,-,-,110
+100,Bojonegara,Andir,TAMAN RW. 09 Kel. Kebun Jeruk,-,-,130
+101,Bojonegara,Andir,Taman RW. Belakang Kantor Kel. Maleber,-,-,210
+102,Cibeunying,Cidadap,Taman Ciumbuleuit 1, Jl. Ciumbuleuit,78.5,78.5
+103,Cibeunying,Cidadap,Taman HegarmanahTugu, Jl. Hegarmanah,587.6,587.6
+104,Cibeunying,Cidadap,Taman HegarmanahTengah, Jl. Hegarmanah,70,70
+105,Cibeunying,Cidadap,Taman Ciumbuleuit 2 (Taman Kolam), Jl. Kolam,5120,5120
+106,Cibeunying,Cidadap,Taman Rancabentang, Jl. Rancabentang,2198.98,2198.98
+107,Cibeunying,Cidadap,Taman Hegarmanah Lapang Volli, Jl. Hegarmanah,1576,1576
+108,Cibeunying,Cidadap,Taman Sanirosa, Jl. Sanirosa,135,135
+109,Cibeunying,Cidadap,Taman Hegarmanah, Jl. Hegarmanah,900,0
+110,Cibeunying,Coblong, Bak Bunga Pot Simpang, Jl. Simpang,34,34
+111,Cibeunying,Coblong,Taman Dipatiukur, Jl. Dipatiukur,556.5,556.5
+112,Cibeunying,Coblong, Jalur Dago, Jl. Dago,2156,2156
+113,Cibeunying,Coblong,Taman Keluarga Berencana, Jl. Setiabudhi - Jl. Cihampelas,410,410
+114,Cibeunying,Coblong,Taman Siliwangi/Sangkuriang, Jl. Siliwangi,59.4,59.4
+115,Cibeunying,Coblong,Taman Cihampelas/Setiabudi (Kel. Sejahtera), Jl. Cihampelas,365,365
+116,Cibeunying,Coblong,Taman Siliwangi/Sumur Bandung, Jl. Siliwangi,185.5,185.5
+117,Cibeunying,Coblong,Taman Ganesha, Jl. Ganesa,9612,9612
+118,Cibeunying,Coblong,Taman Bapak Husen, Jl. Cipaganti ,639,639
+119,Cibeunying,Coblong, Bak Bunga Bbk. Siliwangi, Jl. Bbk. Siliwangi,134.6,134.6
+120,Cibeunying,Coblong, Jalur Siliwangi, Jl. Siliwangi,150.12,150.12
+121,Cibeunying,Coblong,Taman JL.Teuku Umar, Jl.Teuku Umar,3614,3614
+122,Cibeunying,Coblong,Taman Dayang Sumbi/Tamansari, Jl. Dayang Sumbi,754.6,754.6
+123,Cibeunying,Coblong,Taman Gelap Nyawang, Jl. Gelap Nyawang,1656.4,1656.4
+124,Cibeunying,Coblong,Taman Dago Atas, Jl. Dago Atas,2760,2760
+125,Cibeunying,Coblong, Kebun Binatang, Jl.Taman Sari,35874.67,35874.67
+126,Cibeunying,Coblong, Lapang Lebak Siliwangi, Jl.Taman Sari,71568.13,71568.13
+127,Cibeunying,Coblong,Taman Hewan, Jl.Taman Sari,2456,2456
+128,Cibeunying,Coblong,Tm. Pulau Jl.Tamansari-Sumur Bandung, Jl.Taman Sari - Jl. Sumur Bandung,244.74,244.74
+129,Cibeunying,Coblong, Jalur Setiabudi - Cihampelas, Jl. Cihampelas,965,965
+130,Cibeunying,Coblong,Taman Siliwangi , Ir. H. Juanda (simpang),81,81
+131,Cibeunying,Coblong,TamanTilil, Jl. Puter- Dederuk-Tikukur- Puyuh,2422.06,2422.06
+132,Cibeunying,Coblong,Taman Eks SPBU Cikapayang, Jl. Ir. H. Djuanda,2490,2490
+133,Cibeunying,Coblong,Taman Pulau Jalan Ir. H. DJuanda, Jl. Ir. H. Djuanda,32,32
+134,Cibeunying,Coblong,Taman Pulau JalanTamansari , Jl.Tamansari,36,36
+135,Cibeunying,Coblong,Taman Perumnas , Jl. Sadang serang,45,45
+136,Cibeunying,Coblong,Taman Jalur Gelap Nyawang, Jl. Gelap Nyawang,44,44
+137,Cibeunying,Coblong,Taman Babakan Siliwangi, Jl. Siliwangi,23052,23052
+138,Cibeunying,Coblong, Bak Bunga Jalan Pasupati, Jembatan Pasupati,350,350
+139,Cibeunying,Coblong,Taman Pulau Jalan Pasupati, Jl. Ir. H. Djuanda- Jl.Tamansari- Jl. Cikapayang,384,384
+140,Cibeunying,Coblong,Taman Monumen Perjuangan Rakyat Jabar, Jl. Dipatiukur- Jl. Suci,83100,83100
+141,Cibeunying,Coblong,Taman Bagusrangin, Jl. Bagusrangin,-,1560
+142,Cibeunying,Coblong,Taman Panatayuda, Jl. Panatayuda,-,2387
+143,Cibeunying,Coblong,Taman Singaperbangsa, Jl. Dipati Ukur,-,800
+144,Cibeunying,Coblong,Taman Hasanudin, Jl. Dipati Ukur,-,3400
+145,Cibeunying,Coblong,TamanTubagus Ismail, Jl.Tubagus Ismail,-,86
+146,Cibeunying,Coblong,Taman Puskesmas Kebonlega, Jl. Kebonlega,-,800
+147,Cibeunying,Bandung Wetan,Taman Jl. Diponegoro - Jl.Trunojoyo, Jl. Diponegoro - Jl.Trunojoyo,709.18,709.18
+148,Cibeunying,Bandung Wetan,Taman Nyland, Jl. Nyland,783.75,783.75
+149,Cibeunying,Bandung Wetan,Taman Waska/Tamansari, Jl. Waska,81.49,81.49
+150,Cibeunying,Bandung Wetan,Taman Waska/Purnawarman (Texas), Jl. Wastukancana,144.9,144.9
+151,Cibeunying,Bandung Wetan,Taman Waska/Pajajaran (Macan), Jl. Wastukancana,127.5,127.5
+152,Cibeunying,Bandung Wetan,Taman Depan Galeria BIP Sumatera/Sulawesi, Jl. Sumatera,200.9,200.9
+153,Cibeunying,Bandung Wetan,Taman Waska Panglima, Jl. Wastukancana,137.4,137.4
+154,Cibeunying,Bandung Wetan,Taman Wastukancana/Tamansari, Jl.Tamansari,280,280
+155,Cibeunying,Bandung Wetan,Taman Kodya, Jl. Wastukencana / Balaikota,13965.89,13965.89
+156,Cibeunying,Bandung Wetan,Taman Viaduct (Pelajar Pejuang dan Laskar Wanita), Jl. StasiunTimur,2550.45,2550.45
+157,Cibeunying,Bandung Wetan,Taman Seram, Jl. Seram,9511.23,9511.23
+158,Cibeunying,Bandung Wetan, GOR Saparua, Jl. Ambon,44300,44300
+159,Cibeunying,Bandung Wetan,Taman Lalu Lintas, Jl. Sumatera,45600.87,45600.87
+160,Cibeunying,Bandung Wetan, Stadion Siliwangi, Jl. Lombok,60576.87,60576.87
+161,Cibeunying,Bandung Wetan,Taman Gedung Sate, Jl. Diponegoro/Gedung Sate,16605,16605
+162,Cibeunying,Bandung Wetan,Taman PKK, Jl. Cibeunying Utara,2893.7,2893.7
+163,Cibeunying,Bandung Wetan,Taman Cibeunying Bank NISP, Jl. Cibeunying,688.25,688.25
+164,Cibeunying,Bandung Wetan, Jalur Hijau Jalan Ciliwung, Jl. Ciliwung,936,936
+165,Cibeunying,Bandung Wetan, Jalur Hijau Jalan Citarum, Jl. Citarum,436.66,436.66
+166,Cibeunying,Bandung Wetan,Taman Citarum, Jl. Citarum,1102.67,1102.67
+167,Cibeunying,Bandung Wetan,Taman DKK Supratman, Jl. Supratman,264.5,264.5
+168,Cibeunying,Bandung Wetan,TamanTrunojoyo, Jl.Trunojoyo,850.56,850.56
+169,Cibeunying,Bandung Wetan,Taman Cilaki Atas, Jl. Cilaki Atas,16620,16620
+170,Cibeunying,Bandung Wetan,Taman CilakiTengah, Jl. Cilaki,6487,6487
+171,Cibeunying,Bandung Wetan,Taman Cilaki Bawah I dan II, Jl. Cilaki,9753,9753
+172,Cibeunying,Bandung Wetan,Taman Cilaki, Jl. Cilaki,893.5,893.5
+173,Cibeunying,Bandung Wetan,Taman Progo, Jl. Progo,172,172
+174,Cibeunying,Bandung Wetan,Taman Gempol, Jl. Gempol,1245.5,1245.5
+175,Cibeunying,Bandung Wetan,Taman Anggrek/Bengawan (Taman Super Hero) , Jl. Anggrek,1425,1425
+176,Cibeunying,Bandung Wetan,Taman Pramuka, Jl. R.E. Martadinata,13845.34,13845.34
+177,Cibeunying,Bandung Wetan, Lapang Gasibu, Jl. Gasibu,25962,25962
+178,Cibeunying,Bandung Wetan, Jalur Prabudimuntur/Surapati, Jl. Prabudimuntur,3600,3600
+179,Cibeunying,Bandung Wetan,Taman Wira Angun-angun, Jl. Wira Angun-angun,918,918
+180,Cibeunying,Bandung Wetan, Lapang Supratman, Jl. Supratman,9072.75,9072.75
+181,Cibeunying,Bandung Wetan,Taman Cipunagara, Jl. Cipunagara,688,688
+182,Cibeunying,Bandung Wetan,Taman Salam Puskesmas, Jl. Salam,63.5,63.5
+183,Cibeunying,Bandung Wetan,Taman Rasamala, Jl. Rasamala,756.99,756.99
+184,Cibeunying,Bandung Wetan,Taman Lapang salam, Jl. Salam,1685,1685
+185,Cibeunying,Bandung Wetan,Taman Cendana, Jl. Cendana,392.47,392.47
+186,Cibeunying,Bandung Wetan, Pulau Jalan Sentot,Jl. Sentot,16.04,16.04
+187,Cibeunying,Bandung Wetan,Taman Rangga Malela, Jl. Rangga Malela,920.9,920.9
+188,Cibeunying,Bandung Wetan, Pulau JalanTamansari/UNISBA, Jl.Tamansari,127.1,127.1
+189,Cibeunying,Bandung Wetan, Jalur HijauTamansari, Jl.Tamansari,908.1,908.1
+190,Cibeunying,Bandung Wetan,Taman Gajah Lumantung, Jl. Gajah Lumantung,807.05,807.05
+191,Cibeunying,Bandung Wetan,Taman Ciungwanara, Jl. Badak Singa,1943,1943
+192,Cibeunying,Bandung Wetan,Taman Cikapayang/Badak Singa, Jl. Badak Singa,846.34,846.34
+193,Cibeunying,Bandung Wetan,Taman Balubur/Tamansari, Jl. Balubur,117.3,117.3
+194,Cibeunying,Bandung Wetan, Jalur Hijau Cikapayang, Jl. Cikapayang,1800,1800
+195,Cibeunying,Bandung Wetan, Pulau Jalan Balubur, Jl. Balubur,131.6,131.6
+196,Cibeunying,Bandung Wetan,Taman Skanda/Ganesha, Jl. Skanda,312.8,312.8
+197,Cibeunying,Bandung Wetan,Taman Dr. Slamet, Jl. Dr. Slamet,1521.7,1521.7
+198,Cibeunying,Bandung Wetan, Bak bunga nangkasuni, Jl. Nangkasuni,-,247
+199,Cibeunying,Bandung Wetan,Taman Cempaka (Taman Fotografi), Jl. Cempaka,1785,1785
+200,Cibeunying,Bandung Wetan,Taman Mangga, Jl. Mangga,2850,2850
+201,Cibeunying,Bandung Wetan,Taman Pasupati,Bawah Fly Over Pasupati,1539,1539
+202,Cibeunying,Bandung Wetan,Taman Skate Park,Bawah Fly Over Pasupati,300,300
+203,Cibeunying,Bandung Wetan,Taman Cibeunying Park,Jl. Cilaki,488.25,488.25
+204,Cibeunying,Bandung Wetan,Taman Film,-,-,-
+205,Cibeunying,Sumur Bandung,Taman Braga - Lembong, Jl. Lembong,55,55
+206,Cibeunying,Sumur Bandung,TamanTexas Sister City 1, Jl. Wastukencana - Jl. Purnawarman,181.6,181.6
+207,Cibeunying,Sumur Bandung,Taman Halaman Balai Kota, Jl. Wastukencana,6344.9,6344.9
+208,Cibeunying,Sumur Bandung,Taman Merdeka (Taman Dewi Sartika), Jl. Merdeka,14729,14729
+209,Cibeunying,Sumur Bandung,Taman depan Masjid Al Ukhuwah, Jl. Wastukencana/Jl. Aceh,54,54
+210,Cibeunying,Sumur Bandung, Jalur Perintis Kemerdekaan, Jl. Printis Kemerdekaan,105.95,105.95
+211,Cibeunying,Sumur Bandung, Jalur Waska Barat, Jl. Waska,458.6,458.6
+212,Cibeunying,Sumur Bandung,Taman Nias, Jl. Nias,310,310
+213,Cibeunying,Sumur Bandung,Taman Patung Bola, Jl. Lembong,170,170
+214,Cibeunying,Sumur Bandung,Taman Jl. Anggrek, Jl. Anggrek,890,890
+215,Cibeunying,Sumur Bandung,TamanTongkeng, Jl.Tongkeng,3610.5,3610.5
+216,Cibeunying,Sumur Bandung, Bak Bunga Aceh/Sumatera, Jl. Aceh,405.6,405.6
+217,Cibeunying,Sumur Bandung,Taman Sentrum, Jl. Belitung,2100.75,2100.75
+218,Cibeunying,Sumur Bandung, Jalur Aceh I, Jl. Aceh,867.8,867.8
+219,Cibeunying,Sumur Bandung, Jalur Aceh II, Jl. Aceh,1840,1840
+220,Cibeunying,Sumur Bandung,Taman Maluku, Jl. Ambon,24023.24,24023.24
+221,Cibeunying,Sumur Bandung,Taman PuskesmasTamblong, Jl.Tamblong,123,123
+222,Cibeunying,Sumur Bandung,Taman Buton, Jl. Buton,612.7,612.7
+223,Cibeunying,Sumur Bandung,Taman Simpang Lima, Jl. Asia Afrika,244.7,244.7
+224,Cibeunying,Sumur Bandung,Taman R.E Martadinata/Aceh, Jl. R.E. Martadinata,765.5,765.5
+225,Cibeunying,Sumur Bandung,Taman Riau/A. Yani, Jl. Riau,685.6,685.6
+226,Cibeunying,Sumur Bandung,Taman Kosambi, Jl. Kosambi,759,759
+227,Cibeunying,Sumur Bandung,Taman Air Mancur Vanda, Jl. Merdeka,976,976
+228,Cibeunying,Sumur Bandung,Taman Pulau Jalan Jawa/Merdeka, Jl. Merdeka,120,120
+229,Cibeunying,Sumur Bandung,Taman Lombok, Jl. Ambon - Jl. Lombok,330,330
+230,Cibeunying,Sumur Bandung,Taman eks SPBU depanTaman Pramuka, Jl. LLRE Martadinata ,1566,1566
+231,Cibeunying,Sumur Bandung,Taman Jl. Diponegoro - Jl. Citarum,Jl. Diponegoro - Jl. Citarum,235,235
+232,Cibeunying,Sumur Bandung, Jalur Supratman, Jl. Supratman,3370.6,3370.6
+233,Cibeunying,Sumur Bandung,Taman Katamso, Jl. Katamso,340,340
+234,Cibeunying,Sumur Bandung,Taman Cisadea, Jl. Cisadea,412.25,412.25
+235,Cibeunying,Sumur Bandung,Taman Surapati/Cicaheum I, Jl. Surapati,2625,2625
+236,Cibeunying,Sumur Bandung,Taman Surapati/Cicaheum II, Jl. Surapati,1543.7,1543.7
+237,Cibeunying,Sumur Bandung,Taman Jl. Mekar Asih (Perumahan Bumi Asri Padasuka III), Jl. Mekar Asih,-,247.8
+238,Cibeunying,Sumur Bandung,Taman Jl. Mekar Indah (Perumahan Bumi Asri Padasuka III), Jl. Mekar Indah,-,85.1
+239,Cibeunying,Sumur Bandung,Taman Jl. Mekar Wangi Ruko (Perumahan Bumi Asri Padasuka III), Jl. Mekar Wangi Ruko,-,190
+240,Cibeunying,Sumur Bandung,Taman Jl. Mekar Kencana (Perumahan Bumi Asri Padasuka III), Jl. Mekar Kencana,-,320
+241,Cibeunying,Sumur Bandung,Taman Jl. Mekar Cemerlang (Perumahan Bumi Asri Padasuka III), Jl. Mekar Cemerlang,-,816
+242,Cibeunying,Sumur Bandung,Taman Jl. Mekar Agung (Perumahan Bumi Asri Padasuka III), Jl. Mekar Agung,-,3331.44
+243,Cibeunying,Cibeunying Kaler,Taman Supratman/Warga, Jl. Supratman,175,175
+244,Cibeunying,Cibeunying Kaler, Jalur Pahlawan, Jl. Pahlawan,3000,3000
+245,Cibeunying,Cibeunying Kaler,Taman BatikTiga Negri, Jl. BatikTiga Negri,1246.25,1246.25
+246,Cibeunying,Cibeunying Kaler,Taman Sidoluhur, Jl. Sidoluhur,1425,1425
+247,Cibeunying,Cibeunying Kaler,Taman Sudut Suci, Jl. Suci,116,116
+248,Cibeunying,Cibeunying Kaler,Taman Lombok, Jl. Lombok,1713.5,1713.5
+249,Cibeunying,Cibeunying Kaler,Taman Komplek Villa Asri, Jl. Lombok,1978.43,1978.43
+250,Cibeunying,Cibeunying Kaler, LapangTikukur, Jl.Tikukur,-,12500
+251,Cibeunying,Cibeunying Kaler,TamanTitiran, Jl.Titiran,-,210
+252,Cibeunying,Cibeunying Kaler,Taman Merak, Jl. Merak,-,1021
+253,Cibeunying,Cibeunying Kaler,Taman Surapati, Jl. Surapati,-,1350
+254,Cibeunying,Cibeunying Kaler, Lapangan Olahraga, Komplek Perumahan Sukaluyu,-,5878
+255,Cibeunying,Cibeunying Kaler,Taman RW.02 Kel. Neglasari,-,-,220
+256,Tegalega,Astanaanyar,Taman Astana Anyar, Jl. Astana Anyar,56.89,56.89
+257,Tegalega,Astanaanyar,Taman Pajagalan I, Jl. Pajagalan,49.7,49.7
+258,Tegalega,Astanaanyar,Taman Pajagalan II, Jl. Pajagalan,746.9,746.9
+259,Tegalega,Astanaanyar,Taman Babakan Sukamaju, Jl. Babakan,7907.35,7907.35
+260,Tegalega,Astanaanyar,Taman Inhoftank, Jl. Inhoftank,112.77,112.77
+261,Tegalega,Astanaanyar,Taman RW.04 Kel. Nyengseret,-,-,40
+262,Tegalega,Astanaanyar,Taman RW.05 Kel. Nyengseret,-,-,80
+263,Tegalega,Babakan Ciparay,Taman Lingkungan Perumahan Sumber Sari, Jl. Sumber Sari,2973,2973
+264,Tegalega,Babakan Ciparay,Taman Caringin, Jl. Caringin,-,63
+265,Tegalega,Babakan Ciparay,Taman RW.04 Kel. Sukahaji,-,-,70
+266,Tegalega,Bandung Kulon,Taman Lingkungan Perumahan Sadang, Jl. Sadang,300,545.23
+267,Tegalega,Bandung Kulon,Taman Lingkungan Perumnas Cijerah I, Jl. Cijerah (Komplek Perumnas Cijerah I),-,4794
+268,Tegalega,Bandung Kulon,Taman Lingkungan Perumnas Cibuntu, Komplek Perumnas Cibuntu,-,1370
+269,Tegalega,Bandung Kulon,Taman RW.04 Kel. Caringin,-,-,210
+270,Tegalega,Bandung Kulon,Taman RW.05 Kel. Caringin,-,-,170
+271,Tegalega,Bojongloa Kidul,Taman Leuwipanjang/Lingkar Selatan, Jl. Leuwi Panjang,90.7,90.7
+272,Tegalega,Bojongloa Kidul,Taman Lingkar Selatan/Kopo, Jl. Lingkar Selatan,128,128
+273,Tegalega,Bojongloa Kidul,Taman Cibaduyut/Soekarno Hatta, Jl. Cibaduyut,182.5,182.5
+274,Tegalega,Bojongloa Kidul,Taman Kopo/ Soekarno Hatta, Jl. Soekarno Hatta,148,148
+275,Tegalega,Bojongloa Kidul,Taman RW.02 Komp. Cibaduyut Permai Kel. Cibaduyut Kidul,-,-,150
+276,Tegalega,Bojongloa Kidul,Taman Jl. Muara Sari RW. 11 Kel. Kebonlega,-,-,100
+277,Tegalega,Bojongloa Kaler,Taman Lingkar Selatan/Pasirkoja, Jl. Lingkar Selatan,852.25,852.25
+278,Tegalega,Bojongloa Kaler,Taman Pagarsih/Jamika, Jl. Pagarsih,151,151
+279,Tegalega,Bojongloa Kaler,Jalur Hijau Peta, Jl. Peta,2464.46,2464.46
+280,Tegalega,Bojongloa Kaler,Jalur Hijau Jamika, Jl. Jamika,820,820
+281,Tegalega,Bojongloa Kaler,Taman Bojongloa /Tukang rampe, Jl. Bojongloa,68,68
+282,Tegalega,Bojongloa Kaler,Taman Paseban/KencanaTimur, Jl. Paseban,418,418
+283,Tegalega,Bojongloa Kaler,Taman Kopo Kencana, Jl. Papan Kencana,1249.7,1249.7
+284,Tegalega,Bojongloa Kaler,TamanTritisan Kencana, Jl.Tritisan Kencana,956,956
+285,Tegalega,Bojongloa Kaler,Taman Payung Kencana, Jl. Payung Kencana,605,605
+286,Tegalega,Bojongloa Kaler,TamanTitisan Kencana, Jl.Titisan Kencana,16,16
+287,Tegalega,Bojongloa Kaler,Jalur Hijau Undak Kencana, Jl. Undak Kencana,84,84
+288,Tegalega,Bojongloa Kaler,Taman Ruko Kencana, Jl. Kencana,876.82,876.82
+289,Tegalega,Bojongloa Kaler,Taman Babakan Ciparay, Jl. Babakan Ciparay,-,35
+290,Tegalega,Bojongloa Kaler,Taman BabakanTarogong, Jl. BabakanTarogong,-,616
+291,Tegalega,Bojongloa Kaler,Taman Sudirman/Jamika, Jl. Jamika,286.6,286.6
+292,Tegalega,Bojongloa Kaler,Taman RW.04 Kel. Kopo,-,-,80
+293,Karees,Kiaracondong,Jalur Hijau Komplek Ruko, Jl. Kawaluyaan,123.12,123.12
+294,Karees,Kiaracondong,Jalur Hijau Bunderan Ruko, Jl. Kawaluyaan,84.92,84.92
+295,Karees,Kiaracondong,Jalur Hijau Bundaran Boulevard I, Jl. Kawaluyaan,154.5,154.5
+296,Karees,Kiaracondong,Jalur Hijau Taman Boulevard 1, Jl. Kawaluyaan,48.8,48.8
+297,Karees,Kiaracondong,Jalur Hijau Taman Boulevard 2, Jl. Kawaluyaan,58.5,58.5
+298,Karees,Kiaracondong,Jalur Hijau Taman Boulevard 3, Jl. Kawaluyaan,58.51,58.51
+299,Karees,Kiaracondong,Jalur Hijau Taman Boulevard 4, Jl. Kawaluyaan,32.9,32.9
+300,Karees,Kiaracondong,Jalur Hijau Taman Boulevard 5, Jl. Kawaluyaan,18.99,18.99
+301,Karees,Kiaracondong,JalurTerusan Jl. Kiaracondong, Jl. Kawaluyaan,3790.5,3790.5
+302,Karees,Kiaracondong,Taman depan (GSB kiri dan GSB kanan), Jl. Kawaluyaan,239.25,239.25
+303,Karees,Kiaracondong,Taman 1, Jl. Kawaluyaan,56.17,56.17
+304,Karees,Kiaracondong,Taman 2, Jl. Kawaluyaan,58.17,58.17
+305,Karees,Kiaracondong,Taman 3, Jl. Kawaluyaan,54.4,54.4
+306,Karees,Kiaracondong,Taman 4, Jl. Kawaluyaan,23.87,23.87
+307,Karees,Kiaracondong,Taman 5, Jl. Kawaluyaan,1863.78,1863.78
+308,Karees,Kiaracondong,Taman dan LapanganTenis, Jl. Kawaluyaan,-,1313.78
+309,Karees,Kiaracondong,Taman belakang, Jl. Kawaluyaan,886.34,886.34
+310,Karees,Batununggal,Taman Pulau Jalan Gatot Subroto/Laswi, Jl. Gatot Subroto,428.4,428.4
+311,Karees,Batununggal,Bak Bunga Gatot Subroto/Laswi, Jl. Gatot Subroto,84.6,84.6
+312,Karees,Batununggal,Taman Kebon Waru I, Jl. Kebon Waru,1901.2,1901.2
+313,Karees,Batununggal,Taman Kebon Waru II, Jl. Kebon Waru,234.2,234.2
+314,Karees,Batununggal,Taman Anyer, Jl. Anyer,2814,2814
+315,Karees,Batununggal,Stadion Persib, Jl. A. Yani,23005.05,23005.05
+316,Karees,Batununggal,Taman SalendroTimur, Jl. SalendroTimur,-,472
+317,Karees,Batununggal,Taman Pulau Jalan Laswi, Jl. Laswi,234.4,234.4
+318,Karees,Lengkong,Taman Halaman Pendopo, Jl. Dalem Kaum,11000,11000
+319,Karees,Lengkong,Taman Gurame, Jl. Gurame,197.5,197.5
+320,Karees,Lengkong,Taman Karapitan UNLA, Jl. Karapitan,767.2,767.2
+321,Karees,Lengkong,Taman Lauk Emas, Jl. Lauk Emas,232,232
+322,Karees,Lengkong,TamanTawes, Jl.Tawes,418.7,418.7
+323,Karees,Lengkong,Taman Nilem, Jl. Nilem,1725,1725
+324,Karees,Lengkong, Lapangan Impun, Jl. Impun,633.5,633.5
+325,Karees,Lengkong,Taman Pulau Jalan Cikawao/Lengkong, Jl. Cikawao,60,60
+326,Karees,Lengkong,Jalur Hijau Sadakeling, Jl. Sadakeling,226.5,226.5
+327,Karees,Lengkong,Taman Macan, Jl. Macan,1712,1712
+328,Karees,Lengkong,Taman Srigala, Jl. Srigala,2336,2336
+329,Karees,Lengkong,Taman Lapangan Lembu, Jl. Lembu ,3412,3412
+330,Karees,Lengkong,Taman Lapangan Kidang Dalam, Jl. Kidang,2240,2240
+331,Karees,Lengkong,Taman LapanganTerong, Jl.Terong,1350,1350
+332,Karees,Lengkong,Taman Deleg, Jl. Deleg,312.5,312.5
+333,Karees,Lengkong,Taman Palasari / Banteng I, Jl. Palasari,209.3,209.3
+334,Karees,Lengkong,Taman Palasari / Banteng II, Jl. Palasari,57.2,57.2
+335,Karees,Lengkong,TamanTugu Simpang Lima, Jl. Asia Afrika,239.62,239.62
+336,Karees,Lengkong,TamanTank Baja Gatot Subroto, Jl. Gatot Subroto,722,722
+337,Karees,Lengkong,Taman Burangrang BPI, Jl. Burangrang,1734,1734
+338,Karees,Lengkong,Taman Palasari/Malabar, Jl. Palasari,2784,2784
+339,Karees,Lengkong,Pulau Jalan Martanegara/Pelajar Pejuang, Jl. Martanegara,128.4,128.4
+340,Karees,Lengkong,Pulau Jalan Buah Batu/BKR, Jl. Buah Batu,198,198
+341,Karees,Lengkong,Jalur Hijau Laswi, Jl. Laswi,2240,2240
+342,Karees,Lengkong,Jalur Hijau Pelajar Pejuang '45, Jl. Pelajar Pejuang '45,3410,3410
+343,Karees,Lengkong,Taman Malabar, Jl. Malabar,5007.68,5007.68
+344,Karees,Lengkong,Taman Burangrang/Emong, Jl. Burangrang,280.6,280.6
+345,Karees,Lengkong,Taman Burangrang/Wayang, Jl. Burangrang,841,841
+346,Karees,Lengkong,Taman Putri, Jl. Putro,960,960
+347,Karees,Lengkong,TamanTampomas, Jl.Tampomas,210,210
+348,Karees,Lengkong,Taman Windu, Jl. Windu,264,264
+349,Karees,Lengkong,Taman Galunggung, Jl. Galunggung,288,288
+350,Karees,Lengkong,Taman Palasari/Lodaya I, Jl. Palasari,590.5,590.5
+351,Karees,Lengkong,Taman Palasari/Lodaya II, Jl. Palasari,418,418
+352,Karees,Lengkong,Taman Kangkung Kidul/Kaler, Jl. Kangkung Kidul,4848,4848
+353,Karees,Lengkong, Bak Bunga Ceremai, Jl. Ceremai,441,441
+354,Karees,Lengkong,TamanTurangga, Jl.Turangga,328,328
+355,Karees,Lengkong,Taman Durma, Jl. Durma,1581,1581
+356,Karees,Lengkong,Taman Simphony, Jl. Sinphony,1733.7,1733.7
+357,Karees,Lengkong,Taman Kliningan, Jl. Kliningan,1640,1640
+358,Karees,Lengkong, Lapang Saron, Jl. Saron,2350,2350
+359,Karees,Regol,Taman Patung Ikan, Jl. Lingkar Selatan,170,170
+360,Karees,Regol,Taman Alun-alun Bandung, Jl. Asia Afrika,9904.05,9904.05
+361,Karees,Regol,Taman Moch.Toha - Ciateul, Jl. Moch.Toha,88.8,88.8
+362,Karees,Regol,Taman Cilentah, JL. Cilentah,1608.2,1608.2
+363,Karees,Regol,Taman Sawah Kurung, Jl. Sawah Kurung,1895.5,1895.5
+364,Karees,Regol,Taman CiateulTengah, Jl. CiateulTengah,894,894
+365,Karees,Regol,Taman Pulau Jalan Moch.Toha/BKR, Jl. Moch.Toha,359.4,359.4
+366,Karees,Regol,Taman Moch.Toha batas, Jl. Moch.Toha,77.2,77.2
+367,Karees,Regol,Taman Pulau Jalan Patung Ikan, Jl. BKR,547.74,547.74
+368,Karees,Regol, Jalur Hijau BKR, Jl. BKR,3410,3410
+369,Karees,Regol,Taman Sriwijaya, Jl. Sriwijaya,375.23,375.23
+370,Karees,Regol,Taman LapangTegallega, Jl. Otista,190011.02,190011.02
+371,Karees,Regol,Taman Ciateul, Jl. Ciateul ,34,-
+372,Karees,Regol,Taman RW.09 Kel. Ciateul, Jl. Ciateul ,-,100
+373,Karees,Regol,Taman RW.12 Kel. Cigerelengl,-,-,200
+374,Ujung Berung,Antapani,Griya Bumi Antapani ITaman Jatiwangi Blok 26, Jl. Jatiwangi 10,237,237
+375,Ujung Berung,Antapani,Griya Bumi Antapani ITamanTerusan Jalan Jakarta, Jl.Terusan Jakarta Barat,343,343
+376,Ujung Berung,Antapani,Griya Bumi Antapani ITaman Rengasdenglok, Jl. Rengasdenglok II/IV,988,988
+377,Ujung Berung,Antapani,Griya Bumi Antapani ITaman Subang Blok 5, Jl. Subang,1826,1826
+378,Ujung Berung,Antapani,Griya Bumi Antapani ITaman Kadipaten-Cicalengka, Jl. Kadipaten IX,887,887
+379,Ujung Berung,Antapani,Griya Bumi Antapani ITaman Purwakarta-Kadipaten, Jl. Purwakarta,1563,1563
+380,Ujung Berung,Antapani,Griya Bumi Antapani ITaman Kuningan Blok 20, Jl. Kuningan 6-8,252,252
+381,Ujung Berung,Antapani,Griya Bumi Antapani ITaman Kadipaten Blok 12, Jl. Kadipaten 5,237,237
+382,Ujung Berung,Antapani,Griya Bumi Antapani ITaman Jatiwangi, Jl. Jatiwangi,1256,1256
+383,Ujung Berung,Antapani,Griya Bumi Antapani ITaman Cikampek, Jl. Cikampek Blok 9,624,624
+384,Ujung Berung,Antapani,Griya Bumi Antapani IITaman BatuTulis, Jl. BatuTulis,2614,2614
+385,Ujung Berung,Antapani,Griya Bumi Antapani IITaman Karang Asem, Jl.Tabanan-Karang Asem,1438,1438
+386,Ujung Berung,Antapani,Griya Bumi Antapani IITaman Sragen-Klaten, Jl. Sragen-Klaten,489,489
+387,Ujung Berung,Antapani,Griya Bumi Antapani IITaman Purworejo, Jl. Purworejo-Kebumen,1010,1010
+388,Ujung Berung,Antapani,Griya Bumi Antapani IITaman Pekalongan, Jl. Pekalongan,969,969
+389,Ujung Berung,Antapani,Griya Bumi Antapani IITaman Jayapura, Jl. Jayapura-Manokwari,1104,1104
+390,Ujung Berung,Antapani,Griya Bumi Antapani IITaman Batu Wangi-Sindang Kasih, Jl. Sindangkasih,1098,1098
+391,Ujung Berung,Antapani,Griya Bumi Antapani IITaman Atambua, Jl. Atambua,664,664
+392,Ujung Berung,Antapani,Griya Bumi Antapani IITaman Larantuka, Jl. Larantuka,1492,1492
+393,Ujung Berung,Antapani,Pratista AntapaniTaman Jalur Pratista Utama, Jl. Pratista Utama,889,889
+394,Ujung Berung,Antapani,Pratista AntapaniTaman Pratista Raya, Jl. Pratista Raya,34.89,34.89
+395,Ujung Berung,Antapani,Pratista AntapaniTaman Blok D-39,-,104.32,104.32
+396,Ujung Berung,Antapani,Pratista AntapaniTaman Pratista Barat I, Jl. Pratista Barat I,51,51
+397,Ujung Berung,Antapani,Pratista AntapaniTaman Pratista Barat II, Jl. Pratista Barat II,113,113
+398,Ujung Berung,Antapani,Komplek PranayaTaman Pranaya 1, Jl. Antapani-Soekarno Hatta,89,89
+399,Ujung Berung,Antapani,Komplek PranayaTaman Gerbang Pranaya, Jl. Pintu Gerbang,49.23,49.23
+400,Ujung Berung,Antapani,Komplek PranayaTaman Pranaya 2, Jl. Raya Pranaya,170,170
+401,Ujung Berung,Antapani,Komplek BougenvilleTaman Bougenville, Komplek Perumahan Bougenville,-,4746
+402,Ujung Berung,Arcamanik,Taman Gantole, Jl. Gantole,192.89,192.89
+403,Ujung Berung,Arcamanik,Taman Dirgantara, Jl. Dirgantara,321.22,321.22
+404,Ujung Berung,Arcamanik,Taman Aeromodeling, Jl. Aeromedelling,816,816
+405,Ujung Berung,Arcamanik,Taman Golf Barat 2 A, Jl. Golf Barat II,839.91,839.91
+406,Ujung Berung,Arcamanik,Taman Polo Air, Jl.Ters.Tenis-Polo Air,328.32,328.32
+407,Ujung Berung,Arcamanik,Taman Golf Barat 2 B, Jl. Golf Barat II,212,212
+408,Ujung Berung,Arcamanik,Taman Gantole-Dirgantara, Jl. Gantole-Dirgantara,75,75
+409,Ujung Berung,Arcamanik,Taman Lapangan Pacuan Kuda,-,-,665000
+410,Ujung Berung,Arcamanik,Taman Golf Barat XIII, Jl. Golf Barat XIII,940,940
+411,Ujung Berung,Arcamanik,Taman Hocky, Jl. Hocky-Sepakbola,442,442
+412,Ujung Berung,Arcamanik,TamanTerbang Layang I, Jl.Terbang Layang I,1338,1338
+413,Ujung Berung,Arcamanik,TamanTaekondo-Kempo, Jl.Taekwondo-Kempo,396,396
+414,Ujung Berung,Arcamanik,Taman Ski Air, Jl. Ski Air-Layar,7139.78,7139.78
+415,Ujung Berung,Arcamanik,Taman BuluTangkis, Jl. Atlet-Bowling-Bulutangkis,69,69
+416,Ujung Berung,Arcamanik,Taman Golf Barat 2 C, Jl. Golf Barat II,325,325
+417,Ujung Berung,Arcamanik,TamanTerbang Layang II, Jl.Terang Layang,375.46,375.46
+418,Ujung Berung,Arcamanik,Taman Bowling, Jl. Bowling-Loncat Indah,732.12,732.12
+419,Ujung Berung,Arcamanik,Taman Sudut Arcamanik, Jl. Raya Ujung Berung-Arcamanik,286.44,286.44
+420,Ujung Berung,Arcamanik,Taman Arcamanik I,-,374,374
+421,Ujung Berung,Arcamanik,Taman Arcamanik II,-,740.33,740.33
+422,Ujung Berung,Arcamanik,Taman Arcamanik III,-,810.05,810.05
+423,Ujung Berung,Arcamanik,Taman Arcamanik IV,-,660,660
+424,Ujung Berung,Arcamanik,Taman Arcamanik V,-,616,616
+425,Ujung Berung,Arcamanik,Taman Arcamanik VII,-,440.06,440.06
+426,Ujung Berung,Arcamanik,Taman Arcamanik XVIII,-,599.61,599.61
+427,Ujung Berung,Arcamanik,Taman Balon Udara, Jl. Balon Udara,-,242
+428,Ujung Berung,Arcamanik,Taman Aeromodeling III, Jl. Aeromedelling III,-,185
+429,Ujung Berung,Arcamanik,Taman Aeromodeling IV, Jl. Aeromedelling IV,-,338
+430,Ujung Berung,Arcamanik,Taman Dirgantara, Jl. Dirgantara,-,315
+431,Ujung Berung,Arcamanik,TamanTenis, Jl.Tenis,-,390
+432,Ujung Berung,Arcamanik,Taman Ice Skating I, Jl. Ice Skating,-,312
+433,Ujung Berung,Arcamanik,Taman Ice Skating I, Jl. Ice Skating,-,325
+434,Ujung Berung,Arcamanik,TamanTerjunTendom, Jl.TerjunTendom,108,208
+435,Ujung Berung,Arcamanik,Taman RW. 09 Komp. Guruminda Kel. Cisaranten Kulon,Jl. Cisaranten Kulon,-,170
+436,Ujung Berung,Arcamanik,Taman RW Jl. Cicukang Kel. Cisaranten Bina Harapan,Jl. Cicukang,-,200
+437,Ujung Berung,Mandalajati,Taman Median Jalan, KomplekTamansari Bukit Bandung,-,400
+438,Ujung Berung,Mandalajati,Taman Median Depan Ruko, KomplekTamansari Bukit Bandung,-,150
+439,Ujung Berung,Mandalajati,Taman Median Blok I A, KomplekTamansari Bukit Bandung,-,171
+440,Ujung Berung,Mandalajati,Taman Median Blok I, KomplekTamansari Bukit Bandung,-,79
+441,Ujung Berung,Mandalajati,Taman Median Blok II, KomplekTamansari Bukit Bandung,-,212
+442,Ujung Berung,Mandalajati,Taman Median Blok III, KomplekTamansari Bukit Bandung,-,79
+443,Ujung Berung,Mandalajati,Taman Median Blok V (Bunderan), KomplekTamansari Bukit Bandung,-,5
+444,Ujung Berung,Mandalajati,Taman Median Blok VI, KomplekTamansari Bukit Bandung,-,20
+445,Ujung Berung,Mandalajati,Taman Median Blok VII, KomplekTamansari Bukit Bandung,-,21
+446,Ujung Berung,Mandalajati,Taman Median Blok VIII, KomplekTamansari Bukit Bandung,-,141
+447,Ujung Berung,Mandalajati,Taman Median Blok IX, KomplekTamansari Bukit Bandung,-,30
+448,Ujung Berung,Mandalajati, Jalur Hijau Blok XI, KomplekTamansari Bukit Bandung,-,362
+449,Ujung Berung,Mandalajati, Jalur Hijau Blok XIV, KomplekTamansari Bukit Bandung,-,350
+450,Ujung Berung,Mandalajati, Jalur Hijau Blok XV, KomplekTamansari Bukit Bandung,-,274
+451,Ujung Berung,Mandalajati,TamanTerasering Blok ID, KomplekTamansari Bukit Bandung,-,1913
+452,Ujung Berung,Mandalajati,TamanTerasering Blok II, KomplekTamansari Bukit Bandung,-,444
+453,Ujung Berung,Mandalajati,Taman Sisi Kanan-Kiri Saluran Induk, KomplekTamansari Bukit Bandung,-,798
+454,Ujung Berung,Mandalajati, Jalur Hijau Sebelah Selatan LapanganTenis, KomplekTamansari Bukit Bandung,-,600
+455,Ujung Berung,Mandalajati,Taman EksTPA Pasir Impun, Jl. Ujung Berung,44000,44600
+456,Ujung Berung,Mandalajati,Taman EksTPA Cicabe, Jl. Ujung Berung,41000,41803.57
+457,Ujung Berung,Mandalajati,Taman RW Depan Kantor Kel. Sindanglaya,-,-,150
+458,Ujung Berung,Ujungberung,Taman Sukup Baru, Jl. Sukup Baru,458,458
+459,Ujung Berung,Ujungberung,Taman Sukup, Jl. Sukup,81,81
+460,Ujung Berung,Ujungberung,Taman Lap. Ujug Berung/Alun-alun, Jl. Ujung Berung,5089,5089
+461,Ujung Berung,Ujungberung,Taman Ujung Berung Indah 1, Komplek Ujung Berung ,982,982
+462,Ujung Berung,Ujungberung,Taman Ujung Berung Indah 2, Jl. DepanTK,250,250
+463,Ujung Berung,Ujungberung,Taman Ujung Berung Indah 3, Jl. Bunderan,59,59
+464,Ujung Berung,Ujungberung,Taman Ujung Berung Indah 4, Jl. Pintu Masuk Komplek,148,148
+465,Ujung Berung,Ujungberung,Taman RT.03 RW.05 Komp. Mayang Ligar Kel. Pasir Endah,-,-,200
+466,Ujung Berung,Ujungberung,Taman RW.13 Kel. Pasir Jati,-,-,140
+467,Ujung Berung,Panyileukan,Taman Lapangan Blok J, Lapangan Blok J/H Perumahan Bumi Panyileukan,-,1056
+468,Ujung Berung,Panyileukan,Taman Lapangan Blok H, Lapangan Blok J/H Perumahan Bumi Panyileukan,-,14
+469,Ujung Berung,Panyileukan,Taman Blok J, Blok J/H Perumahan Bumi Panyileukan,-,1005
+470,Ujung Berung,Panyileukan,Taman Blok G-I, Blok G.16 Perumahan Bumi Panyileukan,-,44.77
+471,Ujung Berung,Panyileukan,Taman Blok G-II, Blok G.5 Perumahan Bumi Panyileukan,-,393.24
+472,Ujung Berung,Panyileukan,Taman Blok H, Blok H.2 Perumahan Bumi Panyileukan,-,675.95
+473,Ujung Berung,Panyileukan,Taman Blok P-I, Blok P.2 Perumahan Bumi Panyileukan,-,784
+474,Ujung Berung,Panyileukan,Taman Blok P-II, Blok P.2 Perumahan Bumi Panyileukan,-,667
+475,Ujung Berung,Panyileukan,Taman Blok N, Blok N1 dan N2 Perumahan Bumi Panyileukan,-,565.5
+476,Ujung Berung,Panyileukan,Taman Blok R-I, Blok R 1 Perumahan Bumi Panyileukan,-,67.5
+477,Ujung Berung,Panyileukan,Taman Blok R-II, Blok R 2 Perumahan Bumi Panyileukan,-,39
+478,Ujung Berung,Panyileukan,Taman Blok Q, Blok Q 3 Perumahan Bumi Panyileukan,-,515
+479,Ujung Berung,Panyileukan,Jalur Hijau N-R, Blok N-R Perumahan Bumi Panyileukan,-,1309
+480,Ujung Berung,Panyileukan,Taman Blok N, Blok N-R Perumahan Bumi Panyileukan,-,322.5
+481,Ujung Berung,Panyileukan,Taman Blok K, Blok K-M Perumahan Bumi Panyileukan,-,540
+482,Ujung Berung,Panyileukan,Jalur Hijau L-I 10,-,-,2387
+483,Ujung Berung,Panyileukan,Taman Blok L, Blok L.16 Perumahan Bumi Panyileukan,-,1214
+484,Ujung Berung,Panyileukan,Taman Blok F, Blok F.14-15 Perumahan Bumi Panyileukan,-,940.85
+485,Ujung Berung,Panyileukan,Jalur Hijau Blok F,-,-,4005
+486,Ujung Berung,Panyileukan,Taman Lapangan Olahraga Blok E, Blok E Lap OR Perumahan Bumi Panyileukan,-,897
+487,Ujung Berung,Panyileukan,Taman Blok E, Blok E-F Perumahan Bumi Panyileukan,-,30
+488,Ujung Berung,Panyileukan,Taman Blok F-G, Blok F-G Perumahan Bumi Panyileukan,-,782
+489,Ujung Berung,Panyileukan,Taman Blok F, Blok F Perumahan Bumi Panyileukan,-,240
+490,Ujung Berung,Panyileukan,Taman Blok C, Blok C.1 Perumahan Bumi Panyileukan,-,105
+491,Ujung Berung,Panyileukan,Jalur Hijau Blok C,-,-,1840
+492,Ujung Berung,Panyileukan,Taman Blok A, Blok A Perumahan Bumi Panyileukan,-,21.6
+493,Ujung Berung,Panyileukan,Jalur Hijau Blok A I, Blok A Perumahan Bumi Panyileukan,-,943.8
+494,Ujung Berung,Panyileukan,Jalur Hijau Blok A II, Blok A Perumahan Bumi Panyileukan,-,608
+495,Ujung Berung,Panyileukan,Taman Blok B, Blok B Perumahan Bumi Panyileukan,-,80
+496,Ujung Berung,Panyileukan,Taman Blok A1-I, Blok A1 Perumahan Bumi Panyileukan,-,965.6
+497,Ujung Berung,Panyileukan,Taman Blok A1-II, Blok A1 Perumahan Bumi Panyileukan,-,225
+498,Ujung Berung,Panyileukan,Taman Blok A, Blok A Perumahan Bumi Panyileukan,-,36.75
+499,Ujung Berung,Panyileukan,Taman Lapangan Olahraga Blok E, Blok E.3 Lap OR Perumahan Bumi Panyileukan,-,550
+500,Ujung Berung,Panyileukan,Taman Blok E-G (I), Blok E-G Perumahan Bumi Panyileukan,-,76.5
+501,Ujung Berung,Panyileukan,Taman Blok E-G (II), Blok E-G Perumahan Bumi Panyileukan,-,120
+502,Ujung Berung,Panyileukan,Taman Blok Citra AB, Blok Citra AB Perumahan Bumi Panyileukan,-,1092.5
+503,Ujung Berung,Panyileukan,Taman Blok Citra, Blok Citra Perumahan Bumi Panyileukan,-,392
+504,Ujung Berung,Panyileukan,Taman Cijambe Indah, Jl.Wijaya Kusuma II,656,659
+505,Ujung Berung,Panyileukan,Taman Pamekar, Jl. PamekarTimur II,327,327
+506,Ujung Berung,Panyileukan,Taman Mekar Resik, Jl. Mekar Resik,305,489
+507,Ujung Berung,Panyileukan,Taman Pamekar Barat, Jl. Pamekar Raya,320,320
+508,Ujung Berung,Panyileukan,Taman PamekarTimur, Jl. Pamekar Raya,455,455
+509,Ujung Berung,Panyileukan,Taman Panyawangan, Jl. Panyawangan 1,26,26
+510,Ujung Berung,Panyileukan,Taman Mekar Sugih, Jl. Mekar Sugih,400,400
+511,Ujung Berung,Panyileukan,Taman Panyileukan, Jl. Blok K- L- M,3959.34,-
+512,Ujung Berung,Panyileukan,Taman Panyileukan 1, Jl. Blok A,3184.4,-
+513,Ujung Berung,Panyileukan,Taman Panyileukan 2, Jl. Utama H- I- J,1494.95,-
+514,Ujung Berung,Panyileukan,Taman Panyileukan 3, Jl. Raya Blok A-B,497,-
+515,Ujung Berung,Panyileukan,Taman Panyileukan 4, Jl. Blok C,2431,-
+516,Ujung Berung,Panyileukan,Taman Panyileukan 6, Jl. Blok A- B depan masjid,380,-
+517,Ujung Berung,Panyileukan,Taman Panyileukan 7, Jl. Blok E- F- G,4138.9,-
+518,Ujung Berung,Panyileukan,Taman Panyileukan 8, Jl. Blok P- Q- N- R,3747,-
+519,Ujung Berung,Panyileukan,Taman Panyileukan 9, Jl. Blok Citra,392,-
+520,Ujung Berung,Cibiru,Taman Pulau Jalan Cibiru I, Jl. Soekarno Hatta,676,676
+521,Ujung Berung,Cibiru,Taman Pulau Jalan Cibiru II, Jl. Soekarno Hatta,1438,1438
+522,Ujung Berung,Cibiru,Taman Pulau Jalan Cibiru III, Jl. Soekarno Hatta,1965,1965
+523,Ujung Berung,Cibiru,Taman Pulau Jalan Cibiru IV, Jl. Soekarno Hatta,325,325
+524,Ujung Berung,Cibiru,Taman Pulau Jalan Cibiru V, Jl. Soekarno Hatta,693,693
+525,Ujung Berung,Cibiru,Taman Jalur Cibiru , Jl. Soekarno Hatta,3312,3312
+526,Ujung Berung,Cibiru,Taman RW.03 Kel. Cisurupan,-,-,140
+527,Ujung Berung,Cibiru,Taman RW.05 Kel. Palasari,-,-,120
+528,Gedebage,Buahbatu,Komp. Margahayu RayaTaman di Jl. Bunga Bakung RW. 07 Kel Cijawura,-,-,150
+529,Gedebage,Buahbatu,Komp. Margahayu RayaTaman Jupiter Utama, Jl. Jupiter Utama,92,92
+530,Gedebage,Buahbatu,Komp. Margahayu RayaTaman Blok D II a, Jl. Jupiter Utama,670,670
+531,Gedebage,Buahbatu,Komp. Margahayu RayaTaman Blok D II b, Jl. Jupiter Utama,60,60
+532,Gedebage,Buahbatu,Komp. Margahayu RayaTaman Blok D II c, Jl. Jupiter Utama,948,948
+533,Gedebage,Buahbatu,Komp. Margahayu RayaTaman Blok D II d, Jl. Jupiter Utama,649,649
+534,Gedebage,Buahbatu,Komp. Margahayu RayaTaman Blok E II, Jl. Jupiter Utama,1539,1539
+535,Gedebage,Buahbatu,Komp. Margahayu RayaTaman Blok D II e, Jl. Jupiter Utama,80,80
+536,Gedebage,Buahbatu,Komp. Margahayu RayaTaman Blok D II f, Jl. Jupiter Utama,190,190
+537,Gedebage,Buahbatu,Komp. Margahayu RayaTaman Blok D II g, Jl. Jupiter Utama,437,437
+538,Gedebage,Buahbatu,Komp. Margahayu RayaTaman Blok D II h, Jl. Jupiter Utama,413,413
+539,Gedebage,Buahbatu,Komp. Margahayu RayaTaman Blok D II i, Jl. Jupiter Utama,902,902
+540,Gedebage,Buahbatu,Komp. Margahayu RayaTaman Blok D II j, Jl. Jupiter Utama,456,456
+541,Gedebage,Buahbatu,Komp. Margahayu RayaTaman Blok U, Jl. Jupiter Utama,236,236
+542,Gedebage,Buahbatu,Komp. Margahayu RayaTaman Blok Z a, Jl. Jupiter Utama,460,460
+543,Gedebage,Buahbatu,Komp. Margahayu RayaTaman Blok B a, Jl. Ciwastra,349,349
+544,Gedebage,Buahbatu,Komp. Margahayu RayaTaman Blok A dan B, Jl. Ciwastra,1499,1499
+545,Gedebage,Buahbatu,Komp. Margahayu RayaTaman Blok B b, Jl. Pluto Raya,900,900
+546,Gedebage,Buahbatu,Komp. Margahayu RayaTaman Blok K, Jl. Saturnus III,3879,3879
+547,Gedebage,Buahbatu,Komp. Margahayu RayaTaman Sarinah Blok G, Jl. Pluto Utara I,476,476
+548,Gedebage,Buahbatu,Komp. Margahayu RayaTaman Blok Q a, Jl.Tata Surya,1637,1637
+549,Gedebage,Buahbatu,Komp. Margahayu RayaTaman Blok Q b, Jl. Mercury Selatan XI,648,648
+550,Gedebage,Buahbatu,Komp. Margahayu RayaTaman Blok Q c, Jl. Mercury Selatan VIII,408,408
+551,Gedebage,Buahbatu,Komp. Margahayu RayaTaman Blok N, Jl. Saturnus Utara VII,600,600
+552,Gedebage,Buahbatu,Komp. Margahayu RayaTaman Blok S a, Jl. Saturnus Ujung IV/II,706.46,706.46
+553,Gedebage,Buahbatu,Komp. Margahayu RayaTaman Blok S b, Jl. SaturnusTimur X,680,680
+554,Gedebage,Buahbatu,Komp. Margahayu RayaTaman Blok R a, Jl. Saturnus Raya depan No. 22,1010.22,1010.22
+555,Gedebage,Buahbatu,Komp. Margahayu RayaTaman Blok R b, Jl. Saturnus Utara XII,320.64,320.64
+556,Gedebage,Buahbatu,Komp. Margahayu RayaTaman Blok R/O, Jl. Saturnus Utara/Mars,938.55,938.55
+557,Gedebage,Buahbatu,Komp. Margahayu RayaTaman Blok P, Jl. Mars Selatan II dan III,1486,1486
+558,Gedebage,Buahbatu,Komp. Margahayu RayaTaman Blok P a, Jl. Mars Barat II/III,376.49,376.49
+559,Gedebage,Buahbatu,Komp. Margahayu RayaTaman Blok P b, Jl. MarsTimur IV/V,298.11,298.11
+560,Gedebage,Buahbatu,Komp. Margahayu RayaTaman Blok O, Jl. Mars Selatan  XVI,147.23,147.23
+561,Gedebage,Buahbatu,Komp. Margahayu RayaTaman Blok W,-,980,980
+562,Gedebage,Buahbatu,Komp. Margahayu RayaTaman Blok P c, Jl. Mars Barat VIII,800,800
+563,Gedebage,Buahbatu,Komp. Margahayu RayaTaman Blok Y a, Jl. Mars Utara II,1182,1182
+564,Gedebage,Buahbatu,Komp. Margahayu RayaTaman Rancabolang, Jl. Rancabolang,1175,1175
+565,Gedebage,Rancasari,Taman Metro Estate a, Jl. VenusTimur Raya/Mesjid,3590,3590
+566,Gedebage,Rancasari,Taman Metro Estate b, Jl. Venus Barat IV depan No.15,612,612
+567,Gedebage,Rancasari,Taman Metro Estate c, Jl. Venus Barat VII depan No.8,462,462
+568,Gedebage,Rancasari,Taman Metro Estate d, Jl. Venus Barat VII dep. 384,495,495
+569,Gedebage,Rancasari,Taman Metro Estate e, Jl. VenusTimur VI dan I,495,495
+570,Gedebage,Rancasari,Taman Metro Estate f, Jl. Venus Barat II,446,446
+571,Gedebage,Rancasari,Taman Metro Estate g, Jl. VenusTimur I dan II,446,446
+572,Gedebage,Rancasari,Taman Metro Estate h, Jl. Venus Raya,894,894
+573,Gedebage,Rancasari,Taman Metro Estate i, Jl. Venus Barat VI,128,128
+574,Gedebage,Rancasari,Taman Metro Estate j, Jl. Venus Raya,678,678
+575,Gedebage,Rancasari,Taman Metro Estate l, Jl. VenusTimur Raya,90,90
+576,Gedebage,Rancasari,Taman Metro Estate m, Jl. Venus Raya,604,604
+577,Gedebage,Rancasari,Taman Metro Estate n, Jl. Venus Barat IX,450,450
+578,Gedebage,Rancasari,Taman Metro Estate o, Jl. Venus Raya/Minimarket,518,518
+579,Gedebage,Rancasari,Margahayu LamaTaman Blok Q2 a, Jl. YupiterTengah IV,1106,1106
+580,Gedebage,Rancasari,Margahayu LamaTaman Blok Q2 b, Jl. Meteor Barat,567,567
+581,Gedebage,Rancasari,Margahayu LamaTaman Blok H2, Jl. Meteor Barat,483,483
+582,Gedebage,Rancasari,Margahayu LamaTaman Blok K2 a, Jl. Yupiter Utama,420,420
+583,Gedebage,Rancasari,Margahayu LamaTaman Blok L2 a, Jl. Yupiter Selatan IV,1835,1835
+584,Gedebage,Rancasari,Margahayu LamaTaman Blok G2, Jl. Yupiter Utama,1781,1781
+585,Gedebage,Rancasari,Margahayu LamaTaman Blok L2 b, Jl. Yupiter Utama,437,437
+586,Gedebage,Rancasari,Margahayu LamaTaman Blok L2 c, Jl. Yupiter Utama,375,375
+587,Gedebage,Rancasari,Margahayu LamaTaman Blok L2 d, Jl. Yupiter Utama,874,874
+588,Gedebage,Rancasari,Margahayu LamaTaman Blok L2 f, Jl. Meteor Barat,437,437
+589,Gedebage,Rancasari,Margahayu LamaTaman Blok L2 g, Jl. Meteor Barat,437,437
+590,Gedebage,Rancasari,Margahayu LamaTaman Blok L2 (Al Bayan), Jl. Meteor Barat,816,816
+591,Gedebage,Rancasari,Margahayu LamaTaman Blok L2 h, Jl. Meteor Barat,460,460
+592,Gedebage,Rancasari,Margahayu LamaTaman Blok B2 a, Jl. YupiterTengah IV,273,273
+593,Gedebage,Rancasari,Margahayu LamaTaman Blok L2 i, Jl. Meteor Barat,1994,1994
+594,Gedebage,Rancasari,Margahayu LamaTaman Blok L2 k, Jl. Meteor Barat,36,36
+595,Gedebage,Rancasari,Margahayu LamaTaman Blok B2 c, Jl. Yupiter Utama,663,663
+596,Gedebage,Rancasari,Margahayu LamaTaman Blok A2, Jl. Jupiter Selatan IV,1922,1922
+597,Gedebage,Rancasari,Margahayu LamaTaman Blok D2 a, Jl. Yupiter Utama,378,378
+598,Gedebage,Rancasari,Margahayu LamaTaman Blok E2 a, Jl. Jupiter Utama,70,70
+599,Gedebage,Rancasari,Margahayu LamaTaman Blok E2 b, Jl. Jupiter Utama ,108,108
+600,Gedebage,Rancasari,Margahayu LamaTaman Blok E2 c, Jl. Jupiter Utama III,54,54
+601,Gedebage,Rancasari,Margahayu LamaTaman Blok E2 d, Jl. JupiterTimur,56.04,56.04
+602,Gedebage,Rancasari,Margahayu LamaTaman Blok G2, JL. Jupiter XIII,625,625
+603,Gedebage,Rancasari,Margahayu LamaTaman Blok N2, Jl. Yupiter Utama,600.02,600.02
+604,Gedebage,Rancasari,Margahayu LamaTaman Blok O2 a, Jl. Yupiter Utama III,180,180
+605,Gedebage,Rancasari,Margahayu LamaTaman Blok O2 b, Jl. YupiterTimur,230.67,230.67
+606,Gedebage,Rancasari,Margahayu LamaTaman Blok O2 c, Jl. Yupiter XIII,47.08,47.08
+607,Gedebage,Rancasari,Margahayu LamaTaman Blok O2 depan no. 125, Jl. Sanggar KencanaTimur,567,567
+608,Gedebage,Rancasari,Margahayu LamaTaman BlokMargahayu LamaT2 depan No. 24, Jl. Yupiter Utama,557,557
+609,Gedebage,Rancasari,Margahayu LamaTaman Blok V2, Jl. Galaxy Raya,2173,2173
+610,Gedebage,Rancasari,Margahayu LamaTaman Blok M2, Jl. Yupiter Utama,413,413
+611,Gedebage,Rancasari,Margahayu LamaTaman Blok S2 depan no. 69, Jl. Sanggar Utama,472,472
+612,Gedebage,Rancasari,Margahayu LamaTaman Blok I2 depan no. 84, Jl. Sanggar Kencana V,325,325
+613,Gedebage,Rancasari,Margahayu LamaTaman Blok B2 b, Jl. JupiterTengah V,770,770
+614,Gedebage,Rancasari,Margahayu LamaTaman RW 10 Kel. Mekar Jaya,-,-,130
+615,Gedebage,Bandung Kidul,Taman Sanggar Hurip 1, Jl. Sanggar KencanaTimur,330,330
+616,Gedebage,Bandung Kidul,Taman Sanggar Hurip 2, Jl. Sanggar KencanaTimur,452,452
+617,Gedebage,Bandung Kidul,Taman Sanggar Hurip 3, Jl. Sanggar Utama,565,565
+618,Gedebage,Bandung Kidul,Taman Sanggar Hurip 4, Jl. Sanggar Utama,691,691
+619,Gedebage,Bandung Kidul,Taman Sanggar Hurip 5, Jl. Sanggar Utama,845,845
+620,Gedebage,Bandung Kidul,Taman Sanggar Hurip 6, Jl. Sanggar Kencana 5,480,480
+621,Gedebage,Bandung Kidul,Perumahan Puteraco Gading RegencyTaman Gading 1, Jl. Gading Barat 4,416,416
+622,Gedebage,Bandung Kidul,Perumahan Puteraco Gading RegencyTaman Gading 2, Jl. Gading Barat 2,621,621
+623,Gedebage,Bandung Kidul,Perumahan Puteraco Gading RegencyTaman Gading 3, Jl. Utama,1165,1165
+624,Gedebage,Bandung Kidul,Perumahan Puteraco Gading RegencyTaman Gading 4, Pintu Gerbang,436,436
+625,Gedebage,Bandung Kidul,Perumahan Puteraco Gading RegencyTaman Gading 5, Depan Kantor Pemasaran,235,235
+626,Gedebage,Bandung Kidul,Perumahan Puteraco Gading RegencyTaman Gading 6, Jl. Gading Barat 4,214,214
+627,Gedebage,Bandung Kidul,Perumahan Puteraco Gading RegencyTaman Gading 7,Timur LapangTenis,1182,1182
+628,Gedebage,Bandung Kidul,Perumahan Puteraco Gading RegencyTaman Gading 8, Barat LapangTenis,595,595
+629,Gedebage,Bandung Kidul,Perumahan Puteraco Gading RegencyTaman Gading 9, Selatan LapangTenis,-,2795
+630,Gedebage,Bandung Kidul,Perumahan Puteraco Gading RegencyTaman Gading 10, Jl. Gading UtamaTimur,-,810
+631,Gedebage,Bandung Kidul,Perumahan Puteraco Gading RegencyTaman Gading 11, Sebelah Rukan Blok A dan B,-,376
+632,Gedebage,Bandung Kidul,Perumahan Puteraco Gading RegencyTaman Gading 12, Sebelah RukanTA,-,25
+633,Gedebage,Bandung Kidul,Perumahan Pandan WangiTaman Pandan Wangi, Jl. Komp. Pandan Wangi,-,70
+634,Gedebage,Bandung Kidul,Perumahan Pandan WangiTaman Batu Permata, Jl. Batu Permata II,-,530
+635,Gedebage,Bandung Kidul,Perumahan Pandan WangiTaman H. Bardan, Jl. H. Bardan VIII,-,32
+636,Gedebage,Bandung Kidul,Perumahan BatununggalTaman 1, Jl. Batununggal Permai II,1646,1646
+637,Gedebage,Bandung Kidul,Perumahan BatununggalTaman 2, Jl. Batununggal Permai,1794,1794
+638,Gedebage,Bandung Kidul,Perumahan BatununggalTaman 3, Jl. Batununggal Indah,3720,3720
+639,Gedebage,Bandung Kidul,Perumahan BatununggalTaman 4, Jl. Batununggal Indah II,617,617
+640,Gedebage,Bandung Kidul,Perumahan BatununggalTaman 5, Jl. Batununggal Elok,4855,4855
+641,Gedebage,Bandung Kidul,Perumahan Batununggal Pulau Jalan Samsat, Jl. Soekarno Hatta depan Samsat,124,124
+642,Gedebage,Cinambo,Taman Pulau Jalan Gedebage, Jl. Soekarno Hatta - Gedebage,568,568
+643,Gedebage,Cinambo,Taman Depan Pasar, Jl. Soekarno Hatta - Gedebage,895,895
+644,Gedebage,Cinambo,Taman Samping Barat (depan Mesjid), Jl. Soekarno Hatta - Gedebage,441,441
+645,Gedebage,Cinambo, Jalur Samping Utara, Jl. Soekarno Hatta - Gedebage,3628,3628
+646,Gedebage,Cinambo, Jalur Depan Pasar, Jl. Soekarno Hatta - Gedebage,213,213
+647,Gedebage,Cinambo,Taman RW. 03 Kel. Babakan Penghulu,-,-,200
+648,Gedebage,Cinambo,Taman RW. 05 Kel. Rancabolang,-,-,200
