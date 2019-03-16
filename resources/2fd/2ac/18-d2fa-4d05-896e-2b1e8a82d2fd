@@ -1,24 +1,37 @@
-Nama Gereja,Alamat
-GMI Getsemani,Jl. Marjuk No. 15 RW. 05
-Gpk Bethel,Jl. Marjuk No. 17 RW. 05
-Gereja Caritas Psbn Wyata Guna,Jl. Pajajaran No. 52 RW. 05
-Gereja Utusan Pantekosta,Jl. Dr. Rum No. 6 RW. 02
-"LKSAP ""Maranatha""",Jl. Dr. Cipto No. 7 
-Gereja Bethani,BTC RW. 01
-Gereja Extravaganz,BTC RW. 01
-Gereja CRC,BTC RW. 01
-Gereja Pajar Pengharapanan,BTC RW. 01
-Gereja Grabs,BTC RW. 01
-Gereja Istana Regency,Perumahan Istana Regency 1 RT. 03
-Gereja Hosana,Jl. Dr. Djunjunan
-MAHK Merbabu,Jl. Rama No. 12
-YPPI (Yayasan Persatuan Pekabaran Injil),Jl. Rama No. 18
-Gereja Bethel,Jl. Kesatriaan 31 RT. 05 RW. 06
-Gereja Gerakan Pentakosa Shalom,Jl. Semar No. 36 RW. 06
-Gereja Imanuel Thonk,Jl. Pasirkaliki
-GKI (Gereja Kristen Indonesia),Jl. Ayudia No. 10
-Gereja Pandu,Jl. Pandu
-Gereja Hermon,Jl. Pasirkaliki
-Gereja GBI,Jl. Aruna RW. 02
-HKBP Husein,RW. 11
-Gereja GBI,Jl. Dr. Djunjunan RW. 02
+No,Kecamatan ,Kelurahan ,Nama Gereja Kristen ,Alamat 
+1,Cicendo,Arjuna ,Gereja Pimpinan Rohul Kudus Duta Mesias Bandung,Jl. Rama No. 18 Gd.YPPI Bandung
+2,Cicendo,Arjuna ,Gereja Kristen Indonesia (GKI Jawa Barat ),Jl. Ayudia No. 10 Bandung
+3,Cicendo,Arjuna ,Gereja Kristen Imanuel (GKIm) Bina Bakti,Jl. Bima No. 9 Bandung
+4,Cicendo,Arjuna ,Gereja Penggerakan Kristus Jemaat Cikadut,Jl. Dasarata No. 6 Bandung
+5,Cicendo,Arjuna ,Gereja Bethel Tabernakel,Jl. Kesatriaan No.31 Bandung
+6,Cicendo,Arjuna ,Gereja Kristen Imanuel (GKIm),Jl. Pasir Kaliki No. 63 Bandung
+7,Cicendo,Arjuna ,Gereja Nafiri Sion Rama,Jl. Rama No. 18 Bandung
+8,Cicendo,Arjuna ,Gereja Penyebaran Injil,Jl. Rama No. 9 Bandung
+9,Cicendo,Arjuna ,Gereja Masehi Advent Hari Ketujuh,Jl. Rama No. 9 Bandung
+10,Cicendo,Arjuna ,Gereja Gerakan Pantekosta,Jl. Semar No. 36 Bandung
+11,Cicendo,Husein Sastranegara,Gereja Pentakosta Indonesia,Gd. POUK Eben Haezer Husen Sastranegara
+12,Cicendo,Husein Sastranegara,Gereja Bethel Indonesia City Square,Jl. Abdulrahman Saleh No. 09 Bandung
+13,Cicendo,Padjajaran,Gereja Bethany Indonesia,Jl. Dr. Djunjunan No. 143-149 BTC Bandung (Pusat) P1 dan Lt. 3  Bandung
+14,Cicendo,Padjajaran,Gereja Bethel Indonesia BTC II,Jl. Dr. Djunjunan Gd. BTC Lt. 6 Bandung
+15,Cicendo,Padjajaran,Gereja El Shadai Injili Sepuluh (GEIS),Jl. Dr. Djunjunan No. 143-149 Gd. BTC Lt. 6  Bandung
+16,Cicendo,Padjajaran,Gereja Kristen Perjanjian Baru Fajar Pengharapan,Gd. BTC Lt.4 dan SB Blok H 8 Bandung
+17,Cicendo,Padjajaran,Gereja Mawar Sharon,Jl. Dr. Djunjunan Bandung Gd. BTC P1
+18,Cicendo,Padjajaran,Gereja Bethel Indonesia,Gd. BTC Ruang Blessed Family Center Lt. P1
+19,Cicendo,Padjajaran,Gereja Bethel Indonesia Kemah Pemulihan,Jl.  Dr. Djunjunan No. 143-149 Gedung BTC Bandung
+20,Cicendo,Padjajaran,Gereja Bethel Tabernakel Hosana,Jl. Citeupus Dalam I No. 3 Bandung
+21,Cicendo,Padjajaran,Gereja Bethel Indonesia Sukawarna,Jl. Sukawarna Komp. Regensi I Kav. C3/1 Bandung
+22,Cicendo,Pamoyanan,Masehi Advent Hari Ketujuh Jemaat Caritas,Jl. Pajajaran 52 Gd. Caritas Wyata Guna Bandung
+23,Cicendo,Pamoyanan,Gereja Nazaret Pantekosta,Jl. Pajajaran No. 52 (Gedung Caritas) Bandung
+24,Cicendo,Pamoyanan,Gereja Bethel Injil Sepuluh (GBIS),Jl. Pasir Kaliki No. 137 Bandung
+25,Cicendo,Pamoyanan,Gereja Kristen Indonesia (GKI Jawa Barat ),Jl. Pasirkaliki No. 157 Bandung
+26,Cicendo,Pamoyanan,Paroki St. Perawan Maria Sapta Kedukaan,Jl. Pandu No. 4 Bandung
+27,Cicendo,Pasirkaliki,Gereja Kristen Kemah Daud,Jl. Dr. Rum No. 30-32 Hotel Imperium Ruang Arya Puspa Bandung
+28,Cicendo,Pasirkaliki,Gereja Bethel Indonesia,Jl. Kebon Kawung No. 60 Hotel Mutiara Bandung
+29,Cicendo,Pasirkaliki,Gereja Tiberias Indonesia,Jl. Kebon Kawung No. 60 Hotel Mutiara Bandung
+30,Cicendo,Pasirkaliki,Gereja Bethany Indonesia,Jl. Kebon Kawung No. 60-62 Hotel Mutiara Bandung
+31,Cicendo,Pasirkaliki,Gereja Utusan Pantekosta,Jl. Dr. Rum No. 6 Bandung
+32,Cicendo,Pasirkaliki,Gereja Kristen Penginjil,Jl. Dr. Sutomo No. 6 Bandung
+33,Cicendo,Pasirkaliki,Gereja Methodist Indonesia Bandung Barat,Jl. Marjuk No. 15 Bandung
+34,Cicendo,Pasirkaliki,Gereja Penggerakan Kristus,Jl. Marjuk No. 17 Bandung
+35,Cicendo,Pasirkaliki,Gereja Kristen Injil di Indonesia (GEKISIA),Jl. Pajajaran No. 52 (Gedung Caritas) Wyata Guna
+36,Cicendo,Pasirkaliki,Gereja Saksi-saksi Yehua,Jl. DR. Rubini No.1 Bandung

@@ -1,0 +1,218 @@
+No,Nama SKPD,Nama Aplikasi,Deskripsi Aplikasi,Alamat / Link Aplikasi,Platform,Fungsi dan Manfaat Aplikasi,Status Kepemilikan
+1,"Badan Kepegawaian, Pendidikan dan Pelatihan",SIMPEG,Sistem Informasi dan Manajemen Kepegawaian,http://simpeg.bandung.go.id/,Website,Sebagai Perekaman Data Pegawai Dan Sebagai Penunjang Pelayanan Kepegawai,Milik Sendiri
+2,"Badan Kepegawaian, Pendidikan dan Pelatihan",ERK,Remunerasi Kinerja berbasis elektronik,kinerja.bandung.go.id,Website,Memonitor Kinerja Pegawai,Milik Sendiri
+3,"Badan Kepegawaian, Pendidikan dan Pelatihan",SIAP,Sistem Informasi Administrasi Presensi,siap.bandung.go.id,Website,Memonitor Kehadiran Pegawai,Milik Sendiri
+4,"Badan Kepegawaian, Pendidikan dan Pelatihan",SIFOR,Sistem informasi e Formasi,sifor.bandung.go.id,Website,Menghitung Formasi Pegawai Di Kota Bandung,Milik Sendiri
+5,"Badan Kepegawaian, Pendidikan dan Pelatihan",SIM Arsip,Sistem informasi  manajemen kearsipan pegawai,simarsip.bandung.go.id,Website,Menyimpan Informasi Tata Letak Data Pegawai,Milik Sendiri
+6,"Badan Kepegawaian, Pendidikan dan Pelatihan",SIMEKAR,Sistem Informasi Manajemen Pengembangan Karir,simekar.bandung.go.id,Website,Untuk Profesionalitas Dalam Menentukan Kelayakan Seorang CPNS Dalam Menduduki Jabatan,Milik Sendiri
+7,Badan Pengelolaan Keuangan dan Aset,Website Sabilulungan,Website Untuk Pendaftaran Hibah Bansos Online,sabilulungan.bandung.go.id,Website,Untuk Transportasi Penyaluran Hibah Bansos Kota Bandung,Milik Sendiri
+8,Badan Pengelolaan Keuangan dan Aset,SIMANTAP,Aplikasi Manajemen Aset Daerah,-,Website,-,Milik Sendiri
+9,Badan Pengelolaan Keuangan dan Aset,Sistem Electronik Manajemen Aset Kendaraan,-,-,Website,-,Milik Sendiri
+10,Badan Pengelolaan Pendapatan Daerah,MPD (Modul Pajak Daerah),Modul Database Wajib Pajak Self Assessment di Kota Bandung,IP Private,Website,Sebagai Database Wajib Pajak Self Assessment,Milik Sendiri
+11,Badan Pengelolaan Pendapatan Daerah,SIPP,Sistem Informasi Pelayanan Pajak Bumi dan Bangunan,sipp.bppd.bandung.go.id,Website,Informasi Pbb Online,Milik Sendiri
+12,Badan Pengelolaan Pendapatan Daerah,E-Satria,pelaporan Pajak Self Assessment,esatria.bppd.bandung.go.id,Website,Pelaporan Pajak Dan Self Assesment,Milik Sendiri
+13,Badan Pengelolaan Pendapatan Daerah,Payment Gateway Pembayaran Pajak,-,Localhost,Website,Gateway Bjb Dab BPPD,Milik Sendiri
+14,Badan Pengelolaan Pendapatan Daerah,Sistem Informasi Retribusi,-,sipanda.bppd.bandung.go.id,Website,Informasi Retribusi Online,Milik Sendiri
+15,Badan Pengelolaan Pendapatan Daerah,Tapping Online,-,tapping.bppd.bandung.go.id,Website,Informasi Tapping,Milik Sendiri
+16,Badan Pengelolaan Pendapatan Daerah,Website BPPD,-,bppd.bandung.go.id,Website,-,Milik Sendiri
+17,"Badan Perencanaan Pembangunan, Penelitian dan Pengembangan",E-Litbang,"Aplikasi sistem informasi yang menghimpun, mengelola dan menosialisasikan produk litbang secara terintegrasi",litbangkotabandung.com/v2,Website,"Inventarisasi Dan Sosialisasi Hasil Kajian Di Lingkungan Pemerintah Kota Bandung, Sosialisasi Informasi Terkait Kegiatan Kelitbangan Di Kota Bandung, Sarana Penampung Usulan Kajian Dari Perangkat Daerah Di Kota Bandung Dan Usulan Inovasi Dari Masyarakat",Milik Sendiri
+18,"Badan Perencanaan Pembangunan, Penelitian dan Pengembangan",E-Reses,Aplikasi Reses Online,-,Website,-,Milik Sendiri
+19,"Badan Perencanaan Pembangunan, Penelitian dan Pengembangan",SIRA,Aplikasi berbasis internet yang digunakan dalam proses perencanaan dan penganggaran,-,Website,-,Milik Sendiri
+20,"Badan Perencanaan Pembangunan, Penelitian dan Pengembangan",E-Musrenbang,Aplikasi Musyawarah Perencanaan Pembangunan secara online,-,Website,-,Milik Sendiri
+21,"Badan Perencanaan Pembangunan, Penelitian dan Pengembangan",E-LKPJ,Aplikasi Laporan Keterangan PertanggungJawaban Wali Kota Bandung secara online,-,Website,-,Milik Sendiri
+22,"Badan Perencanaan Pembangunan, Penelitian dan Pengembangan",E-Office,-,-,Website,-,Milik Sendiri
+23,"Badan Perencanaan Pembangunan, Penelitian dan Pengembangan",Aplikasi BPG,-,-,Website,-,Milik Sendiri
+24,Bagian Hubungan Masyarakat,Monitoring Media Online,Aplikasi untuk memonitoring berita baik cetak maupun online,imm.today,Website,Memonitoring Berita Pemerintah Kota Bandung Yang Beredar,Milik Sendiri
+25,Bagian Hubungan Masyarakat,Arsip Kliping,Aplikasi sebagai pengarsipan untuk kliping berita seputar pemerintah kota bandung,kliping.bandung.go.id,Website,Arsip Online,Milik Sendiri
+26,Bagian Hubungan Masyarakat,Portal Berita,Informasi kegiatan pimpinan dan Kepala OPD Kota Bandung,Humas.bandung.go.id,Website,-,-
+27,Bagian Hubungan Masyarakat,Internal,"Informasi perizinan penawaran iklan, release berita dan dokumentasi, serta disposisi sambutan",internal.humas.bandung.go.id,Aplikasi,-,-
+28,Bagian Hukum,JDIH KOTA BANDUNG,Dalam rangka meningkatkan pemahaman dan pengetahuan mengenai hukum dalam menunjang penyelenggaraan pemerintahan di Kota Bandung maka diperlukan suatu informasi hukum yang tertata dan terselenggara dengan baik dalam suatu sistem. Hal tersebut diperlukan guna meningkatkan pelayanan dan pelaksanaan tugas di bidang hukum.,http://jdih.bandung.go.id,Website,Salah Satu Upaya Menyediaan Sarana Pembangunan Bidang Hukum; Untuk Meningkatkan Penyebaran Luasan Dan Pemahaman Pengetahuan Hukum; Untuk Memudahkan Pencarian Dan Penelurusan Peraturan Perundang- Undangan Dan Bahan Dokumentasi Hukum Lainnya; Untuk Meningkatkan Pemberian Pelayanan Pelaksanaan Penegakan Hukum Dan Kepastian Hukum.,Milik Sendiri
+29,Bagian Kerjasama,E-Saksama,-,eseksama.bandung.go.id,-,-,-
+30,Bagian Kesra dan Kemasyarakatan,Aplikasi Database Non- Muslim,Pendataan Guru Non Muslim di Kota Bandung,-,Website,-,Milik Sendiri
+31,Bagian Kesra dan Kemasyarakatan,Data Penyandang Disabilitas,Aplikasi untuk mendata para penyandang disabilitas di Kota Bandung,pedikesra.bandung.go.id,Website,-,Milik Sendiri
+32,Bagian Layanan Pengadaan,Layanan Pengadaan secara Elektronik (LPSE),Aplikasi proses pengadaan barang/jasa,http://lpse.bandung.go.id,Website,Proses Pelelangan Pengadaan Barang/Jasa Yang Diatas Rp 200.000.000 (Dua Ratus Juta) Dan Jasa Konsultansi Diatas Rp. 50.000.000 (Lima Puluh Juta),Milik Sendiri
+33,Bagian Layanan Pengadaan,BIRMS,Aplikasi pengadaan barang dan jasa,birms.bandung.go.id,Website,Proses Pelelangan Pengadaan Barang/Jasa Yang Dibawah Rp 200.000.000 (Dua Ratus Juta) Dan Jasa Konsultansi Dibawah Rp. 50.000.000 (Lima Puluh Juta),Milik Sendiri
+34,Bagian Organisasi dan Pemberdayaan Aparatur Daerah,SILAKIP,Sistem Informasi Akuntabilitas Kinerja Instansi Pemerintah,lakip.bandung.go.id,Website,"Pengukuran, Pelaporan, Evaluasi Dan Monitoring Kinerja SKPD",Milik Sendiri
+35,Bagian Organisasi dan Pemberdayaan Aparatur Daerah,E-Standar Pelayanan,Sistem Informasi Standar Pelayanan Perangkat Daerah,-,Website,-,Milik Sendiri
+36,Bagian Pemerintahan,SIP Bdg Juara,Sistem Informasi Penilaian Bandung Juara,http://sip.bandung.go.id,Website,Membantu Proses Pelaporan Serta Penilaian Kelurahan Dan Kecamatan,Milik Sendiri
+37,Bagian Pemerintahan,LPPD Bandung,Laporan Penyelenggaraan Pemerintah Daerah,-,Website,-,Milik Sendiri
+38,Bagian Perekonomian,Web WUB,Portal WUB Kota Bandung sebuah sistem bebasis web yang mengintegrasikan program kerja 5 SKPD yang bersangkutan dengan wirausaha baru sehingga masyarakat dapat berpartisipasi dengan melakukan registrasi secara online.,wub.bandung.go.id,Website,-,-
+39,Bagian Perekonomian,Web TJSL,Berisi realisasi dan tata cara pelaksanaan CSR di Kota Bandung,tjsl.bandung.go.id,Website,"Monitoring Dan Evaluasi Pelaksanaan Program Tjsl Di Kota Bandung, Memudahkan Masyarakat Dalam Mengakses Dana Csr, Memudahkan Perusahaan Dalam Menyalurkan Dana Csr.",Milik Sendiri
+40,"Bagian Program, Desain dan Kualitas Pembangunan",Sistem Monitoring Tim Evaluasi dan Pengawasan Realisasi Anggaran (SismonTEPRA),"Aplikasi TEPRA adalah aplikasi yang dapat menjadi alat guna mempercepat penyerapan anggaran, dan memastikan APBN/APBD tepat sasaran sesuai dengan perencanaan yang tertuang dalam dokumen perencanaan pembangunan nasional. Selain itu, TEPRA juga diharapkan dapat meminimalisir masalah dan hambatan yang menghambat penyerapan anggaran di kementerian/lembaga/pemerintah daerah.",monev.lkpp.go.id/tepra,Multiplatform,"Menerima, Memonitor, Mengevaluasi, Dan Mengkonsolidasikan Laporan Realisasi Anggaran Dan Program Pemerintah Pusat Dan Pemerintah Daerah;",Milik Sendiri
+41,"Bagian Program, Desain dan Kualitas Pembangunan",Sistem Informasi Desain Pembangunan,-,simdp.bandung.go.id,Website,-,Milik Sendiri
+42,"Bagian Program, Desain dan Kualitas Pembangunan",Sistem Informasi Kualitas Pembangunan,-,simpkp.bandung.go.id,-,-,-
+43,Bagian Tata Usaha Pimpinan,APLIKASI SURAT ONLINE,DATABASE SURAT MASUK,tu_setda,Website,Menyimpan Arsip Digital,Milik Sendiri
+44,Bagian Umum,SIMPAR,-,-,Website,-,Milik Sendiri
+45,Dinas Kebakaran dan Penanggulangan Bencana,SIJABUNG,Emergency Call 113,https://play.google.com/store/apps/details?id=com.dppkbandung.emergencycall113,Mobile,Pemanggilan Kedaruratan Berbasis Voip Aplikasi Android,Milik Sendiri
+46,Dinas Kebudayaan dan Pariwisata,Web Bandung Tourism,-,-,Website,-,Milik Sendiri
+47,Dinas Kebudayaan dan Pariwisata,Portal Patrakomala,-,-,-,-,-
+48,Dinas Kebudayaan dan Pariwisata,Sidata,-,-,-,-,-
+49,Dinas Kebudayaan dan Pariwisata,Safari,-,-,-,-,-
+50,Dinas Kebudayaan dan Pariwisata,Cagar Budaya,-,-,-,-,-
+51,Dinas Kependudukan dan Pencatatan Sipil,SIAK,"Sistem informasi yang disusun berdasarkan prosedur-prosedur dan berbasis teknologi informasi dan komunikasi yang bertujuan untuk menata sistem administrasi kependudukan di Indonesia, sistem ini meliputi pendataan penduduk dan pencacatan sipil",VPN,Website,Pendataan Penduduk Dan Pencacatan Sipil,Milik Sendiri
+52,Dinas Kependudukan dan Pencatatan Sipil,Aplikasi SMS Gateway,Pengambilan nomor antrian melalui SMS,-,Website,-,Milik Sendiri
+53,Dinas Kependudukan dan Pencatatan Sipil,E-Punten,Elektronik pendaftaran penduduk non permanen,Android,Mobile,Mengetahui Jumlah Penduduk Non Permanen,-
+54,Dinas Kesehatan,SIKDA,Sistem Informasi Kesehatan Daerah,IP Private,Website,Sistem Untuk Menunjang Pelayanan Dan Pelaporan Di Puskesmas,Milik Sendiri
+55,Dinas Kesehatan,Web Dinas Kesehatan,Website dinas kesehatan kota bandung,dinkes.bandung.go.id,Website,Sarana Untuk Memaparkan Berbagai Informasi Dan Kegiatan Yang Dilakukan Di Lingkungan Dinas Kesehatan Kota Bandung,Milik Sendiri
+56,Dinas Kesehatan,Sistem Informasi Manajemen Daerah Barang,Sistem Informasi Menejemen Dareah,-,Desktop,-,Dari Pusat
+57,Dinas Kesehatan,Sistem Informasi Puskesmas Tomi,-,-,Website,-,Milik Sendiri
+58,Dinas Kesehatan,SPGDT,-,-,Website,-,Milik Sendiri
+59,Dinas Komunikasi dan Informatika,Website Portal Bandung,Portal Informasi Seputar Pemerintahan Kota Bandung,bandung.go.id,Website,Portal Resmi Kota Bandung,Milik Sendiri
+60,Dinas Komunikasi dan Informatika,Website PPID,-,https://ppid.bandung.go.id,Website,Portal Informasi Pemerintah Kota Bandung Dan Permohonan Informasi Publik Secara Online,Milik Sendiri
+61,Dinas Komunikasi dan Informatika,Aplikasi Manajemen Integrasi dan Pertukaran Data (MANTRA),Pertukaran Informasi Data Sehingga Data Dapat Langsung Diambil Melalui Aplikasi Ini,http://mantra.bandung.go.id/,Website,"Aplikasi Mantra Bermanfaat Untuk Menjembatani Pertukaran Data Antar Instansi Pemerintah Meskipun Berbeda Database, Aplikasi Maupun Sistem Operasinya. Aplikasi Mantra Dapat Difungsikan Sebagai Gsb (Government Service Bus) Dan Web-Api (Application Programming Interface).",Milik Sendiri
+62,Dinas Komunikasi dan Informatika,Whitsel Blower System (WBS),"Aplikasi Whistle Blower System ini adalah aplikasi yang disediakan oleh Inspektorat Kota Bandung untuk memfasilitasi siapapun yang ingin melaporkan / membuat laporan dugaan penyimpangan yang ada pada Pegawai Negeri Sipil, Calon Pegawai Negeri Sipil dan pegawai lainnya yang bekerja di lingkungan Kota Bandung.",wbs.bandung.go.id,Website,-,Milik Sendiri
+63,Dinas Komunikasi dan Informatika,Arsip,Merupakan teknologi Paperless office untuk menyimpan dokumen dalam bentuk digital dan dapat di akses menggunakan single sign on,-,Website,-,Milik Sendiri
+64,Dinas Komunikasi dan Informatika,Inventori Aplikasi,Menginventarisasi aplikasi yang ada di semua SKPD,inventori-app.bandung.go.id,Website,-,Milik Sendiri
+65,Dinas Komunikasi dan Informatika,Aplikasi POROS (Performance Recgnition System),"Penilaian Kinerja Sekolah Kota Bandung dalam mendukung Bandung Smart City (selanjutnya akan disebut POROS) merupakan salah satu kunci keberhasilan sebuah kota dalam mendukung Smart City dimana salah satu bagiannya adalah Smart Health dimana Kesehatan merupakan salah satu hal penting dalam mewujudkan masyarakat bersih dan sehat di lingkungan kota Bandung. Dimulai dari sekolah diharapkan dapat berkembang ke seluruh lapisan masyarakat Kota Bandung khususnya dan masyarakat luas pada umumnya. Sehingga dampak yang ditimbulkan dapat menjadi viral dan gaya hidup kesehatan di kota Bandung. Keterkaitan aplikasi ini dengan Dinas Kesehatan, Dinas Pendidikan, Sekretariat Daerah Asisten Perekomian dan Pembangunan, Bagian Kesejahteraan dan Kemasyarakatan, Dinas Komunikasi dan Informatika dibantu oleh Lembaga Sosial dari Deutsche Gesellschaft fuer Internationale Zusammenarbeit (GIZ) GmbH yang mengagas Program WASH (Water Sanitation and Hygiene).",http://uksporos.bandung.go.id/,Website,-,Milik Sendiri
+66,Dinas Komunikasi dan Informatika,E-Gratifikasi,Aplikasi e-gratifikasi ini berbasis web. Aplikasi ini berfungsi untuk melaporkan tindakan yang diduga tidak sesuai / gratifikasi untuk dapat di proses lebih lanjut kepada Unit Pengendali Gratifikasi (UPG) dengan identitas yang di rahasiakan.,-,Website,-,Milik Sendiri
+67,Dinas Lingkungan Hidup dan Kebersihan,SIMDOKLING (dokumen lingkungan),Sistem informasi untuk pendaftaran dokumen lingkungan,dlhk.bandung.go.id/simdokling,Website,-,Milik Sendiri
+68,Dinas Lingkungan Hidup dan Kebersihan,Dashboard Kualitas Udara,Sistem informasi menampilkan hasil pengukuran kualitas udara,aqms.bandung.go.id,Website,-,Milik Sendiri
+69,Dinas Lingkungan Hidup dan Kebersihan,Database Dokumen Lingkungan,Informasi data dokumen,IP Private,Website,-,-
+70,Dinas Lingkungan Hidup dan Kebersihan,SI ABAH (Sistem  Aplikasi Berkah Peduli Sampah),"Pendaftaran nasabah bank sampah, dan diambil sampahnya",-,Mobile,-,-
+71,Dinas Pangan dan Pertanian,E-Program,Aplikasi Informasi Pangan dan Pertanian Kota Bandung,http://dispangtan.bandung.go.id/e-program/,Website,Aplikasi Informasi Pangan Dan Pertanian Kota Bandung (Monitoring Pencapian Kinerja Iku Dinas Pangan Dan Petanian Kota Bandung,Milik Sendiri
+72,Dinas Pangan dan Pertanian,Web dinas Pertanian dan Ketahanan Pangan,-,dispangtan.bandung.go.id,Website,-,Milik Sendiri
+73,Dinas Pangan dan Pertanian,E-Wasmut,Aplikasi Informasi Pangan dan Pertanian Kota Bandung,https://dispangtan.bandung.go.id/e-wasmut/,Website,"Menghitung Ketersediaan Pangan, Konsumsi, Produksi",Milik Sendiri
+74,Dinas Pangan dan Pertanian,E- Kampung Berkebun,Aplikasi Informasi Pangan dan Pertanian Kota Bandung,https://dispangtan.bandung.go.id/e-kampungberkebun/,Website,Berinteraksi Kegiatan Kampung Berkebun,Milik Sendiri
+75,Dinas Pekerjaan Umum,SIMDA,Sistem informasi manajemen daerah,-,Desktop,"Mengoptimalkan Pengelolaan Keuangan Daerah Sesuai Dengan Peraturan Yang Berlaku, Efisien, Efektif, Transparan, Akuntabel, Dan Auditabel",Milik Sendiri
+76,"Dinas Pemberdayaan Perempuan, Perlindungan Anak, dan Pemberdayaan Masyarakat",Website Dinas,-,http://dp3apm.bandung.go.id/dp3apm/,Website,-,Milik Sendiri
+77,Dinas Pemuda dan Olahraga,Sistem Informasi Wirausaha Baru(Aksi Prabu),Aplikasi untuk pendaftaran wirausaha baru,dispora.bandung.go.id/aksiprabu,Website,Penyajian Data Produk Hasil Dari Peserta Wirausaha Baru Yang Di Bawah Pembinaan Oleh Dispora Kota Bandung,Milik Sendiri
+78,Dinas Pemuda dan Olahraga,Sistem Informasi Manajemen Surat dan Disposisi Simansurdisisi,Sistem Informasi Manajemen Persuratan dan Disposisi,dispora.bandung.go.id/simansurdisisi,Website,Arsip Surat Berbasis Digital Untuk Mempemudah Disposisi Pimpinan,Milik Sendiri
+79,Dinas Pemuda dan Olahraga,"CCTV SOR,GOR dan UPT","Pemantau Kondisi SOR,GOR dan UPT",none,Website,Percepatan Respon Maintenance Di Lapangan Dan Melihat Kondisi Realtime Di Lapangan,Milik Sendiri
+80,Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu,GAMPIL,GADGET MOBILE APLICATION LICENSE,https://play.google.com/store/search?q=gampil%20for%20public%20bandung&c=apps,Mobile,"Sebuah Aplikasi Pendaftaran Perizinan Via Handphone Os Android Berbasis On Line Yang Bermanfaat Untuk Memudahkan Masyarakat, Dalam Mengajukan Pembuatan Izin Dimanapun Dan Kapanpun. Aplikasi Ini Bisa Didapatkan Di Google Play.",Milik Sendiri
+81,Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu,Hayu Bandung,-,dpmptsp.bandung.go.id,Website,-,Milik Sendiri
+82,Dinas Penataan Ruang,Aplikasi Sharing data peta 1:1000 (Bandung Smart Map),Aplikasi untuk menyimpan dan menyebarluaskan data spasial melalui web service,-,Website,-,Milik Sendiri
+83,Dinas Penataan Ruang,Aplikasi Database Arsip,-,-,Website,-,Milik Sendiri
+84,Dinas Penataan Ruang,Si PETRUK,-,-,Website,-,Milik Sendiri
+85,Dinas Penataan Ruang,Aplikasi Keterangan Rencana Kota,Aplikasi untuk melakukan pengajuan permohonan KRK,-,Website,-,Milik Sendiri
+86,Dinas Pendidikan,Data Dapodik Bandung,Aplikasi untuk mengolah Data Pokok Pendidikan Kota Bandung,simdik.bandung.go.id,Website,Pusat Data Pendidikan,Milik Sendiri
+87,Dinas Pendidikan,Sekolah Juara,Aplikasi Proses PBM dan Evaluasi,-,Website,-,Milik Sendiri
+88,Dinas Pendidikan,MONIKA - Monitoring Anggaran dan Kegiatan,Untuk memonitoring daya serap anggaran,-,Website,-,Milik Sendiri
+89,Dinas Pendidikan,Tableau Dashboard System,Aplikasi untuk Bussines Intelegence,-,Website,-,Milik Sendiri
+90,Dinas Pendidikan,RKAS dan Laporan Keuangan Online - CEKAS,Aplikasi untuk memasukan Rencana Kegiatan dan Anggaran Sekolah beserta Realisasi dan Pelaporan keuangan dan aset.,-,Website,-,Milik Sendiri
+91,Dinas Pendidikan,Toong Siswa,-,-,Website,-,Milik Sendiri
+92,Dinas Pendidikan,Aplikasi DAPODIK,Aplikasi untuk mengolah Data Pokok Pendidikan Kota Bandung,-,Website,-,Dari Pusat
+93,Dinas Pengendalian Penduduk dan Keluarga Berencana,SITIKENCANA,"Aplikasi berbasis web, yang merupakan otomatisasi pencatatan data keluarga yang terdiri dari data : demografi, KB, dan data kesejahteraan keluarga",bppkbkotabandung.net/sitikencana,Website,Untuk Menyajikan Dan Mengupdate Data Keluarga Secara Online,Milik Sendiri
+94,Dinas Perdagangan dan Perindustrian,E-SKA,Aplikasi untuk pendaftaran Surat Keterangan Asal (SKA) bagi para eksportir,http://e-ska.kemendag.go.id,Website,Mempermudah Para Eksportir Kota Bandung Untuk Pendaftaran Ska,Milik Sendiri
+95,Dinas Perhubungan,Area Trafic Control System,Sistem operasi untuk traffic light dalam pengaturan siklus lalu lintas termasuk CCTV dan Audio Speaker,-,Website,-,Milik Sendiri
+96,Dinas Perhubungan,E-Parking,Sistem parkir dengan menggunakan mesin parkir otomatis melalui pembayaran kartu elektronik,-,Website,-,Milik Sendiri
+97,Dinas Perhubungan,E- Payment Trans Metro Bandung,Sistem pembayaran elektronik untuk Trans Metro Bandung,-,Website,-,Milik Sendiri
+98,Dinas Perhubungan,"GIS Marka Jalan, GIS Traffic Light, GIS Rambu Lalu Lintas","Sistem informasi geografis, database untuk marka jalan, traffic light dan rambu lalu lintas",-,Website,-,Milik Sendiri
+99,Dinas Perhubungan,Sipuji,Sistem Informasi status kendaraan untuk pengujian kendaraan bermotor,-,Website,-,Milik Sendiri
+100,Dinas Perhubungan,Boseh,Aplikasi Bike Sharing,-,Website,-,Milik Sendiri
+101,Dinas Perhubungan,Semut,-,-,Website,-,Milik Sendiri
+102,Dinas Perhubungan,Website Dishub,Informasi dinas perhubungan,-,Website,-,Milik Sendiri
+103,Dinas Perhubungan,Indo Hub,"Sistem informasi tentang kondisi lalulintas, angkutan umum. Tanggap darurat, portal informasi publik untuk warga Kota Bandung",-,-,-,-
+104,Dinas Perhubungan,Moovit,Sistem informasi perjalanan untuk masyarakat  menggunakan transportasi publik,-,-,-,-
+105,Dinas Perpustakaan dan Kearsipan,Aplikasi INLISLite V3,INLISLite Versi 3 merupakan pengembangan lanjutan dari perangkat lunak (software) aplikasi otomasi perpustakaan INLISLite Versi 2 yang dibangun dan dikembangkan oleh perpustakaan Nasional RI sejak tahun 2011,www.layanan.dispusip.bandung.go.id,Website,Aplikasi Ini Berfungsi Bagi Pengelola Perpustakaan Untuk Menerapkan Otomasi / Automatis Perpustakaan Sekaligus Mengembangkan Perpustakaan Digital / Mengelola Dan Melayankan Koleksi Digital,Milik Sendiri
+106,Dinas Perpustakaan dan Kearsipan,SIMACAM,Sistem Informasi Perpustakaan Umum Taman Bacaan Masyarakat merupakan pengelolaan taman bacaan masyarakat berbasis website.,dispusip.bandung.go.id/simacam,Website,Sarana Informasi Satu Pintu Bagi Pengelola Taman Bacaan Masyarakat Untuk Menerapkan Otomasi Perpustakaan,Milik Sendiri
+107,Dinas Perpustakaan dan Kearsipan,ELibrary,Perpustakaan dengan koleksi digital,http://dispusip.bandung.go.id/penerapan-sistem-informasi-taman-bacaan-masyarakat-simacam-berbasis-web-e-library-di-kota-bandung/,Website,Memberikan Layanan Kepada Masyarakat Agar Dapat Mengakses Berbagai Macam Koleksi Digital Perpustakaan Tanpa Batas Waktu Dan Gratis Sehingga Masyarakat Dapat Memenuhi Kebutuhan Informasinya Setiap Saat.,Milik Sendiri
+108,Dinas Perpustakaan dan Kearsipan,Khazanah Kearsipan,Sistem informasi kearsipan statis,www.siks.dispusip.bandung.go.id,Website,-,Milik Sendiri
+109,Dinas Perpustakaan dan Kearsipan,Portal DInas Perpustakaan Dan Kearsipan,Web informasi kedinasan,www.dispusip.bandung.go.id,Website,-,Milik Sendiri
+110,Dinas Perpustakaan dan Kearsipan,SKD Kearsipan,Sistem informasi kearsipan dinamis,www.sikd.dispusip.bandung.go.id,Website,-,Milik Sendiri
+111,Dinas Perpustakaan dan Kearsipan,Master Data,Data pokok Dispusip,dapopusip.dispusip.bandung.go.id,-,-,-
+112,Dinas Sosial dan Penanggulangan Kemiskinan,Aplikasi Kesejahteraan Sosial Excellent (Aksen),Informasi data terpadu program penanganan fakir miskin dan PMKS,https://aksen.bandung.go.id,Website,Memudahkan Mencari Data Kemiskinan Dalam Satu Pintu Untuk Berbagai Keperluan,Milik Sendiri
+113,Dinas Sosial dan Penanggulangan Kemiskinan,Website Dinas Sosial Pemkot Bandung,Informasi tentang kedinasan ,https://dinsos.bandung.go.id,Website,-,Milik Sendiri
+114,Dinas Tenaga Kerja,Website & BIMMA,Semua informasi tantang ketenagakerjaan,disnaker.bandung.go.id,Website,Memudahkan Masyarakat Untuk Mencari Informasi Tentang Ketenagakerjaan,Milik Sendiri
+115,Dinas Tenaga Kerja,BIMMA Mobile,-,-,Mobile,-,Milik Sendiri
+116,PD Air Minum Tirtawening,Sistem Online Payment Point (SOPP),Digunakan untuk melakukan transaksi pembayaran melalui loket-loket PDAM,-,-,-,-
+117,PD Air Minum Tirtawening,Sistem Informasi Tagihan dan Rekening (Sinagrek),"Pantau rekap penerimaan, bukti setoran, rekon bank, laporan pemeriksaan, efektivitas bulanan, efektifitas tahunan, bea meterai, rekon piutang, rekap drd (jumlah pelanggan, m3, harga air,bea beban, bea admin, air kotor, lain-lain, total tagihan per grup golongan tarif, distrik, wilayah administrasi, wilayah distribusi), revisi drd, BA drd, aging schedule, salso /thbln, saldo/pelanggan, jangka waktu tagih, kepelangganan gol 2b, lap mutasi, umur meter, dana meter, tunggakan pelanggan, history pelanggan.",-,-,-,-
+118,PD Air Minum Tirtawening,Sistem Informasi Mutasi Pelanggan (Mutasi),"Pasang sambungan baru, perubahan alamat, perubahan golongan tarif, balik nama, penutupan sementara, pk penutupan sementara, penutupan karena tunggakan, pk karena tunggakan, komplain penggantian meter, penggantian meter rutin, penggantian meter hilang, laporan, data referensi, ubah data master",-,-,-,-
+119,PD Air Minum Tirtawening,Sistem Informasi Laporan Pencatatan Meter (Sicamer-web),"Lihat laporan progress pencatatan rute, kondisi catat, kondisi catat kombinasi, pembayaran rekening, pencarian pelanggan, telusur kubikasi & jumlah pelanggan.",-,-,-,-
+120,PD Air Minum Tirtawening,Sistem Informasi Reduksi (ATI),"Entry pengaduan, pengaduan, proses tindak lanjut (pencatatan meter, meter tibjar, kondisi air, perhitungan penyesuaian, penetapan penyesuaian, edit kondisi air, edit pencatatan meter, edit meter tibjar, edit penyesuaian), laporan (lap p reduks, lap p reduksi non rutin, lap p reduksi kriteria, catak tagihan, batal cetak tagihan, daftar penyesuaian harian, rekap data penyesuian, nota pengantar, nota pengantar tim, perubahan rek air, p rek air tim, laporan monitoring, cetak data rekening, referensi aplikasi, monitoring status, system modules, application.rppnr, ... , report perwilayah), referensi aplikasi, monitoring status.",-,-,-,-
+121,PD Air Minum Tirtawening,"Overbooking Information System (OVB, Obis)","Melihat group bayar kolektif, pelanggan kolektif, pembuatan data penagihan rekening, data penagihan pelanggan, cetak daftar penagihan (dpr), cetak daftar tagihan, nota lunas, data pelunasan, laporan.",-,-,-,-
+122,PD Air Minum Tirtawening,Sistem Informasi Pelanggan (Infolang),"Lihat info tunggakan, info pemakaian, cari pelanggan, simulasi perhitungan tagihan.",-,-,-,-
+123,PD Air Minum Tirtawening,FTP dengan Mitracomm,"Penyimpanan data rekon PDAM dengan Mitracomm (pembayaran via ATM BJB, BNI, Mandiri), menggunakan webhosting pambdg.co.id. Data webhosting berasal dari middleware Mitracomm (192.1.90.2). Data middleware adalah hasil proses rekon otomatis di server aplikasi PDAM (192.1.100.104).",-,-,-,-
+124,PD Air Minum Tirtawening,Pembatalan Transaksi Pembayaran Rekening Via PT Pos (Delpos),Menghapus data transaksi yang tidak bisa dilaksanakan (error) di pihak pos.,-,-,-,-
+125,PD Air Minum Tirtawening,Sistem Informasi Pencatatan Meter Update (Sicamer update),Mengevaluasi data pencatatan meter.,-,-,-,-
+126,PD Air Minum Tirtawening,FTP dengan Pos,"Penyimpanan data rekon PDAM dengan PT Pos (pembayaran via Pos), menggunakan webhosting dacen.posindonesia.co.id. Data webhosting berasal dari middleware Pos. Data middleware adalah hasil proses rekon otomatis di server aplikasi PDAM (192.1.100.104).",-,-,-,-
+127,PD Air Minum Tirtawening,Billing Info System Web (BISW),Menarik data tagihan pelanggan dan menampilkan diweb pdam.,-,-,-,-
+128,PD Air Minum Tirtawening,Network Monitoring I (admintirtawening),Monitor laporan trafic jaringan,-,-,-,-
+129,PD Air Minum Tirtawening,Network Monitoring II,monitor jaringan dalam kondisi up or down,-,-,-,-
+130,PD Air Minum Tirtawening,Sistem Informasi Monitoring Penerimaan KAS (Sipana),"Informasi penerimaan air PDAM Kota Bandung dari Kas, OVB, ATI, Pos, ATM, BRI, BTN, RWnet, Kartu kredit, Nonrek.",-,-,-,-
+131,PD Air Minum Tirtawening,Sistem Informasi Realisasi Penerimaan Berdasarkan SPT (Sirama),Informasi realisasi penerimaan berdasarkan SPT - PDAM Kota Bandung.,-,-,-,-
+132,PD Air Minum Tirtawening,Sistem Informasi Cicilan (ICS),Pendataan Cicilan Rekening Pelanggan - PDAM Kota Bandung.,-,-,-,-
+133,PD Air Minum Tirtawening,Sistem Informasi Pelanggan Potensial,Mengelola data pelanggan potensial,-,-,-,-
+134,PD Air Minum Tirtawening,Winbox,Mengelola koneksi jaringan,-,-,-,-
+135,PD Air Minum Tirtawening,Management Komputer,"Pengadministrasian, perawatan dan perbaikan komputer.",-,-,-,-
+136,PD Air Minum Tirtawening,Aplikasi Monitoring RWnet Bukopin,Monitoring RWnet Bukopin,-,-,-,-
+137,PD Air Minum Tirtawening,Aplikasi Transaksi RWnet Bukopin,Kegiatan transaksi RWnet Bukopin,-,-,-,-
+138,PD Air Minum Tirtawening,Simulasi target bulan berjalan,Simulasi keperluan evaluasi cater terkait target bulan berjalan,-,-,-,-
+139,PD Air Minum Tirtawening,Aplikasi Cicilan PB,Menangani pembayaran cicilan Pemasangan Baru,-,-,-,-
+140,PD Air Minum Tirtawening,Aplikasi Sistem Akuntansi Terintegrasi (Simaster),"Mengelola data keuangan, persediaan",-,-,-,-
+141,PD Air Minum Tirtawening,Aplikasi Pengaduan via Twitter (Webmaster),"Dokumentasi input output pengaduan via twitter yang dimoderatori oleh bagian Sekretariat untuk direspon oleh bagian terkait, kemudian disampaikan oleh Sekretariat ke pengadu",-,-,-,-
+142,PD Air Minum Tirtawening,Aplikasi Monitoring Anggaran,Monitoring realisasi penggunaan anggaran,-,-,-,-
+143,PD Air Minum Tirtawening,Aplikasi Yantap,Melayani semua jennis pengaduan pelanggan dan pelayanan PDAM yang terintergrasi dengan aplikasi Mutasi. ,-,-,-,-
+144,PD Air Minum Tirtawening,Aplikasi monitoring AMR Kenda,Monitoring AMR pelanggan potensial,-,-,-,-
+145,PD Air Minum Tirtawening,Aplikasi monitoring Data Logger,Monitoring meter induk DMA,-,-,-,-
+146,PD Air Minum Tirtawening,QuantumGIS,"Mengelola, analisa, editor dan mengintegrasikan data spasial dengan data tabular",-,-,-,-
+147,PD Air Minum Tirtawening,Aplikasi Non Rekening,Input dan cetak data penerimaan nonrek.,-,-,-,-
+148,PD Air Minum Tirtawening,Aplikasi monitoring meter induk Kenda,Monitoring AMR meter induk pilot project DMA Cibeureum,-,-,-,-
+149,PD Air Minum Tirtawening,Aplikasi Siaskes,Input data asuransi kesehatan,-,-,-,-
+150,PD Air Minum Tirtawening,Aurora Cater Android,Input data hasil pencatatan meter.,-,-,-,-
+151,PD Air Minum Tirtawening,Aplikasi penomoran pb otomatis,Pemeberian nomor pelanggan baru secara otomatis,-,-,-,-
+152,PD Air Minum Tirtawening,Aplikasi Non rekening,Billing online non rekening,-,-,-,-
+153,PD Air Minum Tirtawening,Aplikasi Closing,Tools Simaster untuk proses closing kasir,-,-,-,-
+154,PD Air Minum Tirtawening,Penggajian,Pengelolaan data gaji karyawan,-,-,-,-
+155,PD Air Minum Tirtawening,Aplikasi Tata Naskah,Menyiapkan format dokumen dinas.,-,-,-,-
+156,PD Air Minum Tirtawening,Aplikasi Cek Pencatatan,Memeriksa hasil pencatatan water meter,-,-,-,-
+157,PD Air Minum Tirtawening,Aplikasi Sistem perhitungan Rekening,Menghitung jumlah tagihan rekening tiap pelanggan,-,-,-,-
+158,PD Air Minum Tirtawening,PDPAL,Memutakhirkan data pelanggan,-,-,-,-
+159,PD Air Minum Tirtawening,"Aplikasi Sipegasus PDAM, Langganan Aktif",Menginput data pelangan kategori khusus yaitu yang mendapat rekomendasi Direksi dan MBR,-,-,-,-
+160,PD Air Minum Tirtawening,Online Sambungan Baru,Pendaftaran pelanggan baru secara online via website PDAM,-,-,-,-
+161,PD Air Minum Tirtawening,Aplikasi Order Pencabutan Sambungan,Alat bantu bagian Penagihan dalam menertibkan Pelanggan yang melakukan pelanggaran sehingga dapat mengurangi kerugian PDAM dalam hal pemakaian air (kehilangan air) dan penerimaan tagihan (efektivitas penagihan).,-,-,-,-
+162,PD Air Minum Tirtawening,Aplikasi GoMBR Web,Mengelola data kegiatan petugas dan SL MBR,-,-,-,-
+163,PD Air Minum Tirtawening,Aplikasi GoMBR Mobile,System berbasis android untuk mendokumentasikan pengerjaan sambungan langganan di lapangan,-,-,-,-
+164,PD Air Minum Tirtawening,Aplikasi Mutasi MBR,"Aplikasi untuk melihat perubahan yang terjadi dengan pemasangan baru MBR (Masayarakat Berpenghasilan Rendah) dari mulai list mbr, order sampai pengaktifan pelanggan",-,-,-,-
+165,PD Air Minum Tirtawening,GIS Aset,Mengelola data spasial dan tabular aset - aset PDAM,-,-,-,-
+166,PD Air Minum Tirtawening,Aurora Dashboard,Informasi pemakaian air pelanggan,-,-,-,-
+167,PD Air Minum Tirtawening,PBJ PDAM Web,Website ini berfungsi sebagai sarana informasi yang mengumumkan tentang Pengadaan Barang dan jasa yang ada pada perusahaan daerah air minum (PDAM) Tirtawening,-,-,-,-
+168,PD Air Minum Tirtawening,GIS Infrastruktur Air Limbah,Input dan repot database dan peta infrastruktur air limbah,-,-,-,-
+169,PD Air Minum Tirtawening,E-Budgeting,Mengelola anggaran,-,-,-,-
+170,PD Air Minum Tirtawening,Sistem informasi pengelolaan aset sistem penyediaan air minum,-,-,-,-,-
+171,PD Air Minum Tirtawening,Website,-,www.pambdg.co.id/new2,Website,-,-
+172,Direktur PD. Bank Perkreditan Rakyat Kota Bandung,Integrated Banking System (IBS) Version 05.08.001 Realese 16/12/2014 1 (PT.USSI),Sistem Core Bisnis Bank PD. BPR Kota Bandung,-,Desktop,"Aplikasi Transaksi Perbankan Pd. Bpr Kota Bandung (Neraca, L/R, Simpanan [Tabungan, Deposito], Dan Pinjaman",Milik Sendiri
+173,Direktur PD. Bank Perkreditan Rakyat Kota Bandung,Sistem Informasi Debitur (BI Checking),Pelaporan Data Nasabah Kredit yang terdaftar di PD. BPR Kota Bandung berikut Saldo dan Kolektibilitas Kreditnya,Client,Desktop,Sistem Informasi Debitur Terintegrasi Dengan Bank Lain Difasilitasi Oleh Bank Indonesia,Milik Sendiri
+174,Direktur PD. Bank Perkreditan Rakyat Kota Bandung,LB-BPR (Laporan Berkala Bank Perkreditan Rakyat),Aplikasi Pelaporan Bank Kepada Bank Central (Bank Indoensia),-,Desktop,Kontrol Dan Kebijakan Penilaian Kinerja Bank Bpr,Milik Sendiri
+175,Direktur PD. Bank Perkreditan Rakyat Kota Bandung,SLIK-Client (Sistem Laynanan Informasi Keuangan,"Pengganti SID, dikelola oleh OJK (diganti dengan SLIK),",-,Desktop,Sebagai Pelaporan Data Nasabah Debitur,Milik Sendiri
+176,Direktur PD. Bank Perkreditan Rakyat Kota Bandung,SPT Masa Pajak Penghasilan Pasal 4 Ayat (2),Aplikasi Penghitungan dan Pembayararan Penghasilan,-,Desktop,Memudahkan Pembayaran Pajak Penghasilan,Milik Sendiri
+177,Direktur PD. Kebersihan Kota Bandung,Equel,sistem informasi penggajian karyawan,-,Desktop,"Untuk Input, Proses, Dan Out Data Penggajian Karyawan",Milik Sendiri
+178,Direktur PD. Kebersihan Kota Bandung,PDK Billing System,-,-,Website,-,Milik Sendiri
+179,Direktur PD. Kebersihan Kota Bandung,Website PD Kebersihan,Informasi PD Kebersihan,pdkebersihan.bandung.go.id,Website,-,Milik Sendiri
+180,Direktur PD. Pasar Bermartabat Kota Bandung,Sistem Informasi Manajemen Keuangan,Sistem Pencatatan Transaksi dan Laporan Keuangan,-,Desktop,Tersimpannya Transaksi Pengeluaran Dan Pemasukan Secara Komputerisasi,Milik Sendiri
+181,Inspektorat,E-gratifikasi,"Sistem pelaporan, konsultasi gratifikasi",-,-,-,-
+182,Inspektorat,Saber Pungli,Aduan masyarakat terhadap pungutan liar,-,-,-,-
+183,Kecamatan Astana Anyar,Website Kecamatan,Memuat data dan informasi seputar Kecamatan Astanaanyar,astanaanyar.com,Website,Sarana Informasi Bagi Masyarakat,Milik Sendiri
+184,Kecamatan Bandung Kulon,Website Kecamatan Bandung Kulon,"Platform kegiatan camat dan pegawai setiap hari, kegiatan, berita seputar kecamatan bandung kulon",-,Website,-,Milik Sendiri
+185,Kecamatan Bandung Wetan,Papperless Bandung Wetan,Untuk Surat Meyurat dan Disposisi Surat,www.bandungwetan.com/register,Website,Mempermudah Dalam Disposisi Surat,Milik Sendiri
+186,Kecamatan Bandung Wetan,Profil Kecamatan Bandung Wetan,Website Profil Kecamatan Bandung Wetan,-,Website,-,Milik Sendiri
+187,Kecamatan Bandung Wetan,Sistem Informasi Data Kepegawaian,Pendataan Pegawai serta Dapat Melihat KGB dan Pensiun,-,Website,-,Milik Sendiri
+188,Kecamatan Batununggal,Website Kecamatan,-,batununggal.bandung.go.id,Website,-,Milik Sendiri
+189,Kecamatan Bojongloa Kaler,Website Kecamatan,-,-,Website,-,Milik Sendiri
+190,Kecamatan Bojongloa Kidul,Aplikasi Comment Center,-,-,Website,-,Milik Sendiri
+191,Kecamatan Bojongloa Kidul,Website Kecamatan Bojongloa Kidul,Sekumpulan halaman informasi yang disediakan melalui jalur internet sehingga bisa diakses di seluruh dunia selama terkoneksi dengan jaringan internet tanpa terbatas ruang dan waktu.,-,Website,-,Milik Sendiri
+192,Kecamatan Buahbatu,Web Kecamatan Buah Batu,Website kecamatan buahbatu,-,Website,-,Milik Sendiri
+193,Kecamatan Cibeunying Kaler,Web Kecamatan,-,-,Website,-,Milik Sendiri
+194,Kecamatan Cibeunying Kaler,Aplikasi No Antrian Layanan,Aplikasi no antrian pelayanan ,Local,Desktop,-,-
+195,Kecamatan Cibeunying Kidul,Web Kecamatan,-,cibeunyingkidul.bandung.go.id,Website,-,Milik Sendiri
+196,Kecamatan Cidadap,SAMPURASUN,Layanan Jemput dan Antar berkas Dokumen kependudukan Tingkat Kecamatan,-,Multiplatform,Memudahkan Masyarakat Yang Jauh Untuk Tidak Harus Datang Ke Kecamatan,Milik Sendiri
+197,Kecamatan Cinambo,Cinambo Smart,Aplikasi Berbasis Mobile,https://play.google.com/store/apps/details?id=asia.cyberlabs.cinambosmart&hl=en,Mobile,"Untuk Memberi Informasi Kepada Warga Tentang Perihal Kegiatan Kecamatan Cinambo, Serta Membantu Dalam Hal Administrasi Kependudukan",Milik Sendiri
+198,Kecamatan Cinambo,Website Kecamtan Cinambo,Aplikasi berbasis Web,cinambo.bandung.go.id,Website,-,Milik Sendiri
+199,Kecamatan Coblong,Zoho Form,Laporan Kinerja bagi NON PNS di kec. Coblong,-,Website,-,Milik Sendiri
+200,Kecamatan Coblong,Website Kecamatan Coblong,Profil Kecamatan Coblong,coblong.bandung.go.id/,Website,-,Milik Sendiri
+201,Kecamatan Gedebage,Website Kecamatan Gedebage,"Berisi informasi profil, dokumentasi, dan layanan kecamatan gedebage bseserta dengan kelurahan-kelurahan yang ada didalamnya.",gedebage.bandung.go.id,Website,-,Milik Sendiri
+202,Kecamatan Mandalajati,Web Kecamatan,-,mandalajati.bandung.go.id,Website,-,Milik Sendiri
+203,Kecamatan Panyileukan,Panyileukan online,Website informasi Kecamatan Panyileukan,panyileukan.bandung.go.id,Website,Informasi Untuk Masyarakat,Milik Sendiri
+204,Kecamatan Sukajadi,Website Kecamatan Sukajadi,"Profil, prosedur dan kegiatan mengenai Kecamatan Sukajadi",kecamatansukajadi.com,Website,Memberikan Informasi Kepada Masyarakat Tentang Kecamatan Sukajadi,Milik Sendiri
+205,Kecamatan Sukajadi,SIP Administrasi,Sistem Informasi Perkantoran Administrasi,kecamatansukajadi.com/appkecamatan,Website,-,Milik Sendiri
+206,Kecamatan Sukasari,Web Kecamatan,-,sukasari.bandung.go.id,Website,-,Milik Sendiri
+207,Kecamatan Sumur Bandung,Kecamatan Sumur Bandung,-,sumurbandung.bandung.go.id,Website,-,Milik Sendiri
+208,Kecamatan Ujung Berung,Web Kecamatan,-,-,-,-,-
+209,Rumah Sakit Khusus Gigi dan Mulut,SIMRS,-,IP Private,Website,Untuk Kelancaran Pelayanan RS,Milik Sendiri
+210,Rumah Sakit Khusus Ibu dan Anak,SIMRS RSKIA Kota Bandung,Untuk proses pendaftaran pasien di rumah sakit,IPserver,Website,Untuk Proses Pendaftaran Pasien Di Rumah Sakit,Milik Sendiri
+211,Rumah Sakit Khusus Ibu dan Anak,CCTV Public,Tempat pembayaran transaksi pasien di rumah sakit,IPserver,Website,Tempat Pembayaran Transaksi Pasien Di Rumah Sakit,Milik Sendiri
+212,Rumah Sakit Khusus Ibu dan Anak,WEBSITE,Sistem Informasi RS pada Klinik PERINATOLOGI,IPserver,Website,Sistem Informasi Rs Pada Klinik Perinatologi,Milik Sendiri
+213,Rumah Sakit Khusus Ibu dan Anak,CCTV internal,Monitoring kegiatan di RSKIA,-,Website,Monitoring Kegiatan Di RSKIA,Milik Sendiri
+214,Rumah Sakit Khusus Ibu dan Anak,Aplikasi Anjungan Informasi,-,-,Website,-,Milik Sendiri
+215,Rumah Sakit Khusus Ibu dan Anak,Aplikasi Antrian,-,-,Website,-,Milik Sendiri
+216,Rumah Sakit Umum Daerah,SIM-RS,Sistem Informasi dan Manajemen Rumah Sakit adalah gabungan aplikasi-aplikasi yang ada di 27 Unit / Instalasi untuk pelayanan kesehatan dan administrasi.,-,Multiplatform,Pencatatan Data Pelayanan Kesehatan Dan Administrasi Rumah Sakit Secara Elektronik Untuk Memudahkan Pelaporan Dan Acuan Pengambilan Keputusan.,Milik Sendiri
+217,Satuan Polisi Pamong Praja,Website SatpolPP,Website Satpol PP Kota Bandung,www.satpolpp.bandung.go.id,Website,"Menginformasikan Mengenai Tupoksi Satpol PP, Regulasi, Dan Kegiatan-Kegiatan.",Milik Sendiri

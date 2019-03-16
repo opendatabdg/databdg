@@ -1,152 +1,1588 @@
-Kecamatan,Kelurahan,RW,RT
-SUKASARI,ISOLA,6,25
-SUKASARI,GEGERKALONG,8,59
-SUKASARI,SUKARASA,7,39
-SUKASARI,SARIJADI,11,100
-SUKAJADI,PASTEUR,13,91
-SUKAJADI,CIPEDES,11,87
-SUKAJADI,SUKAWARNA,7,53
-SUKAJADI,SUKAGALIH,6,36
-SUKAJADI,SUKABUNGAH,12,81
-CICENDO,HUSEIN SASTRANEGARA,12,79
-CICENDO,ARJUNA,8,80
-CICENDO,PAJAJARAN,10,69
-CICENDO,PASIR KALIKI,10,66
-CICENDO,PAMOYANAN,6,54
-CICENDO,SUKARAJA,10,68
-ANDIR,MALEBER,11,61
-ANDIR,DUNGUS CARIANG,11,102
-ANDIR,CIROYOM,10,86
-ANDIR,KEBON JERUK,9,71
-ANDIR,GARUDA,6,39
-ANDIR,CAMPAKA,7,38
-CIDADAP,HEGARMANAH,11,81
-CIDADAP,CIUMBULEUIT,11,78
-CIDADAP,LEDENG,7,31
-COBLONG,CIPAGANTI,7,52
-COBLONG,LEBAKGEDE,15,66
-COBLONG,SADANG SERANG,21,129
-COBLONG,DAGO,13,106
-COBLONG,SEKELOA,15,92
-COBLONG,LEBAK SILIWANGI,6,23
-BANDUNG WETAN,CIHAPIT,8,45
-BANDUNG WETAN,TAMANSARI,20,124
-BANDUNG WETAN,CITARUM,8,36
-SUMUR BANDUNG,BRAGA,8,45
-SUMUR BANDUNG,MERDEKA,9,57
-SUMUR BANDUNG,KEBON PISANG,12,85
-SUMUR BANDUNG,BABAKAN CIAMIS,8,43
-CIBEUNYING KALER,CIHAURGEULIS,13,70
-CIBEUNYING KALER,SUKALUYU,11,92
-CIBEUNYING KALER,NEGLASARI,8,39
-CIBEUNYING KALER,CIGADUNG,15,91
-CIBEUNYING KIDUL,PADASUKA,16,103
-CIBEUNYING KIDUL,CIKUTRA,15,108
-CIBEUNYING KIDUL,CICADAS,15,86
-CIBEUNYING KIDUL,SUKAMAJU,12,80
-CIBEUNYING KIDUL,SUKAPADA,16,97
-CIBEUNYING KIDUL,PASIRLAYUNG,13,87
-KIARACONDONG,SUKAPURA,15,110
-KIARACONDONG,KEBON JAYANTI,14,89
-KIARACONDONG,BABAKAN SURABAYA,15,99
-KIARACONDONG,CICAHEUM,12,85
-KIARACONDONG,BABAKAN SARI,18,146
-KIARACONDONG,KEBON KANGKUNG,11,70
-BATUNUNGGAL,GUMURUH,12,90
-BATUNUNGGAL,MALEER,12,74
-BATUNUNGGAL,CIBANGKONG,13,82
-BATUNUNGGAL,KACAPIRING,9,49
-BATUNUNGGAL,KEBONWARU,8,69
-BATUNUNGGAL,KEBONGEDANG,8,63
-BATUNUNGGAL,SAMOJA,11,71
-BATUNUNGGAL,BINONG,10,72
-LENGKONG,CIJAGRA,7,52
-LENGKONG,LINGKAR SELATAN,10,75
-LENGKONG,BURANGRANG,9,65
-LENGKONG,PALEDANG,8,49
-LENGKONG,TURANGGA,11,84
-LENGKONG,MALABAR,11,58
-LENGKONG,CIKAWAO,9,55
-REGOL,CIGERELENG,12,62
-REGOL,ANCOL,9,54
-REGOL,PUNGKUR,6,46
-REGOL,BALONGGEDE,7,45
-REGOL,CISEUREUH,8,50
-REGOL,CIATEUL,9,50
-REGOL,PASIRLUYU,9,64
-ASTANANYAR,KARASAK,6,51
-ASTANANYAR,NYENGSERET,7,51
-ASTANANYAR,KARANG ANYAR,9,45
-ASTANANYAR,PANJUNAN,6,32
-ASTANANYAR,CIBADAK,9,75
-ASTANANYAR,PELINDUNG HEWAN,10,59
-BOJONGLOA KALER,KOPO,12,86
-BOJONGLOA KALER,BABAKAN TAROGONG,7,70
-BOJONGLOA KALER,JAMIKA,11,107
-BOJONGLOA KALER,BABAKAN ASIH,7,59
-BOJONGLOA KALER,SUKA ASIH,10,75
-BABAKAN CIPARAY,BABAKAN,13,88
-BABAKAN CIPARAY,BABAKAN CIPARAY,9,57
-BABAKAN CIPARAY,SUKAHAJI,10,88
-BABAKAN CIPARAY,MARGAHAYU UTARA,11,56
-BABAKAN CIPARAY,MARGASUKA,9,43
-BABAKAN CIPARAY,CIRANGRANG,5,31
-BOJONGLOA KIDUL,SITUSAEUR,8,84
-BOJONGLOA KIDUL,KEBONLEGA,11,79
-BOJONGLOA KIDUL,CIBADUYUT,8,30
-BOJONGLOA KIDUL,MEKARWANGI,7,24
-BOJONGLOA KIDUL,CIBADUYUT KIDUL,6,29
-BOJONGLOA KIDUL,CIBADUYUT WETAN,4,24
-BANDUNG KULON,CIJERAH,10,73
-BANDUNG KULON,CIBUNTU,10,73
-BANDUNG KULON,WARUNG MUNCANG,10,74
-BANDUNG KULON,CARINGIN,6,35
-BANDUNG KULON,CIGONDEWAH KALER,14,48
-BANDUNG KULON,GEMPOLSARI,10,67
-BANDUNG KULON,CIGONDEWAH RAHAYU,8,48
-BANDUNG KULON,CIGONDEWAH KIDUL,6,35
-ANTAPANI,ANTAPANI KULON,7,41
-ANTAPANI,ANTAPANI WETAN,12,69
-ANTAPANI,ANTAPANI TENGAH,24,111
-ANTAPANI,ANTAPANI KIDUL,19,112
-ARCAMANIK,SUKAMISKIN,17,92
-ARCAMANIK,CISARANTEN BINA HARAPAN,11,49
-ARCAMANIK,CISARANTEN KULON,11,60
-ARCAMANIK,CISARANTEN ENDAH,12,69
-UJUNGBERUNG,PASIR ENDAH,7,67
-UJUNGBERUNG,CIGENDING,11,66
-UJUNGBERUNG,PASIRWANGI,12,64
-UJUNGBERUNG,PASIR JATI,14,55
-UJUNGBERUNG,PASANGGRAHAN,15,66
-CIBIRU,PALASARI,14,83
-CIBIRU,CIPADUNG,17,77
-CIBIRU,PASIRBIRU,12,49
-CIBIRU,CISURUPAN,10,53
-RANCASARI,CIPAMOKOLAN,12,95
-RANCASARI,DERWATI,13,84
-RANCASARI,MANJAHLEGA,16,95
-RANCASARI,MEKARJAYA,11,64
-BUAHBATU,SEKEJATI,14,94
-BUAHBATU,MARGASARI,21,153
-BUAHBATU,CIJAWURA,13,81
-BUAHBATU,JATISARI,7,44
-BANDUNG KIDUL,BATUNUNGGAL,12,65
-BANDUNG KIDUL,WATES,7,32
-BANDUNG KIDUL,MENGGER,5,26
-BANDUNG KIDUL,KUJANGSARI,10,71
-GEDEBAGE,CIMINCRANG,8,30
-GEDEBAGE,CISARANTEN KIDUL,15,83
-GEDEBAGE,RANCABOLANG,10,57
-GEDEBAGE,RANCANUMPANG,8,34
-PANYILEUKAN,CIPADUNG KULON,11,52
-PANYILEUKAN,CIPADUNG WETAN,6,19
-PANYILEUKAN,CIPADUNG KIDUL,14,79
-PANYILEUKAN,MEKAR MULYA,6,35
-CINAMBO,PAKEMITAN,5,23
-CINAMBO,SUKAMULYA,6,25
-CINAMBO,CISARANTEN WETAN,6,26
-CINAMBO,BABAKAN PENGHULU,8,29
-MANDALAJATI,JATIHANDAP,17,111
-MANDALAJATI,KARANG PAMULANG,12,73
-MANDALAJATI,PASIR IMPUN,11,57
-MANDALAJATI,SINDANG JAYA,12,60
+wilayah,kode_kecamatan,nama_kecamatan,kode_kelurahan,nama_kelurahan,rw,jumlah_rt
+Bojonagara,3273180,Andir,3273180001,Campaka,1,6
+Bojonagara,3273180,Andir,3273180001,Campaka,2,6
+Bojonagara,3273180,Andir,3273180001,Campaka,3,3
+Bojonagara,3273180,Andir,3273180001,Campaka,4,5
+Bojonagara,3273180,Andir,3273180001,Campaka,5,6
+Bojonagara,3273180,Andir,3273180001,Campaka,6,6
+Bojonagara,3273180,Andir,3273180001,Campaka,7,6
+Bojonagara,3273180,Andir,3273180005,Ciroyom,1,9
+Bojonagara,3273180,Andir,3273180005,Ciroyom,2,6
+Bojonagara,3273180,Andir,3273180005,Ciroyom,3,10
+Bojonagara,3273180,Andir,3273180005,Ciroyom,4,8
+Bojonagara,3273180,Andir,3273180005,Ciroyom,5,9
+Bojonagara,3273180,Andir,3273180005,Ciroyom,6,10
+Bojonagara,3273180,Andir,3273180005,Ciroyom,7,9
+Bojonagara,3273180,Andir,3273180005,Ciroyom,8,9
+Bojonagara,3273180,Andir,3273180005,Ciroyom,9,8
+Bojonagara,3273180,Andir,3273180005,Ciroyom,10,9
+Bojonagara,3273180,Andir,3273180004,Dungus Cariang,1,8
+Bojonagara,3273180,Andir,3273180004,Dungus Cariang,2,10
+Bojonagara,3273180,Andir,3273180004,Dungus Cariang,3,8
+Bojonagara,3273180,Andir,3273180004,Dungus Cariang,4,7
+Bojonagara,3273180,Andir,3273180004,Dungus Cariang,5,8
+Bojonagara,3273180,Andir,3273180004,Dungus Cariang,6,6
+Bojonagara,3273180,Andir,3273180004,Dungus Cariang,7,9
+Bojonagara,3273180,Andir,3273180004,Dungus Cariang,8,8
+Bojonagara,3273180,Andir,3273180004,Dungus Cariang,9,5
+Bojonagara,3273180,Andir,3273180004,Dungus Cariang,10,6
+Bojonagara,3273180,Andir,3273180004,Dungus Cariang,11,9
+Bojonagara,3273180,Andir,3273180003,Garuda,1,8
+Bojonagara,3273180,Andir,3273180003,Garuda,2,6
+Bojonagara,3273180,Andir,3273180003,Garuda,3,5
+Bojonagara,3273180,Andir,3273180003,Garuda,4,8
+Bojonagara,3273180,Andir,3273180003,Garuda,5,4
+Bojonagara,3273180,Andir,3273180003,Garuda,6,7
+Bojonagara,3273180,Andir,3273180006,Kebon Jeruk,1,8
+Bojonagara,3273180,Andir,3273180006,Kebon Jeruk,2,6
+Bojonagara,3273180,Andir,3273180006,Kebon Jeruk,3,10
+Bojonagara,3273180,Andir,3273180006,Kebon Jeruk,4,5
+Bojonagara,3273180,Andir,3273180006,Kebon Jeruk,5,9
+Bojonagara,3273180,Andir,3273180006,Kebon Jeruk,6,6
+Bojonagara,3273180,Andir,3273180006,Kebon Jeruk,7,10
+Bojonagara,3273180,Andir,3273180006,Kebon Jeruk,8,10
+Bojonagara,3273180,Andir,3273180006,Kebon Jeruk,9,8
+Bojonagara,3273180,Andir,3273180002,Maleber,1,5
+Bojonagara,3273180,Andir,3273180002,Maleber,2,5
+Bojonagara,3273180,Andir,3273180002,Maleber,3,6
+Bojonagara,3273180,Andir,3273180002,Maleber,4,7
+Bojonagara,3273180,Andir,3273180002,Maleber,5,5
+Bojonagara,3273180,Andir,3273180002,Maleber,6,8
+Bojonagara,3273180,Andir,3273180002,Maleber,7,6
+Bojonagara,3273180,Andir,3273180002,Maleber,8,5
+Bojonagara,3273180,Andir,3273180002,Maleber,9,5
+Bojonagara,3273180,Andir,3273180002,Maleber,10,5
+Bojonagara,3273180,Andir,3273180002,Maleber,11,5
+Arcamanik,3273141,Antapani,3273141001,Antapani Kidul,1,8
+Arcamanik,3273141,Antapani,3273141001,Antapani Kidul,2,5
+Arcamanik,3273141,Antapani,3273141001,Antapani Kidul,3,5
+Arcamanik,3273141,Antapani,3273141001,Antapani Kidul,4,3
+Arcamanik,3273141,Antapani,3273141001,Antapani Kidul,5,6
+Arcamanik,3273141,Antapani,3273141001,Antapani Kidul,6,6
+Arcamanik,3273141,Antapani,3273141001,Antapani Kidul,7,5
+Arcamanik,3273141,Antapani,3273141001,Antapani Kidul,8,6
+Arcamanik,3273141,Antapani,3273141001,Antapani Kidul,9,7
+Arcamanik,3273141,Antapani,3273141001,Antapani Kidul,10,6
+Arcamanik,3273141,Antapani,3273141001,Antapani Kidul,11,5
+Arcamanik,3273141,Antapani,3273141001,Antapani Kidul,12,5
+Arcamanik,3273141,Antapani,3273141001,Antapani Kidul,13,7
+Arcamanik,3273141,Antapani,3273141001,Antapani Kidul,14,5
+Arcamanik,3273141,Antapani,3273141001,Antapani Kidul,15,9
+Arcamanik,3273141,Antapani,3273141001,Antapani Kidul,16,4
+Arcamanik,3273141,Antapani,3273141001,Antapani Kidul,17,5
+Arcamanik,3273141,Antapani,3273141001,Antapani Kidul,18,7
+Arcamanik,3273141,Antapani,3273141001,Antapani Kidul,19,8
+Arcamanik,3273141,Antapani,3273141004,Antapani Kulon,1,7
+Arcamanik,3273141,Antapani,3273141004,Antapani Kulon,2,4
+Arcamanik,3273141,Antapani,3273141004,Antapani Kulon,3,4
+Arcamanik,3273141,Antapani,3273141004,Antapani Kulon,4,7
+Arcamanik,3273141,Antapani,3273141004,Antapani Kulon,5,5
+Arcamanik,3273141,Antapani,3273141004,Antapani Kulon,6,5
+Arcamanik,3273141,Antapani,3273141004,Antapani Kulon,7,9
+Arcamanik,3273141,Antapani,3273141002,Antapani Tengah,1,6
+Arcamanik,3273141,Antapani,3273141002,Antapani Tengah,2,5
+Arcamanik,3273141,Antapani,3273141002,Antapani Tengah,3,5
+Arcamanik,3273141,Antapani,3273141002,Antapani Tengah,4,4
+Arcamanik,3273141,Antapani,3273141002,Antapani Tengah,5,3
+Arcamanik,3273141,Antapani,3273141002,Antapani Tengah,6,5
+Arcamanik,3273141,Antapani,3273141002,Antapani Tengah,7,5
+Arcamanik,3273141,Antapani,3273141002,Antapani Tengah,8,3
+Arcamanik,3273141,Antapani,3273141002,Antapani Tengah,9,3
+Arcamanik,3273141,Antapani,3273141002,Antapani Tengah,10,4
+Arcamanik,3273141,Antapani,3273141002,Antapani Tengah,11,5
+Arcamanik,3273141,Antapani,3273141002,Antapani Tengah,12,5
+Arcamanik,3273141,Antapani,3273141002,Antapani Tengah,13,4
+Arcamanik,3273141,Antapani,3273141002,Antapani Tengah,14,5
+Arcamanik,3273141,Antapani,3273141002,Antapani Tengah,15,5
+Arcamanik,3273141,Antapani,3273141002,Antapani Tengah,16,5
+Arcamanik,3273141,Antapani,3273141002,Antapani Tengah,17,5
+Arcamanik,3273141,Antapani,3273141002,Antapani Tengah,18,5
+Arcamanik,3273141,Antapani,3273141002,Antapani Tengah,19,5
+Arcamanik,3273141,Antapani,3273141002,Antapani Tengah,20,5
+Arcamanik,3273141,Antapani,3273141002,Antapani Tengah,21,5
+Arcamanik,3273141,Antapani,3273141002,Antapani Tengah,22,5
+Arcamanik,3273141,Antapani,3273141002,Antapani Tengah,23,6
+Arcamanik,3273141,Antapani,3273141002,Antapani Tengah,24,5
+Arcamanik,3273141,Antapani,3273141003,Antapani Wetan,1,6
+Arcamanik,3273141,Antapani,3273141003,Antapani Wetan,2,5
+Arcamanik,3273141,Antapani,3273141003,Antapani Wetan,3,6
+Arcamanik,3273141,Antapani,3273141003,Antapani Wetan,4,3
+Arcamanik,3273141,Antapani,3273141003,Antapani Wetan,5,5
+Arcamanik,3273141,Antapani,3273141003,Antapani Wetan,6,5
+Arcamanik,3273141,Antapani,3273141003,Antapani Wetan,7,5
+Arcamanik,3273141,Antapani,3273141003,Antapani Wetan,8,6
+Arcamanik,3273141,Antapani,3273141003,Antapani Wetan,9,7
+Arcamanik,3273141,Antapani,3273141003,Antapani Wetan,10,6
+Arcamanik,3273141,Antapani,3273141003,Antapani Wetan,11,5
+Arcamanik,3273141,Antapani,3273141003,Antapani Wetan,12,10
+Arcamanik,3273130,Arcamanik,3273130002,Cisaranten Bina Harapan,1,6
+Arcamanik,3273130,Arcamanik,3273130002,Cisaranten Bina Harapan,2,4
+Arcamanik,3273130,Arcamanik,3273130002,Cisaranten Bina Harapan,3,4
+Arcamanik,3273130,Arcamanik,3273130002,Cisaranten Bina Harapan,4,4
+Arcamanik,3273130,Arcamanik,3273130002,Cisaranten Bina Harapan,5,4
+Arcamanik,3273130,Arcamanik,3273130002,Cisaranten Bina Harapan,6,4
+Arcamanik,3273130,Arcamanik,3273130002,Cisaranten Bina Harapan,7,7
+Arcamanik,3273130,Arcamanik,3273130002,Cisaranten Bina Harapan,8,4
+Arcamanik,3273130,Arcamanik,3273130002,Cisaranten Bina Harapan,9,3
+Arcamanik,3273130,Arcamanik,3273130002,Cisaranten Bina Harapan,10,4
+Arcamanik,3273130,Arcamanik,3273130002,Cisaranten Bina Harapan,11,5
+Arcamanik,3273130,Arcamanik,3273130005,Cisaranten Endah,1,6
+Arcamanik,3273130,Arcamanik,3273130005,Cisaranten Endah,2,6
+Arcamanik,3273130,Arcamanik,3273130005,Cisaranten Endah,3,6
+Arcamanik,3273130,Arcamanik,3273130005,Cisaranten Endah,4,3
+Arcamanik,3273130,Arcamanik,3273130005,Cisaranten Endah,5,8
+Arcamanik,3273130,Arcamanik,3273130005,Cisaranten Endah,6,6
+Arcamanik,3273130,Arcamanik,3273130005,Cisaranten Endah,7,6
+Arcamanik,3273130,Arcamanik,3273130005,Cisaranten Endah,8,5
+Arcamanik,3273130,Arcamanik,3273130005,Cisaranten Endah,9,6
+Arcamanik,3273130,Arcamanik,3273130005,Cisaranten Endah,10,6
+Arcamanik,3273130,Arcamanik,3273130005,Cisaranten Endah,11,6
+Arcamanik,3273130,Arcamanik,3273130005,Cisaranten Endah,12,5
+Arcamanik,3273130,Arcamanik,3273130001,Cisaranten Kulon,1,10
+Arcamanik,3273130,Arcamanik,3273130001,Cisaranten Kulon,2,4
+Arcamanik,3273130,Arcamanik,3273130001,Cisaranten Kulon,3,6
+Arcamanik,3273130,Arcamanik,3273130001,Cisaranten Kulon,4,4
+Arcamanik,3273130,Arcamanik,3273130001,Cisaranten Kulon,5,10
+Arcamanik,3273130,Arcamanik,3273130001,Cisaranten Kulon,6,3
+Arcamanik,3273130,Arcamanik,3273130001,Cisaranten Kulon,7,7
+Arcamanik,3273130,Arcamanik,3273130001,Cisaranten Kulon,8,6
+Arcamanik,3273130,Arcamanik,3273130001,Cisaranten Kulon,9,4
+Arcamanik,3273130,Arcamanik,3273130001,Cisaranten Kulon,10,3
+Arcamanik,3273130,Arcamanik,3273130001,Cisaranten Kulon,11,4
+Arcamanik,3273130,Arcamanik,3273130003,Sukamiskin,1,5
+Arcamanik,3273130,Arcamanik,3273130003,Sukamiskin,2,4
+Arcamanik,3273130,Arcamanik,3273130003,Sukamiskin,3,4
+Arcamanik,3273130,Arcamanik,3273130003,Sukamiskin,4,3
+Arcamanik,3273130,Arcamanik,3273130003,Sukamiskin,5,6
+Arcamanik,3273130,Arcamanik,3273130003,Sukamiskin,6,3
+Arcamanik,3273130,Arcamanik,3273130003,Sukamiskin,7,5
+Arcamanik,3273130,Arcamanik,3273130003,Sukamiskin,8,8
+Arcamanik,3273130,Arcamanik,3273130003,Sukamiskin,9,6
+Arcamanik,3273130,Arcamanik,3273130003,Sukamiskin,10,6
+Arcamanik,3273130,Arcamanik,3273130003,Sukamiskin,11,5
+Arcamanik,3273130,Arcamanik,3273130003,Sukamiskin,12,6
+Arcamanik,3273130,Arcamanik,3273130003,Sukamiskin,13,7
+Arcamanik,3273130,Arcamanik,3273130003,Sukamiskin,14,6
+Arcamanik,3273130,Arcamanik,3273130003,Sukamiskin,15,7
+Arcamanik,3273130,Arcamanik,3273130003,Sukamiskin,16,5
+Arcamanik,3273130,Arcamanik,3273130003,Sukamiskin,17,6
+Tegallega,3273050,Astanaanyar,3273050005,Cibadak,1,6
+Tegallega,3273050,Astanaanyar,3273050005,Cibadak,2,11
+Tegallega,3273050,Astanaanyar,3273050005,Cibadak,3,10
+Tegallega,3273050,Astanaanyar,3273050005,Cibadak,4,7
+Tegallega,3273050,Astanaanyar,3273050005,Cibadak,5,4
+Tegallega,3273050,Astanaanyar,3273050005,Cibadak,6,9
+Tegallega,3273050,Astanaanyar,3273050005,Cibadak,7,15
+Tegallega,3273050,Astanaanyar,3273050005,Cibadak,8,7
+Tegallega,3273050,Astanaanyar,3273050005,Cibadak,9,7
+Tegallega,3273050,Astanaanyar,3273050006,Karang Anyar,1,4
+Tegallega,3273050,Astanaanyar,3273050006,Karang Anyar,2,5
+Tegallega,3273050,Astanaanyar,3273050006,Karang Anyar,3,5
+Tegallega,3273050,Astanaanyar,3273050006,Karang Anyar,4,4
+Tegallega,3273050,Astanaanyar,3273050006,Karang Anyar,5,6
+Tegallega,3273050,Astanaanyar,3273050006,Karang Anyar,6,5
+Tegallega,3273050,Astanaanyar,3273050006,Karang Anyar,7,8
+Tegallega,3273050,Astanaanyar,3273050006,Karang Anyar,8,4
+Tegallega,3273050,Astanaanyar,3273050006,Karang Anyar,9,4
+Tegallega,3273050,Astanaanyar,3273050001,Karasak,1,13
+Tegallega,3273050,Astanaanyar,3273050001,Karasak,2,6
+Tegallega,3273050,Astanaanyar,3273050001,Karasak,3,12
+Tegallega,3273050,Astanaanyar,3273050001,Karasak,4,4
+Tegallega,3273050,Astanaanyar,3273050001,Karasak,5,4
+Tegallega,3273050,Astanaanyar,3273050001,Karasak,6,6
+Tegallega,3273050,Astanaanyar,3273050003,Nyengseret,1,6
+Tegallega,3273050,Astanaanyar,3273050003,Nyengseret,2,6
+Tegallega,3273050,Astanaanyar,3273050003,Nyengseret,3,6
+Tegallega,3273050,Astanaanyar,3273050003,Nyengseret,4,9
+Tegallega,3273050,Astanaanyar,3273050003,Nyengseret,5,6
+Tegallega,3273050,Astanaanyar,3273050003,Nyengseret,6,7
+Tegallega,3273050,Astanaanyar,3273050003,Nyengseret,7,7
+Tegallega,3273050,Astanaanyar,3273050004,Panjunan,1,4
+Tegallega,3273050,Astanaanyar,3273050004,Panjunan,2,5
+Tegallega,3273050,Astanaanyar,3273050004,Panjunan,3,5
+Tegallega,3273050,Astanaanyar,3273050004,Panjunan,4,7
+Tegallega,3273050,Astanaanyar,3273050004,Panjunan,5,6
+Tegallega,3273050,Astanaanyar,3273050004,Panjunan,6,5
+Tegallega,3273050,Astanaanyar,3273050002,Pelindung Hewan,1,6
+Tegallega,3273050,Astanaanyar,3273050002,Pelindung Hewan,2,5
+Tegallega,3273050,Astanaanyar,3273050002,Pelindung Hewan,3,5
+Tegallega,3273050,Astanaanyar,3273050002,Pelindung Hewan,4,5
+Tegallega,3273050,Astanaanyar,3273050002,Pelindung Hewan,5,7
+Tegallega,3273050,Astanaanyar,3273050002,Pelindung Hewan,6,8
+Tegallega,3273050,Astanaanyar,3273050002,Pelindung Hewan,7,5
+Tegallega,3273050,Astanaanyar,3273050002,Pelindung Hewan,8,5
+Tegallega,3273050,Astanaanyar,3273050002,Pelindung Hewan,9,6
+Tegallega,3273050,Astanaanyar,3273050002,Pelindung Hewan,10,7
+Tegallega,3273020,Babakan Ciparay,3273020005,Babakan,1,7
+Tegallega,3273020,Babakan Ciparay,3273020005,Babakan,2,5
+Tegallega,3273020,Babakan Ciparay,3273020005,Babakan,3,7
+Tegallega,3273020,Babakan Ciparay,3273020005,Babakan,4,7
+Tegallega,3273020,Babakan Ciparay,3273020005,Babakan,5,7
+Tegallega,3273020,Babakan Ciparay,3273020005,Babakan,6,7
+Tegallega,3273020,Babakan Ciparay,3273020005,Babakan,7,7
+Tegallega,3273020,Babakan Ciparay,3273020005,Babakan,8,7
+Tegallega,3273020,Babakan Ciparay,3273020005,Babakan,9,5
+Tegallega,3273020,Babakan Ciparay,3273020005,Babakan,10,9
+Tegallega,3273020,Babakan Ciparay,3273020005,Babakan,11,7
+Tegallega,3273020,Babakan Ciparay,3273020005,Babakan,12,6
+Tegallega,3273020,Babakan Ciparay,3273020005,Babakan,13,7
+Tegallega,3273020,Babakan Ciparay,3273020004,Babakan Ciparay,1,6
+Tegallega,3273020,Babakan Ciparay,3273020004,Babakan Ciparay,2,5
+Tegallega,3273020,Babakan Ciparay,3273020004,Babakan Ciparay,3,10
+Tegallega,3273020,Babakan Ciparay,3273020004,Babakan Ciparay,4,3
+Tegallega,3273020,Babakan Ciparay,3273020004,Babakan Ciparay,5,7
+Tegallega,3273020,Babakan Ciparay,3273020004,Babakan Ciparay,6,8
+Tegallega,3273020,Babakan Ciparay,3273020004,Babakan Ciparay,7,5
+Tegallega,3273020,Babakan Ciparay,3273020004,Babakan Ciparay,8,5
+Tegallega,3273020,Babakan Ciparay,3273020004,Babakan Ciparay,9,8
+Tegallega,3273020,Babakan Ciparay,3273020002,Cirangrang,1,5
+Tegallega,3273020,Babakan Ciparay,3273020002,Cirangrang,2,6
+Tegallega,3273020,Babakan Ciparay,3273020002,Cirangrang,3,6
+Tegallega,3273020,Babakan Ciparay,3273020002,Cirangrang,4,7
+Tegallega,3273020,Babakan Ciparay,3273020002,Cirangrang,5,8
+Tegallega,3273020,Babakan Ciparay,3273020003,Margahayu Utara,1,2
+Tegallega,3273020,Babakan Ciparay,3273020003,Margahayu Utara,2,8
+Tegallega,3273020,Babakan Ciparay,3273020003,Margahayu Utara,3,8
+Tegallega,3273020,Babakan Ciparay,3273020003,Margahayu Utara,4,6
+Tegallega,3273020,Babakan Ciparay,3273020003,Margahayu Utara,5,5
+Tegallega,3273020,Babakan Ciparay,3273020003,Margahayu Utara,6,3
+Tegallega,3273020,Babakan Ciparay,3273020003,Margahayu Utara,7,7
+Tegallega,3273020,Babakan Ciparay,3273020003,Margahayu Utara,8,4
+Tegallega,3273020,Babakan Ciparay,3273020003,Margahayu Utara,9,5
+Tegallega,3273020,Babakan Ciparay,3273020003,Margahayu Utara,10,3
+Tegallega,3273020,Babakan Ciparay,3273020003,Margahayu Utara,11,5
+Tegallega,3273020,Babakan Ciparay,3273020001,Margasuka,1,2
+Tegallega,3273020,Babakan Ciparay,3273020001,Margasuka,2,6
+Tegallega,3273020,Babakan Ciparay,3273020001,Margasuka,3,6
+Tegallega,3273020,Babakan Ciparay,3273020001,Margasuka,4,5
+Tegallega,3273020,Babakan Ciparay,3273020001,Margasuka,5,6
+Tegallega,3273020,Babakan Ciparay,3273020001,Margasuka,6,4
+Tegallega,3273020,Babakan Ciparay,3273020001,Margasuka,7,6
+Tegallega,3273020,Babakan Ciparay,3273020001,Margasuka,8,3
+Tegallega,3273020,Babakan Ciparay,3273020001,Margasuka,9,5
+Tegallega,3273020,Babakan Ciparay,3273020006,Sukahaji,1,11
+Tegallega,3273020,Babakan Ciparay,3273020006,Sukahaji,2,12
+Tegallega,3273020,Babakan Ciparay,3273020006,Sukahaji,3,9
+Tegallega,3273020,Babakan Ciparay,3273020006,Sukahaji,4,9
+Tegallega,3273020,Babakan Ciparay,3273020006,Sukahaji,5,8
+Tegallega,3273020,Babakan Ciparay,3273020006,Sukahaji,6,10
+Tegallega,3273020,Babakan Ciparay,3273020006,Sukahaji,7,6
+Tegallega,3273020,Babakan Ciparay,3273020006,Sukahaji,8,7
+Tegallega,3273020,Babakan Ciparay,3273020006,Sukahaji,9,7
+Tegallega,3273020,Babakan Ciparay,3273020006,Sukahaji,10,10
+Kordon,3273080,Bandung Kidul,3273080003,Batununggal,1,8
+Kordon,3273080,Bandung Kidul,3273080003,Batununggal,2,5
+Kordon,3273080,Bandung Kidul,3273080003,Batununggal,3,5
+Kordon,3273080,Bandung Kidul,3273080003,Batununggal,4,6
+Kordon,3273080,Bandung Kidul,3273080003,Batununggal,5,4
+Kordon,3273080,Bandung Kidul,3273080003,Batununggal,6,5
+Kordon,3273080,Bandung Kidul,3273080003,Batununggal,7,6
+Kordon,3273080,Bandung Kidul,3273080003,Batununggal,8,6
+Kordon,3273080,Bandung Kidul,3273080003,Batununggal,9,5
+Kordon,3273080,Bandung Kidul,3273080003,Batununggal,10,5
+Kordon,3273080,Bandung Kidul,3273080003,Batununggal,11,6
+Kordon,3273080,Bandung Kidul,3273080003,Batununggal,12,4
+Kordon,3273080,Bandung Kidul,3273080004,Kujangsari,1,8
+Kordon,3273080,Bandung Kidul,3273080004,Kujangsari,2,6
+Kordon,3273080,Bandung Kidul,3273080004,Kujangsari,3,8
+Kordon,3273080,Bandung Kidul,3273080004,Kujangsari,4,8
+Kordon,3273080,Bandung Kidul,3273080004,Kujangsari,5,4
+Kordon,3273080,Bandung Kidul,3273080004,Kujangsari,6,7
+Kordon,3273080,Bandung Kidul,3273080004,Kujangsari,7,10
+Kordon,3273080,Bandung Kidul,3273080004,Kujangsari,8,8
+Kordon,3273080,Bandung Kidul,3273080004,Kujangsari,9,7
+Kordon,3273080,Bandung Kidul,3273080004,Kujangsari,10,5
+Kordon,3273080,Bandung Kidul,3273080002,Mengger,1,6
+Kordon,3273080,Bandung Kidul,3273080002,Mengger,2,6
+Kordon,3273080,Bandung Kidul,3273080002,Mengger,3,4
+Kordon,3273080,Bandung Kidul,3273080002,Mengger,4,6
+Kordon,3273080,Bandung Kidul,3273080002,Mengger,5,5
+Kordon,3273080,Bandung Kidul,3273080001,Wates,1,5
+Kordon,3273080,Bandung Kidul,3273080001,Wates,2,3
+Kordon,3273080,Bandung Kidul,3273080001,Wates,3,7
+Kordon,3273080,Bandung Kidul,3273080001,Wates,4,3
+Kordon,3273080,Bandung Kidul,3273080001,Wates,5,5
+Kordon,3273080,Bandung Kidul,3273080001,Wates,6,5
+Kordon,3273080,Bandung Kidul,3273080001,Wates,7,4
+Tegallega,3273010,Bandung Kulon,3273010005,Caringin,1,9
+Tegallega,3273010,Bandung Kulon,3273010005,Caringin,2,6
+Tegallega,3273010,Bandung Kulon,3273010005,Caringin,3,5
+Tegallega,3273010,Bandung Kulon,3273010005,Caringin,4,5
+Tegallega,3273010,Bandung Kulon,3273010005,Caringin,5,5
+Tegallega,3273010,Bandung Kulon,3273010005,Caringin,6,5
+Tegallega,3273010,Bandung Kulon,3273010007,Cibuntu,1,10
+Tegallega,3273010,Bandung Kulon,3273010007,Cibuntu,2,4
+Tegallega,3273010,Bandung Kulon,3273010007,Cibuntu,3,11
+Tegallega,3273010,Bandung Kulon,3273010007,Cibuntu,4,9
+Tegallega,3273010,Bandung Kulon,3273010007,Cibuntu,5,5
+Tegallega,3273010,Bandung Kulon,3273010007,Cibuntu,6,9
+Tegallega,3273010,Bandung Kulon,3273010007,Cibuntu,7,4
+Tegallega,3273010,Bandung Kulon,3273010007,Cibuntu,8,9
+Tegallega,3273010,Bandung Kulon,3273010007,Cibuntu,9,7
+Tegallega,3273010,Bandung Kulon,3273010007,Cibuntu,10,5
+Tegallega,3273010,Bandung Kulon,3273010002,Cigondewah Kaler,1,4
+Tegallega,3273010,Bandung Kulon,3273010002,Cigondewah Kaler,2,5
+Tegallega,3273010,Bandung Kulon,3273010002,Cigondewah Kaler,3,2
+Tegallega,3273010,Bandung Kulon,3273010002,Cigondewah Kaler,4,3
+Tegallega,3273010,Bandung Kulon,3273010002,Cigondewah Kaler,5,2
+Tegallega,3273010,Bandung Kulon,3273010002,Cigondewah Kaler,6,2
+Tegallega,3273010,Bandung Kulon,3273010002,Cigondewah Kaler,7,3
+Tegallega,3273010,Bandung Kulon,3273010002,Cigondewah Kaler,8,4
+Tegallega,3273010,Bandung Kulon,3273010002,Cigondewah Kaler,9,3
+Tegallega,3273010,Bandung Kulon,3273010002,Cigondewah Kaler,10,4
+Tegallega,3273010,Bandung Kulon,3273010002,Cigondewah Kaler,11,3
+Tegallega,3273010,Bandung Kulon,3273010002,Cigondewah Kaler,12,4
+Tegallega,3273010,Bandung Kulon,3273010002,Cigondewah Kaler,13,5
+Tegallega,3273010,Bandung Kulon,3273010002,Cigondewah Kaler,14,3
+Tegallega,3273010,Bandung Kulon,3273010003,Cigondewah Kidul,1,10
+Tegallega,3273010,Bandung Kulon,3273010003,Cigondewah Kidul,2,5
+Tegallega,3273010,Bandung Kulon,3273010003,Cigondewah Kidul,3,3
+Tegallega,3273010,Bandung Kulon,3273010003,Cigondewah Kidul,4,4
+Tegallega,3273010,Bandung Kulon,3273010003,Cigondewah Kidul,5,8
+Tegallega,3273010,Bandung Kulon,3273010003,Cigondewah Kidul,6,5
+Tegallega,3273010,Bandung Kulon,3273010004,Cigondewah Rahayu,1,5
+Tegallega,3273010,Bandung Kulon,3273010004,Cigondewah Rahayu,2,6
+Tegallega,3273010,Bandung Kulon,3273010004,Cigondewah Rahayu,3,6
+Tegallega,3273010,Bandung Kulon,3273010004,Cigondewah Rahayu,4,5
+Tegallega,3273010,Bandung Kulon,3273010004,Cigondewah Rahayu,5,3
+Tegallega,3273010,Bandung Kulon,3273010004,Cigondewah Rahayu,6,9
+Tegallega,3273010,Bandung Kulon,3273010004,Cigondewah Rahayu,7,5
+Tegallega,3273010,Bandung Kulon,3273010004,Cigondewah Rahayu,8,6
+Tegallega,3273010,Bandung Kulon,3273010008,Cijerah,1,10
+Tegallega,3273010,Bandung Kulon,3273010008,Cijerah,2,7
+Tegallega,3273010,Bandung Kulon,3273010008,Cijerah,3,9
+Tegallega,3273010,Bandung Kulon,3273010008,Cijerah,4,7
+Tegallega,3273010,Bandung Kulon,3273010008,Cijerah,5,6
+Tegallega,3273010,Bandung Kulon,3273010008,Cijerah,6,6
+Tegallega,3273010,Bandung Kulon,3273010008,Cijerah,7,7
+Tegallega,3273010,Bandung Kulon,3273010008,Cijerah,8,8
+Tegallega,3273010,Bandung Kulon,3273010008,Cijerah,9,7
+Tegallega,3273010,Bandung Kulon,3273010008,Cijerah,10,6
+Tegallega,3273010,Bandung Kulon,3273010001,Gempol Sari,1,4
+Tegallega,3273010,Bandung Kulon,3273010001,Gempol Sari,2,6
+Tegallega,3273010,Bandung Kulon,3273010001,Gempol Sari,3,4
+Tegallega,3273010,Bandung Kulon,3273010001,Gempol Sari,4,13
+Tegallega,3273010,Bandung Kulon,3273010001,Gempol Sari,5,7
+Tegallega,3273010,Bandung Kulon,3273010001,Gempol Sari,6,5
+Tegallega,3273010,Bandung Kulon,3273010001,Gempol Sari,7,5
+Tegallega,3273010,Bandung Kulon,3273010001,Gempol Sari,8,7
+Tegallega,3273010,Bandung Kulon,3273010001,Gempol Sari,9,7
+Tegallega,3273010,Bandung Kulon,3273010001,Gempol Sari,10,9
+Tegallega,3273010,Bandung Kulon,3273010006,Warung Muncang,1,8
+Tegallega,3273010,Bandung Kulon,3273010006,Warung Muncang,2,8
+Tegallega,3273010,Bandung Kulon,3273010006,Warung Muncang,3,7
+Tegallega,3273010,Bandung Kulon,3273010006,Warung Muncang,4,7
+Tegallega,3273010,Bandung Kulon,3273010006,Warung Muncang,5,7
+Tegallega,3273010,Bandung Kulon,3273010006,Warung Muncang,6,13
+Tegallega,3273010,Bandung Kulon,3273010006,Warung Muncang,7,9
+Tegallega,3273010,Bandung Kulon,3273010006,Warung Muncang,8,3
+Tegallega,3273010,Bandung Kulon,3273010006,Warung Muncang,9,5
+Tegallega,3273010,Bandung Kulon,3273010006,Warung Muncang,10,7
+Cibeunying,3273200,Bandung Wetan,3273200003,Cihapit,1,8
+Cibeunying,3273200,Bandung Wetan,3273200003,Cihapit,2,4
+Cibeunying,3273200,Bandung Wetan,3273200003,Cihapit,3,2
+Cibeunying,3273200,Bandung Wetan,3273200003,Cihapit,4,7
+Cibeunying,3273200,Bandung Wetan,3273200003,Cihapit,5,5
+Cibeunying,3273200,Bandung Wetan,3273200003,Cihapit,6,8
+Cibeunying,3273200,Bandung Wetan,3273200003,Cihapit,7,6
+Cibeunying,3273200,Bandung Wetan,3273200003,Cihapit,8,6
+Cibeunying,3273200,Bandung Wetan,3273200002,Citarum,1,3
+Cibeunying,3273200,Bandung Wetan,3273200002,Citarum,2,3
+Cibeunying,3273200,Bandung Wetan,3273200002,Citarum,3,5
+Cibeunying,3273200,Bandung Wetan,3273200002,Citarum,4,5
+Cibeunying,3273200,Bandung Wetan,3273200002,Citarum,5,10
+Cibeunying,3273200,Bandung Wetan,3273200002,Citarum,6,4
+Cibeunying,3273200,Bandung Wetan,3273200002,Citarum,7,4
+Cibeunying,3273200,Bandung Wetan,3273200002,Citarum,8,2
+Cibeunying,3273200,Bandung Wetan,3273200001,Taman Sari,1,3
+Cibeunying,3273200,Bandung Wetan,3273200001,Taman Sari,2,2
+Cibeunying,3273200,Bandung Wetan,3273200001,Taman Sari,3,6
+Cibeunying,3273200,Bandung Wetan,3273200001,Taman Sari,4,5
+Cibeunying,3273200,Bandung Wetan,3273200001,Taman Sari,5,8
+Cibeunying,3273200,Bandung Wetan,3273200001,Taman Sari,6,6
+Cibeunying,3273200,Bandung Wetan,3273200001,Taman Sari,7,8
+Cibeunying,3273200,Bandung Wetan,3273200001,Taman Sari,8,2
+Cibeunying,3273200,Bandung Wetan,3273200001,Taman Sari,9,5
+Cibeunying,3273200,Bandung Wetan,3273200001,Taman Sari,10,5
+Cibeunying,3273200,Bandung Wetan,3273200001,Taman Sari,11,3
+Cibeunying,3273200,Bandung Wetan,3273200001,Taman Sari,12,8
+Cibeunying,3273200,Bandung Wetan,3273200001,Taman Sari,13,7
+Cibeunying,3273200,Bandung Wetan,3273200001,Taman Sari,14,5
+Cibeunying,3273200,Bandung Wetan,3273200001,Taman Sari,15,10
+Cibeunying,3273200,Bandung Wetan,3273200001,Taman Sari,16,7
+Cibeunying,3273200,Bandung Wetan,3273200001,Taman Sari,17,5
+Cibeunying,3273200,Bandung Wetan,3273200001,Taman Sari,18,7
+Cibeunying,3273200,Bandung Wetan,3273200001,Taman Sari,19,5
+Cibeunying,3273200,Bandung Wetan,3273200001,Taman Sari,20,8
+Karees,3273160,Batununggal,3273160002,Binong,1,10
+Karees,3273160,Batununggal,3273160002,Binong,2,7
+Karees,3273160,Batununggal,3273160002,Binong,3,10
+Karees,3273160,Batununggal,3273160002,Binong,4,10
+Karees,3273160,Batununggal,3273160002,Binong,5,6
+Karees,3273160,Batununggal,3273160002,Binong,6,6
+Karees,3273160,Batununggal,3273160002,Binong,7,6
+Karees,3273160,Batununggal,3273160002,Binong,8,7
+Karees,3273160,Batununggal,3273160002,Binong,9,3
+Karees,3273160,Batununggal,3273160002,Binong,10,7
+Karees,3273160,Batununggal,3273160005,Cibangkong,1,6
+Karees,3273160,Batununggal,3273160005,Cibangkong,2,5
+Karees,3273160,Batununggal,3273160005,Cibangkong,3,6
+Karees,3273160,Batununggal,3273160005,Cibangkong,4,1
+Karees,3273160,Batununggal,3273160005,Cibangkong,5,5
+Karees,3273160,Batununggal,3273160005,Cibangkong,6,8
+Karees,3273160,Batununggal,3273160005,Cibangkong,7,9
+Karees,3273160,Batununggal,3273160005,Cibangkong,8,7
+Karees,3273160,Batununggal,3273160005,Cibangkong,9,5
+Karees,3273160,Batununggal,3273160005,Cibangkong,10,8
+Karees,3273160,Batununggal,3273160005,Cibangkong,11,10
+Karees,3273160,Batununggal,3273160005,Cibangkong,12,7
+Karees,3273160,Batununggal,3273160005,Cibangkong,13,5
+Karees,3273160,Batununggal,3273160001,Gumuruh,1,6
+Karees,3273160,Batununggal,3273160001,Gumuruh,2,3
+Karees,3273160,Batununggal,3273160001,Gumuruh,3,10
+Karees,3273160,Batununggal,3273160001,Gumuruh,4,5
+Karees,3273160,Batununggal,3273160001,Gumuruh,5,9
+Karees,3273160,Batununggal,3273160001,Gumuruh,6,9
+Karees,3273160,Batununggal,3273160001,Gumuruh,7,11
+Karees,3273160,Batununggal,3273160001,Gumuruh,8,7
+Karees,3273160,Batununggal,3273160001,Gumuruh,9,10
+Karees,3273160,Batununggal,3273160001,Gumuruh,10,4
+Karees,3273160,Batununggal,3273160001,Gumuruh,11,10
+Karees,3273160,Batununggal,3273160001,Gumuruh,12,4
+Karees,3273160,Batununggal,3273160007,Kacapiring,1,7
+Karees,3273160,Batununggal,3273160007,Kacapiring,2,5
+Karees,3273160,Batununggal,3273160007,Kacapiring,3,7
+Karees,3273160,Batununggal,3273160007,Kacapiring,4,4
+Karees,3273160,Batununggal,3273160007,Kacapiring,5,3
+Karees,3273160,Batununggal,3273160007,Kacapiring,6,10
+Karees,3273160,Batununggal,3273160007,Kacapiring,7,3
+Karees,3273160,Batununggal,3273160007,Kacapiring,8,3
+Karees,3273160,Batununggal,3273160007,Kacapiring,9,7
+Karees,3273160,Batununggal,3273160003,Kebon Gedang,1,6
+Karees,3273160,Batununggal,3273160003,Kebon Gedang,2,9
+Karees,3273160,Batununggal,3273160003,Kebon Gedang,3,5
+Karees,3273160,Batununggal,3273160003,Kebon Gedang,4,7
+Karees,3273160,Batununggal,3273160003,Kebon Gedang,5,5
+Karees,3273160,Batununggal,3273160003,Kebon Gedang,6,6
+Karees,3273160,Batununggal,3273160003,Kebon Gedang,7,5
+Karees,3273160,Batununggal,3273160003,Kebon Gedang,8,7
+Karees,3273160,Batununggal,3273160008,Kebon Waru,1,8
+Karees,3273160,Batununggal,3273160008,Kebon Waru,2,11
+Karees,3273160,Batununggal,3273160008,Kebon Waru,3,9
+Karees,3273160,Batununggal,3273160008,Kebon Waru,4,8
+Karees,3273160,Batununggal,3273160008,Kebon Waru,5,7
+Karees,3273160,Batununggal,3273160008,Kebon Waru,6,8
+Karees,3273160,Batununggal,3273160008,Kebon Waru,7,9
+Karees,3273160,Batununggal,3273160008,Kebon Waru,8,7
+Karees,3273160,Batununggal,3273160004,Maleer,1,6
+Karees,3273160,Batununggal,3273160004,Maleer,2,6
+Karees,3273160,Batununggal,3273160004,Maleer,3,9
+Karees,3273160,Batununggal,3273160004,Maleer,4,6
+Karees,3273160,Batununggal,3273160004,Maleer,5,5
+Karees,3273160,Batununggal,3273160004,Maleer,6,4
+Karees,3273160,Batununggal,3273160004,Maleer,7,7
+Karees,3273160,Batununggal,3273160004,Maleer,8,5
+Karees,3273160,Batununggal,3273160004,Maleer,9,7
+Karees,3273160,Batununggal,3273160004,Maleer,10,6
+Karees,3273160,Batununggal,3273160004,Maleer,11,5
+Karees,3273160,Batununggal,3273160004,Maleer,12,5
+Karees,3273160,Batununggal,3273160006,Samoja,1,5
+Karees,3273160,Batununggal,3273160006,Samoja,2,5
+Karees,3273160,Batununggal,3273160006,Samoja,3,5
+Karees,3273160,Batununggal,3273160006,Samoja,4,4
+Karees,3273160,Batununggal,3273160006,Samoja,5,5
+Karees,3273160,Batununggal,3273160006,Samoja,6,5
+Karees,3273160,Batununggal,3273160006,Samoja,7,7
+Karees,3273160,Batununggal,3273160006,Samoja,8,7
+Karees,3273160,Batununggal,3273160006,Samoja,9,10
+Karees,3273160,Batununggal,3273160006,Samoja,10,9
+Karees,3273160,Batununggal,3273160006,Samoja,11,6
+Tegallega,3273030,Bojongloa Kaler,3273030003,Babakan Asih,1,10
+Tegallega,3273030,Bojongloa Kaler,3273030003,Babakan Asih,2,7
+Tegallega,3273030,Bojongloa Kaler,3273030003,Babakan Asih,3,7
+Tegallega,3273030,Bojongloa Kaler,3273030003,Babakan Asih,4,11
+Tegallega,3273030,Bojongloa Kaler,3273030003,Babakan Asih,5,6
+Tegallega,3273030,Bojongloa Kaler,3273030003,Babakan Asih,6,10
+Tegallega,3273030,Bojongloa Kaler,3273030003,Babakan Asih,7,8
+Tegallega,3273030,Bojongloa Kaler,3273030004,Babakan Tarogong,1,13
+Tegallega,3273030,Bojongloa Kaler,3273030004,Babakan Tarogong,2,11
+Tegallega,3273030,Bojongloa Kaler,3273030004,Babakan Tarogong,3,8
+Tegallega,3273030,Bojongloa Kaler,3273030004,Babakan Tarogong,4,10
+Tegallega,3273030,Bojongloa Kaler,3273030004,Babakan Tarogong,5,9
+Tegallega,3273030,Bojongloa Kaler,3273030004,Babakan Tarogong,6,12
+Tegallega,3273030,Bojongloa Kaler,3273030004,Babakan Tarogong,7,7
+Tegallega,3273030,Bojongloa Kaler,3273030005,Jamika,1,11
+Tegallega,3273030,Bojongloa Kaler,3273030005,Jamika,2,11
+Tegallega,3273030,Bojongloa Kaler,3273030005,Jamika,3,12
+Tegallega,3273030,Bojongloa Kaler,3273030005,Jamika,4,16
+Tegallega,3273030,Bojongloa Kaler,3273030005,Jamika,5,7
+Tegallega,3273030,Bojongloa Kaler,3273030005,Jamika,6,11
+Tegallega,3273030,Bojongloa Kaler,3273030005,Jamika,7,5
+Tegallega,3273030,Bojongloa Kaler,3273030005,Jamika,8,10
+Tegallega,3273030,Bojongloa Kaler,3273030005,Jamika,9,10
+Tegallega,3273030,Bojongloa Kaler,3273030005,Jamika,10,6
+Tegallega,3273030,Bojongloa Kaler,3273030005,Jamika,11,6
+Tegallega,3273030,Bojongloa Kaler,3273030001,Kopo,1,8
+Tegallega,3273030,Bojongloa Kaler,3273030001,Kopo,2,5
+Tegallega,3273030,Bojongloa Kaler,3273030001,Kopo,3,6
+Tegallega,3273030,Bojongloa Kaler,3273030001,Kopo,4,10
+Tegallega,3273030,Bojongloa Kaler,3273030001,Kopo,5,7
+Tegallega,3273030,Bojongloa Kaler,3273030001,Kopo,6,5
+Tegallega,3273030,Bojongloa Kaler,3273030001,Kopo,7,12
+Tegallega,3273030,Bojongloa Kaler,3273030001,Kopo,8,8
+Tegallega,3273030,Bojongloa Kaler,3273030001,Kopo,9,7
+Tegallega,3273030,Bojongloa Kaler,3273030001,Kopo,10,5
+Tegallega,3273030,Bojongloa Kaler,3273030001,Kopo,11,5
+Tegallega,3273030,Bojongloa Kaler,3273030001,Kopo,12,8
+Tegallega,3273030,Bojongloa Kaler,3273030002,Suka Asih,1,6
+Tegallega,3273030,Bojongloa Kaler,3273030002,Suka Asih,2,6
+Tegallega,3273030,Bojongloa Kaler,3273030002,Suka Asih,3,6
+Tegallega,3273030,Bojongloa Kaler,3273030002,Suka Asih,4,9
+Tegallega,3273030,Bojongloa Kaler,3273030002,Suka Asih,5,10
+Tegallega,3273030,Bojongloa Kaler,3273030002,Suka Asih,6,4
+Tegallega,3273030,Bojongloa Kaler,3273030002,Suka Asih,7,9
+Tegallega,3273030,Bojongloa Kaler,3273030002,Suka Asih,8,8
+Tegallega,3273030,Bojongloa Kaler,3273030002,Suka Asih,9,8
+Tegallega,3273030,Bojongloa Kaler,3273030002,Suka Asih,10,9
+Tegallega,3273040,Bojongloa Kidul,3273040004,Cibaduyut,1,4
+Tegallega,3273040,Bojongloa Kidul,3273040004,Cibaduyut,2,4
+Tegallega,3273040,Bojongloa Kidul,3273040004,Cibaduyut,3,4
+Tegallega,3273040,Bojongloa Kidul,3273040004,Cibaduyut,4,4
+Tegallega,3273040,Bojongloa Kidul,3273040004,Cibaduyut,5,4
+Tegallega,3273040,Bojongloa Kidul,3273040004,Cibaduyut,6,4
+Tegallega,3273040,Bojongloa Kidul,3273040004,Cibaduyut,7,3
+Tegallega,3273040,Bojongloa Kidul,3273040004,Cibaduyut,8,3
+Tegallega,3273040,Bojongloa Kidul,3273040001,Cibaduyut Kidul,1,5
+Tegallega,3273040,Bojongloa Kidul,3273040001,Cibaduyut Kidul,2,3
+Tegallega,3273040,Bojongloa Kidul,3273040001,Cibaduyut Kidul,3,3
+Tegallega,3273040,Bojongloa Kidul,3273040001,Cibaduyut Kidul,4,4
+Tegallega,3273040,Bojongloa Kidul,3273040001,Cibaduyut Kidul,5,7
+Tegallega,3273040,Bojongloa Kidul,3273040001,Cibaduyut Kidul,6,7
+Tegallega,3273040,Bojongloa Kidul,3273040002,Cibaduyut Wetan,1,3
+Tegallega,3273040,Bojongloa Kidul,3273040002,Cibaduyut Wetan,2,10
+Tegallega,3273040,Bojongloa Kidul,3273040002,Cibaduyut Wetan,3,6
+Tegallega,3273040,Bojongloa Kidul,3273040002,Cibaduyut Wetan,4,5
+Tegallega,3273040,Bojongloa Kidul,3273040005,Kebon Lega,1,9
+Tegallega,3273040,Bojongloa Kidul,3273040005,Kebon Lega,2,6
+Tegallega,3273040,Bojongloa Kidul,3273040005,Kebon Lega,3,5
+Tegallega,3273040,Bojongloa Kidul,3273040005,Kebon Lega,4,5
+Tegallega,3273040,Bojongloa Kidul,3273040005,Kebon Lega,5,9
+Tegallega,3273040,Bojongloa Kidul,3273040005,Kebon Lega,6,7
+Tegallega,3273040,Bojongloa Kidul,3273040005,Kebon Lega,7,8
+Tegallega,3273040,Bojongloa Kidul,3273040005,Kebon Lega,8,5
+Tegallega,3273040,Bojongloa Kidul,3273040005,Kebon Lega,9,6
+Tegallega,3273040,Bojongloa Kidul,3273040005,Kebon Lega,10,5
+Tegallega,3273040,Bojongloa Kidul,3273040005,Kebon Lega,11,5
+Tegallega,3273040,Bojongloa Kidul,3273040003,Mekar Wangi,1,2
+Tegallega,3273040,Bojongloa Kidul,3273040003,Mekar Wangi,2,4
+Tegallega,3273040,Bojongloa Kidul,3273040003,Mekar Wangi,3,4
+Tegallega,3273040,Bojongloa Kidul,3273040003,Mekar Wangi,4,2
+Tegallega,3273040,Bojongloa Kidul,3273040003,Mekar Wangi,5,5
+Tegallega,3273040,Bojongloa Kidul,3273040003,Mekar Wangi,6,3
+Tegallega,3273040,Bojongloa Kidul,3273040003,Mekar Wangi,7,4
+Tegallega,3273040,Bojongloa Kidul,3273040006,Situsaeur,1,7
+Tegallega,3273040,Bojongloa Kidul,3273040006,Situsaeur,2,11
+Tegallega,3273040,Bojongloa Kidul,3273040006,Situsaeur,3,13
+Tegallega,3273040,Bojongloa Kidul,3273040006,Situsaeur,4,13
+Tegallega,3273040,Bojongloa Kidul,3273040006,Situsaeur,5,7
+Tegallega,3273040,Bojongloa Kidul,3273040006,Situsaeur,6,11
+Tegallega,3273040,Bojongloa Kidul,3273040006,Situsaeur,7,14
+Tegallega,3273040,Bojongloa Kidul,3273040006,Situsaeur,8,8
+Kordon,3273090,Buahbatu,3273090001,Cijaura,1,4
+Kordon,3273090,Buahbatu,3273090001,Cijaura,2,6
+Kordon,3273090,Buahbatu,3273090001,Cijaura,3,5
+Kordon,3273090,Buahbatu,3273090001,Cijaura,4,6
+Kordon,3273090,Buahbatu,3273090001,Cijaura,5,4
+Kordon,3273090,Buahbatu,3273090001,Cijaura,6,3
+Kordon,3273090,Buahbatu,3273090001,Cijaura,7,5
+Kordon,3273090,Buahbatu,3273090001,Cijaura,8,8
+Kordon,3273090,Buahbatu,3273090001,Cijaura,9,12
+Kordon,3273090,Buahbatu,3273090001,Cijaura,10,7
+Kordon,3273090,Buahbatu,3273090001,Cijaura,11,5
+Kordon,3273090,Buahbatu,3273090001,Cijaura,12,6
+Kordon,3273090,Buahbatu,3273090001,Cijaura,13,10
+Kordon,3273090,Buahbatu,3273090004,Jati Sari,1,5
+Kordon,3273090,Buahbatu,3273090004,Jati Sari,2,8
+Kordon,3273090,Buahbatu,3273090004,Jati Sari,3,5
+Kordon,3273090,Buahbatu,3273090004,Jati Sari,4,7
+Kordon,3273090,Buahbatu,3273090004,Jati Sari,5,6
+Kordon,3273090,Buahbatu,3273090004,Jati Sari,6,9
+Kordon,3273090,Buahbatu,3273090004,Jati Sari,7,5
+Kordon,3273090,Buahbatu,3273090002,Margasari,1,9
+Kordon,3273090,Buahbatu,3273090002,Margasari,2,8
+Kordon,3273090,Buahbatu,3273090002,Margasari,3,5
+Kordon,3273090,Buahbatu,3273090002,Margasari,4,5
+Kordon,3273090,Buahbatu,3273090002,Margasari,5,5
+Kordon,3273090,Buahbatu,3273090002,Margasari,6,9
+Kordon,3273090,Buahbatu,3273090002,Margasari,7,8
+Kordon,3273090,Buahbatu,3273090002,Margasari,8,6
+Kordon,3273090,Buahbatu,3273090002,Margasari,9,10
+Kordon,3273090,Buahbatu,3273090002,Margasari,10,6
+Kordon,3273090,Buahbatu,3273090002,Margasari,11,3
+Kordon,3273090,Buahbatu,3273090002,Margasari,12,4
+Kordon,3273090,Buahbatu,3273090002,Margasari,13,7
+Kordon,3273090,Buahbatu,3273090002,Margasari,14,10
+Kordon,3273090,Buahbatu,3273090002,Margasari,15,13
+Kordon,3273090,Buahbatu,3273090002,Margasari,16,6
+Kordon,3273090,Buahbatu,3273090002,Margasari,17,10
+Kordon,3273090,Buahbatu,3273090002,Margasari,18,5
+Kordon,3273090,Buahbatu,3273090002,Margasari,19,6
+Kordon,3273090,Buahbatu,3273090002,Margasari,20,9
+Kordon,3273090,Buahbatu,3273090002,Margasari,21,8
+Kordon,3273090,Buahbatu,3273090003,Sekejati,1,5
+Kordon,3273090,Buahbatu,3273090003,Sekejati,2,10
+Kordon,3273090,Buahbatu,3273090003,Sekejati,3,7
+Kordon,3273090,Buahbatu,3273090003,Sekejati,4,5
+Kordon,3273090,Buahbatu,3273090003,Sekejati,5,6
+Kordon,3273090,Buahbatu,3273090003,Sekejati,6,12
+Kordon,3273090,Buahbatu,3273090003,Sekejati,7,5
+Kordon,3273090,Buahbatu,3273090003,Sekejati,8,8
+Kordon,3273090,Buahbatu,3273090003,Sekejati,9,6
+Kordon,3273090,Buahbatu,3273090003,Sekejati,10,7
+Kordon,3273090,Buahbatu,3273090003,Sekejati,11,7
+Kordon,3273090,Buahbatu,3273090003,Sekejati,12,5
+Kordon,3273090,Buahbatu,3273090003,Sekejati,13,6
+Kordon,3273090,Buahbatu,3273090003,Sekejati,14,5
+Cibeunying,3273220,Cibeunying Kaler,3273220004,Cigadung,1,6
+Cibeunying,3273220,Cibeunying Kaler,3273220004,Cigadung,2,8
+Cibeunying,3273220,Cibeunying Kaler,3273220004,Cigadung,3,6
+Cibeunying,3273220,Cibeunying Kaler,3273220004,Cigadung,4,6
+Cibeunying,3273220,Cibeunying Kaler,3273220004,Cigadung,5,5
+Cibeunying,3273220,Cibeunying Kaler,3273220004,Cigadung,6,5
+Cibeunying,3273220,Cibeunying Kaler,3273220004,Cigadung,7,3
+Cibeunying,3273220,Cibeunying Kaler,3273220004,Cigadung,8,6
+Cibeunying,3273220,Cibeunying Kaler,3273220004,Cigadung,9,6
+Cibeunying,3273220,Cibeunying Kaler,3273220004,Cigadung,10,5
+Cibeunying,3273220,Cibeunying Kaler,3273220004,Cigadung,11,6
+Cibeunying,3273220,Cibeunying Kaler,3273220004,Cigadung,12,8
+Cibeunying,3273220,Cibeunying Kaler,3273220004,Cigadung,13,9
+Cibeunying,3273220,Cibeunying Kaler,3273220004,Cigadung,14,6
+Cibeunying,3273220,Cibeunying Kaler,3273220004,Cigadung,15,6
+Cibeunying,3273220,Cibeunying Kaler,3273220001,Cihaurgeulis,1,6
+Cibeunying,3273220,Cibeunying Kaler,3273220001,Cihaurgeulis,2,0
+Cibeunying,3273220,Cibeunying Kaler,3273220001,Cihaurgeulis,3,3
+Cibeunying,3273220,Cibeunying Kaler,3273220001,Cihaurgeulis,4,5
+Cibeunying,3273220,Cibeunying Kaler,3273220001,Cihaurgeulis,5,7
+Cibeunying,3273220,Cibeunying Kaler,3273220001,Cihaurgeulis,6,9
+Cibeunying,3273220,Cibeunying Kaler,3273220001,Cihaurgeulis,7,2
+Cibeunying,3273220,Cibeunying Kaler,3273220001,Cihaurgeulis,8,7
+Cibeunying,3273220,Cibeunying Kaler,3273220001,Cihaurgeulis,9,6
+Cibeunying,3273220,Cibeunying Kaler,3273220001,Cihaurgeulis,10,5
+Cibeunying,3273220,Cibeunying Kaler,3273220001,Cihaurgeulis,11,5
+Cibeunying,3273220,Cibeunying Kaler,3273220001,Cihaurgeulis,12,5
+Cibeunying,3273220,Cibeunying Kaler,3273220001,Cihaurgeulis,14,8
+Cibeunying,3273220,Cibeunying Kaler,3273220003,Neglasari,1,4
+Cibeunying,3273220,Cibeunying Kaler,3273220003,Neglasari,2,9
+Cibeunying,3273220,Cibeunying Kaler,3273220003,Neglasari,3,6
+Cibeunying,3273220,Cibeunying Kaler,3273220003,Neglasari,4,4
+Cibeunying,3273220,Cibeunying Kaler,3273220003,Neglasari,5,3
+Cibeunying,3273220,Cibeunying Kaler,3273220003,Neglasari,6,4
+Cibeunying,3273220,Cibeunying Kaler,3273220003,Neglasari,7,5
+Cibeunying,3273220,Cibeunying Kaler,3273220003,Neglasari,8,4
+Cibeunying,3273220,Cibeunying Kaler,3273220002,Sukaluyu,1,12
+Cibeunying,3273220,Cibeunying Kaler,3273220002,Sukaluyu,2,8
+Cibeunying,3273220,Cibeunying Kaler,3273220002,Sukaluyu,3,10
+Cibeunying,3273220,Cibeunying Kaler,3273220002,Sukaluyu,4,8
+Cibeunying,3273220,Cibeunying Kaler,3273220002,Sukaluyu,5,7
+Cibeunying,3273220,Cibeunying Kaler,3273220002,Sukaluyu,6,6
+Cibeunying,3273220,Cibeunying Kaler,3273220002,Sukaluyu,7,10
+Cibeunying,3273220,Cibeunying Kaler,3273220002,Sukaluyu,8,8
+Cibeunying,3273220,Cibeunying Kaler,3273220002,Sukaluyu,9,7
+Cibeunying,3273220,Cibeunying Kaler,3273220002,Sukaluyu,10,7
+Cibeunying,3273220,Cibeunying Kaler,3273220002,Sukaluyu,11,9
+Cibeunying,3273210,Cibeunying Kidul,3273210002,Cicadas,1,4
+Cibeunying,3273210,Cibeunying Kidul,3273210002,Cicadas,2,5
+Cibeunying,3273210,Cibeunying Kidul,3273210002,Cicadas,3,5
+Cibeunying,3273210,Cibeunying Kidul,3273210002,Cicadas,4,7
+Cibeunying,3273210,Cibeunying Kidul,3273210002,Cicadas,5,6
+Cibeunying,3273210,Cibeunying Kidul,3273210002,Cicadas,6,6
+Cibeunying,3273210,Cibeunying Kidul,3273210002,Cicadas,7,3
+Cibeunying,3273210,Cibeunying Kidul,3273210002,Cicadas,8,6
+Cibeunying,3273210,Cibeunying Kidul,3273210002,Cicadas,9,7
+Cibeunying,3273210,Cibeunying Kidul,3273210002,Cicadas,10,7
+Cibeunying,3273210,Cibeunying Kidul,3273210002,Cicadas,11,5
+Cibeunying,3273210,Cibeunying Kidul,3273210002,Cicadas,12,4
+Cibeunying,3273210,Cibeunying Kidul,3273210002,Cicadas,13,13
+Cibeunying,3273210,Cibeunying Kidul,3273210002,Cicadas,14,4
+Cibeunying,3273210,Cibeunying Kidul,3273210002,Cicadas,15,4
+Cibeunying,3273210,Cibeunying Kidul,3273210003,Cikutra,1,5
+Cibeunying,3273210,Cibeunying Kidul,3273210003,Cikutra,2,4
+Cibeunying,3273210,Cibeunying Kidul,3273210003,Cikutra,3,6
+Cibeunying,3273210,Cibeunying Kidul,3273210003,Cikutra,4,5
+Cibeunying,3273210,Cibeunying Kidul,3273210003,Cikutra,5,4
+Cibeunying,3273210,Cibeunying Kidul,3273210003,Cikutra,6,7
+Cibeunying,3273210,Cibeunying Kidul,3273210003,Cikutra,7,8
+Cibeunying,3273210,Cibeunying Kidul,3273210003,Cikutra,8,10
+Cibeunying,3273210,Cibeunying Kidul,3273210003,Cikutra,9,12
+Cibeunying,3273210,Cibeunying Kidul,3273210003,Cikutra,10,7
+Cibeunying,3273210,Cibeunying Kidul,3273210003,Cikutra,11,4
+Cibeunying,3273210,Cibeunying Kidul,3273210003,Cikutra,12,11
+Cibeunying,3273210,Cibeunying Kidul,3273210003,Cikutra,13,11
+Cibeunying,3273210,Cibeunying Kidul,3273210003,Cikutra,14,6
+Cibeunying,3273210,Cibeunying Kidul,3273210003,Cikutra,15,7
+Cibeunying,3273210,Cibeunying Kidul,3273210004,Padasuka,1,4
+Cibeunying,3273210,Cibeunying Kidul,3273210004,Padasuka,2,7
+Cibeunying,3273210,Cibeunying Kidul,3273210004,Padasuka,3,7
+Cibeunying,3273210,Cibeunying Kidul,3273210004,Padasuka,4,7
+Cibeunying,3273210,Cibeunying Kidul,3273210004,Padasuka,5,7
+Cibeunying,3273210,Cibeunying Kidul,3273210004,Padasuka,6,9
+Cibeunying,3273210,Cibeunying Kidul,3273210004,Padasuka,7,4
+Cibeunying,3273210,Cibeunying Kidul,3273210004,Padasuka,8,5
+Cibeunying,3273210,Cibeunying Kidul,3273210004,Padasuka,9,7
+Cibeunying,3273210,Cibeunying Kidul,3273210004,Padasuka,10,6
+Cibeunying,3273210,Cibeunying Kidul,3273210004,Padasuka,11,7
+Cibeunying,3273210,Cibeunying Kidul,3273210004,Padasuka,12,8
+Cibeunying,3273210,Cibeunying Kidul,3273210004,Padasuka,13,9
+Cibeunying,3273210,Cibeunying Kidul,3273210004,Padasuka,14,8
+Cibeunying,3273210,Cibeunying Kidul,3273210004,Padasuka,15,3
+Cibeunying,3273210,Cibeunying Kidul,3273210004,Padasuka,16,5
+Cibeunying,3273210,Cibeunying Kidul,3273210005,Pasirlayung,1,6
+Cibeunying,3273210,Cibeunying Kidul,3273210005,Pasirlayung,2,6
+Cibeunying,3273210,Cibeunying Kidul,3273210005,Pasirlayung,3,3
+Cibeunying,3273210,Cibeunying Kidul,3273210005,Pasirlayung,4,7
+Cibeunying,3273210,Cibeunying Kidul,3273210005,Pasirlayung,5,10
+Cibeunying,3273210,Cibeunying Kidul,3273210005,Pasirlayung,6,8
+Cibeunying,3273210,Cibeunying Kidul,3273210005,Pasirlayung,7,5
+Cibeunying,3273210,Cibeunying Kidul,3273210005,Pasirlayung,8,5
+Cibeunying,3273210,Cibeunying Kidul,3273210005,Pasirlayung,9,10
+Cibeunying,3273210,Cibeunying Kidul,3273210005,Pasirlayung,10,8
+Cibeunying,3273210,Cibeunying Kidul,3273210005,Pasirlayung,11,5
+Cibeunying,3273210,Cibeunying Kidul,3273210005,Pasirlayung,12,9
+Cibeunying,3273210,Cibeunying Kidul,3273210005,Pasirlayung,13,5
+Cibeunying,3273210,Cibeunying Kidul,3273210001,Sukamaju,1,8
+Cibeunying,3273210,Cibeunying Kidul,3273210001,Sukamaju,2,10
+Cibeunying,3273210,Cibeunying Kidul,3273210001,Sukamaju,3,6
+Cibeunying,3273210,Cibeunying Kidul,3273210001,Sukamaju,4,6
+Cibeunying,3273210,Cibeunying Kidul,3273210001,Sukamaju,5,5
+Cibeunying,3273210,Cibeunying Kidul,3273210001,Sukamaju,6,6
+Cibeunying,3273210,Cibeunying Kidul,3273210001,Sukamaju,7,13
+Cibeunying,3273210,Cibeunying Kidul,3273210001,Sukamaju,8,5
+Cibeunying,3273210,Cibeunying Kidul,3273210001,Sukamaju,9,8
+Cibeunying,3273210,Cibeunying Kidul,3273210001,Sukamaju,10,7
+Cibeunying,3273210,Cibeunying Kidul,3273210001,Sukamaju,11,3
+Cibeunying,3273210,Cibeunying Kidul,3273210001,Sukamaju,12,4
+Cibeunying,3273210,Cibeunying Kidul,3273210006,Sukapada,1,6
+Cibeunying,3273210,Cibeunying Kidul,3273210006,Sukapada,2,7
+Cibeunying,3273210,Cibeunying Kidul,3273210006,Sukapada,3,7
+Cibeunying,3273210,Cibeunying Kidul,3273210006,Sukapada,4,7
+Cibeunying,3273210,Cibeunying Kidul,3273210006,Sukapada,5,4
+Cibeunying,3273210,Cibeunying Kidul,3273210006,Sukapada,6,8
+Cibeunying,3273210,Cibeunying Kidul,3273210006,Sukapada,7,5
+Cibeunying,3273210,Cibeunying Kidul,3273210006,Sukapada,8,6
+Cibeunying,3273210,Cibeunying Kidul,3273210006,Sukapada,9,6
+Cibeunying,3273210,Cibeunying Kidul,3273210006,Sukapada,10,7
+Cibeunying,3273210,Cibeunying Kidul,3273210006,Sukapada,11,9
+Cibeunying,3273210,Cibeunying Kidul,3273210006,Sukapada,12,7
+Cibeunying,3273210,Cibeunying Kidul,3273210006,Sukapada,13,4
+Cibeunying,3273210,Cibeunying Kidul,3273210006,Sukapada,14,6
+Cibeunying,3273210,Cibeunying Kidul,3273210006,Sukapada,15,5
+Cibeunying,3273210,Cibeunying Kidul,3273210006,Sukapada,16,4
+Ujungberung,3273110,Cibiru,3273110004,Cipadung,1,6
+Ujungberung,3273110,Cibiru,3273110004,Cipadung,2,6
+Ujungberung,3273110,Cibiru,3273110004,Cipadung,3,3
+Ujungberung,3273110,Cibiru,3273110004,Cipadung,4,4
+Ujungberung,3273110,Cibiru,3273110004,Cipadung,5,4
+Ujungberung,3273110,Cibiru,3273110004,Cipadung,6,3
+Ujungberung,3273110,Cibiru,3273110004,Cipadung,7,4
+Ujungberung,3273110,Cibiru,3273110004,Cipadung,8,4
+Ujungberung,3273110,Cibiru,3273110004,Cipadung,9,4
+Ujungberung,3273110,Cibiru,3273110004,Cipadung,10,3
+Ujungberung,3273110,Cibiru,3273110004,Cipadung,11,4
+Ujungberung,3273110,Cibiru,3273110004,Cipadung,12,5
+Ujungberung,3273110,Cibiru,3273110004,Cipadung,13,7
+Ujungberung,3273110,Cibiru,3273110004,Cipadung,14,7
+Ujungberung,3273110,Cibiru,3273110004,Cipadung,15,8
+Ujungberung,3273110,Cibiru,3273110004,Cipadung,16,4
+Ujungberung,3273110,Cibiru,3273110004,Cipadung,17,7
+Ujungberung,3273110,Cibiru,3273110006,Cisurupan,1,5
+Ujungberung,3273110,Cibiru,3273110006,Cisurupan,2,5
+Ujungberung,3273110,Cibiru,3273110006,Cisurupan,3,9
+Ujungberung,3273110,Cibiru,3273110006,Cisurupan,4,5
+Ujungberung,3273110,Cibiru,3273110006,Cisurupan,5,5
+Ujungberung,3273110,Cibiru,3273110006,Cisurupan,6,6
+Ujungberung,3273110,Cibiru,3273110006,Cisurupan,7,5
+Ujungberung,3273110,Cibiru,3273110006,Cisurupan,8,5
+Ujungberung,3273110,Cibiru,3273110006,Cisurupan,9,5
+Ujungberung,3273110,Cibiru,3273110006,Cisurupan,10,3
+Ujungberung,3273110,Cibiru,3273110005,Palasari,1,7
+Ujungberung,3273110,Cibiru,3273110005,Palasari,2,7
+Ujungberung,3273110,Cibiru,3273110005,Palasari,3,8
+Ujungberung,3273110,Cibiru,3273110005,Palasari,4,5
+Ujungberung,3273110,Cibiru,3273110005,Palasari,5,5
+Ujungberung,3273110,Cibiru,3273110005,Palasari,6,6
+Ujungberung,3273110,Cibiru,3273110005,Palasari,7,5
+Ujungberung,3273110,Cibiru,3273110005,Palasari,8,6
+Ujungberung,3273110,Cibiru,3273110005,Palasari,9,3
+Ujungberung,3273110,Cibiru,3273110005,Palasari,10,8
+Ujungberung,3273110,Cibiru,3273110005,Palasari,11,6
+Ujungberung,3273110,Cibiru,3273110005,Palasari,12,7
+Ujungberung,3273110,Cibiru,3273110005,Palasari,13,4
+Ujungberung,3273110,Cibiru,3273110005,Palasari,14,5
+Ujungberung,3273110,Cibiru,3273110003,Pasir Biru,1,5
+Ujungberung,3273110,Cibiru,3273110003,Pasir Biru,2,6
+Ujungberung,3273110,Cibiru,3273110003,Pasir Biru,3,5
+Ujungberung,3273110,Cibiru,3273110003,Pasir Biru,4,6
+Ujungberung,3273110,Cibiru,3273110003,Pasir Biru,5,7
+Ujungberung,3273110,Cibiru,3273110003,Pasir Biru,6,5
+Ujungberung,3273110,Cibiru,3273110003,Pasir Biru,7,5
+Ujungberung,3273110,Cibiru,3273110003,Pasir Biru,8,5
+Ujungberung,3273110,Cibiru,3273110003,Pasir Biru,9,5
+Ujungberung,3273110,Cibiru,3273110003,Pasir Biru,10,5
+Ujungberung,3273110,Cibiru,3273110003,Pasir Biru,11,5
+Ujungberung,3273110,Cibiru,3273110003,Pasir Biru,12,6
+Bojonagara,3273190,Cicendo,3273190001,Arjuna,1,11
+Bojonagara,3273190,Cicendo,3273190001,Arjuna,2,7
+Bojonagara,3273190,Cicendo,3273190001,Arjuna,3,8
+Bojonagara,3273190,Cicendo,3273190001,Arjuna,4,11
+Bojonagara,3273190,Cicendo,3273190001,Arjuna,5,14
+Bojonagara,3273190,Cicendo,3273190001,Arjuna,6,11
+Bojonagara,3273190,Cicendo,3273190001,Arjuna,7,6
+Bojonagara,3273190,Cicendo,3273190001,Arjuna,8,12
+Bojonagara,3273190,Cicendo,3273190005,Husein Sastranegara,1,6
+Bojonagara,3273190,Cicendo,3273190005,Husein Sastranegara,2,3
+Bojonagara,3273190,Cicendo,3273190005,Husein Sastranegara,3,10
+Bojonagara,3273190,Cicendo,3273190005,Husein Sastranegara,4,6
+Bojonagara,3273190,Cicendo,3273190005,Husein Sastranegara,5,9
+Bojonagara,3273190,Cicendo,3273190005,Husein Sastranegara,6,9
+Bojonagara,3273190,Cicendo,3273190005,Husein Sastranegara,7,10
+Bojonagara,3273190,Cicendo,3273190005,Husein Sastranegara,8,5
+Bojonagara,3273190,Cicendo,3273190005,Husein Sastranegara,9,4
+Bojonagara,3273190,Cicendo,3273190005,Husein Sastranegara,10,3
+Bojonagara,3273190,Cicendo,3273190005,Husein Sastranegara,11,4
+Bojonagara,3273190,Cicendo,3273190005,Husein Sastranegara,12,8
+Bojonagara,3273190,Cicendo,3273190004,Pajajaran,1,4
+Bojonagara,3273190,Cicendo,3273190004,Pajajaran,2,5
+Bojonagara,3273190,Cicendo,3273190004,Pajajaran,3,9
+Bojonagara,3273190,Cicendo,3273190004,Pajajaran,4,4
+Bojonagara,3273190,Cicendo,3273190004,Pajajaran,5,5
+Bojonagara,3273190,Cicendo,3273190004,Pajajaran,6,9
+Bojonagara,3273190,Cicendo,3273190004,Pajajaran,7,4
+Bojonagara,3273190,Cicendo,3273190004,Pajajaran,8,9
+Bojonagara,3273190,Cicendo,3273190004,Pajajaran,9,9
+Bojonagara,3273190,Cicendo,3273190004,Pajajaran,10,11
+Bojonagara,3273190,Cicendo,3273190003,Pamoyanan,1,8
+Bojonagara,3273190,Cicendo,3273190003,Pamoyanan,2,6
+Bojonagara,3273190,Cicendo,3273190003,Pamoyanan,3,9
+Bojonagara,3273190,Cicendo,3273190003,Pamoyanan,4,12
+Bojonagara,3273190,Cicendo,3273190003,Pamoyanan,5,11
+Bojonagara,3273190,Cicendo,3273190003,Pamoyanan,6,8
+Bojonagara,3273190,Cicendo,3273190002,Pasirkaliki,1,4
+Bojonagara,3273190,Cicendo,3273190002,Pasirkaliki,2,5
+Bojonagara,3273190,Cicendo,3273190002,Pasirkaliki,3,6
+Bojonagara,3273190,Cicendo,3273190002,Pasirkaliki,4,8
+Bojonagara,3273190,Cicendo,3273190002,Pasirkaliki,5,6
+Bojonagara,3273190,Cicendo,3273190002,Pasirkaliki,6,11
+Bojonagara,3273190,Cicendo,3273190002,Pasirkaliki,7,5
+Bojonagara,3273190,Cicendo,3273190002,Pasirkaliki,8,7
+Bojonagara,3273190,Cicendo,3273190002,Pasirkaliki,9,6
+Bojonagara,3273190,Cicendo,3273190002,Pasirkaliki,10,2
+Bojonagara,3273190,Cicendo,3273190006,Sukaraja,1,8
+Bojonagara,3273190,Cicendo,3273190006,Sukaraja,2,11
+Bojonagara,3273190,Cicendo,3273190006,Sukaraja,3,9
+Bojonagara,3273190,Cicendo,3273190006,Sukaraja,4,6
+Bojonagara,3273190,Cicendo,3273190006,Sukaraja,5,7
+Bojonagara,3273190,Cicendo,3273190006,Sukaraja,6,5
+Bojonagara,3273190,Cicendo,3273190006,Sukaraja,7,8
+Bojonagara,3273190,Cicendo,3273190006,Sukaraja,8,5
+Bojonagara,3273190,Cicendo,3273190006,Sukaraja,9,6
+Bojonagara,3273190,Cicendo,3273190006,Sukaraja,10,6
+Cibeunying,3273260,Cidadap,3273260002,Ciumbuleuit,1,9
+Cibeunying,3273260,Cidadap,3273260002,Ciumbuleuit,2,6
+Cibeunying,3273260,Cidadap,3273260002,Ciumbuleuit,3,9
+Cibeunying,3273260,Cidadap,3273260002,Ciumbuleuit,4,7
+Cibeunying,3273260,Cidadap,3273260002,Ciumbuleuit,5,10
+Cibeunying,3273260,Cidadap,3273260002,Ciumbuleuit,6,9
+Cibeunying,3273260,Cidadap,3273260002,Ciumbuleuit,7,5
+Cibeunying,3273260,Cidadap,3273260002,Ciumbuleuit,8,5
+Cibeunying,3273260,Cidadap,3273260002,Ciumbuleuit,9,6
+Cibeunying,3273260,Cidadap,3273260002,Ciumbuleuit,10,6
+Cibeunying,3273260,Cidadap,3273260002,Ciumbuleuit,11,6
+Cibeunying,3273260,Cidadap,3273260001,Hegarmanah,1,7
+Cibeunying,3273260,Cidadap,3273260001,Hegarmanah,2,6
+Cibeunying,3273260,Cidadap,3273260001,Hegarmanah,3,11
+Cibeunying,3273260,Cidadap,3273260001,Hegarmanah,4,4
+Cibeunying,3273260,Cidadap,3273260001,Hegarmanah,5,4
+Cibeunying,3273260,Cidadap,3273260001,Hegarmanah,6,6
+Cibeunying,3273260,Cidadap,3273260001,Hegarmanah,7,2
+Cibeunying,3273260,Cidadap,3273260001,Hegarmanah,8,7
+Cibeunying,3273260,Cidadap,3273260001,Hegarmanah,9,6
+Cibeunying,3273260,Cidadap,3273260001,Hegarmanah,10,7
+Cibeunying,3273260,Cidadap,3273260001,Hegarmanah,11,6
+Cibeunying,3273260,Cidadap,3273260003,Ledeng,1,3
+Cibeunying,3273260,Cidadap,3273260003,Ledeng,2,5
+Cibeunying,3273260,Cidadap,3273260003,Ledeng,3,5
+Cibeunying,3273260,Cidadap,3273260003,Ledeng,4,5
+Cibeunying,3273260,Cidadap,3273260003,Ledeng,5,7
+Cibeunying,3273260,Cidadap,3273260003,Ledeng,6,3
+Cibeunying,3273260,Cidadap,3273260003,Ledeng,7,3
+Ujungberung,3273121,Cinambo,3273121002,Babakan Penghulu,1,3
+Ujungberung,3273121,Cinambo,3273121002,Babakan Penghulu,2,3
+Ujungberung,3273121,Cinambo,3273121002,Babakan Penghulu,3,4
+Ujungberung,3273121,Cinambo,3273121002,Babakan Penghulu,4,5
+Ujungberung,3273121,Cinambo,3273121002,Babakan Penghulu,5,2
+Ujungberung,3273121,Cinambo,3273121002,Babakan Penghulu,6,4
+Ujungberung,3273121,Cinambo,3273121002,Babakan Penghulu,7,2
+Ujungberung,3273121,Cinambo,3273121002,Babakan Penghulu,8,5
+Ujungberung,3273121,Cinambo,3273121001,Cisaranten Wetan,1,4
+Ujungberung,3273121,Cinambo,3273121001,Cisaranten Wetan,2,4
+Ujungberung,3273121,Cinambo,3273121001,Cisaranten Wetan,3,4
+Ujungberung,3273121,Cinambo,3273121001,Cisaranten Wetan,4,5
+Ujungberung,3273121,Cinambo,3273121001,Cisaranten Wetan,5,4
+Ujungberung,3273121,Cinambo,3273121001,Cisaranten Wetan,6,5
+Ujungberung,3273121,Cinambo,3273121003,Pakemitan,1,2
+Ujungberung,3273121,Cinambo,3273121003,Pakemitan,2,7
+Ujungberung,3273121,Cinambo,3273121003,Pakemitan,3,5
+Ujungberung,3273121,Cinambo,3273121003,Pakemitan,4,4
+Ujungberung,3273121,Cinambo,3273121003,Pakemitan,5,5
+Ujungberung,3273121,Cinambo,3273121004,Sukamulya,1,4
+Ujungberung,3273121,Cinambo,3273121004,Sukamulya,2,3
+Ujungberung,3273121,Cinambo,3273121004,Sukamulya,3,6
+Ujungberung,3273121,Cinambo,3273121004,Sukamulya,4,4
+Ujungberung,3273121,Cinambo,3273121004,Sukamulya,5,3
+Ujungberung,3273121,Cinambo,3273121004,Sukamulya,6,5
+Cibeunying,3273230,Coblong,3273230001,Cipaganti,1,9
+Cibeunying,3273230,Coblong,3273230001,Cipaganti,2,10
+Cibeunying,3273230,Coblong,3273230001,Cipaganti,3,5
+Cibeunying,3273230,Coblong,3273230001,Cipaganti,4,10
+Cibeunying,3273230,Coblong,3273230001,Cipaganti,5,8
+Cibeunying,3273230,Coblong,3273230001,Cipaganti,6,5
+Cibeunying,3273230,Coblong,3273230001,Cipaganti,7,5
+Cibeunying,3273230,Coblong,3273230006,Dago,1,9
+Cibeunying,3273230,Coblong,3273230006,Dago,2,6
+Cibeunying,3273230,Coblong,3273230006,Dago,3,9
+Cibeunying,3273230,Coblong,3273230006,Dago,4,7
+Cibeunying,3273230,Coblong,3273230006,Dago,5,10
+Cibeunying,3273230,Coblong,3273230006,Dago,6,10
+Cibeunying,3273230,Coblong,3273230006,Dago,7,7
+Cibeunying,3273230,Coblong,3273230006,Dago,8,7
+Cibeunying,3273230,Coblong,3273230006,Dago,9,8
+Cibeunying,3273230,Coblong,3273230006,Dago,10,7
+Cibeunying,3273230,Coblong,3273230006,Dago,11,7
+Cibeunying,3273230,Coblong,3273230006,Dago,12,11
+Cibeunying,3273230,Coblong,3273230006,Dago,13,7
+Cibeunying,3273230,Coblong,3273230002,Lebak Siliwangi,3,3
+Cibeunying,3273230,Coblong,3273230002,Lebak Siliwangi,4,4
+Cibeunying,3273230,Coblong,3273230002,Lebak Siliwangi,5,3
+Cibeunying,3273230,Coblong,3273230002,Lebak Siliwangi,6,4
+Cibeunying,3273230,Coblong,3273230002,Lebak Siliwangi,7,5
+Cibeunying,3273230,Coblong,3273230002,Lebak Siliwangi,8,4
+Cibeunying,3273230,Coblong,3273230003,Lebak Gede,1,6
+Cibeunying,3273230,Coblong,3273230003,Lebak Gede,2,3
+Cibeunying,3273230,Coblong,3273230003,Lebak Gede,3,5
+Cibeunying,3273230,Coblong,3273230003,Lebak Gede,4,4
+Cibeunying,3273230,Coblong,3273230003,Lebak Gede,5,
+Cibeunying,3273230,Coblong,3273230003,Lebak Gede,6,
+Cibeunying,3273230,Coblong,3273230003,Lebak Gede,7,9
+Cibeunying,3273230,Coblong,3273230003,Lebak Gede,8,4
+Cibeunying,3273230,Coblong,3273230003,Lebak Gede,9,4
+Cibeunying,3273230,Coblong,3273230003,Lebak Gede,10,3
+Cibeunying,3273230,Coblong,3273230003,Lebak Gede,11,4
+Cibeunying,3273230,Coblong,3273230003,Lebak Gede,12,3
+Cibeunying,3273230,Coblong,3273230003,Lebak Gede,13,5
+Cibeunying,3273230,Coblong,3273230003,Lebak Gede,14,7
+Cibeunying,3273230,Coblong,3273230003,Lebak Gede,15,7
+Cibeunying,3273230,Coblong,3273230004,Sadang Serang,1,5
+Cibeunying,3273230,Coblong,3273230004,Sadang Serang,2,5
+Cibeunying,3273230,Coblong,3273230004,Sadang Serang,3,8
+Cibeunying,3273230,Coblong,3273230004,Sadang Serang,4,4
+Cibeunying,3273230,Coblong,3273230004,Sadang Serang,5,8
+Cibeunying,3273230,Coblong,3273230004,Sadang Serang,6,5
+Cibeunying,3273230,Coblong,3273230004,Sadang Serang,7,5
+Cibeunying,3273230,Coblong,3273230004,Sadang Serang,8,7
+Cibeunying,3273230,Coblong,3273230004,Sadang Serang,9,7
+Cibeunying,3273230,Coblong,3273230004,Sadang Serang,10,5
+Cibeunying,3273230,Coblong,3273230004,Sadang Serang,11,6
+Cibeunying,3273230,Coblong,3273230004,Sadang Serang,12,4
+Cibeunying,3273230,Coblong,3273230004,Sadang Serang,13,7
+Cibeunying,3273230,Coblong,3273230004,Sadang Serang,14,5
+Cibeunying,3273230,Coblong,3273230004,Sadang Serang,15,10
+Cibeunying,3273230,Coblong,3273230004,Sadang Serang,16,7
+Cibeunying,3273230,Coblong,3273230004,Sadang Serang,17,4
+Cibeunying,3273230,Coblong,3273230004,Sadang Serang,18,6
+Cibeunying,3273230,Coblong,3273230004,Sadang Serang,19,10
+Cibeunying,3273230,Coblong,3273230004,Sadang Serang,20,5
+Cibeunying,3273230,Coblong,3273230004,Sadang Serang,21,7
+Cibeunying,3273230,Coblong,3273230005,Sekeloa,1,6
+Cibeunying,3273230,Coblong,3273230005,Sekeloa,2,6
+Cibeunying,3273230,Coblong,3273230005,Sekeloa,3,8
+Cibeunying,3273230,Coblong,3273230005,Sekeloa,4,5
+Cibeunying,3273230,Coblong,3273230005,Sekeloa,5,6
+Cibeunying,3273230,Coblong,3273230005,Sekeloa,6,6
+Cibeunying,3273230,Coblong,3273230005,Sekeloa,7,5
+Cibeunying,3273230,Coblong,3273230005,Sekeloa,8,5
+Cibeunying,3273230,Coblong,3273230005,Sekeloa,9,5
+Cibeunying,3273230,Coblong,3273230005,Sekeloa,10,4
+Cibeunying,3273230,Coblong,3273230005,Sekeloa,11,5
+Cibeunying,3273230,Coblong,3273230005,Sekeloa,12,5
+Cibeunying,3273230,Coblong,3273230005,Sekeloa,13,7
+Cibeunying,3273230,Coblong,3273230005,Sekeloa,14,10
+Cibeunying,3273230,Coblong,3273230005,Sekeloa,15,5
+Gedebage,3273101,Gedebage,3273101004,Cimencrang,1,3
+Gedebage,3273101,Gedebage,3273101004,Cimencrang,2,3
+Gedebage,3273101,Gedebage,3273101004,Cimencrang,3,3
+Gedebage,3273101,Gedebage,3273101004,Cimencrang,4,3
+Gedebage,3273101,Gedebage,3273101004,Cimencrang,5,4
+Gedebage,3273101,Gedebage,3273101004,Cimencrang,6,3
+Gedebage,3273101,Gedebage,3273101004,Cimencrang,7,6
+Gedebage,3273101,Gedebage,3273101004,Cimencrang,8,5
+Gedebage,3273101,Gedebage,3273101003,Cisaranten Kidul,1,3
+Gedebage,3273101,Gedebage,3273101003,Cisaranten Kidul,2,3
+Gedebage,3273101,Gedebage,3273101003,Cisaranten Kidul,3,4
+Gedebage,3273101,Gedebage,3273101003,Cisaranten Kidul,4,3
+Gedebage,3273101,Gedebage,3273101003,Cisaranten Kidul,5,4
+Gedebage,3273101,Gedebage,3273101003,Cisaranten Kidul,6,4
+Gedebage,3273101,Gedebage,3273101003,Cisaranten Kidul,7,3
+Gedebage,3273101,Gedebage,3273101003,Cisaranten Kidul,8,7
+Gedebage,3273101,Gedebage,3273101003,Cisaranten Kidul,9,10
+Gedebage,3273101,Gedebage,3273101003,Cisaranten Kidul,10,11
+Gedebage,3273101,Gedebage,3273101003,Cisaranten Kidul,11,6
+Gedebage,3273101,Gedebage,3273101003,Cisaranten Kidul,12,8
+Gedebage,3273101,Gedebage,3273101003,Cisaranten Kidul,13,5
+Gedebage,3273101,Gedebage,3273101003,Cisaranten Kidul,14,7
+Gedebage,3273101,Gedebage,3273101003,Cisaranten Kidul,15,6
+Gedebage,3273101,Gedebage,3273101001,Rancabolang,1,6
+Gedebage,3273101,Gedebage,3273101001,Rancabolang,2,6
+Gedebage,3273101,Gedebage,3273101001,Rancabolang,3,5
+Gedebage,3273101,Gedebage,3273101001,Rancabolang,4,3
+Gedebage,3273101,Gedebage,3273101001,Rancabolang,5,8
+Gedebage,3273101,Gedebage,3273101001,Rancabolang,6,6
+Gedebage,3273101,Gedebage,3273101001,Rancabolang,7,7
+Gedebage,3273101,Gedebage,3273101001,Rancabolang,8,5
+Gedebage,3273101,Gedebage,3273101001,Rancabolang,9,6
+Gedebage,3273101,Gedebage,3273101001,Rancabolang,10,5
+Gedebage,3273101,Gedebage,3273101002,Rancanumpang,1,5
+Gedebage,3273101,Gedebage,3273101002,Rancanumpang,2,3
+Gedebage,3273101,Gedebage,3273101002,Rancanumpang,3,4
+Gedebage,3273101,Gedebage,3273101002,Rancanumpang,4,3
+Gedebage,3273101,Gedebage,3273101002,Rancanumpang,5,5
+Gedebage,3273101,Gedebage,3273101002,Rancanumpang,6,5
+Gedebage,3273101,Gedebage,3273101002,Rancanumpang,7,4
+Gedebage,3273101,Gedebage,3273101002,Rancanumpang,8,5
+Karees,3273150,Kiaracondong,3273150004,Babakan Sari,1,6
+Karees,3273150,Kiaracondong,3273150004,Babakan Sari,2,8
+Karees,3273150,Kiaracondong,3273150004,Babakan Sari,3,9
+Karees,3273150,Kiaracondong,3273150004,Babakan Sari,4,7
+Karees,3273150,Kiaracondong,3273150004,Babakan Sari,5,5
+Karees,3273150,Kiaracondong,3273150004,Babakan Sari,6,7
+Karees,3273150,Kiaracondong,3273150004,Babakan Sari,7,10
+Karees,3273150,Kiaracondong,3273150004,Babakan Sari,8,9
+Karees,3273150,Kiaracondong,3273150004,Babakan Sari,9,13
+Karees,3273150,Kiaracondong,3273150004,Babakan Sari,10,7
+Karees,3273150,Kiaracondong,3273150004,Babakan Sari,11,12
+Karees,3273150,Kiaracondong,3273150004,Babakan Sari,12,8
+Karees,3273150,Kiaracondong,3273150004,Babakan Sari,13,7
+Karees,3273150,Kiaracondong,3273150004,Babakan Sari,14,6
+Karees,3273150,Kiaracondong,3273150004,Babakan Sari,15,7
+Karees,3273150,Kiaracondong,3273150004,Babakan Sari,16,8
+Karees,3273150,Kiaracondong,3273150004,Babakan Sari,17,9
+Karees,3273150,Kiaracondong,3273150004,Babakan Sari,18,8
+Karees,3273150,Kiaracondong,3273150005,Babakan Surabaya,1,7
+Karees,3273150,Kiaracondong,3273150005,Babakan Surabaya,2,9
+Karees,3273150,Kiaracondong,3273150005,Babakan Surabaya,3,8
+Karees,3273150,Kiaracondong,3273150005,Babakan Surabaya,4,9
+Karees,3273150,Kiaracondong,3273150005,Babakan Surabaya,5,7
+Karees,3273150,Kiaracondong,3273150005,Babakan Surabaya,6,5
+Karees,3273150,Kiaracondong,3273150005,Babakan Surabaya,7,6
+Karees,3273150,Kiaracondong,3273150005,Babakan Surabaya,8,5
+Karees,3273150,Kiaracondong,3273150005,Babakan Surabaya,9,8
+Karees,3273150,Kiaracondong,3273150005,Babakan Surabaya,10,4
+Karees,3273150,Kiaracondong,3273150005,Babakan Surabaya,11,5
+Karees,3273150,Kiaracondong,3273150005,Babakan Surabaya,12,6
+Karees,3273150,Kiaracondong,3273150005,Babakan Surabaya,13,5
+Karees,3273150,Kiaracondong,3273150005,Babakan Surabaya,14,9
+Karees,3273150,Kiaracondong,3273150005,Babakan Surabaya,15,8
+Karees,3273150,Kiaracondong,3273150006,Cicaheum,1,7
+Karees,3273150,Kiaracondong,3273150006,Cicaheum,2,7
+Karees,3273150,Kiaracondong,3273150006,Cicaheum,3,9
+Karees,3273150,Kiaracondong,3273150006,Cicaheum,4,5
+Karees,3273150,Kiaracondong,3273150006,Cicaheum,5,8
+Karees,3273150,Kiaracondong,3273150006,Cicaheum,6,6
+Karees,3273150,Kiaracondong,3273150006,Cicaheum,7,8
+Karees,3273150,Kiaracondong,3273150006,Cicaheum,8,5
+Karees,3273150,Kiaracondong,3273150006,Cicaheum,9,5
+Karees,3273150,Kiaracondong,3273150006,Cicaheum,10,6
+Karees,3273150,Kiaracondong,3273150006,Cicaheum,11,5
+Karees,3273150,Kiaracondong,3273150006,Cicaheum,12,7
+Karees,3273150,Kiaracondong,3273150003,Kebon Jayanti,1,7
+Karees,3273150,Kiaracondong,3273150003,Kebon Jayanti,2,7
+Karees,3273150,Kiaracondong,3273150003,Kebon Jayanti,3,5
+Karees,3273150,Kiaracondong,3273150003,Kebon Jayanti,4,7
+Karees,3273150,Kiaracondong,3273150003,Kebon Jayanti,5,6
+Karees,3273150,Kiaracondong,3273150003,Kebon Jayanti,6,5
+Karees,3273150,Kiaracondong,3273150003,Kebon Jayanti,7,5
+Karees,3273150,Kiaracondong,3273150003,Kebon Jayanti,8,7
+Karees,3273150,Kiaracondong,3273150003,Kebon Jayanti,9,8
+Karees,3273150,Kiaracondong,3273150003,Kebon Jayanti,10,8
+Karees,3273150,Kiaracondong,3273150003,Kebon Jayanti,11,5
+Karees,3273150,Kiaracondong,3273150003,Kebon Jayanti,12,8
+Karees,3273150,Kiaracondong,3273150003,Kebon Jayanti,13,5
+Karees,3273150,Kiaracondong,3273150003,Kebon Jayanti,14,6
+Karees,3273150,Kiaracondong,3273150001,Kebon Kangkung,1,7
+Karees,3273150,Kiaracondong,3273150001,Kebon Kangkung,2,8
+Karees,3273150,Kiaracondong,3273150001,Kebon Kangkung,3,5
+Karees,3273150,Kiaracondong,3273150001,Kebon Kangkung,4,6
+Karees,3273150,Kiaracondong,3273150001,Kebon Kangkung,5,8
+Karees,3273150,Kiaracondong,3273150001,Kebon Kangkung,6,6
+Karees,3273150,Kiaracondong,3273150001,Kebon Kangkung,7,5
+Karees,3273150,Kiaracondong,3273150001,Kebon Kangkung,8,7
+Karees,3273150,Kiaracondong,3273150001,Kebon Kangkung,9,8
+Karees,3273150,Kiaracondong,3273150001,Kebon Kangkung,10,7
+Karees,3273150,Kiaracondong,3273150001,Kebon Kangkung,11,3
+Karees,3273150,Kiaracondong,3273150002,Sukapura,1,9
+Karees,3273150,Kiaracondong,3273150002,Sukapura,2,8
+Karees,3273150,Kiaracondong,3273150002,Sukapura,3,8
+Karees,3273150,Kiaracondong,3273150002,Sukapura,4,13
+Karees,3273150,Kiaracondong,3273150002,Sukapura,5,9
+Karees,3273150,Kiaracondong,3273150002,Sukapura,6,10
+Karees,3273150,Kiaracondong,3273150002,Sukapura,7,6
+Karees,3273150,Kiaracondong,3273150002,Sukapura,8,4
+Karees,3273150,Kiaracondong,3273150002,Sukapura,9,8
+Karees,3273150,Kiaracondong,3273150002,Sukapura,10,5
+Karees,3273150,Kiaracondong,3273150002,Sukapura,11,9
+Karees,3273150,Kiaracondong,3273150002,Sukapura,12,8
+Karees,3273150,Kiaracondong,3273150002,Sukapura,13,6
+Karees,3273150,Kiaracondong,3273150002,Sukapura,14,3
+Karees,3273150,Kiaracondong,3273150002,Sukapura,15,3
+Karees,3273070,Lengkong,3273070005,Burangrang,1,5
+Karees,3273070,Lengkong,3273070005,Burangrang,2,12
+Karees,3273070,Lengkong,3273070005,Burangrang,3,6
+Karees,3273070,Lengkong,3273070005,Burangrang,4,5
+Karees,3273070,Lengkong,3273070005,Burangrang,5,8
+Karees,3273070,Lengkong,3273070005,Burangrang,6,5
+Karees,3273070,Lengkong,3273070005,Burangrang,7,7
+Karees,3273070,Lengkong,3273070005,Burangrang,8,8
+Karees,3273070,Lengkong,3273070005,Burangrang,9,9
+Karees,3273070,Lengkong,3273070001,Cijagra,1,4
+Karees,3273070,Lengkong,3273070001,Cijagra,2,8
+Karees,3273070,Lengkong,3273070001,Cijagra,3,7
+Karees,3273070,Lengkong,3273070001,Cijagra,4,11
+Karees,3273070,Lengkong,3273070001,Cijagra,5,6
+Karees,3273070,Lengkong,3273070001,Cijagra,6,11
+Karees,3273070,Lengkong,3273070001,Cijagra,7,5
+Karees,3273070,Lengkong,3273070006,Cikawao,1,5
+Karees,3273070,Lengkong,3273070006,Cikawao,2,7
+Karees,3273070,Lengkong,3273070006,Cikawao,3,4
+Karees,3273070,Lengkong,3273070006,Cikawao,4,6
+Karees,3273070,Lengkong,3273070006,Cikawao,5,7
+Karees,3273070,Lengkong,3273070006,Cikawao,6,7
+Karees,3273070,Lengkong,3273070006,Cikawao,7,5
+Karees,3273070,Lengkong,3273070006,Cikawao,8,9
+Karees,3273070,Lengkong,3273070006,Cikawao,9,5
+Karees,3273070,Lengkong,3273070003,Lingkar Selatan,1,5
+Karees,3273070,Lengkong,3273070003,Lingkar Selatan,2,9
+Karees,3273070,Lengkong,3273070003,Lingkar Selatan,3,3
+Karees,3273070,Lengkong,3273070003,Lingkar Selatan,4,9
+Karees,3273070,Lengkong,3273070003,Lingkar Selatan,5,3
+Karees,3273070,Lengkong,3273070003,Lingkar Selatan,6,6
+Karees,3273070,Lengkong,3273070003,Lingkar Selatan,7,11
+Karees,3273070,Lengkong,3273070003,Lingkar Selatan,8,14
+Karees,3273070,Lengkong,3273070003,Lingkar Selatan,9,9
+Karees,3273070,Lengkong,3273070003,Lingkar Selatan,10,5
+Karees,3273070,Lengkong,3273070004,Malabar,1,3
+Karees,3273070,Lengkong,3273070004,Malabar,2,6
+Karees,3273070,Lengkong,3273070004,Malabar,3,3
+Karees,3273070,Lengkong,3273070004,Malabar,4,5
+Karees,3273070,Lengkong,3273070004,Malabar,5,6
+Karees,3273070,Lengkong,3273070004,Malabar,6,5
+Karees,3273070,Lengkong,3273070004,Malabar,7,7
+Karees,3273070,Lengkong,3273070004,Malabar,8,3
+Karees,3273070,Lengkong,3273070004,Malabar,9,8
+Karees,3273070,Lengkong,3273070004,Malabar,10,7
+Karees,3273070,Lengkong,3273070004,Malabar,11,5
+Karees,3273070,Lengkong,3273070007,Paledang,1,6
+Karees,3273070,Lengkong,3273070007,Paledang,2,3
+Karees,3273070,Lengkong,3273070007,Paledang,3,5
+Karees,3273070,Lengkong,3273070007,Paledang,4,9
+Karees,3273070,Lengkong,3273070007,Paledang,5,7
+Karees,3273070,Lengkong,3273070007,Paledang,6,4
+Karees,3273070,Lengkong,3273070007,Paledang,7,4
+Karees,3273070,Lengkong,3273070007,Paledang,8,5
+Karees,3273070,Lengkong,3273070002,Turangga,1,4
+Karees,3273070,Lengkong,3273070002,Turangga,2,6
+Karees,3273070,Lengkong,3273070002,Turangga,3,5
+Karees,3273070,Lengkong,3273070002,Turangga,4,14
+Karees,3273070,Lengkong,3273070002,Turangga,5,7
+Karees,3273070,Lengkong,3273070002,Turangga,6,7
+Karees,3273070,Lengkong,3273070002,Turangga,7,11
+Karees,3273070,Lengkong,3273070002,Turangga,8,10
+Karees,3273070,Lengkong,3273070002,Turangga,9,6
+Karees,3273070,Lengkong,3273070002,Turangga,10,9
+Karees,3273070,Lengkong,3273070002,Turangga,11,5
+Arcamanik,3273142,Mandalajati,3273142001,Jatihandap,1,5
+Arcamanik,3273142,Mandalajati,3273142001,Jatihandap,2,7
+Arcamanik,3273142,Mandalajati,3273142001,Jatihandap,3,8
+Arcamanik,3273142,Mandalajati,3273142001,Jatihandap,4,7
+Arcamanik,3273142,Mandalajati,3273142001,Jatihandap,5,7
+Arcamanik,3273142,Mandalajati,3273142001,Jatihandap,6,9
+Arcamanik,3273142,Mandalajati,3273142001,Jatihandap,7,7
+Arcamanik,3273142,Mandalajati,3273142001,Jatihandap,8,7
+Arcamanik,3273142,Mandalajati,3273142001,Jatihandap,9,7
+Arcamanik,3273142,Mandalajati,3273142001,Jatihandap,10,6
+Arcamanik,3273142,Mandalajati,3273142001,Jatihandap,11,5
+Arcamanik,3273142,Mandalajati,3273142001,Jatihandap,12,5
+Arcamanik,3273142,Mandalajati,3273142001,Jatihandap,13,5
+Arcamanik,3273142,Mandalajati,3273142001,Jatihandap,14,7
+Arcamanik,3273142,Mandalajati,3273142001,Jatihandap,15,7
+Arcamanik,3273142,Mandalajati,3273142001,Jatihandap,16,5
+Arcamanik,3273142,Mandalajati,3273142001,Jatihandap,17,7
+Arcamanik,3273142,Mandalajati,3273142002,Karang Pamulang,1,6
+Arcamanik,3273142,Mandalajati,3273142002,Karang Pamulang,2,6
+Arcamanik,3273142,Mandalajati,3273142002,Karang Pamulang,3,6
+Arcamanik,3273142,Mandalajati,3273142002,Karang Pamulang,4,8
+Arcamanik,3273142,Mandalajati,3273142002,Karang Pamulang,5,7
+Arcamanik,3273142,Mandalajati,3273142002,Karang Pamulang,6,7
+Arcamanik,3273142,Mandalajati,3273142002,Karang Pamulang,7,6
+Arcamanik,3273142,Mandalajati,3273142002,Karang Pamulang,8,5
+Arcamanik,3273142,Mandalajati,3273142002,Karang Pamulang,9,5
+Arcamanik,3273142,Mandalajati,3273142002,Karang Pamulang,10,5
+Arcamanik,3273142,Mandalajati,3273142002,Karang Pamulang,11,5
+Arcamanik,3273142,Mandalajati,3273142002,Karang Pamulang,12,5
+Arcamanik,3273142,Mandalajati,3273142004,Pasir Impun,1,5
+Arcamanik,3273142,Mandalajati,3273142004,Pasir Impun,2,6
+Arcamanik,3273142,Mandalajati,3273142004,Pasir Impun,3,5
+Arcamanik,3273142,Mandalajati,3273142004,Pasir Impun,4,7
+Arcamanik,3273142,Mandalajati,3273142004,Pasir Impun,5,7
+Arcamanik,3273142,Mandalajati,3273142004,Pasir Impun,6,4
+Arcamanik,3273142,Mandalajati,3273142004,Pasir Impun,7,5
+Arcamanik,3273142,Mandalajati,3273142004,Pasir Impun,8,5
+Arcamanik,3273142,Mandalajati,3273142004,Pasir Impun,9,5
+Arcamanik,3273142,Mandalajati,3273142004,Pasir Impun,10,4
+Arcamanik,3273142,Mandalajati,3273142004,Pasir Impun,11,4
+Arcamanik,3273142,Mandalajati,3273142003,Sindang Jaya,1,4
+Arcamanik,3273142,Mandalajati,3273142003,Sindang Jaya,2,4
+Arcamanik,3273142,Mandalajati,3273142003,Sindang Jaya,3,5
+Arcamanik,3273142,Mandalajati,3273142003,Sindang Jaya,4,6
+Arcamanik,3273142,Mandalajati,3273142003,Sindang Jaya,5,6
+Arcamanik,3273142,Mandalajati,3273142003,Sindang Jaya,6,5
+Arcamanik,3273142,Mandalajati,3273142003,Sindang Jaya,7,6
+Arcamanik,3273142,Mandalajati,3273142003,Sindang Jaya,8,6
+Arcamanik,3273142,Mandalajati,3273142003,Sindang Jaya,9,5
+Arcamanik,3273142,Mandalajati,3273142003,Sindang Jaya,10,3
+Arcamanik,3273142,Mandalajati,3273142003,Sindang Jaya,11,7
+Arcamanik,3273142,Mandalajati,3273142003,Sindang Jaya,12,3
+Ujungberung,3273111,Panyileukan,3273111002,Cipadung Kidul,1,8
+Ujungberung,3273111,Panyileukan,3273111002,Cipadung Kidul,2,7
+Ujungberung,3273111,Panyileukan,3273111002,Cipadung Kidul,3,6
+Ujungberung,3273111,Panyileukan,3273111002,Cipadung Kidul,4,6
+Ujungberung,3273111,Panyileukan,3273111002,Cipadung Kidul,5,8
+Ujungberung,3273111,Panyileukan,3273111002,Cipadung Kidul,6,5
+Ujungberung,3273111,Panyileukan,3273111002,Cipadung Kidul,7,5
+Ujungberung,3273111,Panyileukan,3273111002,Cipadung Kidul,8,4
+Ujungberung,3273111,Panyileukan,3273111002,Cipadung Kidul,9,5
+Ujungberung,3273111,Panyileukan,3273111002,Cipadung Kidul,10,5
+Ujungberung,3273111,Panyileukan,3273111002,Cipadung Kidul,11,7
+Ujungberung,3273111,Panyileukan,3273111002,Cipadung Kidul,12,4
+Ujungberung,3273111,Panyileukan,3273111002,Cipadung Kidul,13,5
+Ujungberung,3273111,Panyileukan,3273111002,Cipadung Kidul,14,3
+Ujungberung,3273111,Panyileukan,3273111004,Cipadung Kulon,1,3
+Ujungberung,3273111,Panyileukan,3273111004,Cipadung Kulon,2,4
+Ujungberung,3273111,Panyileukan,3273111004,Cipadung Kulon,3,5
+Ujungberung,3273111,Panyileukan,3273111004,Cipadung Kulon,4,5
+Ujungberung,3273111,Panyileukan,3273111004,Cipadung Kulon,5,3
+Ujungberung,3273111,Panyileukan,3273111004,Cipadung Kulon,6,3
+Ujungberung,3273111,Panyileukan,3273111004,Cipadung Kulon,7,5
+Ujungberung,3273111,Panyileukan,3273111004,Cipadung Kulon,8,7
+Ujungberung,3273111,Panyileukan,3273111004,Cipadung Kulon,9,7
+Ujungberung,3273111,Panyileukan,3273111004,Cipadung Kulon,10,4
+Ujungberung,3273111,Panyileukan,3273111004,Cipadung Kulon,11,6
+Ujungberung,3273111,Panyileukan,3273111003,Cipadung Wetan,1,4
+Ujungberung,3273111,Panyileukan,3273111003,Cipadung Wetan,2,3
+Ujungberung,3273111,Panyileukan,3273111003,Cipadung Wetan,3,3
+Ujungberung,3273111,Panyileukan,3273111003,Cipadung Wetan,4,3
+Ujungberung,3273111,Panyileukan,3273111003,Cipadung Wetan,5,3
+Ujungberung,3273111,Panyileukan,3273111003,Cipadung Wetan,6,3
+Ujungberung,3273111,Panyileukan,3273111001,Mekar Mulya,1,6
+Ujungberung,3273111,Panyileukan,3273111001,Mekar Mulya,2,8
+Ujungberung,3273111,Panyileukan,3273111001,Mekar Mulya,3,8
+Ujungberung,3273111,Panyileukan,3273111001,Mekar Mulya,4,5
+Ujungberung,3273111,Panyileukan,3273111001,Mekar Mulya,5,4
+Ujungberung,3273111,Panyileukan,3273111001,Mekar Mulya,6,4
+Gedebage,3273100,Rancasari,3273100002,Cipamokolan,1,8
+Gedebage,3273100,Rancasari,3273100002,Cipamokolan,2,5
+Gedebage,3273100,Rancasari,3273100002,Cipamokolan,3,7
+Gedebage,3273100,Rancasari,3273100002,Cipamokolan,4,9
+Gedebage,3273100,Rancasari,3273100002,Cipamokolan,5,12
+Gedebage,3273100,Rancasari,3273100002,Cipamokolan,6,4
+Gedebage,3273100,Rancasari,3273100002,Cipamokolan,7,14
+Gedebage,3273100,Rancasari,3273100002,Cipamokolan,8,7
+Gedebage,3273100,Rancasari,3273100002,Cipamokolan,9,12
+Gedebage,3273100,Rancasari,3273100002,Cipamokolan,10,5
+Gedebage,3273100,Rancasari,3273100002,Cipamokolan,11,5
+Gedebage,3273100,Rancasari,3273100002,Cipamokolan,12,7
+Gedebage,3273100,Rancasari,3273100001,Derwati,1,5
+Gedebage,3273100,Rancasari,3273100001,Derwati,2,6
+Gedebage,3273100,Rancasari,3273100001,Derwati,3,5
+Gedebage,3273100,Rancasari,3273100001,Derwati,4,7
+Gedebage,3273100,Rancasari,3273100001,Derwati,5,5
+Gedebage,3273100,Rancasari,3273100001,Derwati,6,5
+Gedebage,3273100,Rancasari,3273100001,Derwati,7,6
+Gedebage,3273100,Rancasari,3273100001,Derwati,8,10
+Gedebage,3273100,Rancasari,3273100001,Derwati,9,11
+Gedebage,3273100,Rancasari,3273100001,Derwati,10,8
+Gedebage,3273100,Rancasari,3273100001,Derwati,11,6
+Gedebage,3273100,Rancasari,3273100001,Derwati,12,5
+Gedebage,3273100,Rancasari,3273100001,Derwati,13,5
+Gedebage,3273100,Rancasari,3273100005,Manjahlega,1,4
+Gedebage,3273100,Rancasari,3273100005,Manjahlega,2,5
+Gedebage,3273100,Rancasari,3273100005,Manjahlega,3,6
+Gedebage,3273100,Rancasari,3273100005,Manjahlega,4,7
+Gedebage,3273100,Rancasari,3273100005,Manjahlega,5,5
+Gedebage,3273100,Rancasari,3273100005,Manjahlega,6,5
+Gedebage,3273100,Rancasari,3273100005,Manjahlega,7,8
+Gedebage,3273100,Rancasari,3273100005,Manjahlega,8,10
+Gedebage,3273100,Rancasari,3273100005,Manjahlega,9,5
+Gedebage,3273100,Rancasari,3273100005,Manjahlega,10,6
+Gedebage,3273100,Rancasari,3273100005,Manjahlega,11,4
+Gedebage,3273100,Rancasari,3273100005,Manjahlega,12,5
+Gedebage,3273100,Rancasari,3273100005,Manjahlega,13,6
+Gedebage,3273100,Rancasari,3273100005,Manjahlega,14,7
+Gedebage,3273100,Rancasari,3273100005,Manjahlega,15,6
+Gedebage,3273100,Rancasari,3273100005,Manjahlega,16,7
+Gedebage,3273100,Rancasari,3273100006,Mekar Jaya,1,6
+Gedebage,3273100,Rancasari,3273100006,Mekar Jaya,2,7
+Gedebage,3273100,Rancasari,3273100006,Mekar Jaya,3,4
+Gedebage,3273100,Rancasari,3273100006,Mekar Jaya,4,5
+Gedebage,3273100,Rancasari,3273100006,Mekar Jaya,5,8
+Gedebage,3273100,Rancasari,3273100006,Mekar Jaya,6,7
+Gedebage,3273100,Rancasari,3273100006,Mekar Jaya,7,9
+Gedebage,3273100,Rancasari,3273100006,Mekar Jaya,8,6
+Gedebage,3273100,Rancasari,3273100006,Mekar Jaya,9,4
+Gedebage,3273100,Rancasari,3273100006,Mekar Jaya,10,4
+Gedebage,3273100,Rancasari,3273100006,Mekar Jaya,11,6
+Karees,3273060,Regol,3273060003,Ancol,1,7
+Karees,3273060,Regol,3273060003,Ancol,2,6
+Karees,3273060,Regol,3273060003,Ancol,3,5
+Karees,3273060,Regol,3273060003,Ancol,4,8
+Karees,3273060,Regol,3273060003,Ancol,5,4
+Karees,3273060,Regol,3273060003,Ancol,6,8
+Karees,3273060,Regol,3273060003,Ancol,7,6
+Karees,3273060,Regol,3273060003,Ancol,8,5
+Karees,3273060,Regol,3273060003,Ancol,9,6
+Karees,3273060,Regol,3273060007,Balong Gede,1,5
+Karees,3273060,Regol,3273060007,Balong Gede,2,4
+Karees,3273060,Regol,3273060007,Balong Gede,3,6
+Karees,3273060,Regol,3273060007,Balong Gede,4,8
+Karees,3273060,Regol,3273060007,Balong Gede,5,10
+Karees,3273060,Regol,3273060007,Balong Gede,6,8
+Karees,3273060,Regol,3273060007,Balong Gede,7,4
+Karees,3273060,Regol,3273060005,Ciateul,1,7
+Karees,3273060,Regol,3273060005,Ciateul,2,6
+Karees,3273060,Regol,3273060005,Ciateul,3,7
+Karees,3273060,Regol,3273060005,Ciateul,4,4
+Karees,3273060,Regol,3273060005,Ciateul,5,4
+Karees,3273060,Regol,3273060005,Ciateul,6,5
+Karees,3273060,Regol,3273060005,Ciateul,7,5
+Karees,3273060,Regol,3273060005,Ciateul,8,8
+Karees,3273060,Regol,3273060005,Ciateul,9,4
+Karees,3273060,Regol,3273060004,Cigereleng,1,7
+Karees,3273060,Regol,3273060004,Cigereleng,2,5
+Karees,3273060,Regol,3273060004,Cigereleng,3,4
+Karees,3273060,Regol,3273060004,Cigereleng,4,5
+Karees,3273060,Regol,3273060004,Cigereleng,5,6
+Karees,3273060,Regol,3273060004,Cigereleng,6,6
+Karees,3273060,Regol,3273060004,Cigereleng,7,4
+Karees,3273060,Regol,3273060004,Cigereleng,8,6
+Karees,3273060,Regol,3273060004,Cigereleng,9,5
+Karees,3273060,Regol,3273060004,Cigereleng,10,4
+Karees,3273060,Regol,3273060004,Cigereleng,11,4
+Karees,3273060,Regol,3273060004,Cigereleng,12,4
+Karees,3273060,Regol,3273060001,Ciseureuh,1,10
+Karees,3273060,Regol,3273060001,Ciseureuh,2,5
+Karees,3273060,Regol,3273060001,Ciseureuh,3,6
+Karees,3273060,Regol,3273060001,Ciseureuh,4,5
+Karees,3273060,Regol,3273060001,Ciseureuh,5,9
+Karees,3273060,Regol,3273060001,Ciseureuh,6,7
+Karees,3273060,Regol,3273060001,Ciseureuh,7,4
+Karees,3273060,Regol,3273060001,Ciseureuh,8,4
+Karees,3273060,Regol,3273060002,Pasirluyu,1,6
+Karees,3273060,Regol,3273060002,Pasirluyu,2,5
+Karees,3273060,Regol,3273060002,Pasirluyu,3,9
+Karees,3273060,Regol,3273060002,Pasirluyu,4,8
+Karees,3273060,Regol,3273060002,Pasirluyu,5,7
+Karees,3273060,Regol,3273060002,Pasirluyu,6,5
+Karees,3273060,Regol,3273060002,Pasirluyu,7,5
+Karees,3273060,Regol,3273060002,Pasirluyu,8,13
+Karees,3273060,Regol,3273060002,Pasirluyu,9,5
+Karees,3273060,Regol,3273060006,Pungkur,1,8
+Karees,3273060,Regol,3273060006,Pungkur,2,5
+Karees,3273060,Regol,3273060006,Pungkur,3,6
+Karees,3273060,Regol,3273060006,Pungkur,4,8
+Karees,3273060,Regol,3273060006,Pungkur,5,9
+Karees,3273060,Regol,3273060006,Pungkur,6,10
+Bojonagara,3273240,Sukajadi,3273240004,Cipedes,1,8
+Bojonagara,3273240,Sukajadi,3273240004,Cipedes,2,6
+Bojonagara,3273240,Sukajadi,3273240004,Cipedes,3,7
+Bojonagara,3273240,Sukajadi,3273240004,Cipedes,4,9
+Bojonagara,3273240,Sukajadi,3273240004,Cipedes,5,6
+Bojonagara,3273240,Sukajadi,3273240004,Cipedes,6,6
+Bojonagara,3273240,Sukajadi,3273240004,Cipedes,7,8
+Bojonagara,3273240,Sukajadi,3273240004,Cipedes,8,8
+Bojonagara,3273240,Sukajadi,3273240004,Cipedes,9,5
+Bojonagara,3273240,Sukajadi,3273240004,Cipedes,10,6
+Bojonagara,3273240,Sukajadi,3273240004,Cipedes,11,8
+Bojonagara,3273240,Sukajadi,3273240005,Pasteur,1,7
+Bojonagara,3273240,Sukajadi,3273240005,Pasteur,2,9
+Bojonagara,3273240,Sukajadi,3273240005,Pasteur,3,5
+Bojonagara,3273240,Sukajadi,3273240005,Pasteur,4,6
+Bojonagara,3273240,Sukajadi,3273240005,Pasteur,5,9
+Bojonagara,3273240,Sukajadi,3273240005,Pasteur,6,6
+Bojonagara,3273240,Sukajadi,3273240005,Pasteur,7,7
+Bojonagara,3273240,Sukajadi,3273240005,Pasteur,8,8
+Bojonagara,3273240,Sukajadi,3273240005,Pasteur,9,7
+Bojonagara,3273240,Sukajadi,3273240005,Pasteur,10,5
+Bojonagara,3273240,Sukajadi,3273240005,Pasteur,11,9
+Bojonagara,3273240,Sukajadi,3273240005,Pasteur,12,7
+Bojonagara,3273240,Sukajadi,3273240005,Pasteur,13,7
+Bojonagara,3273240,Sukajadi,3273240003,Sukabungah,1,4
+Bojonagara,3273240,Sukajadi,3273240003,Sukabungah,2,10
+Bojonagara,3273240,Sukajadi,3273240003,Sukabungah,3,8
+Bojonagara,3273240,Sukajadi,3273240003,Sukabungah,4,10
+Bojonagara,3273240,Sukajadi,3273240003,Sukabungah,5,6
+Bojonagara,3273240,Sukajadi,3273240003,Sukabungah,6,10
+Bojonagara,3273240,Sukajadi,3273240003,Sukabungah,7,5
+Bojonagara,3273240,Sukajadi,3273240003,Sukabungah,8,3
+Bojonagara,3273240,Sukajadi,3273240003,Sukabungah,9,4
+Bojonagara,3273240,Sukajadi,3273240003,Sukabungah,10,6
+Bojonagara,3273240,Sukajadi,3273240003,Sukabungah,11,8
+Bojonagara,3273240,Sukajadi,3273240003,Sukabungah,12,7
+Bojonagara,3273240,Sukajadi,3273240002,Sukagalih,1,6
+Bojonagara,3273240,Sukajadi,3273240002,Sukagalih,2,7
+Bojonagara,3273240,Sukajadi,3273240002,Sukagalih,3,7
+Bojonagara,3273240,Sukajadi,3273240002,Sukagalih,4,5
+Bojonagara,3273240,Sukajadi,3273240002,Sukagalih,5,6
+Bojonagara,3273240,Sukajadi,3273240002,Sukagalih,6,5
+Bojonagara,3273240,Sukajadi,3273240001,Sukawarna,1,8
+Bojonagara,3273240,Sukajadi,3273240001,Sukawarna,2,8
+Bojonagara,3273240,Sukajadi,3273240001,Sukawarna,3,7
+Bojonagara,3273240,Sukajadi,3273240001,Sukawarna,4,5
+Bojonagara,3273240,Sukajadi,3273240001,Sukawarna,5,7
+Bojonagara,3273240,Sukajadi,3273240001,Sukawarna,6,5
+Bojonagara,3273240,Sukajadi,3273240001,Sukawarna,7,5
+Bojonagara,3273250,Sukasari,3273250003,Gegerkalong,1,7
+Bojonagara,3273250,Sukasari,3273250003,Gegerkalong,2,10
+Bojonagara,3273250,Sukasari,3273250003,Gegerkalong,3,7
+Bojonagara,3273250,Sukasari,3273250003,Gegerkalong,4,8
+Bojonagara,3273250,Sukasari,3273250003,Gegerkalong,5,7
+Bojonagara,3273250,Sukasari,3273250003,Gegerkalong,6,8
+Bojonagara,3273250,Sukasari,3273250003,Gegerkalong,7,6
+Bojonagara,3273250,Sukasari,3273250003,Gegerkalong,8,4
+Bojonagara,3273250,Sukasari,3273250004,Isola,1,3
+Bojonagara,3273250,Sukasari,3273250004,Isola,2,3
+Bojonagara,3273250,Sukasari,3273250004,Isola,3,3
+Bojonagara,3273250,Sukasari,3273250004,Isola,4,8
+Bojonagara,3273250,Sukasari,3273250004,Isola,5,1
+Bojonagara,3273250,Sukasari,3273250004,Isola,6,7
+Bojonagara,3273250,Sukasari,3273250001,Sarijadi,1,10
+Bojonagara,3273250,Sukasari,3273250001,Sarijadi,2,8
+Bojonagara,3273250,Sukasari,3273250001,Sarijadi,3,10
+Bojonagara,3273250,Sukasari,3273250001,Sarijadi,4,7
+Bojonagara,3273250,Sukasari,3273250001,Sarijadi,5,6
+Bojonagara,3273250,Sukasari,3273250001,Sarijadi,6,13
+Bojonagara,3273250,Sukasari,3273250001,Sarijadi,7,8
+Bojonagara,3273250,Sukasari,3273250001,Sarijadi,8,11
+Bojonagara,3273250,Sukasari,3273250001,Sarijadi,9,12
+Bojonagara,3273250,Sukasari,3273250001,Sarijadi,10,8
+Bojonagara,3273250,Sukasari,3273250001,Sarijadi,11,7
+Bojonagara,3273250,Sukasari,3273250002,Sukarasa,1,8
+Bojonagara,3273250,Sukasari,3273250002,Sukarasa,2,6
+Bojonagara,3273250,Sukasari,3273250002,Sukarasa,3,6
+Bojonagara,3273250,Sukasari,3273250002,Sukarasa,4,5
+Bojonagara,3273250,Sukasari,3273250002,Sukarasa,5,4
+Bojonagara,3273250,Sukasari,3273250002,Sukarasa,6,4
+Bojonagara,3273250,Sukasari,3273250002,Sukarasa,7,5
+Cibeunying,3273170,Sumur Bandung,3273170004,Babakan Ciamis,1,4
+Cibeunying,3273170,Sumur Bandung,3273170004,Babakan Ciamis,2,5
+Cibeunying,3273170,Sumur Bandung,3273170004,Babakan Ciamis,3,7
+Cibeunying,3273170,Sumur Bandung,3273170004,Babakan Ciamis,4,4
+Cibeunying,3273170,Sumur Bandung,3273170004,Babakan Ciamis,5,3
+Cibeunying,3273170,Sumur Bandung,3273170004,Babakan Ciamis,6,5
+Cibeunying,3273170,Sumur Bandung,3273170004,Babakan Ciamis,7,7
+Cibeunying,3273170,Sumur Bandung,3273170004,Babakan Ciamis,8,8
+Cibeunying,3273170,Sumur Bandung,3273170001,Braga,1,6
+Cibeunying,3273170,Sumur Bandung,3273170001,Braga,2,8
+Cibeunying,3273170,Sumur Bandung,3273170001,Braga,3,3
+Cibeunying,3273170,Sumur Bandung,3273170001,Braga,4,6
+Cibeunying,3273170,Sumur Bandung,3273170001,Braga,5,6
+Cibeunying,3273170,Sumur Bandung,3273170001,Braga,6,4
+Cibeunying,3273170,Sumur Bandung,3273170001,Braga,7,6
+Cibeunying,3273170,Sumur Bandung,3273170001,Braga,8,6
+Cibeunying,3273170,Sumur Bandung,3273170002,Kebon Pisang,1,4
+Cibeunying,3273170,Sumur Bandung,3273170002,Kebon Pisang,2,3
+Cibeunying,3273170,Sumur Bandung,3273170002,Kebon Pisang,3,5
+Cibeunying,3273170,Sumur Bandung,3273170002,Kebon Pisang,4,5
+Cibeunying,3273170,Sumur Bandung,3273170002,Kebon Pisang,5,6
+Cibeunying,3273170,Sumur Bandung,3273170002,Kebon Pisang,6,13
+Cibeunying,3273170,Sumur Bandung,3273170002,Kebon Pisang,7,10
+Cibeunying,3273170,Sumur Bandung,3273170002,Kebon Pisang,8,5
+Cibeunying,3273170,Sumur Bandung,3273170002,Kebon Pisang,9,9
+Cibeunying,3273170,Sumur Bandung,3273170002,Kebon Pisang,10,11
+Cibeunying,3273170,Sumur Bandung,3273170002,Kebon Pisang,11,7
+Cibeunying,3273170,Sumur Bandung,3273170002,Kebon Pisang,12,7
+Cibeunying,3273170,Sumur Bandung,3273170003,Merdeka,1,5
+Cibeunying,3273170,Sumur Bandung,3273170003,Merdeka,2,5
+Cibeunying,3273170,Sumur Bandung,3273170003,Merdeka,3,5
+Cibeunying,3273170,Sumur Bandung,3273170003,Merdeka,4,8
+Cibeunying,3273170,Sumur Bandung,3273170003,Merdeka,5,6
+Cibeunying,3273170,Sumur Bandung,3273170003,Merdeka,6,9
+Cibeunying,3273170,Sumur Bandung,3273170003,Merdeka,7,7
+Cibeunying,3273170,Sumur Bandung,3273170003,Merdeka,8,7
+Cibeunying,3273170,Sumur Bandung,3273170003,Merdeka,9,6
+Ujungberung,3273120,Ujungberung,3273120006,Cigending,1,7
+Ujungberung,3273120,Ujungberung,3273120006,Cigending,2,3
+Ujungberung,3273120,Ujungberung,3273120006,Cigending,3,6
+Ujungberung,3273120,Ujungberung,3273120006,Cigending,4,5
+Ujungberung,3273120,Ujungberung,3273120006,Cigending,5,4
+Ujungberung,3273120,Ujungberung,3273120006,Cigending,6,5
+Ujungberung,3273120,Ujungberung,3273120006,Cigending,7,7
+Ujungberung,3273120,Ujungberung,3273120006,Cigending,8,7
+Ujungberung,3273120,Ujungberung,3273120006,Cigending,9,6
+Ujungberung,3273120,Ujungberung,3273120006,Cigending,10,8
+Ujungberung,3273120,Ujungberung,3273120006,Cigending,11,8
+Ujungberung,3273120,Ujungberung,3273120003,Pasanggrahan,1,5
+Ujungberung,3273120,Ujungberung,3273120003,Pasanggrahan,2,4
+Ujungberung,3273120,Ujungberung,3273120003,Pasanggrahan,3,3
+Ujungberung,3273120,Ujungberung,3273120003,Pasanggrahan,4,6
+Ujungberung,3273120,Ujungberung,3273120003,Pasanggrahan,5,5
+Ujungberung,3273120,Ujungberung,3273120003,Pasanggrahan,6,5
+Ujungberung,3273120,Ujungberung,3273120003,Pasanggrahan,7,5
+Ujungberung,3273120,Ujungberung,3273120003,Pasanggrahan,8,4
+Ujungberung,3273120,Ujungberung,3273120003,Pasanggrahan,9,4
+Ujungberung,3273120,Ujungberung,3273120003,Pasanggrahan,10,2
+Ujungberung,3273120,Ujungberung,3273120003,Pasanggrahan,11,4
+Ujungberung,3273120,Ujungberung,3273120003,Pasanggrahan,12,4
+Ujungberung,3273120,Ujungberung,3273120003,Pasanggrahan,13,4
+Ujungberung,3273120,Ujungberung,3273120003,Pasanggrahan,14,5
+Ujungberung,3273120,Ujungberung,3273120003,Pasanggrahan,15,6
+Ujungberung,3273120,Ujungberung,3273120007,Pasir Endah,1,6
+Ujungberung,3273120,Ujungberung,3273120007,Pasir Endah,2,8
+Ujungberung,3273120,Ujungberung,3273120007,Pasir Endah,3,7
+Ujungberung,3273120,Ujungberung,3273120007,Pasir Endah,4,6
+Ujungberung,3273120,Ujungberung,3273120007,Pasir Endah,5,7
+Ujungberung,3273120,Ujungberung,3273120007,Pasir Endah,6,7
+Ujungberung,3273120,Ujungberung,3273120007,Pasir Endah,7,8
+Ujungberung,3273120,Ujungberung,3273120004,Pasirjati,1,3
+Ujungberung,3273120,Ujungberung,3273120004,Pasirjati,2,5
+Ujungberung,3273120,Ujungberung,3273120004,Pasirjati,3,3
+Ujungberung,3273120,Ujungberung,3273120004,Pasirjati,4,5
+Ujungberung,3273120,Ujungberung,3273120004,Pasirjati,5,3
+Ujungberung,3273120,Ujungberung,3273120004,Pasirjati,6,5
+Ujungberung,3273120,Ujungberung,3273120004,Pasirjati,7,5
+Ujungberung,3273120,Ujungberung,3273120004,Pasirjati,8,5
+Ujungberung,3273120,Ujungberung,3273120004,Pasirjati,9,4
+Ujungberung,3273120,Ujungberung,3273120004,Pasirjati,10,7
+Ujungberung,3273120,Ujungberung,3273120004,Pasirjati,11,4
+Ujungberung,3273120,Ujungberung,3273120004,Pasirjati,12,6
+Ujungberung,3273120,Ujungberung,3273120004,Pasirjati,13,5
+Ujungberung,3273120,Ujungberung,3273120004,Pasirjati,14,7
+Ujungberung,3273120,Ujungberung,3273120005,Pasir Wangi,1,5
+Ujungberung,3273120,Ujungberung,3273120005,Pasir Wangi,2,4
+Ujungberung,3273120,Ujungberung,3273120005,Pasir Wangi,3,5
+Ujungberung,3273120,Ujungberung,3273120005,Pasir Wangi,4,6
+Ujungberung,3273120,Ujungberung,3273120005,Pasir Wangi,5,4
+Ujungberung,3273120,Ujungberung,3273120005,Pasir Wangi,6,8
+Ujungberung,3273120,Ujungberung,3273120005,Pasir Wangi,7,5
+Ujungberung,3273120,Ujungberung,3273120005,Pasir Wangi,8,5
+Ujungberung,3273120,Ujungberung,3273120005,Pasir Wangi,9,5
+Ujungberung,3273120,Ujungberung,3273120005,Pasir Wangi,10,5
+Ujungberung,3273120,Ujungberung,3273120005,Pasir Wangi,11,5
+Ujungberung,3273120,Ujungberung,3273120005,Pasir Wangi,12,7

@@ -1,0 +1,44 @@
+No,Nama Perusahaan,Alamat Perusahaan,Besaran Nilai (Perkiraan Dalam Rp),Uraian,Program Prioritas,Sub Program Prioritas,Penerima,Lokasi Penerima,Kecamatan,Kelurahan,Tahun Pelaksana,Keterangan
+1,Kuntum Cemerlang,Jl. Cipaku,65000000,Kegiatan Idul Adha,Agama,Bantuan Qurban Domba 15 Sapi 1,Warga,RW 02,Cidadap,Ledeng,-,Hotel
+2,Eldorado,Jl. Setiabudi,30000000,Pembangunan Masjid,Agama,Rehab Mesjid,Warga,RW 07,Cidadap,Ledeng,-,Hotel
+3,PT Podomoro,Jl. Ciumbuleuit 125,10000000,Kegiatan  Idul Adha,Agama,Bantuan Hewan Qurban,Warga ,RW 01,Cidadap,Hegarmanah,-,Hotel
+4,Galery Ciumbuleuit,Jl. Ciumbuleuit 42 A,40000000,Kegiatan Idul Adha,Agama,-,Warga,RW 00,Cidadap,Ciumbuleuit,-,Hotel
+5,Hotel Haris,Jl. Ciumbuleuit 50-58,9000000,Buka Bersama Warga,Agama,Silaturahmi / Bakti Sosial,Warga,RW 02,Cidadap,Ciumbuleuit,-,Hotel
+6,Hotel Haris,Jl. Ciumbuleuit 50-58,5000000,Kegiatan Idul Adha,Agama,Bantuan  Hewan Qurban,Warga,RW 02,Cidadap,Ciumbuleuit,-,Hotel
+7,Padma Hotel,-,15000000,Kegiatan Idul Adha,Agama,Bantuan Hewan Qurban,Kelompok Belajar 45+,RW 05,Cidadap,Ledeng,-,Hotel
+8,Maxis Restro,Jl. Gunung Agung 8,6000000,Kegiatan Idul Adha,Agama,Bantuan Hewan Qurban,Warga ,RW 05,Cidadap,Ciumbuleuit,-,Restoran
+9,Warung Etnik,Jl. Rancabentang 8,5000000,Kegiatan Idul Adha,Agama,Bantuan Hewan Qurban,Warga,RW 05,Cidadap,Ciumbuleuit,-,Restoran
+10,Graha Ciumbuleuit Guest House,Jl. Ciumbuleuit 159,16000000,Kegiatan Idul Adha,Agama,Bantuan Hewan Qurban,Warga,RW 06,Cidadap,Ciumbuleuit,-,Hotel
+11,PT Angkasa Pura,Jl. Pajajaran,27000000,Pemberian 1 Ekor Sapi Kurban,Agama,-,RW 001,Jl. Karya,Cicendo,Sukaraja,-,BUMN
+12,PT Angkasa Pura,Jl. Pajajaran,10225000,Perbaikan Masjid An Nur,Agama,Perbaikan Sarana Peribadatan,DKM Masjid An Nur,RT 02 RW 02,Andir,Campaka,-,BUMN
+13,PT Angkasa Pura,Jl. Pajajaran,13500000,"Bantuan 1 Unit Vacum Cleaner, 4 Unit Toa, 1 Unit Ampli Player,2 Buah Mig,",Agama,Sarana Peribadatan,DKM Masjid Az Zakaria,RT 05 RW 07,Andir,Campaka,-,BUMN
+14,CV Putra Gelar Anyar,Jl. Jendral Sudirman No.579,3000000,Bantuan HUT RI,Agama,Bakti sosial,Warga RT 02,Rw 09,Babakan Ciparay,Sukahaji,2018,Jasa Lainnya
+15,PT Panghegar Mitra Abadi,Jl. Soekarno Hatta,6000000,Membantu Pembangunan Renovasi Mesjid Al Falah RT 01/08,Agama,Pembangunan Mesjid,Mesjid Al Falah,RW 08,Bandung Kulon,Cibuntu,2018,Jasa Lainnya
+16,PT Panghegar Mitra Abadi,Jl. Soekarno Hatta,3000000,Membantu Operasional Untuk Tim MTQ Kec Bandung Kulon,Agama,MTQ Tk.Kec,Tim MTQ Tk.Kec,Kec.Bandung Kulon,Bandung Kulon,Cibuntu,2017,Jasa Lainnya
+17,Rumah Tahfidz Qur'An Anak Bandung,Jl. Dewi Sartika,10000000,Kegiatan Sosial Dan Keagamaan,Agama,-,Warga,Kel.Pungkur,Regol,Pungkur,2017 - 2018,Jasa Lainnya
+18,Rumah Tahfidz Qur'An Anak Bandung,Jl. Dewi Sartika,5000000,Sumbangan Ke Mesjid Al-Muhajirin,Agama,-,-,RW 03,Regol,Pungkur,2017,Jasa Lainnya
+19,Gedung Keuskupan,Jl. Moch Ramdan 18,15000000,Submmer Sible,Agama,-,-,Mesjid Al -Ikhbar RT 04 RW 01,Regol,Ciateul,2018,Jasa Lainnya
+20,PT LEN,Jl. Soekarno Hatta No.442,21000000,Sapi Qurban,Agama,Keagamaan,RW 08,Jl.Mengger Girang,Regol,Pasirluyu,2017 - 2018,BUMN
+21,PT LEN,Jl. Soekarno Hatta No.443,21000000,Sapi Qurban,Agama,Keagamaan,RW 07,Jl.Mengger Girang,Regol,Pasirluyu,2017 - 2018,BUMN
+22,Hotel D'Best Express,Moh Toha No.213,6000000,Hewan Qurban,Agama,Warga RW 07,Warga Kelurahan Cigereleng,Kelurahan Cigereleng,Regol,Pasirluyu,2018,Hotel
+23,PT Inti (Persero),Jl. Moh Toha No.77,1000000,Renovasi Mesjid An-Nuur,Agama,Keagamaan,DKM An-Nuur,Yayasan Mesjid INTI Jl. Moh Toha No.77,Regol,Cigereleng,2017,BUMN
+24,PT Inti (Persero),Jl. Moh Toha No.78,1000000,Renovasi Mesjid Muchtil Yunus,Agama,Keagamaan,DKM Muchtil Yunus,Yayasan Mesjid INTI Jl. Moh Toha No.77,Regol,Cigereleng,2017,BUMN
+25,Hotel Homan,Jl. Asia Afrika No.112 Bandung,30000000,Hari Raya Idul Adha,Agama,-,-,Rw 09,-,-,-,Hotel
+26,Maya Graha Indah,Soekarno Hatta 481,1000000,HUT RI RW 04,Agama,-,RW 04,RW 04,Lengkong,Cijagra,-,Jasa Lainnya
+27,Autobest,Soekarno Hatta 517  Rt 01/07,3000000,Domba  Kurban,Agama,-,RW 07,RW 07,Lengkong,Cijagra,-,Jasa Lainnya
+28,Mobil 88,Soekarno Hatta Rt 05/07,3000000,Domba  Kurban,Agama,-,RW 07,RW 07,Lengkong,Cijagra,-,Jasa Lainnya
+29,Mobil 88,Soekarno Hatta Rt 05/07,1000000,HUT RI RW 07,Agama,-,RW 07,RW 07,Lengkong,Cijagra,-,Jasa Lainnya
+30,PLN ,Jl. Ciliwung No.5,20000000,Karpet,Agama,Peralatan ibadah,"As-Syarief, An-Nur, Al-Husein",RT 01-02 RW 02,Arcamanik,Sukamiskin,2018,BUMN
+31,PLN ,Jl. Ciliwung No.5,14000000,Keranda,Agama,Peralatan ibadah,As-Syarief,RT 02 RW 02,Arcamanik,Sukamiskin,2018,BUMN
+32,PLN ,Jl. Ciliwung No.5,14000000,Pengeras Suara,Agama,Peralatan ibadah,"An-Nur, Al-Husein",RT 01-02 RW 02,Arcamanik,Sukamiskin,2018,BUMN
+33,PLN ,Jl. Soekarno Hatta,50000000,Perbaikan Mesjid RW 05,Agama,Keagamaan,RW 05,RW 05,Regol,Cigereleng,2017,BUMN
+34,PT Mahkota Permata Perdana (Summarecon) ,Jl. Gedebage Selatan No.98 Kelurahan Rancabolang,3000000,Sumbangan Hewan Kurban Berupa Domba,Agama,Keagamaan,Kecamatan Gedebage,Kantor Kecamatan Gedebage,Gedebage,Cisaranten Kidul,2018,Kontruksi
+35,PT Mahkota Permata Perdana (Summarecon) ,Jl. Gedebage Selatan No.98 Kelurahan Rancabolang,3000000,Sumbangan Hewan Kurban Berupa Domba,Agama,Keagamaan,Kelurahan Cisaranten Kidul,Kelurahan Cisaranten Kidul,Gedebage,Cisaranten Kidul,2018,Kontruksi
+36,PT Mahkota Permata Perdana (Summarecon) ,Jl. Gedebage Selatan No.98 Kelurahan Rancabolang,3000000,Sumbangan Hewan Kurban Berupa Domba,Agama,Keagamaan,Kelurahan Rancabolang,Kelurahan Rancabolang,Gedebage,Rancabolang,2018,Kontruksi
+37,PT Mahkota Permata Perdana (Summarecon) ,Jl. Gedebage Selatan No.98 Kelurahan Rancabolang,3000000,Sumbangan Hewan Kurban Berupa Domba,Agama,Keagamaan,Kelurahan Cimincrang,Kelurahan Cimincrang,Gedebage,Cimincrang,2018,Kontruksi
+38,PT 3 Mawar Sejati,Jl. Mekar Mulya RT 02/01,5000000,"Pengajian, Lingkungan Hidup",Agama,"Bakti Sosial, Lingkungan",Masyarakat,-,Panyileukan,Cipadung Kulon,-,Jasa Lainnya
+39,Mizan Pustaka,Jl. Cisaranten Wetan No.135 RT 01/RW 05,20000000,Pemberian Zakat,Agama,Bakti sosial,Mesjid,Cisaranten Wetan,Cinambo,Cisaranten Wetan,2018,Perdagangan Umum
+40,Mizan Pustaka,Jl. Cisaranten Wetan No.135 RT 01/RW 06,7000000,Kurban,Agama,Bakti sosial,RW 04/ RW 05,Cisaranten Wetan,Cinambo,Cisaranten Wetan,2018,Perdagangan Umum
+41,CV Harapan Mandiri,Jl. Cisaranten Wetan RT 01/RW 02,4000000,Kurban,Agama,Bakti sosial,Warga,Cisaranten Wetan,Cinambo,Cisaranten Wetan,2018,Jasa Lainnya
+42,PT Alfaraya Mitra Niaga,Jl. Golf Raya RT 02/RW 01,5000000,Maulid,Agama,Bakti sosial,Warga,Cisaranten Wetan,Cinambo,Cisaranten Wetan,2018,Perdagangan Umum
+43,PT Alfaraya Mitra Niaga,Jl. Golf Raya RT 02/RW 01,5000000,Pemberian Sumbangan,Agama,Bakti sosial,Warga,Cisaranten Wetan,Cinambo,Cisaranten Wetan,2018,Perdagangan Umum

@@ -1,0 +1,214 @@
+No,Nama Persimpangan,Kondisi CCTV,Kondisi Pengeras Suara,Vendor,Keterangan
+1,SP. Gede Bage,Tidak,Tidak,Marktel,-
+2,SP. Samsat ,Terhubung,Terhubung,Marktel,-
+3,SP. Buahbatu ,Terhubung,Terhubung,Marktel,-
+4,SP. Batununggal ,Terhubung,Terhubung,Marktel,CCTV sering gangguan
+5,SP. Moch. Toha,Terhubung,Terhubung,Marktel,-
+6,SP. Inhoftank,Terhubung,Terhubung,Marktel,-
+7,SP. Cibaduyut,Terhubung,Terhubung,Marktel,-
+8,SP. Kopo,Terhubung,Terhubung,Marktel,-
+9,SP. Pasar Caringin ,Terhubung,Terhubung,Marktel,-
+10,SP. Pasir koja ,Terhubung,Terhubung,Marktel,-
+11,SP. Cibeureum,Terhubung,Terhubung,Marktel,-
+12,SP. Jamika ,Terhubung,Terhubung,Marktel,-
+13,SP. Gardujati ,Terhubung,Terhubung,Marktel,-
+14,SP. Otista ,Terhubung,Terhubung,Marktel,-
+15,SP. Tamblong ,Terhubung,Tidak,Marktel,Tidak ada pengeras suara
+16,SP. Lima ,Terhubung,Tidak,Marktel,Tidak ada pengeras suara
+17,SP. Gudang Utara,Terhubung,Tidak,Marktel,CCTV No Video dan CCTV sering gangguan
+18,SP. A. Yani Laswi,Terhubung,Tidak,Marktel,Tidak ada pengeras suara
+19,SP. Supratman ,Terhubung,Terhubung,Marktel,-
+20,SP. Toll Pasteur ,Terhubung,Terhubung,Marktel,-
+21,SP. Paskal IP CAM,Terhubung,Terhubung,Marktel,-
+22,SP. Paskal Baru,Tidak,Tidak,Marktel,-
+23,SP. Cipaganti 1,Terhubung,Terhubung,Marktel,-
+24,SP. Cipaganti 2,Terhubung,Tidak,Marktel,Tidak ada pengeras suara
+25,SP. Cihampelas Barat,Terhubung,Tidak,Marktel,Tidak ada pengeras suara
+26,SP. Cihampelas Utara,Terhubung,Tidak,Marktel,Tidak ada pengeras suara
+27,SP. Cihampelas Timur,Terhubung,Tidak,Marktel,Tidak ada pengeras suara
+28,SP. Cihampelas PTZ,Terhubung,Terhubung,Marktel,-
+29,SP. Tamansari,Terhubung,Terhubung,Marktel,-
+30,SP. Cikapayang PTZ,Terhubung,Terhubung,Marktel,-
+31,SP. Cikapayang Selatan,Terhubung,Tidak,Marktel,Tidak ada pengeras suara
+32,SP. Cikapayang Utara,Terhubung,Tidak,Marktel,Tidak ada pengeras suara
+33,SP. Sulanjana,Terhubung,Tidak,Marktel,Tidak ada pengeras suara
+34,SP. Merdeka Aceh,Terhubung,Terhubung,Marktel,-
+35,SP. Merdeka Juanda,Terhubung,Terhubung,Marktel,
+36,SP. Cilamaya,Terhubung,Tidak,Marktel,-
+37,SP. Telkom,Terhubung,Terhubung,Marktel,-
+38,SP. Pahlawan,Terhubung,Terhubung,Marktel,-
+39,SP. Trunojoyo,Terhubung,Terhubung,Marktel,-
+40,SP. Banda,Terhubung,Terhubung,Marktel,-
+41,SP. Lombok,Terhubung,Terhubung,Marktel,-
+42,SP. Cihapit,Terhubung,Terhubung,Marktel,-
+43,SP. Aceh,Terhubung,Terhubung,Marktel,
+44,SP. Anggrek,Terhubung,Terhubung,Marktel,-
+45,SP. Cikutra,Terhubung,Terhubung,Marktel,-
+46,SP. Cimuncang,Terhubung,Terhubung,Marktel,-
+47,SP. Padasuka,Terhubung,Terhubung,Marktel,-
+48,SP. Cicaheum,Terhubung,Terhubung,Marktel,-
+49,SP. Ujung Berung,Tidak,Tidak,Marktel,-
+50,Loc 1. Cihampelas - Ciumbuleuit : Timur - Siliwangi,Terhubung,Terhubung,Huawei,-
+51,Loc 1. Cihampelas - Ciumbuleuit : Utara - Cihampelas,Tidak,Tidak,Huawei,-
+52,Loc 1. Cihampelas - Ciumbuleuit : Barat - Ciumbuleuit,Terhubung,Terhubung,Huawei,-
+53,Loc 1. Cihampelas - Ciumbuleuit : Cihampelas PTZ,Terhubung,Terhubung,Huawei,-
+54,Loc 2. Djuanda - Dipatiukur : Barat - Siliwangi,Tidak,Tidak,Huawei,-
+55,Loc 2. Djuanda - Dipatiukur : Timur - Djuanda,Tidak,Tidak,Huawei,-
+56,Loc 2. Djuanda - Dipatiukur : Selatan - Ir. Djuanda,Terhubung,Terhubung,Huawei,-
+57,Loc 2. Djuanda - Dipatiukur : Utara - Djuanda,Terhubung,Terhubung,Huawei,-
+58,Loc 2. Djuanda - Dipatiukur : Djuanda Dipatiukur PTZ,Terhubung,Terhubung,Huawei,-
+59,Loc 3. Abdurahman Saleh Pajajaran : Barat - Abdurahman Saleh,Tidak,Tidak,Huawei,-
+60,Loc 3. Abdurahman Saleh Pajajaran : Utara - Pajajaran,Tidak,Tidak,Huawei,-
+61,Loc 3. Abdurahman Saleh Pajajaran : Selatan - Arjuna,Tidak,Tidak,Huawei,-
+62,Loc 3. Abdurahman Saleh Pajajaran : Timur - Pajajaran,Tidak,Tidak,Huawei,-
+63,Loc 4. Jamika Pasir Koja : Utara - Jamika,Terhubung,Terhubung,Huawei,-
+64,Loc 4. Jamika Pasir Koja : Barat - Pagarsih,Terhubung,Terhubung,Huawei,-
+65,Loc 4. Jamika Pasir Koja : Timur jauh - Pagarsih,Tidak,Tidak,Huawei,-
+66,Loc 4. Jamika Pasir Koja : Selatan jauh - Pagarsih,Terhubung,Terhubung,Huawei,-
+67,Loc 4. Jamika Pasir Koja : Selatan - Jamika,Terhubung,Terhubung,Huawei,-
+68,Loc 4. Jamika Pasir Koja : Utara Jauh - Jamika,Terhubung,Terhubung,Huawei,-
+69,Loc 4. Jamika Pasir Koja : Barat Jauh - Pagarsih,Terhubung,Terhubung,Huawei,-
+70,Loc 4. Jamika Pasir Koja : Timur - Pagarsih,Tidak,Tidak,Huawei,-
+71,Loc 5. Pajajaran Pasirkaliki : Utara - Paskal,Terhubung,Terhubung,Huawei,-
+72,Loc 5. Pajajaran Pasirkaliki : Timur Pajajaran,Terhubung,Terhubung,Huawei,-
+73,Loc 5. Pajajaran Pasirkaliki : Selatan Paskal,Terhubung,Terhubung,Huawei,-
+74,Loc 6. Djuanda Aceh : Selatan - Merdeka,Terhubung,Terhubung,Huawei,-
+75,Loc 6. Djuanda Aceh : Barat - Aceh,Terhubung,Terhubung,Huawei,-
+76,Loc 6. Djuanda Aceh : Timur - Aceh,Terhubung,Terhubung,Huawei,-
+77,Loc 6. Djuanda Aceh : Utara - Djuanda,Terhubung,Terhubung,Huawei,-
+78,Loc 7. Astana anyar Cibadak : Timur - Cibadak,Tidak,Tidak,Huawei,-
+79,Loc 7. Astana anyar Cibadak : Utara - Astana anyar,Terhubung,Terhubung,Huawei,-
+80,Loc 7. Astana anyar Cibadak : Selatan - Astana anyar,Tidak,Tidak,Huawei,-
+81,Loc 8. Astana anyar Pagarsih : Utara - Astana anyar,Terhubung,Terhubung,Huawei,-
+82,Loc 8. Astana anyar Pagarsih : Timur - Kalipah apo,Tidak,Tidak,Huawei,-
+83,Loc 8. Astana anyar Pagarsih : Selatan - Astana anyar,Tidak,Tidak,Huawei,-
+84,Loc 8. Astana anyar Pagarsih : Barat - Pagarsih,Tidak,Tidak,Huawei,-
+85,Loc 9. Pasir Koja Astana Anyar : Barat - Terusan Pasir Koja,Tidak,Tidak,Huawei,-
+86,Loc 9. Pasir Koja Astana Anyar : Utara - Astana Anyar,Tidak,Tidak,Huawei,-
+87,Loc 9. Pasir Koja Astana Anyar : Selatan - Astana Anyar,Terhubung,Terhubung,Huawei,-
+88,Loc 10. Pungkur Otista : Barat - Terusan Pasir Koja,Tidak,Tidak,Huawei,-
+89,Loc 10. Pungkur Otista : Timur - Pungkur,Tidak,Tidak,Huawei,-
+90,Loc 10. Pungkur Otista : Utara - Otista,Terhubung,Terhubung,Huawei,-
+91,Loc 11. Otista Inggit Ganarsih : Utara - Otista,Tidak,Tidak,Huawei,-
+92,Loc 11. Otista Inggit Ganarsih : Timur - Inggit Ganarsih,Tidak,Tidak,Huawei,-
+93,Loc 11. Otista Inggit Ganarsih : Barat - Inggit Ganarsih,Terhubung,Terhubung,Huawei,-
+94,Loc 12. Moch Toha Inggit Ganarsih : Selatan - Moch. Toha,Tidak,Tidak,Huawei,-
+95,Loc 12. Moch Toha Inggit Ganarsih : Barat - Inggit Ganarsih,Tidak,Tidak,Huawei,-
+96,Loc 12. Moch Toha Inggit Ganarsih : Utara - Moch Toha,Terhubung,Terhubung,Huawei,-
+97,Loc 13. Pungkur Inggit Ganarsih : Utara - Lengkong Besar,Tidak,Tidak,Huawei,-
+98,Loc 13. Pungkur Inggit Ganarsih : Timur Pungkur,Terhubung,Terhubung,Huawei,-
+99,Loc 13. Pungkur Inggit Ganarsih : Selatan Inggit Ganarsih,Tidak,Tidak,Huawei,-
+100,Loc 13. Pungkur Inggit Ganarsih : Barat Pungkur,Tidak,Tidak,Huawei,-
+101,Loc 14. Dalem Kaum Lengkong Besar : Utara - Lengkong Besar,Tidak,Tidak,Huawei,-
+102,Loc 14. Dalem Kaum Lengkong Besar : Timur - Dalem Kaum ,Tidak,Tidak,Huawei,-
+103,Loc 14. Dalem Kaum Lengkong Besar : Barat -  Dalem Kaum,Tidak,Tidak,Huawei,-
+104,Loc 15. Terusan Pasir Koja - Peta : Utara - Jamika,Terhubung,Terhubung,Huawei,-
+105,Loc 15. Terusan Pasir Koja - Peta : Selatan - Peta Bbk Ciparay,Terhubung,Terhubung,Huawei,-
+106,Loc 15. Terusan Pasir Koja - Peta : Selatan - Terusan Pasir Koja ,Terhubung,Terhubung,Huawei,-
+107,Loc 15. Terusan Pasir Koja - Peta : Timur - Terusan Pasir Koja ,Terhubung,Terhubung,Huawei,-
+108,Loc 15. Terusan Pasir Koja - Peta : Selatan - Peta ,Terhubung,Terhubung,Huawei,-
+109,Loc 15. Terusan Pasir Koja - Peta : Barat - Pasir Koja,Terhubung,Terhubung,Huawei,-
+110,Loc 15. Terusan Pasir Koja - Peta : Utara - Terusan Paasir Koja ,Terhubung,Terhubung,Huawei,-
+111,Loc 15. Terusan Pasir Koja - Peta : Utara - Pasir Koja,Terhubung,Terhubung,Huawei,-
+112,Loc 15. Terusan Pasir Koja - Peta : Pasir Koja PTZ,Terhubung,Terhubung,Huawei,-
+113,Loc 16. Peta Kopo : Utara - Kopo (Traffic Counting),Tidak,Tidak,Huawei,-
+114,Loc 16. Peta Kopo : Utara - Kopo,Terhubung,Terhubung,Huawei,-
+115,Loc 16. Peta Kopo : Barat - Peta,Terhubung,Terhubung,Huawei,-
+116,Loc 16. Peta Kopo : Timur - Peta (Traffic Counting),Tidak,Tidak,Huawei,-
+117,Loc 16. Peta Kopo : Selatan - Peta (Traffic Counting),Terhubung,Terhubung,Huawei,-
+118,Loc 16. Peta Kopo : Selatan - Peta,Tidak,Tidak,Huawei,-
+119,Loc 16. Peta Kopo : Barat - Peta (Traffic Counting),Terhubung,Terhubung,Huawei,-
+120,Loc 16. Peta Kopo : Barat - Peta,Terhubung,Terhubung,Huawei,-
+121,Loc 16. Peta Kopo : Peta Kopo PTZ ,Tidak,Tidak,Huawei,-
+122,Loc 17. Peta Leuwi Panjang : Barat - Peta,Terhubung,Terhubung,Huawei,-
+123,Loc 17. Peta Leuwi Panjang : Timur -Peta,Terhubung,Terhubung,Huawei,-
+124,Loc 17. Peta Leuwi Panjang : Selatan Leuwi Panjang,Terhubung,Terhubung,Huawei,-
+125,Loc 18. Peta Otista : Selatan - Pelindung Hewan,Tidak,Tidak,Huawei,-
+126,Loc 18. Peta Otista : Utara - Otista,Tidak,Tidak,Huawei,-
+127,Loc 18. Peta Otista : Barat - Peta,Tidak,Tidak,Huawei,-
+128,Loc 18. Peta Otista : Timur - BKR,Tidak,Tidak,Huawei,-
+129,Loc 19. Moch Toha - BKR : Timur - BKR,Terhubung,Terhubung,Huawei,-
+130,Loc 19. Moch Toha - BKR : Selatan - Moch Toha,Terhubung,Terhubung,Huawei,-
+131,Loc 19. Moch Toha - BKR : Selatan - Moch Toha (Traffic Counting),Terhubung,Terhubung,Huawei,-
+132,Loc 19. Moch Toha - BKR : Utara - Moch Toha,Terhubung,Terhubung,Huawei,-
+133,Loc 19. Moch Toha - BKR : Timur - BKR  (Traffic Counting),Terhubung,Terhubung,Huawei,-
+134,Loc 19. Moch Toha - BKR : Barat - BKR,Terhubung,Terhubung,Huawei,-
+135,Loc 19. Moch Toha - BKR : Moch Toha BKR PTZ,Tidak,Tidak,Huawei,-
+136,Loc 19. Moch Toha - BKR : Barat BKR  (Traffic Counting),Terhubung,Terhubung,Huawei,-
+137,Loc 19. Moch Toha - BKR : Utara - Moch Toha Traffic Counting),Terhubung,Terhubung,Huawei,-
+138,Loc 20. BKR - Ramdhan : Utara - M.Ramdhan,Terhubung,Terhubung,Huawei,-
+139,Loc 20. BKR - Ramdhan : Timur - BKR,Terhubung,Terhubung,Huawei,-
+140,Loc 20. BKR - Ramdhan : Barat - BKR,Terhubung,Terhubung,Huawei,-
+141,Loc 21. BKR - Sriwijaya :  Barat - BKR,Terhubung,Terhubung,Huawei,-
+142,Loc 21. BKR - Sriwijaya :  BKR - Sriwijaya PTZ,Terhubung,Terhubung,Huawei,-
+143,Loc 21. BKR - Sriwijaya :  Selatan - Sriwijaya,Terhubung,Terhubung,Huawei,-
+144,Loc 21. BKR - Sriwijaya :  Timur - BKR,Terhubung,Terhubung,Huawei,-
+145,Loc 21. BKR - Sriwijaya :  Utara - Sripohaci,Tidak,Tidak,Huawei,-
+146,Loc 22. Pelajar Pejuang - Buah Batu : Selatan - Buah Batu,Tidak,Tidak,Huawei,-
+147,Loc 22. Pelajar Pejuang - Buah Batu : Utara - Jauh Buah Batu,Tidak,Tidak,Huawei,-
+148,Loc 22. Pelajar Pejuang - Buah Batu : Utara - Buah Batu,Terhubung,Terhubung,Huawei,-
+149,Loc 22. Pelajar Pejuang - Buah Batu : Selatan - Jauh Buah Batu,Terhubung,Terhubung,Huawei,-
+150,Loc 22. Pelajar Pejuang - Buah Batu : Timur - Jauh Pelajar Pejuang,Tidak,Tidak,Huawei,-
+151,Loc 22. Pelajar Pejuang - Buah Batu : Barat - BKR,Tidak,Tidak,Huawei,-
+152,Loc 22. Pelajar Pejuang - Buah Batu : Timur - Pelajar Pejuang,Tidak,Tidak,Huawei,-
+153,Loc 22. Pelajar Pejuang - Buah Batu : Barat - Jauh BKR,Terhubung,Terhubung,Huawei,-
+154,Loc 23. Pelajar Pejuang - Lodaya : Utara - Pelajar Pejuang,Terhubung,Terhubung,Huawei,-
+155,Loc 23. Pelajar Pejuang - Lodaya : Timur - Marthanegara,Terhubung,Terhubung,Huawei,-
+156,Loc 23. Pelajar Pejuang - Lodaya : Barat - Lodaya,Terhubung,Terhubung,Huawei,-
+157,Loc 23. Pelajar Pejuang - Lodaya : Selatan - Pelajar Pejuang ,Terhubung,Terhubung,Huawei,-
+158,Loc 24. Pelajar Pejuang - Telaga Bodas : Barat - Telaga Bodas,Terhubung,Terhubung,Huawei,-
+159,Loc 24. Pelajar Pejuang - Telaga Bodas : Utara - Pelajar Pejuang,Terhubung,Terhubung,Huawei,-
+160,Loc 24. Pelajar Pejuang - Telaga Bodas : Timur - Telaga Bodas,Terhubung,Terhubung,Huawei,-
+161,Loc 24. Pelajar Pejuang - Telaga Bodas : Selatan - Pelajar Pejuang ,Terhubung,Terhubung,Huawei,-
+162,Loc 25. Pelajar Pejuang - Gatsu : Utara - Timur - Gatot Subroto,Tidak,Tidak,Huawei,-
+163,Loc 25. Pelajar Pejuang - Gatsu : Utara - Selatan - Pelajar Pejuang (Traffic Counting),Terhubung,Terhubung,Huawei,-
+164,Loc 25. Pelajar Pejuang - Gatsu : Utara - Laswi,Terhubung,Terhubung,Huawei,-
+165,Loc 25. Pelajar Pejuang - Gatsu : Timur - Gatot Subroto (Traffic Counting),Terhubung,Terhubung,Huawei,-
+166,Loc 25. Pelajar Pejuang - Gatsu : Barat - Gatot Subroto,Terhubung,Terhubung,Huawei,-
+167,Loc 25. Pelajar Pejuang - Gatsu : Barat - Gatot Subroto (Traffic Counting),Tidak,Tidak,Huawei,-
+168,Loc 25. Pelajar Pejuang - Gatsu : Utara - Lawi (Traffic Counting),Terhubung,Terhubung,Huawei,-
+169,Loc 25. Pelajar Pejuang - Gatsu : Selatan - Pelajar Pejuang,Tidak,Tidak,Huawei,-
+170,Loc 26. Pelajar Pejuang - Laswi : Selatan -Laswi,Terhubung,Terhubung,Huawei,-
+171,Loc 26. Pelajar Pejuang - Laswi : Utara - Laswi,Tidak,Tidak,Huawei,-
+172,Loc 26. Pelajar Pejuang - Laswi : Timur - Sukabumi,Tidak,Tidak,Huawei,-
+173,Loc 27. Gatsu - Malabar : Timur - Gatsu,Tidak,Tidak,Huawei,-
+174,Loc 27. Gatsu - Malabar : Selatan - Malabar,Terhubung,Terhubung,Huawei,-
+175,Loc 27. Gatsu - Malabar : Barat - Gatsu ,Terhubung,Terhubung,Huawei,-
+176,Loc 27. Gatsu - Malabar : Utara - Malabar,Tidak,Tidak,Huawei,-
+177,Loc 28. Ramdhan - Pungkur : Barat - Pungkur,Terhubung,Terhubung,Huawei,-
+178,Loc 28. Ramdhan - Pungkur : Utara - Ramdhan,Terhubung,Terhubung,Huawei,-
+179,Loc 28. Ramdhan - Pungkur : Timur - Pungkur,Terhubung,Terhubung,Huawei,-
+180,Loc 28. Ramdhan - Pungkur : Selatan - Ramdhan ,Terhubung,Terhubung,Huawei,-
+181,Loc 29. Cikawao - Karapitan : Barat - Cikawao,Terhubung,Terhubung,Huawei,-
+182,Loc 29. Cikawao - Karapitan : Timur - Sadakeling,Terhubung,Terhubung,Huawei,-
+183,Loc 29. Cikawao - Karapitan : Selatan - Karapitan,Terhubung,Terhubung,Huawei,-
+184,Loc 30. Lodaya - Telaga Bodas : Barat - Telaga Bodas,Tidak,Tidak,Huawei,-
+185,Loc 30. Lodaya - Telaga Bodas : Selatan - Burangrang,Terhubung,Terhubung,Huawei,-
+186,Loc 30. Lodaya - Telaga Bodas : Timur - Sadakeling,Terhubung,Terhubung,Huawei,-
+187,Loc 30. Lodaya - Telaga Bodas : Utara - Lodaya,Terhubung,Terhubung,Huawei,-
+188,Loc 31. Gatsu - Ibrahim Adjie : Utara - Ibrahim,Tidak,Tidak,Huawei,-
+189,Loc 31. Gatsu - Ibrahim Adjie : Timur - Gatsu,Tidak,Tidak,Huawei,-
+190,Loc 31. Gatsu - Ibrahim Adjie : Selatan - Ibrahim ,Tidak,Tidak,Huawei,-
+191,Loc 32.  Ibrahim Adjie - Jakarta : Timur - Jakarta,Terhubung,Terhubung,Huawei,-
+192,Loc 32.  Ibrahim Adjie - Jakarta : Barat - Jakarta,Terhubung,Terhubung,Huawei,-
+193,Loc 32.  Ibrahim Adjie - Jakarta : Utara - Ibrahim,Terhubung,Terhubung,Huawei,-
+194,Loc 32.  Ibrahim Adjie - Jakarta : Selatan - Ibrahim (Traffic Counting),Terhubung,Terhubung,Huawei,-
+195,Loc 32.  Ibrahim Adjie - Jakarta : Utara - Ibrahim (Traffic Counting),Tidak,Tidak,Huawei,-
+196,Loc 32.  Ibrahim Adjie - Jakarta : Selatan - Ibrahim ,Tidak,Tidak,Huawei,-
+197,Loc 33.  A.Yani Ibrahim Adie : Selatan - A.Yani,Terhubung,Terhubung,Huawei,-
+198,Loc 33.  A.Yani Ibrahim Adie : Barat - Ibrahim,Tidak,Tidak,Huawei,-
+199,Loc 33.  A.Yani Ibrahim Adie : Utara - A.yani,Terhubung,Terhubung,Huawei,-
+200,Asia Afrika,Terhubung,Terhubung,-,Radar
+201,A Yani Laswi,Tidak,Tidak,-,Radar
+202,Buah Batu Samsat,Terhubung,Tidak,-,Radar
+203,Caringin - Kopo,Tidak,Tidak,-,Radar
+204,Caringin - Pasirkoja,Tidak,Tidak,-,Radar
+205,Cibeureum - Pasirkoja,Tidak,Tidak,-,Radar
+206,Cibiru - Gede Bage,Tidak,Tidak,-,Radar
+207,Inhopteng - M.Toha,Tidak,Tidak,-,Radar
+208,Jend. Sudirman,Terhubung,Tidak,-,Radar
+209,Kopo - Caringin,Tidak,Tidak,-,Radar
+210,M Toha - Batununggal,Tidak,Tidak,-,Radar
+211,Pahlawan - Telkom,Terhubung,Tidak,-,Radar
+212,Samsat Gede Bage,Tidak,Tidak,-,Radar
+213,Telkom - Pahlawan,Terhubung,Tidak,-,Radar
