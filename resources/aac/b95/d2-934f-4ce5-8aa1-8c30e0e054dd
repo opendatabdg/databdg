@@ -1,0 +1,16 @@
+Kawasan,Jenis Kendaraan,Tarif Parkir 1 Jam,Tarif Parkir 1 Jam Berikutnya
+Pinggiran Kota,Truk Gandeng/Trailer/Kontainer,5000,2500
+Pinggiran Kota,Bus/Truk,5000,2500
+Pinggiran Kota,Box/Pick Up,2000,2000
+Pinggiran Kota,Roda Empat/Roda Tiga/Sedan,2000,2000
+Pinggiran Kota,Motor,1000,1000
+Penyangga Kota,Truk Gandeng/Trailer/Kontainer,5000,3000
+Penyangga Kota,Bus/Truk,5000,3000
+Penyangga Kota,Box/Pick Up,2000,2000
+Penyangga Kota,Roda Empat/Roda Tiga/Sedan,2500,2000
+Penyangga Kota,Motor,1000,1000
+Pusat Kota,Truk Gandeng/Trailer/Kontainer,5000,3000
+Pusat Kota,Bus/Truk,5000,3000
+Pusat Kota,Box/Pick Up,3000,2000
+Pusat Kota,Roda Empat/Roda Tiga/Sedan,3000,2000
+Pusat Kota,Motor,1500,1000

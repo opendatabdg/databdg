@@ -1,0 +1,271 @@
+No,Zona,Lokasi,Posisi (derajat),Keterangan
+1,Pusat Kota,Jl. Dewi Sartika,45,Satu sisi jalan (ruas jalan)
+2,Pusat Kota,Jl. Kebonjati,0,Satu sisi jalan (ruas jalan) mulai  dari  persimpangan Jl. Gardujati s/d persimpangan St. Hall
+3,Pusat Kota,Jl. Ibu Inggit Garnasih (Jl. Ciateul),0,Satu sisi jalan (ruas jalan) mulai dari persimpangan Jl. Astana Anyar s/d persimpangan Jl. Moh. Toha
+4,Pusat Kota,Jl. Ibu Inggit Garnasih (Jl. Ciateul),0,Dua  sisi  jalan  (ruas jalan) mulai  dari  persimpangan Jl. Moh. Toha s/d persimpangan Jl. Pungkur
+5,Pusat Kota,Jl. Alkateri,45,Satu sisi jalan (ruas jalan)
+6,Pusat Kota,Jl. Pasar Barat,0,Satu sisi jalan (ruas jalan)
+7,Pusat Kota,Jl. Kasmin,0,Satu sisi jalan (ruas jalan)
+8,Pusat Kota,Jl. Pelana,45,Satu sisi jalan (ruas jalan)
+9,Pusat Kota,Jl. Stasiun Timur,45,Satu sisi jalan (ruas jalan)
+10,Pusat Kota,Jl. Panjunan,0,Satu sisi jalan (ruas jalan)
+11,Pusat Kota,Jl. Karang Anyar,0,Satu sisi jalan (ruas jalan)
+12,Pusat Kota,Jl. Otto Iskandardinata,45,Satu sisi jalan (ruas jalan)  mulai dari persimpangan Jl. Station Timur s/d persimpangan Jl. Suniaraja Satu sisi jalan (ruas jalan) mulai dari persimpangan Jl. Station Timur s/d persimpangan Jl. Suniaraja 
+13,Pusat Kota,Jl. Otto Iskandardinata,45,Satu sisi jalan (ruas jalan) mulai dari persimpangan Jl. ABC s/d persimpangan Jl. Pelana 
+14,Pusat Kota,Jl. Otto Iskandardinata,45,Dua  sisi  jalan  (ruas jalan) mulai  dari  persimpangan Jl. Pelana s/d persimpangan Jl. Peta
+15,Pusat Kota,Jl. Babatan,60,Satu sisi jalan (ruas jalan)
+16,Pusat Kota,Jl. KH. Wahid Hasyim (Kopo),0,Satu sisi jalan (ruas jalan) mulai dari persimpangan Jl. Panjunan s/d persimpangan Jl. Pasirkoja 
+17,Pusat Kota,Jl. KH. Wahid Hasyim (Kopo),0,Dua  sisi  jalan  (ruas jalan) mulai  dari  persimpangan Jl. Nyengseret s/d persimpangan Jl. Panjunan
+18,Pusat Kota,Jl. Belakang Pasar,0,Satu sisi jalan (ruas jalan)
+19,Pusat Kota,Jl. Kejaksaan,0,Satu sisi jalan (ruas jalan)
+20,Pusat Kota,Jl. Van Deventer,0,Satu sisi jalan (ruas jalan)
+21,Pusat Kota,Jl. Sa’ad,0,Satu sisi jalan (ruas jalan)
+22,Pusat Kota,Jl. Aceh,45,Satu sisi jalan (ruas jalan) mulai dari persimpangan Jl. Wastukencana s/d Polsek Sumur Bandung
+23,Pusat Kota,Jl. Aceh,0,Satu sisi jalan (ruas jalan) mulai dari persimpangan Wastukancana s/d persimpangan Merdeka (Taman Sejarah)
+24,Pusat Kota,Jl. Sumatera,0,Satu sisi jalan (ruas jalan)   mulai   dari persimpangan Jl. Aceh    s/d    persimpangan Jl. Veteran
+25,Pusat Kota,Jl. Kalimantan,0,Satu sisi jalan (ruas jalan)
+26,Pusat Kota,Jl. Bali,0,Satu sisi jalan (ruas jalan)
+27,Pusat Kota,Jl. Jawa,0,Satu sisi jalan (ruas jalan)   mulai   dari persimpangan Jl. Merdeka  s/d persimpangan Jl. Kalimantan
+28,Pusat Kota,Jl. Belitung,0,Satu sisi jalan (ruas jalan)
+29,Pusat Kota,Jl. Panaitan,0,Satu sisi jalan (ruas jalan)
+30,Pusat Kota,Jl. Natuna,0,Satu sisi jalan (ruas jalan)
+31,Pusat Kota,Jl. Sunda,0,Satu sisi jalan (ruas jalan)
+32,Pusat Kota,Jl. Tera,0,Satu sisi jalan (ruas jalan)
+33,Pusat Kota,Jl. Viaduct,0,Satu sisi jalan (ruas jalan)
+34,Pusat Kota,Jl. Belakang Homan,0,Satu sisi jalan (ruas jalan) di Kota Bandung
+35,Pusat Kota,Jl. Lengkong Besar,0,Satu sisi jalan (ruas jalan)
+36,Pusat Kota,Jl. ABC,0,Satu sisi jalan (ruas jalan) mulai  dari  persimpangan Jl. Banceuy s/d persimpangan Jl. Braga
+37,Pusat Kota,Jl. ABC,30,Satu sisi jalan (ruas jalan) mulai dari persimpangan Jl. Otista  s/d  persimpangan Jl. Banceuy
+38,Pusat Kota,Jl. Pungkur,0,Satu sisi jalan (ruas jalan)   mulai   dari persimpangan Jl. Dewi  Sartika  s/d persimpangan    Jl.    Moh. Toha
+39,Pusat Kota,Jl. Pungkur,0,Dua  sisi  jalan  (ruas jalan) sisi selatan
+40,Pusat Kota,Jl. Pungkur,0,Dua    sisi    jalan    (ruas jalan)   mulai   dari persimpangan Jl. Otista  s/d  persimpangan Jl. Dewi Sartika
+41,Pusat Kota,Jl. Pungkur,0,Dua  sisi  jalan  (ruas jalan) mulai  dari  persimpangan Jl.   Lengkong   Besar   s/d persimpangan    Jl.    Moh. Ramdhan
+42,Pusat Kota,Jl. Pungkur,45,Dua  sisi  jalan  (ruas jalan) mulai  dari  persimpangan Jl.   Moh.   Toha   s/d persimpangan Jl. Lengkong Besar
+43,Pusat Kota,Jl. Mochamad Toha,0,Satu sisi jalan (ruas jalan)   mulai   dari persimpangan Jl.   Pungkur   s/d persimpangan Jl. Peta
+44,Pusat Kota,Jl. Mochamad Toha,45,Satu sisi jalan (ruas jalan)   mulai   dari persimpangan Jl.   Pungkur   s/d persimpangan Jl. Peta
+45,Pusat Kota,Jl. Veteran,0,Dua  sisi  jalan  (ruas jalan) mulai  dari  persimpangan Jl.   Lembong   s/d persimpangan Jl. Sunda
+46,Pusat Kota,Jl. Kalipah Apo,0,Satu sisi jalan (ruas jalan)   mulai   dari persimpangan    Gg.Abuya s/d  Persimpangan  Jl. Otista
+47,Pusat Kota,,0,Dua  sisi  jalan  (ruas jalan) mulai  dari  persimpangan Jl. Astana Anyar s/d persimpangan Gg. Abuya
+48,Pusat Kota,Jl. Braga,0,Satu sisi jalan (ruas jalan)
+49,Pusat Kota,Jl. Kebon Kawung,0,Satu sisi jalan (ruas jalan)
+50,Pusat Kota,Jl. Bapa Supi,0,Satu sisi jalan (ruas jalan)
+51,Pusat Kota,Jl. Paledang,0,Satu sisi jalan (ruas jalan)
+52,Pusat Kota,Gg. Cikapundung,0,Satu sisi jalan (ruas jalan)
+53,Pusat Kota,Jl. Sasak Gantung,0,Satu sisi jalan (ruas jalan)
+54,Pusat Kota,Jl. Jend. Sudirman,0,Dua sisi jalan (ruas jalan) Mulai  dari  persimpangan Jl. Otista s/d persimpangan Jl. Gardujati
+55,Pusat Kota,Jl. Jend. Sudirman,45,Satu sisi jalan (ruas jalan)   mulai   dari persimpangan Jl. Gardujati s/d persimpangan Jl. Jamika
+56,Pusat Kota,Jl. Naripan,0,Dua  sisi  jalan  (ruas jalan) mulai  dari  persimpangan Jl.  Sumatra  s/d  Jl. Sunda
+57,Pusat Kota,Jl. Lengkong Kecil,0,Dua sisi jalan (ruas jalan)
+58,Pusat Kota,Jl. Dalem Kaum,0,Satu    sisi    mulai persimpangan Jl. Belakang  Homan  s/d  Jl. Lengkong besar
+59,Pusat Kota,Jl. Dalem Kaum,30,Satu sisi jalan (ruas jalan)    mulai    dari    Alun- Alun    timur    s/d persimpangan Jl. Belakang Homan
+60,Pusat Kota,Jl. Balonggede,0,Satu sisi jalan (ruas jalan)
+61,Pusat Kota,Jl. Astana Anyar,0,Satu sisi jalan (ruas jalan)   mulai   dari persimpangan Jl. Cibadak  s/d persimpangan Jl. Sudirman
+62,Pusat Kota,Jl. Astana Anyar,0,Satu sisi jalan (ruas jalan)   mulai   dari persimpangan   Jl. Ibu Inggit    Garnasih    s/d Jl. Otista.
+63,Pusat Kota,Jl. Astana Anyar,45,Satu sisi jalan (ruas jalan)      mulai   dari persimpangan Jl. Cibadak s/d Jl. Ibu Inggit Garnasih
+64,Pusat Kota,Jl. Gardujati,45,Satu sisi jalan (ruas jalan)
+65,Pusat Kota,Jl. Pajagalan,0,Satu sisi jalan (ruas jalan)      mulai   dari persimpangan Jl. Kalipah  Apo  s/d  Jl. Astana Anyar
+66,Pusat Kota,Jl. Pajagalan,0,Dua  sisi  jalan  (ruas jalan) mulai  dari  persimpangan Jl. Karang Anyar s/d Jl. Cibadak
+67,Pusat Kota,Jl. Karapitan,0,Satu sisi jalan (ruas jalan)   mulai   dari persimpangan Jl. Gurame   s/d Persimpangan Jl. Cikawao
+68,Pusat Kota,Jl. Karapitan,45,Satu sisi jalan (ruas jalan)   mulai   dari persimpangan Jl. Cikawao  s/d Persimpangan Jl. Paledang
+69,Pusat Kota,Jl. Moh. Ramdhan,0,Dua sisi jalan (ruas jalan)
+70,Pusat Kota,Jl. Pasirkoja,0,Satu sisi jalan (ruas jalan)  mulai  dari  Pers.Jl. Kopo   s/d   Jl.   Astana Anyar
+71,Pusat Kota,Jl. Pasirkoja,0,Dua  sisi  jalan  (ruas jalan) mulai  dari  persimpangan Jl.  Astana  Anyar  s/d  Jl. Otista
+72,Pusat Kota,Jl. Bojongloa,0,Satu sisi jalan (ruas jalan)
+73,Pusat Kota,Jl. Kebon Jukut,0,Satu sisi jalan (ruas jalan)
+74,Pusat Kota,Jl. Banceuy,45,Satu sisi jalan (ruas jalan)
+75,Pusat Kota,Jl. Suniaraja,45,Satu sisi jalan (ruas jalan)
+76,Pusat Kota,Jl. Cikawao,0,Satu sisi jalan (ruas jalan)
+77,Pusat Kota,Jl. Dulatif,60,Satu sisi jalan (ruas jalan)
+78,Pusat Kota,Jl. Cikapundung Barat,60,Satu sisi jalan (ruas jalan)
+79,Pusat Kota,Jl. Cibadak,0,Dua  sisi  jalan  (ruas jalan) mulai  dari  persimpangan Jl.  Astana  Anyar  s/d  Jl. Sudirman.
+80,Pusat Kota,Jl. Cibadak,0,Satu sisi jalan (ruas jalan)      mulai   dari persimpangan Jl. Otista  s/d  persimpangan Jl. Astana Anyar
+81,Pusat Kota,Jl. Pasudan,0,Satu sisi jalan (ruas jalan)
+82,Pusat Kota,Jl. Pecinan Lama,60,Satu sisi jalan (ruas jalan)
+83,Pusat Kota,Gg. Suniaraja,60,Satu sisi jalan (ruas jalan)
+84,Pusat Kota,Pelataran parkir Jl. Tamim - Pasar Selatan,-,Tempat Khusus Parkir
+85,Pusat Kota,Pelataran Parkir Taman Tegallega,-,Tempat Khusus Parkir
+86,Pusat Kota,Pelataran Parkir Plaza Balaikota,-,Tempat Khusus Parkir
+87,Pusat Kota,Pelataran Parkir/Basement Mesjid Al-Uquwah   Bandung,-,Tempat Khusus Parkir
+88,Pusat Kota,Pelataran Parkir Terminal Station Hall,-,Tempat Khusus Parkir
+89,Pusat Kota,Pelataran Parkir Taman Vanda,-,Tempat Khusus Parkir
+90,Pusat Kota,Jl. Cicendo,45,Satu sisi jalan (ruas jalan)
+91,Pusat Kota,Jl. Bengawan,0,Satu sisi jalan (ruas jalan)
+92,Pusat Kota,Jl. Veteran,0,Satu sisi jalan (ruas jalan) mulai dari persimpangan Jl. Sunda s/d   persimpangan   Jl.   A. Yani
+93,Pusat Kota,Jl. Naripan,0,Satu sisi jalan (ruas jalan) mulai dari persimpangan Jl.  Sunda s/d   persimpangan   Jl.   A. Yani
+94,Pusat Kota,Jl. Gatot Subroto,0,Satu sisi jalan (ruas jalan)   mulai   dari persimpangan Jl. Katapang s/d persimpangan  Jl.  Ibrahim Aji
+95,Pusat Kota,Jl. Gatot Subroto,60,Satu sisi jalan (ruas jalan) mulai dari Simpang Lima s/d   Jl. Katapang
+96,Pusat Kota,Jl. Sukajadi,0,Satu sisi jalan (ruas jalan)   mulai   dari persimpangan Jl. Eyckman      s/d persimpangan    Jl.    Setra Sari
+97,Pusat Kota,Jl. Sukajadi,45,Satu sisi jalan (ruas jalan)   mulai   dari persimpangan Jl. Karang  Setra  s/d persimpangan Jl. Setiabudhi
+98,Pusat Kota,Jl. Malabar,0,Satu sisi jalan (ruas jalan)
+99,Pusat Kota,Jl. Pindad,0,Satu sisi jalan (ruas jalan)
+100,Pusat Kota,Jl. Tamansari,0,Satu sisi jalan (ruas jalan)
+101,Pusat Kota,Jl. Anggrek,0,Satu sisi jalan (ruas jalan)
+102,Pusat Kota,Jl. Jurang,60,Satu sisi jalan (ruas jalan)   mulai   dari persimpangan Jl. Sederhana s/d persimpangan Jl. Sukamaju (Depan PD. Pasar)
+103,Pusat Kota,Jl. Sumatra,45,Satu sisi jalan (ruas jalan)   mulai   dari persimpangan   Jl.  Aceh s/d  persimpangan  Jl. LLRE. Martadinata
+104,Pusat Kota,Jl. Prof. Eykman,0,Satu sisi jalan (ruas jalan)
+105,Pusat Kota,Jl. Maulana Yusuf,0,Satu sisi jalan (ruas jalan)
+106,Pusat Kota,Jl. Citarum,0,Satu sisi jalan (ruas jalan)
+107,Pusat Kota,Jl. Palasari,0,Satu sisi jalan (ruas jalan)
+108,Pusat Kota,Jl. Lodaya,0,Satu sisi jalan (ruas jalan)
+109,Pusat Kota,Jl. Saritem,0,Satu sisi jalan (ruas jalan)
+110,Pusat Kota,Jl. Sukamaju,0,Satu sisi jalan (ruas jalan)
+111,Pusat Kota,Jl. Arjuna,45,Satu sisi jalan (ruas jalan)
+112,Pusat Kota,Jl. Gandapura,0,Satu sisi jalan (ruas jalan)
+113,Pusat Kota,Jl. Pagarsih,0,Satu sisi jalan (ruas jalan)
+114,Pusat Kota,Jl. Kelenteng,0,Satu sisi jalan (ruas jalan)
+115,Pusat Kota,Jl. Dr. Sutomo,0,Satu sisi jalan (ruas jalan)
+116,Pusat Kota,Jl. Kesatriaan,0,Satu sisi jalan (ruas jalan)
+117,Pusat Kota,Jl. Bima,0,Satu sisi jalan (ruas jalan)
+118,Pusat Kota,Jl. Astina,0,Satu sisi jalan (ruas jalan)
+119,Pusat Kota,Jl. Rama,0,Satu sisi jalan (ruas jalan)
+120,Pusat Kota,Jl. Semar,0,Satu sisi jalan (ruas jalan)
+121,Pusat Kota,Jl. Pandu,0,Satu sisi jalan (ruas jalan)
+122,Pusat Kota,Jl. Pandawa,0,Satu sisi jalan (ruas jalan)
+123,Pusat Kota,Jl. Supadio,45,Satu sisi jalan (ruas jalan)
+124,Pusat Kota,Jl. Aruna,0,Satu sisi jalan (ruas jalan)
+125,Pusat Kota,Jl. Ciroyom,0,Satu sisi jalan (ruas jalan)
+126,Pusat Kota,Jl. Cihapit,0,Satu sisi jalan (ruas jalan)
+127,Pusat Kota,Jl. Sabang,0,Satu sisi jalan (ruas jalan)
+128,Pusat Kota,Jl. Pamoyanan,0,Satu sisi jalan (ruas jalan)
+129,Pusat Kota,Jl. Hasanudin,0,Satu sisi jalan (ruas jalan)
+130,Pusat Kota,Jl. Surya Kencana,0,Satu sisi jalan (ruas jalan)
+131,Pusat Kota,Jl. Tikukur,0,Satu sisi jalan (ruas jalan)
+132,Pusat Kota,Jl. Puter,0,Satu sisi jalan (ruas jalan)
+133,Pusat Kota,Jl. Baranang Siang,45,Satu sisi jalan (ruas jalan)
+134,Pusat Kota,Jl. Progo,0,Satu sisi jalan (ruas jalan)
+135,Pusat Kota,Jl. Trunojoyo,0,Satu sisi jalan (ruas jalan)
+136,Pusat Kota,Jl. Cisanggarung,0,Satu sisi jalan (ruas jalan)
+137,Pusat Kota,Jl. Merak,0,Satu sisi jalan (ruas jalan)
+138,Pusat Kota,Jl. Cikutra,0,Satu sisi jalan (ruas jalan)
+139,Pusat Kota,Jl. Taman Pramuka,0,Satu sisi jalan (ruas jalan)
+140,Pusat Kota,Jl. Taman Cibeunying,0,Satu sisi jalan (ruas jalan)
+141,Pusat Kota,Jl. Kemuning,0,Satu sisi jalan (ruas jalan)
+142,Pusat Kota,Jl. Ganesha,0,Satu sisi jalan (ruas jalan)   mulai   dari persimpangan Jl. Tamansari  s/d   Pintu masuk ITB dan  Dua  sisi  jalan  mulai Pintu Masuk  ITB  s/d  Jl. Ciung wanara
+143,Pusat Kota,Jl. Ganesha,0,Dua  sisi  jalan  (ruas jalan) mulai   Pintu   Masuk   ITB s/d Jl. Ciung wanara
+144,Pusat Kota,Jl. Gelap Nyawang,0,Dua sisi jalan (ruas jalan)
+145,Pusat Kota,Jl. Badak Singa,0,Satu sisi jalan (ruas jalan)
+146,Pusat Kota,Jl. Bapa Husen,0,Satu sisi jalan (ruas jalan)
+147,Pusat Kota,Jl. Rangga Malela,0,Satu sisi jalan (ruas jalan)
+148,Pusat Kota,Jl. Gajah Lumantung,0,Satu sisi jalan (ruas jalan)
+149,Pusat Kota,Jl. Tb. Ismail,0,Satu sisi jalan (ruas jalan)
+150,Pusat Kota,Jl. Cipaera,45,Satu sisi jalan (ruas jalan)
+151,Pusat Kota,Jl. Halimun,0,Satu sisi jalan (ruas jalan)
+152,Pusat Kota,Jl. Banda,0,Satu sisi jalan (ruas jalan)
+153,Pusat Kota,Jl. Bahureksa,0,Satu sisi jalan (ruas jalan)
+154,Pusat Kota,Jl. Gempol,0,Satu sisi jalan (ruas jalan)
+155,Pusat Kota,Jl. Pusda’i,45,Dua sisi jalan (ruas jalan)
+156,Pusat Kota,Jl. Tengku Angkasa,0,Satu sisi jalan (ruas jalan)
+157,Pusat Kota,Jl. Serayu,0,Satu sisi jalan (ruas jalan)
+158,Pusat Kota,Jl. Pasirkaliki,0,Satu sisi jalan (ruas jalan)   mulai   dari persimpangan Jl. Pajajaran s/d persimpangan Jl. Eyckman
+159,Pusat Kota,Jl. Pasirkaliki,0,Satu sisi jalan (ruas jalan)   mulai   dari persimpangan Jl. Pajajaran s/d persimpangan Jl. Eyckman
+160,Pusat Kota,Jl. Pasirkaliki,0,Dua  sisi  jalan  (ruas jalan) mulai  dari  persimpangan Jl.  Ksatriaan  s/d persimpangan Jl. Pajajaran
+161,Pusat Kota,Jl. LLRE. Martadinata,45,Satu sisi jalan (ruas jalan)   (Depan   Pengadilan Negeri  Klas  I  Bandung  & Kejaksaan Tinggi Bandung)
+162,Pusat Kota,Jl. Lombok,0,Satu sisi jalan (ruas jalan)
+163,Pusat Kota,Jl. Kiai Gede Utama,0,Satu sisi jalan (ruas jalan)
+164,Pusat Kota,Jl. Maskumambang,0,Satu sisi jalan (ruas jalan)
+165,Pusat Kota,Jl. Kliningan,0,Satu sisi jalan (ruas jalan)
+166,Pusat Kota,Ters. Jl. Jakarta,0,Satu sisi jalan (ruas jalan)
+167,Pusat Kota,Jl. Cibatu,0,Satu sisi jalan (ruas jalan)
+168,Pusat Kota,Jl. Purwakarta,0,Satu sisi jalan (ruas jalan)
+169,Pusat Kota,Jl. Indramayu,0,Satu sisi jalan (ruas jalan)
+170,Pusat Kota,Jl. Arcamanik Endah,0,Satu sisi jalan (ruas jalan)
+171,Pusat Kota,Jl. Pacuan Kuda,0,Satu sisi jalan (ruas jalan)
+172,Pusat Kota,Jl. Gabus,0,Satu sisi jalan (ruas jalan)
+173,Pusat Kota,Jl. Jambal,0,Satu sisi jalan (ruas jalan)
+174,Pusat Kota,Jl. Pepetek,0,Satu sisi jalan (ruas jalan)
+175,Pusat Kota,Jl. Puteri,0,Satu sisi jalan (ruas jalan)
+176,Pusat Kota,Jl. Haruman,0,Satu sisi jalan (ruas jalan)
+177,Pusat Kota,Jl. Indramayu,0,Satu sisi jalan (ruas jalan)
+178,Pusat Kota,Jl. Mahmud,0,Satu sisi jalan (ruas jalan)
+179,Pusat Kota,Jl. Sastra,0,Satu sisi jalan (ruas jalan)
+180,Pusat Kota,Jl. Soka,0,Satu sisi jalan (ruas jalan)
+181,Pusat Kota,Jl. Abdurahman Saleh,0,Satu sisi jalan (ruas jalan)
+182,Pusat Kota,Jl. Suryani,0,Satu sisi jalan (ruas jalan)
+183,Pusat Kota,Jl. Jamika,0,Satu sisi jalan (ruas jalan)
+184,Pusat Kota,Jl. Ternate,0,Satu sisi jalan (ruas jalan)
+185,Pusat Kota,Jl. Cimandiri,0,Satu sisi jalan (ruas jalan)
+186,Pusat Kota,Jl. Cilaki,0,Satu sisi jalan (ruas jalan)
+187,Pusat Kota,Jl. Ciguriang,0,Satu sisi jalan (ruas jalan)
+188,Pusat Kota,Jl. Cendana,0,Satu sisi jalan (ruas jalan)
+189,Pusat Kota,Jl. Madura,0,Satu sisi jalan (ruas jalan)
+190,Pusat Kota,Jl.Tengku Angkasa,0,Satu sisi jalan (ruas jalan)
+191,Pusat Kota,Jl. Dr. Cipto,0,Satu sisi jalan (ruas jalan)
+192,Pusat Kota,Jl. Rumah Sakit,0,Satu sisi jalan (ruas jalan)
+193,Pusat Kota,Jl. Dr. Curry,0,Satu sisi jalan (ruas jalan)
+194,Pusat Kota,Jl. Mangga,0,Satu sisi jalan (ruas jalan)
+195,Pusat Kota,Jl. Bagus Rangin,0,Satu sisi jalan (ruas jalan)
+196,Pusat Kota,Jl. Imam Bonjol,0,Satu sisi jalan (ruas jalan)
+197,Pusat Kota,Jl. Achmad Yani,0,Satu sisi jalan (ruas jalan)
+198,Pusat Kota,Jl. Leuwipanjang,0,Satu sisi jalan (ruas jalan)
+199,Pusat Kota,Jl. Ciliwung,0,Satu sisi jalan (ruas jalan)
+200,Pusat Kota,Jl. Ibrahim Aji (Kiara Condong),0,Satu sisi jalan (ruas jalan)
+201,Pusat Kota,Jl. Nanas,0,Dua  sisi  jalan  (ruas jalan) mulai  dari  persimpangan Jl.   Kopo   s/d persimpangan Jl. Soekarno Hatta
+202,Pusat Kota,Jl.Cimanuk,0,Dua sisi jalan (ruas jalan)
+203,Pusat Kota,Jl. Pasir Koja,0,Dua  sisi  jalan  (ruas jalan) mulai  dari  persimpangan Jl.   Kopo   s/d persimpangan Jl. Soekarno Hatta
+204,Pusat Kota,Jl. Buah Batu,0,Satu sisi jalan (ruas jalan)   mulai   dari persimpangan Jl. Gurame s/d persimpangan Jl. Soekarno Hatta
+205,Pusat Kota,Jl. Patuha,0,Satu sisi jalan (ruas jalan)
+206,Pusat Kota,Jl. Citarum,0,Dua sisi jalan (ruas jalan)
+207,Pusat Kota,Jl. Kebon Bibit (Balubur bawah jembatan layang),0,Satu sisi jalan (ruas jalan)
+208,Pusat Kota,Jl. Pajajaran,0,Dua sisi jalan (ruas jalan)
+209,Pusat Kota,Jl. Peta,0,Dua  sisi  jalan  (ruas jalan) mulai  dari  persimpangan Jl.  Babakan  Ciparay  s/d persimpangan Jl. Kopo
+210,Pusat Kota,Jl. Cihampelas,0,Satu sisi jalan (ruas jalan)   mulai   dari persimpangan Jl. Siliwangi s/d persimpangan Jl. Wastukencana
+211,Pusat Kota,Jl. Cihampelas,0,Dua sisi Jalan (ruas jalan)      mulai   dari persimpangan Jl. Wastukencana   s/d persimpangan Jl. Pajajaran
+212,Pusat Kota,Jl. Japati,45,Dua  sisi  jalan  (ruas jalan) mulai  dari  persimpangan Jl.   Surapati   s/d persimpangan Jl. Titiran
+213,Pusat Kota,Jl. Cibadak,0,Dua  sisi  jalan  (ruas jalan) mulai  dari  persimpangan Jl. Astana Anyar s/d persimpangan Jl. Sudirman
+214,Pusat Kota,Jl. Teuku Umar,0,Satu sisi jalan (ruas jalan)
+215,Pusat Kota,Jl. Sultan Agung,0,Satu sisi jalan (ruas jalan)
+216,Pusat Kota,Jl. Ambon,0,Satu sisi jalan (ruas jalan)
+217,Pusat Kota,Jl. Burangrang,0,Satu sisi jalan (ruas jalan)
+218,Pusat Kota,Jl. Talaga Bodas,0,Satu sisi jalan (ruas jalan)
+219,Pusat Kota,Jl. Dr. Rajiman,0,Satu sisi jalan (ruas jalan)
+220,Pusat Kota,Jl. Cisangkuy,45,Satu sisi jalan (ruas jalan)
+221,Pusat Kota,Jl. Natuna,45,Satu sisi jalan (ruas jalan)
+222,Pusat Kota,Jl. Kebon Jati,0,Dua  sisi  jalan  (ruas jalan) mulai  dari  persimpangan Jl. Kelenteng  s/d persimpangan   Jl. Gardu Jati
+223,Pusat Kota,Jl. Waringin,60,Satu sisi jalan (ruas jalan)   mulai   dari persimpangan Jl. Kebon Jati s/d Persimpangan Jl. Sudirman
+224,Pusat Kota,Jl. Sawunggaling,0,Satu sisi jalan (ruas jalan)
+225,Pusat Kota,Jl. Ciung wanara,0,Satu sisi jalan (ruas jalan)
+226,Pusat Kota,Jl. Skanda,0,Dua sisi jalan (ruas jalan)
+227,Pusat Kota,Jl. Dayang Sumbi,0,Dua sisi jalan (ruas jalan)
+228,Pusat Kota,Jl. Purnawarman,0,Satu sisi jalan (ruas jalan) mulai dari persimpangan Jl. LLRE. Martadinata s/d persimpangan  Jl.  Rangga Gading
+229,Pusat Kota,Jl. Rangga Gading,0,Dua sisi jalan (ruas jalan)
+230,Pusat Kota,Jl. Makmur,0,Satu sisi jalan (ruas jalan)
+231,Pusat Kota,Jl. Kesehatan,0,Satu sisi jalan (ruas jalan)
+232,Pusat Kota,Jl. Cikutra,0,Satu sisi jalan (ruas jalan)
+233,Pusat Kota,Jl. Cianjur,0,Dua sisi jalan (ruas jalan)
+234,Pusat Kota,Jl. Setiabudhi,0,Satu sisi jalan (ruas jalan) mulai dari persimpangan Jl. Gegerkalong s/d persimpangan Jl. Cipaganti
+235,Pusat Kota,Jl. Diponegoro,0,Satu sisi jalan (ruas jalan) Depan    Museum    Geologi (Isidentil)
+236,Pusat Kota,Pelataran Parkir Sarana Olahraga Saparua,-,Tempat Khusus Parkir
+237,Pusat Kota,Pelataran Parkir Sarana Olahraga Padjajaran,-,Tempat Khusus Parkir
+238,Pusat Kota,Kantor Pemerintah Kota Bandung Jl.   Cianjur/ Jl. Sukabumi,-,Tempat Khusus Parkir
+239,Pusat Kota,Kantor DPRD Kota Bandung Jl. Sukabumi,-,Tempat Khusus Parkir
+240,Pusat Kota,Pelataran Parkir Terminal Leuwi Panjang,-,Tempat Khusus Parkir
+241,Pusat Kota,Pelataran Parkir Terminal Ciroyom,-,Tempat Khusus Parkir
+242,Pusat Kota,Pelataran Parkir Terminal Cicaheum,-,Tempat Khusus Parkir
+243,Pusat Kota,Pelataran Parkir Terminal Sadang Serang,-,Tempat Khusus Parkir
+244,Pusat Kota,Pelataran Parkir Babakan Siliwangi,-,Tempat Khusus Parkir
+245,Pusat Kota,Pelataran Parkir Padepokan Seni,-,Tempat Khusus Parkir
+246,Pusat Kota,Pelataran Parkir Stadion Persib (Sidolig),-,Tempat Khusus Parkir
+247,Pusat Kota,Pelataran Parkir Taman Supratman,-,Tempat Khusus Parkir
+248,Pusat Kota,Pelataran Parkir Dinas Kesehatan Kota Bandung,-,Tempat Khusus Parkir
+249,Pusat Kota,Pelataran Parkir Teras Cikapundung,-,Tempat Khusus Parkir
+250,Penyangga Kota,Jl. Setiabudhi,0,Dua  sisi  jalan  (ruas jalan) mulai  dari  persimpangan Jl. Gegerkalong s/d UPI
+251,Penyangga Kota,Jl. Ters. Buah Batu,0,Satu sisi jalan (ruas jalan)
+252,Penyangga Kota,Jl. Punclut,0,Satu sisi jalan (ruas jalan)
+253,Penyangga Kota,Jl. Margacinta,0,Satu sisi jalan (ruas jalan)
+254,Penyangga Kota,Jl. Cigondewah,0,Satu sisi jalan (ruas jalan)
+255,Penyangga Kota,Jl. KH. Wahid Hasyim (Kopo),0,Dua  sisi  jalan  (ruas jalan) mulai  dari  persimpangan Jl. Soekarno Hatta s/d Batas Kota
+256,Penyangga Kota,Jl. Moh. Toha,0,Dua  sisi  jalan  (ruas jalan) mulai  dari  persimpangan Jl. Soekarno  Hatta s/d Batas Kota
+257,Penyangga Kota,Jl. Cijerah,0,Satu sisi jalan (ruas jalan)
+258,Penyangga Kota,Jl. Holis,0,Satu sisi jalan (ruas jalan)
+259,Penyangga Kota,Jl. Cibaduyut,0,Satu sisi jalan (ruas jalan)
+260,Penyangga Kota,Jl. Rumah Sakit Ujung Berung,0,Satu sisi jalan (ruas jalan)
+261,Penyangga Kota,Jl. Cibogo Atas,0,Satu sisi jalan (ruas jalan)
+262,Penyangga Kota,Jl.   Belakang Pasar Ujung Berung,0,Satu sisi jalan (ruas jalan)
+263,Penyangga Kota,Jl. Kaum,0,Dua sisi jalan (ruas jalan)
+264,Penyangga Kota,Jl. Ir. H. Djuanda,0,Dua  sisi  jalan  (ruas jalan) mulai  dari  persimpangan Jl.    Tubagus    Ismail    s/d Terminal Dago
+265,Penyangga Kota,Pelataran Parkir Kantor Dishub Gedebage,-,Tempat Khusus Parkir
+266,Penyangga Kota,Pelataran Parkir Stadian Sepak Bola Gelora Bandung Lautan Api,-,Tempat Khusus Parkir
+267,Penyangga Kota,Pelataran Parkir Terminal Ujungberung,-,Tempat Khusus Parkir
+268,Penyangga Kota,Pelataran Parkir Terminal Dago,-,Tempat Khusus Parkir
+269,Penyangga Kota,Pelataran Parkir Terminal Ledeng,-,Tempat Khusus Parkir
+270,Penyangga Kota,Pelataran Parkir Alun-alun Ujungberung,-,Tempat Khusus Parkir
