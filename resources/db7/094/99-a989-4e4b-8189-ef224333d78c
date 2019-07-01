@@ -1,8 +1,10 @@
-Tenaga Kesehatan,Jumlah
-"Tenaga Medis (Dokter umum, dokter spesialis, dokter gigi)",1377
-Perawat,2731
-Perawat Gigi,70
-Tenaga Kefarmasian,451
-Tenaga Nutrisionis,51
-Dietisien,30
-Tenaga Sanitasi,27
+Tenaga Medis,Jumlah
+Dokter Umum,360
+Dokter Spesialis,1145
+Dokter Gigi dan Spesialis,597
+Perawat,5222
+Perawat Gigi,1017
+Bidan,673
+Tenaga Farmasi,801
+Tenaga Gizi,333
+Tenaga Sanitasi,40

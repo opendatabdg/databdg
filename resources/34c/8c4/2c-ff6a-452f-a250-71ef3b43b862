@@ -1,76 +1,31 @@
-No,Puskesmas,Jumlah Kematian Ibu
-1,Sukarasa,1
-2,Ledeng,-
-3,Karangsetra,1
-4,Sarijadi,1
-5,Sukajadi,-
-6,Sukawarna,-
-7,Pasirkaliki,1
-8,Sukaraja,-
-9,Garuda,1
-10,Babatan,4
-11,Ciumbuleuit,5
-12,Cipaku,1
-13,Puter,-
-14,Dago,3
-15,Sekeloa,-
-16,Cikutra Lama,2
-17,Salam,-
-18,Taman Sari,2
-19,Tamblong,4
-20,Balai Kota,-
-21,Neglasari,-
-22,Cigadung,-
-23,Padasuka,3
-24,Pasirlayung,-
-25,Babakan Sari,1
-26,Babakan Surabaya,-
-27,Ibrahim Aji,-
-28,Gumuruh,5
-29,Ahmad Yani,1
-30,Talaga Bodas,-
-31,Suryalaya,-
-32,Cijagra Baru,-
-33,Cijagra Lama,-
-34,Pasundan,2
-35,Moh Ramdan,-
-36,Pasirluyu,-
-37,Pagarsih,-
-38,Astanaanyar,-
-39,Liogenteng,2
-40,Pelindung Hewan,-
-41,Cetarip,1
-42,Sukapakir,-
-43,Kopo,12
-44,Caringin,2
-45,Cibolerang,-
-46,Sukahaji,-
-47,Cibuntu,-
-48,Cijerah,-
-49,Cigondewah,-
-50,Griya Antapani,2
-51,Jajaway,-
-52,Antapani,1
-53,Sindang Jaya,-
-54,Jatihandap,-
-55,Mandala Mekar,-
-56,Pamulang,-
-57,Girimande,-
-58,Arcamanik,-
-59,Rusunawa,8
-60,Ujungberung Indah,5
-61,Cinambo,3
-62,Cibiru,2
-63,Cilengkrang,-
-64,Cipadung,2
-65,Panghegar,-
-66,Panyileukan,-
-67,Riung Bandung,2
-68,Cempaka Arum,-
-69,Cipamokolan,2
-70,Derwati,2
-71,Margahayu Raya,-
-72,Sekejati,1
-73,Kujang Sari,1
-74,Mengger,1
-75,Pasawahan,-
+Kecamatan,Puskesmas,Usia < 20 tahun,Usia 20-34 tahun,Usia ³35 tahun
+Sukasari,UPT Sukarasa,0,0,0
+Sukajadi,UPT Sukajadi ,0,0,0
+Cicendo,UPT Pasirkaliki,0,0,0
+Andir,UPT Garuda,0,0,0
+Cidadap,UPT Ciumbuleuit ,0,1,0
+Coblong,UPT Puter ,0,0,0
+Bandung Wetan,UPT Salam,0,0,0
+Sumur Bandung,UPT Tamblong,0,0,0
+Cibeunying Kaler,UPT Neglasari ,0,0,0
+Cibeunying Kidul,UPT Padasuka,0,1,0
+Kiaracondong,UPT Babakan Sari,0,0,0
+Batununggal,UPT Ibrahim Aji ,1,0,0
+Lengkong,UPT Talagabodas,0,0,0
+Regol,UPT Pasundan,0,0,0
+Astanaanyar,UPT Pagarsih,0,0,0
+Bojongloa Kaler,UPT Cetarip,0,0,0
+Bojongloa Kidul,UPT Kopo,0,0,0
+Babakan Ciparay,UPT Caringin,0,0,0
+Bandung Kulon,UPT Cibuntu ,0,0,0
+Antapani,UPT Griya Antapani,0,0,0
+Mandalajati,UPT Sindangjaya,0,0,0
+Arcamanik,UPT Arcamanik,0,0,0
+Ujungberung,UPT Ujungberung Indah,0,0,0
+Cinambo,UPT Cinambo,0,0,0
+Cibiru,UPT Cibiru ,0,0,0
+Panyileukan,UPT Panghegar,0,0,0
+Gedebage,UPT Riung Bandung,0,0,0
+Rancasari,UPT Cipamokolan,0,0,0
+Buahbatu,UPT Margahayu Raya,0,0,0
+Bandung Kidul,UPT Kujangsari ,0,0,0
