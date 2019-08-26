@@ -1,31 +1,31 @@
-No,Kecamatan,Puskesmas,Laki-laki (Penderita),Laki-laki (Meninggal),Perempuan (Penderita),Perempuan (Meninggal)
-1,Sukasari,UPT Sukarasa,18,0,25,0
-2,Sukajadi,UPT Sukajadi ,17,0,19,0
-3,Cicendo,UPT Pasirkaliki,19,0,15,0
-4,Andir,UPT Garuda,16,0,17,0
-5,Cidadap,UPT Ciumbuleuit ,8,0,4,0
-6,Coblong,UPT Puter ,60,0,67,0
-7,Bandung Wetan,UPT Salam,15,0,9,0
-8,Sumur Bandung,UPT Tamblong,18,0,7,0
-9,Cibeunying Kaler,UPT Neglasari ,35,0,29,0
-10,Cibeunying Kidul,UPT Padasuka,50,0,56,0
-11,Kiaracondong,UPT Babakan Sari,68,0,46,0
-12,Batununggal,UPT Ibrahim Aji ,72,0,59,0
-13,Lengkong,UPT Talagabodas,75,0,63,0
-14,Regol,UPT Pasundan,69,0,46,2
-15,Astanaanyar,UPT Pagarsih,29,0,29,0
-16,Bojongloa Kaler,UPT Cetarip,16,0,8,0
-17,Bojongloa Kidul,UPT Kopo,9,0,9,0
-18,Babakan Ciparay,UPT Caringin,9,0,8,0
-19,Bandung Kulon,UPT Cibuntu ,17,0,8,0
-20,Antapani,UPT Griya Antapani,52,0,40,1
-21,Mandalajati,UPT Sindangjaya,17,1,16,0
-22,Arcamanik,UPT Arcamanik,40,1,22,0
-23,Ujungberung,UPT Ujungberung Indah,14,0,18,0
-24,Cinambo,UPT Cinambo,16,0,10,0
-25,Cibiru,UPT Cibiru ,14,0,15,0
-26,Panyileukan,UPT Panghegar,17,0,17,0
-27,Gedebage,UPT Riung Bandung,18,0,11,0
-28,Rancasari,UPT Cipamokolan,50,0,39,0
-29,Buahbatu,UPT Margahayu Raya,78,1,56,0
-30,Bandung Kidul,UPT Kujangsari ,44,0,38,0
+Kecamatan,Puskesmas,Laki-laki (Penderita),Laki-laki (Meninggal),Perempuan (Penderita),Perempuan (Meninggal)
+Sukasari,UPT Sukarasa,53,0 ,34,0 
+Sukajadi,UPT Sukajadi ,51,0 ,44,0 
+Cicendo,UPT Pasirkaliki,44,1 ,49,0 
+Andir,UPT Garuda,34,0 ,33,0 
+Cidadap,UPT Ciumbuleuit ,22,0 ,23,0 
+Coblong,UPT Puter ,104,1 ,83,0 
+Bandung Wetan,UPT Salam,23,0 ,12,0 
+Sumur Bandung,UPT Tamblong,24,1 ,17,0 
+Cibeunying Kaler,UPT Neglasari ,50,0 ,62,0 
+Cibeunying Kidul,UPT Padasuka,119,0 ,103,0 
+Kiaracondong,UPT Babakan Sari,103,0 ,72,1 
+Batununggal,UPT Ibrahim Aji ,79,0 ,83,0 
+Lengkong,UPT Talagabodas,52,0 ,38,0 
+Regol,UPT Pasundan,38,0 ,42,0 
+Astanaanyar,UPT Pagarsih,43,0 ,47,0 
+Bojongloa Kaler,UPT Cetarip,40,1 ,49,0 
+Bojongloa Kidul,UPT Kopo,34,0 ,50,0 
+Babakan Ciparay,UPT Caringin,38,0 ,50,1 
+Bandung Kulon,UPT Cibuntu ,26,0 ,21,0 
+Antapani,UPT Griya Antapani,61,0 ,67,0 
+Mandalajati,UPT Sindangjaya,50,0 ,45,0 
+Arcamanik,UPT Arcamanik,52,0 ,43,0 
+Ujungberung,UPT Ujungberung Indah,31,0 ,50,0 
+Cinambo,UPT Cinambo,15,0 ,9,0 
+Cibiru,UPT Cibiru ,52,0 ,53,0 
+Panyileukan,UPT Panghegar,19,0 ,29,0 
+Gedebage,UPT Riung Bandung,33,0 ,23,0 
+Rancasari,UPT Cipamokolan,58,0 ,42,0 
+Buahbatu,UPT Margahayu Raya,67,0 ,64,1 
+Bandung Kidul,UPT Kujangsari ,38,0 ,36,0 

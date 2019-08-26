@@ -1,35 +1,35 @@
-Kecamatan,Fasilitas Kesehatan,Jumlah Kasus Baru TB BTA+ (L),Jumlah Kasus Baru TB BTA+ (P),Jumlah Seluruh Kasus TB 2017 (L),Jumlah Seluruh Kasus TB 2017 (P)
-Sukasari,UPT Sukarasa,17,18,39,43
-Sukajadi,UPT Sukajadi ,23,15,41,34
-Cicendo,UPT Pasirkaliki,25,21,53,45
-Andir,UPT Garuda,33,37,86,94
-Cidadap,UPT Ciumbuleuit ,6,1,15,5
-Coblong,UPT Puter ,25,26,62,69
-Bandung Wetan,UPT Salam,9,6,23,20
-Sumur Bandung,UPT Tamblong,12,9,23,22
-Cibeunying Kaler,UPT Neglasari ,7,10,11,14
-Cibeunying Kidul,UPT Padasuka,23,18,46,40
-Kiaracondong,UPT Babakan Sari,25,28,61,56
-Batununggal,UPT Ibrahim Aji ,27,19,73,54
-Lengkong,UPT Talagabodas,19,12,37,22
-Regol,UPT Pasundan,29,17,72,51
-Astanaanyar,UPT Pagarsih,23,8,61,43
-Bojongloa Kaler,UPT Cetarip,23,23,79,70
-Bojongloa Kidul,UPT Kopo,29,22,49,54
-Babakan Ciparay,UPT Caringin,53,45,96,103
-Bandung Kulon,UPT Cibuntu ,22,29,55,71
-Antapani,UPT Griya Antapani,12,15,25,18
-Mandalajati,UPT Sindangjaya,11,5,15,17
-Arcamanik,UPT Arcamanik,11,12,19,16
-Ujungberung,UPT Ujungberung Indah,18,5,32,16
-Cinambo,UPT Cinambo,1,1,5,8
-Cibiru,UPT Cibiru ,16,13,24,28
-Panyileukan,UPT Panghegar,7,6,13,18
-Gedebage,UPT Riung Bandung,4,4,6,12
-Rancasari,UPT Cipamokolan,8,7,19,26
-Buahbatu,UPT Margahayu Raya,17,8,41,29
-Bandung Kidul,UPT Kujangsari ,14,14,31,29
--,Rumah Sakit,489,430,3523,3495
--,Lapas/Rutan,7,1,10,1
--,BBKPM,28,31,108,91
--,Klinik Swasta,2,2,3,12
+Kecamatan,Fasilitas Kesehatan,Jumlah Kasus Baru TB BTA+ (L),Jumlah Kasus Baru TB BTA+ (P)
+Sukasari,UPT Sukarasa,17,18
+Sukajadi,UPT Sukajadi ,23,15
+Cicendo,UPT Pasirkaliki,25,21
+Andir,UPT Garuda,33,37
+Cidadap,UPT Ciumbuleuit ,6,1
+Coblong,UPT Puter ,25,26
+Bandung Wetan,UPT Salam,9,6
+Sumur Bandung,UPT Tamblong,12,9
+Cibeunying Kaler,UPT Neglasari ,7,10
+Cibeunying Kidul,UPT Padasuka,23,18
+Kiaracondong,UPT Babakan Sari,25,28
+Batununggal,UPT Ibrahim Aji ,27,19
+Lengkong,UPT Talagabodas,19,12
+Regol,UPT Pasundan,29,17
+Astanaanyar,UPT Pagarsih,23,8
+Bojongloa Kaler,UPT Cetarip,23,23
+Bojongloa Kidul,UPT Kopo,29,22
+Babakan Ciparay,UPT Caringin,53,45
+Bandung Kulon,UPT Cibuntu ,22,29
+Antapani,UPT Griya Antapani,12,15
+Mandalajati,UPT Sindangjaya,11,5
+Arcamanik,UPT Arcamanik,11,12
+Ujungberung,UPT Ujungberung Indah,18,5
+Cinambo,UPT Cinambo,1,1
+Cibiru,UPT Cibiru ,16,13
+Panyileukan,UPT Panghegar,7,6
+Gedebage,UPT Riung Bandung,4,4
+Rancasari,UPT Cipamokolan,8,7
+Buahbatu,UPT Margahayu Raya,17,8
+Bandung Kidul,UPT Kujangsari ,14,14
+-,Rumah Sakit,489,430
+-,Lapas/Rutan,7,1
+-,BBKPM,28,31
+-,Klinik Swasta,2,2

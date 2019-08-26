@@ -1,0 +1,8 @@
+No,Kelompok Umur (Tahun),Penderita Syphilis (L),Penderita Syphilis (P)
+1,(<=4),3 ,3 
+2,(5-14),-,-
+3,(15-19),1 ,-
+4,(20-24),34 ,7 
+5,(25-49),64 ,15 
+6,(>=50),4 ,-
+7,Tidak Diketahui,-,-

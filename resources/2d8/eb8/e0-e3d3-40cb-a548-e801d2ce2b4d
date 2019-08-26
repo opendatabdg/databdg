@@ -1,8 +1,8 @@
-Kelompok Umur (Tahun),HIV,AIDS,Jumlah Kematian Akibat AIDS,Syphilis
-4,0,0,0,6
-5 - 14,2,1,0,0
-15 - 19,4,0,0,1
-20 - 24,36,12,0,41
-25 - 29,137,78,5,79
-50,6,7,0,4
-Tidak Diketahui,2,0,0,0
+No,Kelompok Umur (Tahun),Penderita HIV (L),Penderita HIV (P),Penderita AIDS (L),Penderita AIDS (P),Pasien meninggal akibat AIDS (L),Pasien meninggal akibat AIDS (P)
+1,(<=4),0,0,0,0,0,0
+2,(5-14),2 ,0,0,1 ,0,0
+3,(15-19),3 ,1 ,0,0,0,0
+4,(20-24),29 ,7 ,6 ,6 ,0,0
+5,(25-49),105 ,32 ,54 ,24 ,3 ,2 
+6,(>=50),6 ,0,5 ,2 ,0,0
+7,Tidak Diketahui,2 ,0,0,0,0,0

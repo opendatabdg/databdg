@@ -1,35 +1,35 @@
-Kecamatan,Fasilitas Kesehatan,Pasien TB BTA+ Diobati (L),Angka Pengobatan Lengkap (L),Angka Pengobatan Lengkap (P)
-Sukasari,UPT Sukarasa, 20 , - , 2 
-Sukajadi,UPT Sukajadi , 21 , 3 , 1 
-Cicendo,UPT Pasirkaliki, 34 , - , - 
-Andir,UPT Garuda, 50 , 1 , 2 
-Cidadap,UPT Ciumbuleuit , 9 , 3 , 1 
-Coblong,UPT Puter , 41 , 8 , 9 
-Bandung Wetan,UPT Salam, 14 , 1 , 1 
-Sumur Bandung,UPT Tamblong, 7 , 3 , - 
-Cibeunying Kaler,UPT Neglasari , 9 , 2 , - 
-Cibeunying Kidul,UPT Padasuka, 19 , 2 , 3 
-Kiaracondong,UPT Babakan Sari, 29 , 9 , 6 
-Batununggal,UPT Ibrahim Aji , 33 , 6 , 5 
-Lengkong,UPT Talagabodas, 8 , 2 , 2 
-Regol,UPT Pasundan, 31 , 6 , 4 
-Astanaanyar,UPT Pagarsih, 16 , 4 , 1 
-Bojongloa Kaler,UPT Cetarip, 39 , 8 , 6 
-Bojongloa Kidul,UPT Kopo, 24 , - , - 
-Babakan Ciparay,UPT Caringin, 41 , 12 , 4 
-Bandung Kulon,UPT Cibuntu , 32 , 9 , 5 
-Antapani,UPT Griya Antapani, 8 , 2 , 3 
-Mandalajati,UPT Sindangjaya, 6 , - , 2 
-Arcamanik,UPT Arcamanik, 8 , 2 , 2 
-Ujungberung,UPT Ujungberung Indah, 23 , 5 , 5 
-Cinambo,UPT Cinambo, 4 , - , - 
-Cibiru,UPT Cibiru , 12 , 2 , 3 
-Panyileukan,UPT Panghegar, 12 , - , - 
-Gedebage,UPT Riung Bandung, 2 , 1 , 1 
-Rancasari,UPT Cipamokolan, 8 , 2 , 1 
-Buahbatu,UPT Margahayu Raya, 23 , 2 , 2 
-Bandung Kidul,UPT Kujangsari , 12 , 8 , 4 
--,Rumah Sakit, 459 , 71 , 58 
--,Lapas/Rutan, 21 , - , - 
--,BBKPM, 41 , 1 , - 
--,Klinik Swasta, - , - , - 
+Kecamatan,Fasilitas Kesehatan,Pasien TB BTA+ Diobati (L),Pasien TB BTA+ Diobati (P),Angka Pengobatan Lengkap (L),Angka Pengobatan Lengkap (P)
+Sukasari,UPT Sukarasa,20, 25 , - ,2
+Sukajadi,UPT Sukajadi ,21, 16 ,3,1
+Cicendo,UPT Pasirkaliki,34, 18 , - , - 
+Andir,UPT Garuda,50, 38 ,1,2
+Cidadap,UPT Ciumbuleuit ,9, 6 ,3,1
+Coblong,UPT Puter ,41, 50 ,8,9
+Bandung Wetan,UPT Salam,14, 9 ,1,1
+Sumur Bandung,UPT Tamblong,7, 3 ,3, - 
+Cibeunying Kaler,UPT Neglasari ,9, 10 ,2, - 
+Cibeunying Kidul,UPT Padasuka,19, 21 ,2,3
+Kiaracondong,UPT Babakan Sari,29, 26 ,9,6
+Batununggal,UPT Ibrahim Aji ,33, 20 ,6,5
+Lengkong,UPT Talagabodas,8, 12 ,2,2
+Regol,UPT Pasundan,31, 20 ,6,4
+Astanaanyar,UPT Pagarsih,16, 19 ,4,1
+Bojongloa Kaler,UPT Cetarip,39, 29 ,8,6
+Bojongloa Kidul,UPT Kopo,24, 17 , - , - 
+Babakan Ciparay,UPT Caringin,41, 35 ,12,4
+Bandung Kulon,UPT Cibuntu ,32, 32 ,9,5
+Antapani,UPT Griya Antapani,8, 4 ,2,3
+Mandalajati,UPT Sindangjaya,6, 5 , - ,2
+Arcamanik,UPT Arcamanik,8, 9 ,2,2
+Ujungberung,UPT Ujungberung Indah,23, 13 ,5,5
+Cinambo,UPT Cinambo,4, 2 , - , - 
+Cibiru,UPT Cibiru ,12, 15 ,2,3
+Panyileukan,UPT Panghegar,12, 11 , - , - 
+Gedebage,UPT Riung Bandung,2, 2 ,1,1
+Rancasari,UPT Cipamokolan,8, 10 ,2,1
+Buahbatu,UPT Margahayu Raya,23, 16 ,2,2
+Bandung Kidul,UPT Kujangsari ,12, 13 ,8,4
+-,Rumah Sakit,459, 397 ,71,58
+-,Lapas/Rutan,21, - , - , - 
+-,BBKPM,41, 33 ,1, - 
+-,Klinik Swasta, - , - , - , - 

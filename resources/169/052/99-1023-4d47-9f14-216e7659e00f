@@ -1,0 +1,536 @@
+No,Nama Bank,Status Kantor,Alamat
+1,"PT. Bank Rakyat Indonesia (Persero), Tbk",Kantor Cabang ,Jl. Asia Afrika No. 57-59
+2,"PT. Bank Rakyat Indonesia (Persero), Tbk",Kantor Cabang ,Jl. Dewi Sartika No.1-3
+3,"PT. Bank Rakyat Indonesia (Persero), Tbk",Kantor Cabang ,Jl. Dokter Setiabudhi No.170 F-G
+4,"PT. Bank Rakyat Indonesia (Persero), Tbk",Kantor Cabang ,Jl. Ir. H. Juanda (Dago) No.147
+5,"PT. Bank Rakyat Indonesia (Persero), Tbk",Kantor Cabang ,Jl. Ujung Berung No.140
+6,"PT. Bank Rakyat Indonesia (Persero), Tbk",Kantor Cabang ,Jl. Ibrahim Adjie No. 354
+7,"PT. Bank Mandiri (Persero), Tbk",Kantor Cabang ,Jl. Surapati No. 2
+8,"PT. Bank Mandiri (Persero), Tbk",Kantor Cabang ,Jl. Braga No. 133
+9,"PT. Bank Mandiri (Persero), Tbk",Kantor Cabang ,Jl. Asia Afrika No. 107
+10,"PT. Bank Negara Indonesia (Persero), Tbk",Kantor Cabang ,Jl. Tamansari No.80
+11,"PT. Bank Negara Indonesia (Persero), Tbk",Kantor Cabang ,Jl. Asia Afrika No.119
+12,"PT. Bank Negara Indonesia (Persero), Tbk",Kantor Cabang ,Jl. Perintis Kemerdekaan No.3
+13,"PT. Bank Danamon Indonesia, Tbk",Kantor Cabang ,Jl. Merdeka No.40
+14,"PT. Bank Permata, Tbk",Kantor Cabang ,Jl. Merdeka No. 66
+15,"PT. Bank Permata, Tbk",Kantor Cabang ,Jl. Sunda No. 9
+16,"PT. Bank Central Asia, Tbk",Kantor Cabang ,Jl. Asia Afrika 122-124
+17,"PT. Bank Central Asia, Tbk",Kantor Cabang ,Jl. Soekarno Hatta 240
+18,"PT. Bank Central Asia, Tbk",Kantor Cabang ,Jl. A. Yani 656-658
+19,"PT. Bank Central Asia, Tbk",Kantor Cabang ,Jl. Ir. Juanda No. 118 
+20,"PT. Bank Maybank Indonesia, Tbk",Kantor Cabang ,Jl. R.E. Martadinata No. 23 
+21,"PT. Bank Maybank Indonesia, Tbk",Kantor Cabang ,Jl. Asia Afrika No. 113 
+22,"PT. Bank Pan Indonesia, Tbk",Kantor Cabang ,Jl. Banceuy No 8-10 Braga
+23,"PT. Bank CIMB Niaga, Tbk",Kantor Cabang ,Jl. Setiabudhi No. 57
+24,"PT. Bank CIMB Niaga, Tbk",Kantor Cabang ,Jl. Peta No.65 
+25,"PT. Bank CIMB Niaga, Tbk",Kantor Cabang ,Jl. Ir. H. Juanda No. 165
+26,"PT. Bank CIMB Niaga, Tbk",Kantor Cabang ,Jl. Lembong No. 7 
+27,"PT. Bank CIMB Niaga, Tbk",Kantor Cabang ,Jl. Buah Batu No. 143 
+28,"PT. Bank CIMB Niaga, Tbk",Kantor Cabang ,Jl. Jend Gatot Subroto No.2 Wisma Cimb Niaga 
+29,PT. Bank UOB Indonesia,Kantor Cabang ,Jl. Jend. Sudirman No. 55A 
+30,PT. Bank UOB Indonesia,Kantor Cabang ,Jl. Abdul Rivai No.2A 
+31,"PT. Bank OCBC NISP, Tbk",Kantor Cabang ,Jl. Taman Cibeunying Sel. No.31 
+32,PT. Bank Resona Perdania,Kantor Cabang ,Jl. Asiaafrika No.141-149 Grahabumiputera Lt.2
+33,"PT. Bank Bumi Arta, Tbk",Kantor Cabang ,Jl. Otto Iskandardinata No. 146 
+34,"PT. Bank JTrust Indonesia, Tbk",Kantor Cabang ,Jl. Ir. H. Juanda No. 28 
+35,"PT. BPD Jawa Barat Dan Banten, Tbk",Kantor Cabang ,Jl. Tamansari 18 
+36,"PT. BPD Jawa Barat Dan Banten, Tbk",Kantor Cabang ,Jl. Sukajadi No. 216 
+37,"PT. BPD Jawa Barat Dan Banten, Tbk",Kantor Cabang ,Jl. P.H.H. Mustopa 66 
+38,"PT. BPD Jawa Barat Dan Banten, Tbk",Kantor Cabang ,Jl. Braga 12 
+39,"PT. BPD Jawa Barat Dan Banten, Tbk",Kantor Cabang ,Jl. Buahbatu No.254 
+40,"PT. Bank Maspion Indonesia, Tbk",Kantor Cabang ,Jl. Sunda No. 54-54A
+41,PT. Bank ICBC Indonesia,Kantor Cabang ,Jl. Ir. H. Juanda No 71
+42,"PT. Bank Tabungan Negara (Persero), Tbk",Kantor Cabang ,Jl. Jawa No. 7
+43,"PT. Bank Tabungan Negara (Persero), Tbk",Kantor Cabang ,Jl. Raya Cinunuk No.223 A
+44,"PT. Bank Woori Saudara Indonesia 1906, Tbk",Kantor Cabang ,Jl. Phh. Mustofa No.39 Sucore Blok F1
+45,"PT. Bank Woori Saudara Indonesia 1906, Tbk",Kantor Cabang ,Jl. Wastukancana No.79
+46,"PT. Bank Tabungan Pensiunan Nasional, Tbk",Kantor Cabang ,Jl. Jend.Achmad Yani 618 
+47,"PT. Bank Tabungan Pensiunan Nasional, Tbk",Kantor Cabang ,Jl. Ir.H.Juanda No. 8 
+48,"PT. Bank Tabungan Pensiunan Nasional, Tbk",Kantor Cabang ,Jl. Lengkong Besar No. 38 
+49,"PT. Bank Mega, Tbk",Kantor Cabang ,Jl. Gatotsubroto No.283 Lt. 1 & 2 MBM  
+50,"PT. Bank Bukopin, Tbk",Kantor Cabang ,Jl. Asia Afrika No.121 
+51,PT. Bank Bisnis Internasional,Kantor Cabang ,Jl. Ir.H.Juanda No.137 
+52,"PT. Bank MNC Internasional, Tbk",Kantor Cabang ,Jl. Ir. H. Juanda No.62 
+53,"PT. Bank Yudha Bhakti,Tbk",Kantor Cabang ,Jl. Lombok No. 32 
+54,"PT. Bank Rakyat Indonesia Agroniaga, Tbk",Kantor Cabang ,Jl. Abdul Rivai No.2B 
+55,PT. Bank SBI Indonesia,Kantor Cabang ,Jl. Abdul Rivai No.1 B-C 
+56,"PT. Bank Nationalnobu, Tbk",Kantor Cabang ,Jl. aripan Nomor 101
+57,"PT. Bank Ina Perdana, Tbk",Kantor Cabang ,Jl. Gatot Subroto No 47 B
+58,PT. Bank Kesejahteraan Ekonomi,Kantor Cabang ,Jl. Dr Abdul Rivai No. 1 D
+59,PT. Bank Mayora,Kantor Cabang ,Jl. Ahmad Yani No. 151
+60,PT. Bank Index Selindo,Kantor Cabang ,Jl. Banceuy No.32-34 Banceuy Permai 
+61,PT. Bank Index Selindo,Kantor Cabang ,Jl. Gatot Subroto No.19 Rt.01 Rw.01 
+62,"PT BPD Banten, Tbk",Kantor Cabang ,Jl. Astana Anyar No. 42-44 
+63,"PT. Bank Victoria International, Tbk",Kantor Cabang ,Jl. .Braga No.16
+64,PT. Bank Harda Internasional,Kantor Cabang ,Jl. Sudirman No.91C 
+65,PT. Bank CTBC Indonesia,Kantor Cabang ,Jl. Gatot Subroto No 17
+66,PT. Bank Commonwealth,Kantor Cabang ,Jl. Ir. H. Juanda No. 130 B
+67,"PT. BPD Jawa Barat Dan Banten, Tbk",Kantor Cabang ,Jl. Soekarno Hatta No. 53 Rt 01 Rw 09
+68,PT. BPD DKI,Kantor Cabang ,Jl. RE Martadinata (Riau) No. 132
+69,PT. BPD Sumatera Barat,Kantor Cabang ,Jl. Buah Batu No 240                   
+70,"PT. Bank Mayapada International, Tbk",Kantor Cabang ,Jl. Veteran No.37                             
+71,PT Bank HSBC Indonesia,Kantor Cabang ,Jl. Ir. H. Juanda No. 74
+72,PT. Bank Rabobank International Indonesia,Kantor Cabang ,Jl. R.E Martadinata No. 150                  
+73,"PT. Bank Permata, Tbk",Kantor Cabang ,Jl. Jend Ahmad Yani No. 251        
+74,"PT. Bank Permata, Tbk",Kantor Cabang ,Jl. Astana Anyar 22                
+75,PT. Bank KEB Hana Indonesia,Kantor Cabang ,Jl. Ir. H. Juanda No 54 Rt 02 Rw 05
+76,PT. Bank DBS Indonesia,Kantor Cabang ,Jl. Ir. H. Juanda No. 7-9            
+77,PT. Bank Mandiri Taspen Pos,Kantor Cabang ,Jl. Diponegoro No. 23               
+78,PT. Bank Sahabat Sampoerna,Kantor Cabang ,Jl. Veteran No. 71                   
+79,"PT. Bank Danamon Indonesia, Tbk",Kantor Cabang  Syariah,Jl. Merdeka No. 40
+80,"PT. Bank Maybank Indonesia, Tbk",Kantor Cabang  Syariah,Jl. Asia Afrika No. 113
+81,"PT. Bank CIMB Niaga, Tbk",Kantor Cabang  Syariah,Jl. Lembong No. 7 
+82,"PT. Bank OCBC NISP, Tbk",Kantor Cabang  Syariah,Jl. Taman Cibeunying Sel. No.31 
+83,"PT. Bank Muamalat Indonesia, Tbk",Kantor Cabang  Syariah,Jl. Buah Batu No 276A 
+84,"PT. Bank Tabungan Negara (Persero), Tbk",Kantor Cabang  Syariah,Jl. Diponegoro No. 08
+85,PT. Bank Victoria Syariah,Kantor Cabang  Syariah,Jl. Gatot Subroto No. 3
+86,PT. Bank BRI Syariah ,Kantor Cabang  Syariah,Jl. Taman Citarum No. 4
+87,PT. Bank BRI Syariah ,Kantor Cabang  Syariah,Jl. Suniaraja No. 82
+88,PT. Bank Jabar Banten Syariah,Kantor Cabang  Syariah,Jl. Pelajar Pejuang 45 No. 54 
+89,PT. Bank Jabar Banten Syariah,Kantor Cabang  Syariah,Jl. Braga No. 135 
+90,PT. Bank BNI Syariah,Kantor Cabang  Syariah,Jl. Kopo No. 61 A
+91,PT. Bank Syariah Mandiri,Kantor Cabang  Syariah,Jl. Ir. H. Juanda No. 24
+92,PT. Bank Syariah Mandiri,Kantor Cabang  Syariah,Jl. Jendral Ahmad Yani No. 252
+93,"PT. Bank Panin Dubai Syariah, Tbk",Kantor Cabang  Syariah,Jl. Asia Afrika No. 166-170 
+94,PT. Bank Syariah Bukopin,Kantor Cabang  Syariah,Jl. RE Martadinata No. 142
+95,PT. Bank BCA Syariah,Kantor Cabang  Syariah,Jl. Asia Afrika 122 - 124 
+96,PT. Bank Tabungan Pensiunan Nasional Syariah,Kantor Cabang  Syariah,Jl. Sunda No. 27 D
+97,PT. BPD DKI,Kantor Cabang  Syariah,Jl. Buah Batu No. 157A
+98,PT. Bank BNI Syariah,Kantor Cabang  Syariah,Jl. Asia Afrika No. 174                    
+99,"PT. Bank Rakyat Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Batununggal Indah No. 31 
+100,"PT. Bank Rakyat Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Terusan Jakarta No. 181 Kav. 10
+101,"PT. Bank Rakyat Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Pasir Kaliki No. 150 
+102,"PT. Bank Rakyat Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Rajawali No 95 B 
+103,"PT. Bank Rakyat Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Cijerah No. 194
+104,"PT. Bank Rakyat Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Astana Anyar No.104 
+105,"PT. Bank Rakyat Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Raya Padalarang No.483
+106,"PT. Bank Rakyat Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Otto Iskandardinata No 77 
+107,"PT. Bank Rakyat Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Japati No. 1 Lantai I Gedung Kantor Pusat Telkom 
+108,"PT. Bank Rakyat Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Raya Lembang No. 436-438
+109,"PT. Bank Rakyat Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Taman Sari No. 63 Kampus ITB 
+110,"PT. Bank Rakyat Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Surya Sumantri No. 34A 
+111,"PT. Bank Rakyat Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Cihampelas No. 186 
+112,"PT. Bank Rakyat Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Komp Perkantoran No. 84
+113,"PT. Bank Rakyat Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Cijerah No. 231 Rt. 06 Rw. 02
+114,"PT. Bank Rakyat Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Pasirkaliki No. 133
+115,"PT. Bank Rakyat Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Kopo No. 67A 
+116,"PT. Bank Rakyat Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. A.H.Nasution No. 17 Rt. 01 Rw. 01
+117,"PT. Bank Rakyat Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Cisaranten Kulon No.79 Rt. 01 Rw. 04
+118,"PT. Bank Rakyat Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Suniaraja No. 25
+119,"PT. Bank Rakyat Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Pungkur No. 170
+120,"PT. Bank Rakyat Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Rancabolang No. 1 Grand Metro Center I
+121,"PT. Bank Rakyat Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Bkr No. 98 C
+122,"PT. Bank Rakyat Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Cibolerang Barat No.8
+123,"PT. Bank Rakyat Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Jend. Ahmad Yani No. 1043 A
+124,"PT. Bank Rakyat Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Leuwipanjang No. 15 B
+125,"PT. Bank Rakyat Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Babakan Sari No. 67
+126,"PT. Bank Rakyat Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Ah Nasution No.9 Rt. 06 Rw. 06
+127,"PT. Bank Rakyat Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Printis Kemerdekaan No. 3 Kaveling 5
+128,"PT. Bank Mandiri (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Cikutra 77A
+129,"PT. Bank Mandiri (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Terusan Jakarta No 177
+130,"PT. Bank Mandiri (Persero), Tbk",Kantor Cabang Pembantu ,Pasar Induk Caringin Blok A1 No. 17-18
+131,"PT. Bank Mandiri (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Raya Banjaran No. 199
+132,"PT. Bank Mandiri (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Raya Laswi Ciparay
+133,"PT. Bank Mandiri (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Ahmad Yani No. 730 Puri Tirta Kencana
+134,"PT. Bank Mandiri (Persero), Tbk",Kantor Cabang Pembantu ,Jl. R.E. Martadinata No.103
+135,"PT. Bank Mandiri (Persero), Tbk",Kantor Cabang Pembantu ,Jl. A. H. Nasution No. 67
+136,"PT. Bank Mandiri (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Japati No. 1 Kampus PT Telkom 
+137,"PT. Bank Mandiri (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Ir. H. Juanda No. 30
+138,"PT. Bank Mandiri (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Dr. Junjunan No. 155 A
+139,"PT. Bank Mandiri (Persero), Tbk",Kantor Cabang Pembantu ,Setrasari Plaza Blok A No. 5
+140,"PT. Bank Mandiri (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Raya Cimindi No. 270
+141,"PT. Bank Mandiri (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Siliwangi No. 3
+142,"PT. Bank Mandiri (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Buah Batu No. 268
+143,"PT. Bank Mandiri (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Soekarno Hatta No. 162
+144,"PT. Bank Mandiri (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Soekarno Hatta No. 638
+145,"PT. Bank Mandiri (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Raya Terusan Kopo 228 A
+146,"PT. Bank Mandiri (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Jamika No. 33 C
+147,"PT. Bank Mandiri (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Soekarno Hatta No. 132 B
+148,"PT. Bank Mandiri (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Burangrang No. 35 D
+149,"PT. Bank Mandiri (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Mohamad Toha No. 189
+150,"PT. Bank Mandiri (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Raya Soreang No. 457
+151,"PT. Bank Mandiri (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Raya Ciwidey Km 18
+152,"PT. Bank Mandiri (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Bkr No. 124 A
+153,"PT. Bank Mandiri (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Pajajaran No. 125
+154,"PT. Bank Mandiri (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Setiabudi No. 210
+155,"PT. Bank Mandiri (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Pasteur No. 38
+156,"PT. Bank Mandiri (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Asia Afrika No. 118-120
+157,"PT. Bank Mandiri (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Soekarno Hatta No. 486
+158,"PT. Bank Mandiri (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Raya Dangdeur No. 137
+159,"PT. Bank Mandiri (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Jend. Gatot Subroto No. 295 A
+160,"PT. Bank Mandiri (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Otto Iskandardinata No. 99 Pasar Baru
+161,"PT. Bank Mandiri (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Raya Grand Hotel No. 42
+162,"PT. Bank Mandiri (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Panjunan Kav. 30A
+163,"PT. Bank Mandiri (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Ibrahim Adjie No.113
+164,"PT. Bank Mandiri (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Sukajadi No. 171
+165,"PT. Bank Mandiri (Persero), Tbk",Kantor Cabang Pembantu ,Sukamanah Rt 01 Rw 01
+166,"PT. Bank Mandiri (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Rajawali Timur Dunguscariang Andir
+167,"PT. Bank Mandiri (Persero), Tbk",Kantor Cabang Pembantu ,Taman Kopo Indah II Ruko IB No.2-3
+168,"PT. Bank Mandiri (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Soekarno Hatta No. 520 MTC Blok C 20
+169,"PT. Bank Mandiri (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Cihampelas No. 182
+170,"PT. Bank Mandiri (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Jend. Ahmad Yani No. 317
+171,"PT. Bank Mandiri (Persero), Tbk",Kantor Cabang Pembantu ,Jl. P.H. Hasan Mustapa No. 39
+172,"PT. Bank Mandiri (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Kopo No. 44 Rt. 004 Rw. 004
+173,"PT. Bank Mandiri (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Gunung Batu No. 10 Rt. 04 Rw. 01
+174,"PT. Bank Mandiri (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Otista Blok D Komplek Ruko Otista No. 3 A
+175,"PT. Bank Negara Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Kebon Kawung No. 22 
+176,"PT. Bank Negara Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. M. Toha No. 77
+177,"PT. Bank Negara Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Surapati No. 51
+178,"PT. Bank Negara Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Jend. Sudirman No. 331 
+179,"PT. Bank Negara Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Kopo Cirangrang No. 618
+180,"PT. Bank Negara Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Banda No. 30
+181,"PT. Bank Negara Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Otto Iskandardinata No. 51
+182,"PT. Bank Negara Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Pajajaran No. 135
+183,"PT. Bank Negara Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Kopo No.161 RS. Immanuel 
+184,"PT. Bank Negara Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Ganesha No. 10 
+185,"PT. Bank Negara Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Cisitu No. 21/154 D
+186,"PT. Bank Negara Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Cihampelas No. 105
+187,"PT. Bank Negara Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Dipati Ukur No. 114-116
+188,"PT. Bank Negara Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Dipatiukur No. 35
+189,"PT. Bank Negara Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Ir. H. Djuanda No. 43A
+190,"PT. Bank Negara Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Re Martadinata No. 115 
+191,"PT. Bank Negara Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Braga No. 23 
+192,"PT. Bank Negara Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Supratman No. 62
+193,"PT. Bank Negara Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Buah Batu No. 189 
+194,"PT. Bank Negara Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Jend. A. Yani No. 797 
+195,"PT. Bank Negara Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Jend. A. Yani No. 479 
+196,"PT. Bank Negara Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Kiaracondong No. 418
+197,"PT. Bank Negara Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. A.H. Nasution No. 89/91 
+198,"PT. Bank Negara Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Japati No. 1 
+199,"PT. Bank Negara Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Dr. Setiabudi No. 229
+200,"PT. Bank Negara Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Sukajadi No. 1
+201,"PT. Bank Negara Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. K.H. Hasan Mustopa No. 23
+202,"PT. Bank Negara Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Prof.Drg. Suryasumantri No. 65 
+203,"PT. Bank Negara Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Cijerah Kulon
+204,"PT. Bank Negara Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Surya Sumantri No. 8B
+205,"PT. Bank Negara Indonesia (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Moch. Toha No. 305 
+206,"PT. Bank Danamon Indonesia, Tbk",Kantor Cabang Pembantu ,Komp Taman Kopo Indah Ruko 2 & 3 
+207,"PT. Bank Danamon Indonesia, Tbk",Kantor Cabang Pembantu ,Jl. Kopo No. 26 
+208,"PT. Bank Danamon Indonesia, Tbk",Kantor Cabang Pembantu ,Jl. Dr. Setiabudi 62 
+209,"PT. Bank Danamon Indonesia, Tbk",Kantor Cabang Pembantu ,Jl. Soekarno Hatta Ps.Induk Caringin A1/31
+210,"PT. Bank Danamon Indonesia, Tbk",Kantor Cabang Pembantu ,Jl. Asia Afrika No. 180 
+211,"PT. Bank Danamon Indonesia, Tbk",Kantor Cabang Pembantu ,Jl. Ahmad Yani No. 638 
+212,"PT. Bank Danamon Indonesia, Tbk",Kantor Cabang Pembantu ,Jl. Pungkur No. 118 
+213,"PT. Bank Danamon Indonesia, Tbk",Kantor Cabang Pembantu ,Jl. Jend. Ahmad Yani No. 750
+214,"PT. Bank Danamon Indonesia, Tbk",Kantor Cabang Pembantu ,Jl. Otto Iskandardinata No. 22 
+215,"PT. Bank Permata, Tbk",Kantor Cabang Pembantu ,Jl. Batununggal Indah No. 151 
+216,"PT. Bank Permata, Tbk",Kantor Cabang Pembantu ,Jl. Buah Batu No. 216 
+217,"PT. Bank Permata, Tbk",Kantor Cabang Pembantu ,Jl. Cihampelas No. 188 
+218,"PT. Bank Permata, Tbk",Kantor Cabang Pembantu ,Jl. Kopo No. 24 
+219,"PT. Bank Permata, Tbk",Kantor Cabang Pembantu ,Komplek Sumbersari Indah T-7 
+220,"PT. Bank Permata, Tbk",Kantor Cabang Pembantu ,Jl. Prof. Drg. Surya Sumantri No. 51
+221,"PT. Bank Permata, Tbk",Kantor Cabang Pembantu ,Jl. Bkr No. 178A
+222,"PT. Bank Permata, Tbk",Kantor Cabang Pembantu ,Jl. Sukajadi No.250 B&C
+223,"PT. Bank Permata, Tbk",Kantor Cabang Pembantu ,Jl. Pajajaran No. 85
+224,"PT. Bank Permata, Tbk",Kantor Cabang Pembantu ,Jl. Venus Barat No. 15-16 Kav. 5-6
+225,"PT. Bank Permata, Tbk",Kantor Cabang Pembantu ,Jl. Pasirkaliki No. 150
+226,"PT. Bank Central Asia, Tbk",Kantor Cabang Pembantu ,Jl. Kiaracondong 190 
+227,"PT. Bank Central Asia, Tbk",Kantor Cabang Pembantu ,Jl. Suniaraja Timur 49 
+228,"PT. Bank Central Asia, Tbk",Kantor Cabang Pembantu ,Jl. Setiabudi 146 
+229,"PT. Bank Central Asia, Tbk",Kantor Cabang Pembantu ,Jl. Dr. Djundjunan No. 143-149 
+230,"PT. Bank Central Asia, Tbk",Kantor Cabang Pembantu ,Jl. Kopo 26 A-B 
+231,"PT. Bank Central Asia, Tbk",Kantor Cabang Pembantu ,Jl. Kopo Bihbul No. 49 
+232,"PT. Bank Central Asia, Tbk",Kantor Cabang Pembantu ,Jl. Mohamad Toha No. 197 
+233,"PT. Bank Central Asia, Tbk",Kantor Cabang Pembantu ,Komp Perum TKI II Blok I B 31-32 
+234,"PT. Bank Central Asia, Tbk",Kantor Cabang Pembantu ,Jl. Ujung Berung 50 
+235,"PT. Bank Central Asia, Tbk",Kantor Cabang Pembantu ,Jl. Batununggal Indah Raya No. 149 
+236,"PT. Bank Central Asia, Tbk",Kantor Cabang Pembantu ,Jl. Pasar Baru 8 
+237,"PT. Bank Central Asia, Tbk",Kantor Cabang Pembantu ,Jl. Jamika No. 29 
+238,"PT. Bank Central Asia, Tbk",Kantor Cabang Pembantu ,Jl. Peta 33 Komp. Ruko Kopo Plaza
+239,"PT. Bank Central Asia, Tbk",Kantor Cabang Pembantu ,Jl. Dewi Sartika No. 58 
+240,"PT. Bank Central Asia, Tbk",Kantor Cabang Pembantu ,Jl. Raya Laswi 212 A 
+241,"PT. Bank Central Asia, Tbk",Kantor Cabang Pembantu ,Jl. Abdul Rachman Saleh 77 
+242,"PT. Bank Central Asia, Tbk",Kantor Cabang Pembantu ,Jl. Abdul Rivai No. 11 
+243,"PT. Bank Central Asia, Tbk",Kantor Cabang Pembantu ,Jl. Ahmad Yani No. 280 
+244,"PT. Bank Central Asia, Tbk",Kantor Cabang Pembantu ,Jl. Rajawali Timur 27B
+245,"PT. Bank Central Asia, Tbk",Kantor Cabang Pembantu ,Jl. Buah Batu 192 
+246,"PT. Bank Central Asia, Tbk",Kantor Cabang Pembantu ,Jl. Prof. Drg.S. Soemantri 33 
+247,"PT. Bank Central Asia, Tbk",Kantor Cabang Pembantu ,Jl. Burangrang 44 
+248,"PT. Bank Central Asia, Tbk",Kantor Cabang Pembantu ,Jl. Astana Anyar No. 128 
+249,"PT. Bank Central Asia, Tbk",Kantor Cabang Pembantu ,Jl. Laks.R.E Martadinata 92 
+250,"PT. Bank Central Asia, Tbk",Kantor Cabang Pembantu ,Jl. Sumbersari T 12 No. 23 
+251,"PT. Bank Central Asia, Tbk",Kantor Cabang Pembantu ,Jl. Sunda 50-54 
+252,"PT. Bank Central Asia, Tbk",Kantor Cabang Pembantu ,Jl. Banda 39 
+253,"PT. Bank Central Asia, Tbk",Kantor Cabang Pembantu ,Jl. Pasir Kaliki No. 66 
+254,"PT. Bank Central Asia, Tbk",Kantor Cabang Pembantu ,Jl. Pasirkaliki No. 165 
+255,"PT. Bank Central Asia, Tbk",Kantor Cabang Pembantu ,Jl. Abc No. 23-25 
+256,"PT. Bank Central Asia, Tbk",Kantor Cabang Pembantu ,Metro Trade Center Blok D01 & D02 
+257,"PT. Bank Central Asia, Tbk",Kantor Cabang Pembantu ,Jl. H. Pahruroji No. 10 D 
+258,"PT. Bank Central Asia, Tbk",Kantor Cabang Pembantu ,Jl. Jend. Sudirman No. 277 
+259,"PT. Bank Central Asia, Tbk",Kantor Cabang Pembantu ,Jl. Phh. Mustopa No. 108 
+260,"PT. Bank Central Asia, Tbk",Kantor Cabang Pembantu ,Jl. Purnawarman No. 57911&17 Lg S/1 
+261,"PT. Bank Central Asia, Tbk",Kantor Cabang Pembantu ,Jl. Taman Mekar Utama No. 3 & 5 
+262,"PT. Bank Maybank Indonesia, Tbk",Kantor Cabang Pembantu ,Jl. Raya Kopo Bihbul No. 16 D 
+263,"PT. Bank Maybank Indonesia, Tbk",Kantor Cabang Pembantu ,Jl. Buah Batu No. 261 
+264,"PT. Bank Maybank Indonesia, Tbk",Kantor Cabang Pembantu ,Jl. A. Yani No. 702 
+265,"PT. Bank Maybank Indonesia, Tbk",Kantor Cabang Pembantu ,Jl. Setia Budi No. 170 
+266,"PT. Bank Maybank Indonesia, Tbk",Kantor Cabang Pembantu ,Jl. Surya Sumantri No. 56 
+267,"PT. Bank Maybank Indonesia, Tbk",Kantor Cabang Pembantu ,Jl. Soekarno Hatta Ruko Sumber Sari No. 130 
+268,"PT. Bank Maybank Indonesia, Tbk",Kantor Cabang Pembantu ,Ruko Bumi Kopo Kencana D-14 Lingkar Selatan
+269,"PT. Bank Maybank Indonesia, Tbk",Kantor Cabang Pembantu ,Jl. Cibadak No. 88 
+270,"PT. Bank Maybank Indonesia, Tbk",Kantor Cabang Pembantu ,Jl. Pasir Kaliki No. 154 
+271,"PT. Bank Maybank Indonesia, Tbk",Kantor Cabang Pembantu ,Jl. Batununggal Raya No.157 Rt 008/01 
+272,"PT. Bank Maybank Indonesia, Tbk",Kantor Cabang Pembantu ,Ruko 1B-20 Rt10/Rw11
+273,"PT. Bank Maybank Indonesia, Tbk",Kantor Cabang Pembantu ,Jl. Mohammad Toha No. 165
+274,"PT. Bank Pan Indonesia, Tbk",Kantor Cabang Pembantu ,Jl. A Yani IBCC A I No. 3 A-5-6-7
+275,"PT. Bank Pan Indonesia, Tbk",Kantor Cabang Pembantu ,Jl. Buah Batu No. 238
+276,"PT. Bank Pan Indonesia, Tbk",Kantor Cabang Pembantu ,Jl. Arteri Kom TKI II Ruko 1B No. 23
+277,"PT. Bank Pan Indonesia, Tbk",Kantor Cabang Pembantu ,Jl. Abdurahman Saleh No. 37
+278,"PT. Bank Pan Indonesia, Tbk",Kantor Cabang Pembantu , Jl. Peta No. 241 Festival Citylink Gf No. 27
+279,"PT. Bank Pan Indonesia, Tbk",Kantor Cabang Pembantu ,Jl. Jend Sudirman 462
+280,"PT. Bank Pan Indonesia, Tbk",Kantor Cabang Pembantu ,Jl. Otto Iskandardinata 233
+281,"PT. Bank Pan Indonesia, Tbk",Kantor Cabang Pembantu ,Jl. Kiara Condong 175
+282,"PT. Bank Pan Indonesia, Tbk",Kantor Cabang Pembantu ,Jl. Prof Drg Suria Sumantri 6A
+283,"PT. Bank Pan Indonesia, Tbk",Kantor Cabang Pembantu ,Jl. Gardujati No. 66
+284,"PT. Bank Pan Indonesia, Tbk",Kantor Cabang Pembantu ,Jl. H Juanda No. 110
+285,"PT. Bank Pan Indonesia, Tbk",Kantor Cabang Pembantu ,Jl. Asia Afrika No. 166-170
+286,"PT. Bank Pan Indonesia, Tbk",Kantor Cabang Pembantu ,Komplek Kopo Mas Regency Blok N 1A
+287,"PT. Bank Pan Indonesia, Tbk",Kantor Cabang Pembantu ,Jl. Dr Setiabudi No. 167 A
+288,"PT. Bank CIMB Niaga, Tbk",Kantor Cabang Pembantu ,Jl. Raya Ujungberung
+289,"PT. Bank CIMB Niaga, Tbk",Kantor Cabang Pembantu ,Jl. Raya Lembang No. 274
+290,"PT. Bank CIMB Niaga, Tbk",Kantor Cabang Pembantu ,Jl. Soekarno Hatta No. 132 A 
+291,"PT. Bank CIMB Niaga, Tbk",Kantor Cabang Pembantu ,Jl. Kopo Bihbul No. 94 
+292,"PT. Bank CIMB Niaga, Tbk",Kantor Cabang Pembantu ,Jl. Re Martadinata No. 134 
+293,"PT. Bank CIMB Niaga, Tbk",Kantor Cabang Pembantu ,Jl. Ganesha No. 10 Kampus ITB
+294,"PT. Bank CIMB Niaga, Tbk",Kantor Cabang Pembantu ,Jl. Merdeka No. 52 
+295,"PT. Bank CIMB Niaga, Tbk",Kantor Cabang Pembantu ,Jl. Kebonjati No. 22 Kav. 8
+296,"PT. Bank CIMB Niaga, Tbk",Kantor Cabang Pembantu ,Jl. Pitaniaga No. 6 Kota Baru Parahyangan
+297,"PT. Bank CIMB Niaga, Tbk",Kantor Cabang Pembantu ,Jl. Otista No. 102 
+298,"PT. Bank CIMB Niaga, Tbk",Kantor Cabang Pembantu ,Jl. Terusan Jakarta B1 No. 77 H Lucky Plaza
+299,"PT. Bank CIMB Niaga, Tbk",Kantor Cabang Pembantu ,Jl. Astana Anyar No. 115 
+300,"PT. Bank CIMB Niaga, Tbk",Kantor Cabang Pembantu ,Jl. Raya Soreang No. 460 Desa Pamekaran
+301,"PT. Bank CIMB Niaga, Tbk",Kantor Cabang Pembantu ,Jl. Dakota Raya No. 109 Sukaraja
+302,"PT. Bank CIMB Niaga, Tbk",Kantor Cabang Pembantu ,Jl. Rajawali Barat No. 65 
+303,"PT. Bank CIMB Niaga, Tbk",Kantor Cabang Pembantu ,Jl. Pajajaran No. 85 Cicendo 
+304,PT. Bank UOB Indonesia,Kantor Cabang Pembantu ,Jl. Raya Kopo Bihbul No. 69 
+305,PT. Bank UOB Indonesia,Kantor Cabang Pembantu ,Jl. Pasir Kaliki No. 161 
+306,PT. Bank UOB Indonesia,Kantor Cabang Pembantu ,Jl. Ir. H. Juanda No. 43
+307,PT. Bank UOB Indonesia,Kantor Cabang Pembantu ,Jl. Jend. Achmad Yani No. 235 
+308,PT. Bank UOB Indonesia,Kantor Cabang Pembantu ,Jl. Kopo No. 91 
+309,PT. Bank UOB Indonesia,Kantor Cabang Pembantu ,Jl. Sukajadi No. 5 
+310,PT. Bank UOB Indonesia,Kantor Cabang Pembantu ,Jl. Buah Batu No.1 Ruko Buah Batu No. 146 A
+311,PT. Bank UOB Indonesia,Kantor Cabang Pembantu ,Jl. Jamika No. 19
+312,PT. Bank UOB Indonesia,Kantor Cabang Pembantu ,Jl. Dr. Setiabudhi No. 146 B
+313,"PT. Bank China Construction Bank Indonesia, Tbk",Kantor Cabang Pembantu ,Jl. Jend.Sudirman No. 91A Ruko Sudirman Plaza 
+314,"PT. Bank China Construction Bank Indonesia, Tbk",Kantor Cabang Pembantu ,Jl. Merdeka No.207 D
+315,"PT. Bank Artha Graha Internasional, Tbk",Kantor Cabang Pembantu ,Jl. Jendral Sudirman No. 57
+316,"PT. Bank Bumi Arta, Tbk",Kantor Cabang Pembantu ,Kompleks Kopo Mas Blok 8-P1 Kopo 
+317,"PT. Bank Bumi Arta, Tbk",Kantor Cabang Pembantu ,Jl. Laswi No. 3 
+318,"PT. Bank Mayapada International, Tbk",Kantor Cabang Pembantu ,Jl. Sumber Sari 11-T6
+319,"PT. Bank Mayapada International, Tbk",Kantor Cabang Pembantu ,Jl. Ahmad Yani No. 584
+320,"PT. Bank Mayapada International, Tbk",Kantor Cabang Pembantu ,Jl. Buah Batu No.247 
+321,"PT. BPD Jawa Barat Dan Banten, Tbk",Kantor Cabang Pembantu ,Jl. Cihampelas No.119 A 
+322,"PT. BPD Jawa Barat Dan Banten, Tbk",Kantor Cabang Pembantu ,Jl. Taman Kopo Indah II Ruko 1B-37 AB
+323,"PT. BPD Jawa Barat Dan Banten, Tbk",Kantor Cabang Pembantu ,Jl. Ir. H. Juanda 191 
+324,"PT. BPD Jawa Barat Dan Banten, Tbk",Kantor Cabang Pembantu ,Jl. Otto Iskandardinata No. 315 
+325,"PT. BPD Jawa Barat Dan Banten, Tbk",Kantor Cabang Pembantu ,Jl. Surya Sumantri No.37 
+326,"PT. BPD Jawa Barat Dan Banten, Tbk",Kantor Cabang Pembantu ,Jl. Soekarno Hatta Km 125 Gedebage-
+327,"PT. BPD Jawa Barat Dan Banten, Tbk",Kantor Cabang Pembantu ,Jl. M.Toha No.131 
+328,"PT. BPD Jawa Barat Dan Banten, Tbk",Kantor Cabang Pembantu ,Jl. Wastukencana 21 
+329,"PT. BPD Jawa Barat Dan Banten, Tbk",Kantor Cabang Pembantu ,Jl. Ibrahim Adjie No.344 B 
+330,"PT. BPD Jawa Barat Dan Banten, Tbk",Kantor Cabang Pembantu ,Jl. Soekarno Hatta Blok D No.22
+331,"PT. BPD Jawa Barat Dan Banten, Tbk",Kantor Cabang Pembantu ,Komp.Ruko Kopo Plaza B.7 Bdg
+332,"PT. BPD Jawa Barat Dan Banten, Tbk",Kantor Cabang Pembantu ,Jl. Trs.Jakarta 109 F 
+333,"PT. BPD Jawa Barat Dan Banten, Tbk",Kantor Cabang Pembantu ,Jl. L.L.R.E.Martadinata 106 
+334,"PT. BPD Jawa Barat Dan Banten, Tbk",Kantor Cabang Pembantu ,Jl. Dr.Setiabudi No.169 E 
+335,"PT. BPD Jawa Barat Dan Banten, Tbk",Kantor Cabang Pembantu ,Jl. Jend. A.Yani 414 
+336,"PT. BPD Jawa Barat Dan Banten, Tbk",Kantor Cabang Pembantu ,Jl. Raya Cinunuk No.122 Kab.
+337,"PT. BPD Jawa Barat Dan Banten, Tbk",Kantor Cabang Pembantu ,Jl. Raya Derwati Blok R1 Dan R2 
+338,"PT. BPD Jawa Barat Dan Banten, Tbk",Kantor Cabang Pembantu ,Jl. Jamika No. 21 A Kota 
+339,"PT. BPD Jawa Barat Dan Banten, Tbk",Kantor Cabang Pembantu ,Jl. Pajajaran 84 
+340,"PT. BPD Jawa Barat Dan Banten, Tbk",Kantor Cabang Pembantu ,Jl. Cilamaya No. 5 Kota 
+341,"PT. BPD Jawa Barat Dan Banten, Tbk",Kantor Cabang Pembantu ,Jl. Sudirman No.78 Kota 
+342,"PT. BPD Jawa Barat Dan Banten, Tbk",Kantor Cabang Pembantu ,Jl. Leuwipanjang No.81 Kota 
+343,"PT. BPD Jawa Barat Dan Banten, Tbk",Kantor Cabang Pembantu ,Perumahan Mustika Hegar Regency Ruko Timur
+344,"PT. BPD Jawa Barat Dan Banten, Tbk",Kantor Cabang Pembantu ,Jl. Bkr No.124B
+345,"PT. BPD Jawa Barat Dan Banten, Tbk",Kantor Cabang Pembantu ,Jl. Lodaya No.16C
+346,"PT. BPD Jawa Barat Dan Banten, Tbk",Kantor Cabang Pembantu ,Jl. Gatot Subroto No. 243 
+347,"PT. BPD Jawa Barat Dan Banten, Tbk",Kantor Cabang Pembantu ,Jl. Pungkur No. 141 
+348,"PT. BPD Jawa Barat Dan Banten, Tbk",Kantor Cabang Pembantu ,Jl. Phh Mustofa No. 39 Blok B-6 
+349,"PT. BPD Jawa Barat Dan Banten, Tbk",Kantor Cabang Pembantu ,Jl. Gunung Batu No. 93E 
+350,"PT. BPD Jawa Barat Dan Banten, Tbk",Kantor Cabang Pembantu ,Jl. Pasirkaliki No. 205
+351,"PT. BPD Jawa Barat Dan Banten, Tbk",Kantor Cabang Pembantu ,Jl. Sarijadi Blok III No. 115
+352,"PT. BPD Jawa Barat Dan Banten, Tbk",Kantor Cabang Pembantu ,Jl. Ahmad Yani No. 221-223 Blok A-13
+353,"PT. BPD Jawa Barat Dan Banten, Tbk",Kantor Cabang Pembantu ,Jl. Ir. H. Juanda No.25
+354,"PT. BPD Jawa Barat Dan Banten, Tbk",Kantor Cabang Pembantu ,Jl. AH Nasution Rt. 02 Rw. 01
+355,"PT. BPD Jawa Barat Dan Banten, Tbk",Kantor Cabang Pembantu ,Jl. Raya Cibeureum No. 48
+356,"PT. BPD Jawa Barat Dan Banten, Tbk",Kantor Cabang Pembantu ,Jl. A.H Nasution No. 131
+357,"PT. Bank Nusantara Parahyangan, Tbk",Kantor Cabang Pembantu ,Jl. Buah Batu No. 162 B
+358,"PT. Bank Nusantara Parahyangan, Tbk",Kantor Cabang Pembantu ,Jl. Otista 70 Pasar Baru Lt. 2 Blok D2-01
+359,"PT. Bank Nusantara Parahyangan, Tbk",Kantor Cabang Pembantu ,Komp. Pertokoan Sumber Sari Indah T9
+360,"PT. Bank Nusantara Parahyangan, Tbk",Kantor Cabang Pembantu ,Jl. Jenderal Gatot Subroto No. 268
+361,"PT. Bank Nusantara Parahyangan, Tbk",Kantor Cabang Pembantu ,Jl. Kopo No. 97
+362,"PT. Bank Nusantara Parahyangan, Tbk",Kantor Cabang Pembantu ,Jl. Suniaraja No. 57 - 59
+363,"PT. Bank Nusantara Parahyangan, Tbk",Kantor Cabang Pembantu ,Jl. Pajajaran No. 151
+364,"PT. Bank Nusantara Parahyangan, Tbk",Kantor Cabang Pembantu ,Jl. Kiaracondong No. 36 B
+365,"PT. Bank Nusantara Parahyangan, Tbk",Kantor Cabang Pembantu ,Jl. Sukajadi No. 143 
+366,"PT. Bank Sinarmas, Tbk",Kantor Cabang Pembantu ,Jl. Jamika No. 42A  Jawa Barat
+367,"PT. Bank Sinarmas, Tbk",Kantor Cabang Pembantu ,Jl. Raya Lembang No. 319  Jawa Barat
+368,"PT. Bank Sinarmas, Tbk",Kantor Cabang Pembantu ,Komp.Taman Kopo Indah II Blk 1A No 69
+369,"PT. Bank Sinarmas, Tbk",Kantor Cabang Pembantu ,Jl. Soekarno Hatta Komp. MtTC Kav B-11 
+370,"PT. Bank Sinarmas, Tbk",Kantor Cabang Pembantu ,Jl. Jend. Sudirman No. 91 Ruko Kapitol
+371,"PT. Bank Sinarmas, Tbk",Kantor Cabang Pembantu ,Jl. Buah Batu No. 248 B
+372,"PT. Bank Maspion Indonesia, Tbk",Kantor Cabang Pembantu ,Kopo Bihbul No. 98
+373,"PT. Bank Maspion Indonesia, Tbk",Kantor Cabang Pembantu ,Pajajaran No. 68B 
+374,"PT. Bank Tabungan Negara (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Abd.Rachman Saleh No.69 
+375,"PT. Bank Tabungan Negara (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Raya Ujung Berung No. 111
+376,"PT. Bank Tabungan Negara (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Jend. A. Yani No. 5
+377,"PT. Bank Tabungan Negara (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Purwakarta No. 142
+378,"PT. Bank Tabungan Negara (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Buah Batu No. 194
+379,"PT. Bank Tabungan Negara (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Soekarno Hatta No.624 Komp.Metro Kav.9-10
+380,"PT. Bank Tabungan Negara (Persero), Tbk",Kantor Cabang Pembantu ,Komp. Ruko Kopo Mas Regency Blok 8N 
+381,"PT. Bank Tabungan Negara (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Dangdeur No. 14
+382,"PT. Bank Tabungan Negara (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Raya Kopo No. 457 
+383,"PT. Bank Tabungan Negara (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Setiabudi No. 171 D 
+384,"PT. Bank Tabungan Negara (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Dipati Ukur No. 35
+385,"PT. Bank Tabungan Negara (Persero), Tbk",Kantor Cabang Pembantu ,Jl. Peta No. 252 F
+386,"PT. Bank Woori Saudara Indonesia 1906, Tbk",Kantor Cabang Pembantu ,Jl. Sukajadi No. 248
+387,"PT. Bank Woori Saudara Indonesia 1906, Tbk",Kantor Cabang Pembantu ,Jl. A.H. Nasution Kav. 46A
+388,"PT. Bank Woori Saudara Indonesia 1906, Tbk",Kantor Cabang Pembantu ,Jl. RE Martadinata Pav 123
+389,"PT. Bank Woori Saudara Indonesia 1906, Tbk",Kantor Cabang Pembantu ,Jl. Buah Batu No.110
+390,"PT. Bank Woori Saudara Indonesia 1906, Tbk",Kantor Cabang Pembantu ,Jl. Diponegoro No.28
+391,"PT. Bank Tabungan Pensiunan Nasional, Tbk",Kantor Cabang Pembantu ,Jl. Cikapundung Timur No. 1 
+392,"PT. Bank Tabungan Pensiunan Nasional, Tbk",Kantor Cabang Pembantu ,Jl. Burangrang 26 
+393,"PT. Bank Tabungan Pensiunan Nasional, Tbk",Kantor Cabang Pembantu ,Jl. Sukajadi Atas No. 219 
+394,"PT. Bank Tabungan Pensiunan Nasional, Tbk",Kantor Cabang Pembantu ,Jl. Kopo No. 50 A-B
+395,"PT. Bank Mega, Tbk",Kantor Cabang Pembantu ,Jl. Jend A.Yani No. 650
+396,"PT. Bank Mega, Tbk",Kantor Cabang Pembantu ,Jl. Raya Lembang No. 360
+397,"PT. Bank Mega, Tbk",Kantor Cabang Pembantu ,Jl. Pasar Tengah No. 28 Blok Pasar Tengah
+398,"PT. Bank Mega, Tbk",Kantor Cabang Pembantu , Jl. Jendral Sudirman No.66-68 Komp. Ruko Sudirman Plaza Blok 91F
+399,"PT. Bank Mega, Tbk",Kantor Cabang Pembantu ,Jl. Ir. H. Juanda No. 126B
+400,"PT. Bank Mega, Tbk",Kantor Cabang Pembantu ,Jl. Buah Batu No. 141
+401,"PT. Bank Mega, Tbk",Kantor Cabang Pembantu ,Jl. Lingkar Selatan Blok B/8 Ruko Kopo Plaza 
+402,"PT. Bank Mega, Tbk",Kantor Cabang Pembantu ,Taman Kopo Indah II Blok IV A7
+403,"PT. Bank Mega, Tbk",Kantor Cabang Pembantu ,Jl. Pasirkaliki No. 167
+404,"PT. Bank Mega, Tbk",Kantor Cabang Pembantu ,Jl. Rajawali Barat No. 63
+405,"PT. Bank Mega, Tbk",Kantor Cabang Pembantu ,Jl. Cihampelas No. 119B
+406,"PT. Bank Mega, Tbk",Kantor Cabang Pembantu ,Jl. Soekarno Hatta Pasar Caringin Kav. AII No.12 
+407,"PT. Bank Mega, Tbk",Kantor Cabang Pembantu ,Jl. AH. Nasution No. 202
+408,"PT. Bank Mega, Tbk",Kantor Cabang Pembantu ,Jl. Prof. Dr. Soeria Soemantri Kav.7
+409,"PT. Bank Bukopin, Tbk",Kantor Cabang Pembantu ,Jl. Soekarno Hatta No.234 Caringin Kav A1 3-4
+410,"PT. Bank Bukopin, Tbk",Kantor Cabang Pembantu ,Jl. Setia Budi No.170 B1 
+411,"PT. Bank Bukopin, Tbk",Kantor Cabang Pembantu ,Jl. Buah Batu No.186 B 
+412,"PT. Bank Bukopin, Tbk",Kantor Cabang Pembantu ,Jl. Raya Pangalengan No. 331 
+413,"PT. Bank Bukopin, Tbk",Kantor Cabang Pembantu ,Jl. Raya Terusan Jakarta No. 131
+414,PT. Bank Bisnis Internasional,Kantor Cabang Pembantu ,Ruko Setrasari Blok B No. 5A 
+415,PT. Bank Bisnis Internasional,Kantor Cabang Pembantu ,Jl. Sunda No. 52A 
+416,PT. Bank Bisnis Internasional,Kantor Cabang Pembantu ,Jl. Buah Batu No. 62 C 
+417,PT. Bank KEB Hana Indonesia,Kantor Cabang Pembantu ,Jl. Dr. Surya Sumantri No 10C
+418,"PT. Bank MNC Internasional, Tbk",Kantor Cabang Pembantu ,Jl. Sunda No. 52 B 
+419,PT. Bank Artos Indonesia,Kantor Cabang Pembantu ,Jl. A. Yani 221-223 Segitiga Mas Kosambi Blok A-15 
+420,PT. Bank Artos Indonesia,Kantor Cabang Pembantu ,Jl. Gardujati No. 75 
+421,PT. Bank Artos Indonesia,Kantor Cabang Pembantu ,Komp Kopo Mas Regency Blok 9 G 
+422,PT. Bank Fama Internasional,Kantor Cabang Pembantu ,Jl. Cihampelas No. 40
+423,PT. Bank Fama Internasional,Kantor Cabang Pembantu ,Jl. Oto Iskandardinata No. 95
+424,PT. Bank Fama Internasional,Kantor Cabang Pembantu ,Jl. Jend. Sudirman No. 189
+425,PT. Bank Fama Internasional,Kantor Cabang Pembantu ,Ruko TKI II 1A No. 45
+426,PT. Bank Fama Internasional,Kantor Cabang Pembantu ,Jl. Terusan Jakarta No. 10E 
+427,PT. Bank CTBC Indonesia,Kantor Cabang Pembantu ,Jl. Ir. H. Juanda No. 56
+428,"PT. Bank Rakyat Indonesia (Persero), Tbk",Kantor Cabang Pembantu  ,Jl. Moch. Toha No. 388 Rt. 02 Rw. 06
+429,"PT. Bank Mandiri (Persero), Tbk",Kantor Cabang Pembantu  ,Jl. Raya Ah Nasution Blok A5/2 Tritan Point 
+430,"PT. Bank Mandiri (Persero), Tbk",Kantor Cabang Pembantu  ,Jl. Otto Iskandardinata No 289&291 Rt. 04 Rw. 02
+431,"PT. Bank CIMB Niaga, Tbk",Kantor Cabang Pembantu  ,Jl. Buah Batu No. 143                
+432,"PT. Bank OCBC NISP, Tbk",Kantor Cabang Pembantu  ,Jl. Setiabudi 148 
+433,"PT. Bank OCBC NISP, Tbk",Kantor Cabang Pembantu  ,Jl. Terusan Jakarta No. 53 Ruko M-Borma Antapani
+434,"PT. Bank OCBC NISP, Tbk",Kantor Cabang Pembantu  ,Pertokoan Sumber Sari Ruko Kav T-5.
+435,"PT. Bank OCBC NISP, Tbk",Kantor Cabang Pembantu  ,Jl. Ir. H. Juanda No. 100 
+436,"PT. Bank OCBC NISP, Tbk",Kantor Cabang Pembantu  ,Jl. Cihampelas No. 161 
+437,"PT. Bank OCBC NISP, Tbk",Kantor Cabang Pembantu  ,Jl. Ciumbuleuit No. 94
+438,"PT. Bank OCBC NISP, Tbk",Kantor Cabang Pembantu  ,Jl. Sawunggaling No. 2 
+439,"PT. Bank OCBC NISP, Tbk",Kantor Cabang Pembantu  ,Jl. Asia Afrika No. 100 
+440,"PT. Bank OCBC NISP, Tbk",Kantor Cabang Pembantu  ,Komp. Kopo Permai Blok 6 Ar No. 21
+441,"PT. Bank OCBC NISP, Tbk",Kantor Cabang Pembantu  ,Jl. Moh. Toha No. 182 
+442,"PT. Bank OCBC NISP, Tbk",Kantor Cabang Pembantu  ,Jl. Kepatihan No. 21 
+443,"PT. Bank OCBC NISP, Tbk",Kantor Cabang Pembantu  ,Jl. Buah Batu No. 236 
+444,"PT. Bank OCBC NISP, Tbk",Kantor Cabang Pembantu  ,Jl. Ujung Berung No. 144 
+445,"PT. Bank OCBC NISP, Tbk",Kantor Cabang Pembantu  ,Jl. Peta Lingkar Selatan Komp.Kopo Plaza A-4 
+446,"PT. Bank OCBC NISP, Tbk",Kantor Cabang Pembantu  ,Jl. Rajawali Timur No. 27B 
+447,"PT. Bank OCBC NISP, Tbk",Kantor Cabang Pembantu  ,Jl. Pajajaran No. 85C & 85D
+448,"PT. Bank OCBC NISP, Tbk",Kantor Cabang Pembantu  ,Jl. Cijerah No. 153 
+449,"PT. Bank OCBC NISP, Tbk",Kantor Cabang Pembantu  ,Jl. Jend Sudirman 66-68 Blok 91E
+450,"PT. Bank OCBC NISP, Tbk",Kantor Cabang Pembantu  ,Jl. Raya Purwakarta No. 43
+451,"PT. Bank OCBC NISP, Tbk",Kantor Cabang Pembantu  ,Jl. Prof. Dr. Surya Sumantri Komp. Setrasari Blok A1
+452,"PT. Bank OCBC NISP, Tbk",Kantor Cabang Pembantu  ,Jl. Dr Djunjunan No. 143-149 BTC LT.1 Blok A 1-6
+453,"PT. Bank OCBC NISP, Tbk",Kantor Cabang Pembantu  ,Jl. Taman Kopo Indah II Ruko IB - 12 
+454,"PT. Bank OCBC NISP, Tbk",Kantor Cabang Pembantu  ,Jl. Batununggal No.169 Perum Batununggal
+455,"PT. Bank OCBC NISP, Tbk",Kantor Cabang Pembantu  ,Jl. RE Martadinata No. 39 RSB Limijati 
+456,"PT. Bank OCBC NISP, Tbk",Kantor Cabang Pembantu  ,Jl. Cikutra No.204 A 
+457,"PT. Bank OCBC NISP, Tbk",Kantor Cabang Pembantu  ,Jl. Parahyangan Km3 RS Cahaya Kawaluyaan 
+458,"PT. Bank OCBC NISP, Tbk",Kantor Cabang Pembantu  ,Jl. Surya Sumantri No. 65 Univ Kristen Maranatha
+459,"PT. Bank OCBC NISP, Tbk",Kantor Cabang Pembantu  ,Jl. Soekarno Hatta No. 590 MTC Blok A-25
+460,"PT. Bank OCBC NISP, Tbk",Kantor Cabang Pembantu  ,Jl. Kopo No. 161 - RS Immanuel
+461,"PT. Bank OCBC NISP, Tbk",Kantor Cabang Pembantu  ,Jl. Burangrang No. 31                      
+462,"PT. Bank Artha Graha Internasional, Tbk",Kantor Cabang Pembantu  ,Jl. Bkr No. 52 A-B Rt. 03 Rw. 02
+463,"PT. BPD Jawa Barat Dan Banten, Tbk",Kantor Cabang Pembantu  ,Jl. Kebonjati G-8 Ruko 8 
+464,"PT. Bank Of India Indonesia, Tbk",Kantor Cabang Pembantu  ,Jl. Veteran No. 49
+465,"PT. Bank Tabungan Negara (Persero), Tbk",Kantor Cabang Pembantu  ,Komplek Setrasari Mall Kav. B-1 No. 7
+466,"PT. Bank Mega, Tbk",Kantor Cabang Pembantu  ,Jl. Bypass Soekarno Hatta No. 592
+467,"PT. Bank Bukopin, Tbk",Kantor Cabang Pembantu  ,Jl. AH. Nasution No. 460 Ruko B6  Timur
+468,PT. Bank Mandiri Taspen Pos,Kantor Cabang Pembantu  ,Jl. Jend. A. H. Nasution Blok A5-03&A5-05  
+469,"PT. BPD Jawa Barat Dan Banten, Tbk",Kantor Cabang Pembantu  ,Jl. Kopo No.67
+470,"PT. Bank Nusantara Parahyangan, Tbk",Kantor Cabang Pembantu  ,Jl. Pasirkaliki No. 150 C             
+471,"PT. Bank Nusantara Parahyangan, Tbk",Kantor Cabang Pembantu  ,Jl. Jenderal Sudirman No. 30-32              
+472,"PT. Bank China Construction Bank Indonesia, Tbk",Kantor Cabang Pembantu  ,Jl. Lengkong Kecil No. 45                    
+473,"PT. Bank Rakyat Indonesia (Persero), Tbk",Kantor Cabang Pembantu  ,Jl. Ahmad Yani No. 200 Rt. 002 Rw. 002
+474,"PT. Bank Nusantara Parahyangan, Tbk",Kantor Cabang Pembantu  ,Jl. A.H. Nasution No. 258            
+475,"PT. Bank Nusantara Parahyangan, Tbk",Kantor Cabang Pembantu  ,Jl. Asia Afrika No. 141 Komplek Wisma Bumiputra
+476,"PT. Bank Sinarmas, Tbk",Kantor Cabang Pembantu  ,A.H. Nasution No. 192                 
+477,"PT. Bank Rakyat Indonesia (Persero), Tbk",Kantor Cabang Pembantu  ,Jl. Peta No. 151 A
+478,"PT. Bank Nusantara Parahyangan, Tbk",Kantor Cabang Pembantu  ,Jl. Gardujati No. 58A                        
+479,PT Bank HSBC Indonesia,Kantor Cabang Pembantu  ,Jl. Sukajadi No. 2 Unit F1 1St And 2Nd Floor
+480,PT Bank HSBC Indonesia,Kantor Cabang Pembantu  ,Jl. Buah Batu 238 Rt. 002 Rw. 003
+481,"PT. Bank Rakyat Indonesia (Persero), Tbk",Kantor Cabang Pembantu  ,Jl. Jend. H. Amir Machmud No. 104
+482,"PT. Bank Mandiri (Persero), Tbk",Kantor Cabang Pembantu  ,Jl. Asia Afrika No. 61                       
+483,PT. Bank DBS Indonesia,Kantor Cabang Pembantu  ,Jl. Jawa No. 1                                
+484,"PT. Bank OCBC NISP, Tbk",Kantor Cabang Pembantu  ,Jl. Singgasana Raya No. 16 A         
+485,"PT. BPD Jawa Barat Dan Banten, Tbk",Kantor Cabang Pembantu  ,Jl. Dr. Djunjunan No 76 Rt. 02 Rw. 08
+486,"PT. Bank Mayapada International, Tbk",Kantor Cabang Pembantu  ,Jl. Sukajadi 125                              
+487,"PT. Bank China Construction Bank Indonesia, Tbk",Kantor Cabang Pembantu  ,Jl. Aripan No. 79-81                        
+488,PT. Bank Index Selindo,Kantor Cabang Pembantu  ,Taman Kopo Indah II Ruko I B No.28     
+489,"PT. Bank Mandiri (Persero), Tbk",Kantor Cabang Pembantu  ,Jl. Pasir Kaliki No. 148                     
+490,"PT. Bank Maybank Indonesia, Tbk",Kantor Cabang Pembantu  ,Jl. Jend Gatot Subroto 251
+491,"PT. Bank Rakyat Indonesia (Persero), Tbk",Kantor Cabang Pembantu  ,Jl. Taman Mekar Wangi No. 83
+492,"PT. Bank Rakyat Indonesia (Persero), Tbk",Kantor Cabang Pembantu  ,Jl. Cikutra Raya No. 302B Rt. 04 Rw. 02
+493,"PT. BPD Jawa Barat Dan Banten, Tbk",Kantor Cabang Pembantu  ,Jl. Abdurahman Saleh No. 32
+494,"PT. Bank Tabungan Negara (Persero), Tbk",Kantor Cabang Pembantu  ,Ruko Istana Rgency Sudirman Square
+495,"PT. Bank Danamon Indonesia, Tbk",Kantor Cabang Pembantu  ,Jl. Buah Batu No. 166
+496,"PT. Bank China Construction Bank Indonesia, Tbk",Kantor Cabang Pembantu  ,Jl. Braga No. 100                            
+497,"PT. Bank Danamon Indonesia, Tbk",Kantor Cabang Pembantu  ,Jl. RE. Martadinata No.136
+498,"PT. Bank Rakyat Indonesia (Persero), Tbk",Kantor Cabang Pembantu  ,Jl. Soekarno Hatta Ruko MTC Blok D-15
+499,"PT. Bank Negara Indonesia (Persero), Tbk",Kantor Cabang Pembantu  ,Jl. Pungkur No. 52-54
+500,"PT. Bank Danamon Indonesia, Tbk",Kantor Cabang Pembantu  ,Jl. Soekarno Hatta 130
+501,"PT. Bank Mayapada International, Tbk",Kantor Cabang Pembantu  ,Jl. Jend. Sudirman No. 355-373                 
+502,"PT. Bank Negara Indonesia (Persero), Tbk",Kantor Cabang Pembantu  ,Jl. Soekarno Hatta No. 918E                  
+503,"PT. Bank Muamalat Indonesia, Tbk",Kantor Cabang Pembantu  Syariah,Jl. Re Martadinata No. 39
+504,"PT. Bank Muamalat Indonesia, Tbk",Kantor Cabang Pembantu  Syariah,Jl. Otista No. 94
+505,"PT. Bank Muamalat Indonesia, Tbk",Kantor Cabang Pembantu  Syariah,Jl. Gelap Nyawang No. 4 
+506,"PT. Bank Muamalat Indonesia, Tbk",Kantor Cabang Pembantu  Syariah,Jl. Ciledug No. 247
+507,"PT. Bank Muamalat Indonesia, Tbk",Kantor Cabang Pembantu  Syariah,Jl. Ahmad Yani No. 821
+508,"PT. Bank Muamalat Indonesia, Tbk",Kantor Cabang Pembantu  Syariah,Jl. Raya Soreang
+509,"PT. Bank Muamalat Indonesia, Tbk",Kantor Cabang Pembantu  Syariah,Jl. Raya Timur No. 182
+510,"PT. Bank Muamalat Indonesia, Tbk",Kantor Cabang Pembantu  Syariah,Jl. Cihampelas No. 288 
+511,"PT. Bank Muamalat Indonesia, Tbk",Kantor Cabang Pembantu  Syariah,Jl. AH. Nasution Ruko Tritan Point Blok B5-15 
+512,"PT. Bank Tabungan Negara (Persero), Tbk",Kantor Cabang Pembantu  Syariah,Jl. Mustofa Blok B No. 05 Grand Surapati Core
+513,PT. Bank Victoria Syariah,Kantor Cabang Pembantu  Syariah,Ruko Harmoni Blok A/8
+514,PT. Bank BRI Syariah ,Kantor Cabang Pembantu  Syariah,Jl. Melingasih No. 66E Kav F Komplek Melong N
+515,PT. Bank BRI Syariah ,Kantor Cabang Pembantu  Syariah,Jl. Raya Buah Batu No. 242
+516,PT. Bank BRI Syariah ,Kantor Cabang Pembantu  Syariah,Jl. Soekarno Hatta No. 590
+517,PT. Bank Jabar Banten Syariah,Kantor Cabang Pembantu  Syariah,Jl. Jamika No. 99 D
+518,PT. Bank Jabar Banten Syariah,Kantor Cabang Pembantu  Syariah,Jl. A. H. Nasution No. 94
+519,PT. Bank Jabar Banten Syariah,Kantor Cabang Pembantu  Syariah,Jl. Sukajadi No. 70
+520,PT. Bank Jabar Banten Syariah,Kantor Cabang Pembantu  Syariah,Jl. Mohamad Toha No. 161
+521,PT. Bank BNI Syariah,Kantor Cabang Pembantu  Syariah,Jl. Ir. H. Djuanda No. 298 
+522,PT. Bank BNI Syariah,Kantor Cabang Pembantu  Syariah,Jl. Komp Perkantoran Surapati Core No. 8
+523,PT. Bank BNI Syariah,Kantor Cabang Pembantu  Syariah,Ruko Graha Satelit Blok B No. 2
+524,PT. Bank Syariah Mandiri,Kantor Cabang Pembantu  Syariah,Jl. Moh. Toha No. 184
+525,PT. Bank Syariah Mandiri,Kantor Cabang Pembantu  Syariah,Jl. Setiabudi No. 169 D
+526,PT. Bank Syariah Mandiri,Kantor Cabang Pembantu  Syariah,Jl. Pajajaran No. 89
+527,PT. Bank Syariah Mandiri,Kantor Cabang Pembantu  Syariah,Jl. Terusan Jakarta No. 138
+528,PT. Bank Syariah Mandiri,Kantor Cabang Pembantu  Syariah,Komplek Metro Indah Mall Kav. C-1
+529,PT. Bank Syariah Mandiri,Kantor Cabang Pembantu  Syariah,Pertokoan Cyber Plaza Ruko Blok A No. 12-15
+530,PT. Bank Syariah Mandiri,Kantor Cabang Pembantu  Syariah, Jl. Asia Afrika No. 49K Kantor Pos
+531,PT. Bank Syariah Mandiri,Kantor Cabang Pembantu  Syariah,Jl. Buah Batu Raya No. 249
+532,PT. Bank Mega Syariah,Kantor Cabang Pembantu  Syariah,Jl. Raya Cimahi No. 9D Rt. 01 Rw. 04
+533,PT. Bank Mega Syariah,Kantor Cabang Pembantu  Syariah,Jl. Sunda No. 76E
+534,"PT. Bank Muamalat Indonesia, Tbk",Kantor Cabang Pembantu  Syariah,Jl. Veteran No. 46B
+535,PT. Bank BNI Syariah,Kantor Cabang Pembantu  Syariah,Jl. Buah Batu No. 146                      
