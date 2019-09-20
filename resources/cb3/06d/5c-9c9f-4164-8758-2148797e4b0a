@@ -1,0 +1,38 @@
+Bulan,Tahun,Jenis Kamar,Kode ICD,Nama Penyakit,Laki-laki,Perempuan
+May,2019,Gawat Darurat,A90,Dengue Fever (Classical Dengue),53,56
+May,2019,Gawat Darurat,N39.0,"Urinary Tract Infection, Site Not Specified",9,30
+May,2019,Klinik Akupuntur,E73.1,Secondary Lactase Deficiency,0,5
+May,2019,Klinik Akupuntur,H81.4,Vertigo Of Central Origin,0,2
+May,2019,Klinik Akupuntur,I64,"Stroke, Not Specified As Haemorrhage Or Infarction",0,3
+May,2019,Klinik Akupuntur,J01.9,"Acute Sinusitis, Unspecified",0,1
+May,2019,Klinik Akupuntur,J45.9,"Asthma, Unspecified",0,1
+May,2019,Klinik Akupuntur,K29.7,"Gastritis, Unspecified",0,5
+May,2019,Klinik Anak,A16.2,"Tuberculosis Of Lung, Without Mention Of Bacteriological Or Histological Confirmation",26,24
+May,2019,Klinik Anak,A17.0,Tuberculous Meningitis,26,7
+May,2019,Klinik Bedah Anak,D12.9,Benign Neoplasm Of Anus And Anal Canal,1,0
+May,2019,Klinik Bedah Mulut,K08.2,Atrophy Of Edentulous Alveolar Ridge,1,0
+May,2019,Klinik Bedah Mulut,Q37.5,Cleft Hard And Soft Palate With Unilateral Cleft Lip,1,0
+May,2019,Klinik Bedah Mulut,S02.3,Fracture Of Orbital Floor,1,0
+May,2019,Klinik Bedah Syaraf,G40.8,Other Epilepsy,1,0
+May,2019,Klinik Bedah Syaraf,G50.0,Trigeminal Neuralgia,0,1
+May,2019,Klinik Bedah Syaraf,G91.9,"Hydrocephalus, Unspecified",0,1
+May,2019,Klinik Bedah Syaraf,I28.0,Arteriovenous Fistula Of Pulmonary Vessels,1,0
+May,2019,Klinik Bedah Syaraf,M50.1,Cervical Disc Disorder With Radiculopathy,0,1
+May,2019,Klinik Bedah Syaraf,Z03.9,"Observation For Suspected Disease Or Condition, Unspecified",0,1
+May,2019,Klinik Dalam,E11.2,Non-Insulin-Dependent Diabetes Mellitus With Renal Complications,16,21
+May,2019,Klinik Gigi,K08.1,"Loss Of Teeth Due To Accident, Extraction Or Local Periodontal Disease",3,12
+May,2019,Klinik Kandungan,O02.0,Blighted Ovum And Nonhydatidiform Mole,0,11
+May,2019,Klinik Kandungan,O03.4,"Spontaneous Abortion, Incomplete, Without Complication",0,9
+May,2019,Klinik Kandungan,Z09.8,Follow-Up Examination After Other Treatment For Other Conditions,0,16
+May,2019,Klinik Kemuning,A02.0,Salmonella Enteritis,1,2
+May,2019,Klinik Kemuning,B20.9,Hiv Disease Resulting In Unspecified Infectious Or Parasitic Disease,254,45
+May,2019,Klinik Mata,H10.2,Other Acute Conjunctivitis,10,6
+May,2019,Klinik Mata,H10.3,"Acute Conjunctivitis, Unspecified",5,5
+May,2019,Klinik Mata,H10.8,Other Conjunctivitis,6,3
+May,2019,Klinik Orthopedi,M41.2,Other Idiopathic Scoliosis,1,4
+May,2019,Klinik Orthopedi,S72.00,"Fracture Of Neck Of Femur, Closed",3,3
+May,2019,Klinik Orthopedi,S82.40,"Fracture Of Fibula Alone, Closed",6,0
+May,2019,Klinik Psikiatri,F19.0,"Mental And Behavioural Disorders Due To Multiple Drug Use And Use Of Psychoactive Substances, Acute Intoxication",1,0
+May,2019,Klinik Rehab Medik,M25.51,"Pain In Joint, Shouder Region",3,47
+May,2019,Klinik Rehab Medik,M25.6,"Stiffness Of Joint, Not Elsewhere Classified",10,22
+May,2019,Klinik Tht,J30.4,"Allergic Rhinitis, Unspecified",5,2

@@ -1,0 +1,127 @@
+Bulan,Tahun,Jenis Kamar,Kode ICD,Nama Penyakit,Kelompok Usia Bayi,Kelompok Usia Balita,Kelompok Usia Anak,Kelompok Usia Dewasa,Kelompok Usia Manula
+Maret,2016,Klinik Anak,A09,Diarrhoea And Gastroenteritis Of Presumed Infectious Origin,13,18,1,0,0
+Maret,2016,Klinik Anak,A16.9,"Respiratory Tuberculosis Unspecified, Without Mention Of Bacteriological Or Histological Confirmation",110,447,245,4,0
+Maret,2016,Klinik Anak,A90,Dengue Fever [Classical Dengue],5,17,37,0,0
+Maret,2016,Klinik Anak,A91,Dengue Haemorrhagic Fever,6,13,43,4,0
+Maret,2016,Klinik Anak,G40.9,"Epilepsy, Unspecified",15,129,158,6,0
+Maret,2016,Klinik Anak,J18.0,"Bronchopneumonia, Unspecified",178,111,16,0,0
+Maret,2016,Klinik Anak,J39.9,"Disease Of Upper Respiratory Tract, Unspecified",38,117,37,0,0
+Maret,2016,Klinik Anak,J45.9,"Asthma, Unspecified",26,62,48,1,0
+Maret,2016,Klinik Anak,P59.9,"Neonatal Jaundice, Unspecified",271,1,0,0,0
+Maret,2016,Klinik Anak,Z24.6,Need For Immunization Against Viral Hepatitis,86,1,0,1,0
+Maret,2016,Klinik Bedah Anak,K40.1,"Bilateral Inguinal Hernia, With Gangrene",0,1,0,0,0
+Maret,2016,Klinik Bedah Anak,K40.9,"Unilateral Or Unspecified Inguinal Hernia, Without Obstruction Or Gangrene",9,23,20,0,0
+Maret,2016,Klinik Bedah Anak,N43.3,"Hydrocele, Unspecified",2,9,1,0,0
+Maret,2016,Klinik Bedah Anak,N47,"Redundant Prepuce, Phimosis And Paraphimosis",1,6,0,0,0
+Maret,2016,Klinik Bedah Anak,Q54.9,"Hypospadias, Unspecified",1,2,3,0,0
+Maret,2016,Klinik Bedah Anak,S09.8,Other Specified Injuries Of Head,0,0,1,0,0
+Maret,2016,Klinik Bedah Anak,T14.1,Open Wound Of Unspecified Body Region,1,0,3,1,0
+Maret,2016,Klinik Bedah Mulut,D16.5,Benign Neoplasm Of Lower Jaw Bone,0,0,0,10,1
+Maret,2016,Klinik Bedah Mulut,K01.1,Impacted Teeth,0,0,2,269,16
+Maret,2016,Klinik Bedah Mulut,K04.6,Periapical Abscess With Sinus,0,0,1,40,5
+Maret,2016,Klinik Bedah Mulut,K04.7,Periapical Abscess Without Sinus,0,0,3,94,25
+Maret,2016,Klinik Bedah Mulut,K04.8,Radicular Cyst,0,0,2,10,6
+Maret,2016,Klinik Bedah Mulut,K06.1,Gingival Enlargement,0,0,0,4,0
+Maret,2016,Klinik Bedah Mulut,K11.6,Mucocele Of Salivary Gland,0,1,17,9,0
+Maret,2016,Klinik Bedah Mulut,K12.2,Cellulitis And Abscess Of Mouth,0,0,3,11,1
+Maret,2016,Klinik Bedah Mulut,Q37.5,Cleft Hard And Soft Palate With Unilateral Cleft Lip,0,4,0,0,0
+Maret,2016,Klinik Bedah Mulut,S02.80,"Fractures Of Other Skull And Facial Bones, Closed",0,0,6,4,0
+Maret,2016,Klinik Dalam,A15.0,"Tuberculosis Of Lung, Confirmed By Sputum Microscopy With Or Without Culture",0,0,0,4,2
+Maret,2016,Klinik Dalam,A18.2,Tuberculous Peripheral Lymphadenopathy,0,0,0,2,0
+Maret,2016,Klinik Dalam,E11.9,Non-Insulin-Dependent Diabetes Mellitus Without Complications,0,0,1,461,1003
+Maret,2016,Klinik Dalam,I10,Essential (Primary) Hypertension,0,0,0,235,526
+Maret,2016,Klinik Dalam,I11.0,Hypertensive Heart Disease With (Congestive) Heart Failure,0,0,0,17,45
+Maret,2016,Klinik Dalam,I25.0,"Atherosclerotic Cardiovascular Disease, So Described",0,0,0,2,6
+Maret,2016,Klinik Dalam,I48,Atrial Fibrillation And Flutter,0,0,0,0,2
+Maret,2016,Klinik Dalam,J45.9,"Asthma, Unspecified",0,0,0,137,142
+Maret,2016,Klinik Dalam,K30,Dyspepsia,0,0,1,66,37
+Maret,2016,Klinik Dalam,N18.9,"Chronic Renal Failure, Unspecified",0,0,0,43,99
+Maret,2016,Klinik Gigi,K00.0,Anodontia,0,0,0,3,2
+Maret,2016,Klinik Gigi,K01.1,Impacted Teeth,0,0,1,89,3
+Maret,2016,Klinik Gigi,K02.1,Caries Of Dentine,0,7,6,48,30
+Maret,2016,Klinik Gigi,K03.1,Abrasion Of Teeth,0,0,0,0,6
+Maret,2016,Klinik Gigi,K04.0,Pulpitis,0,14,43,214,45
+Maret,2016,Klinik Gigi,K04.1,Necrosis Of Pulp,0,8,70,347,103
+Maret,2016,Klinik Gigi,K04.5,Chronic Apical Periodontitis,0,12,76,412,118
+Maret,2016,Klinik Gigi,K04.7,Periapical Abscess Without Sinus,0,5,19,119,24
+Maret,2016,Klinik Gigi,K05.1,Chronic Gingivitis,0,0,2,48,15
+Maret,2016,Klinik Gigi,K05.3,Chronic Periodontitis,0,0,0,12,14
+Maret,2016,Klinik Jantung,E10.1,Insulin-Dependent Diabetes Mellitus With Ketoacidosis,0,0,0,0,1
+Maret,2016,Klinik Jantung,I10,Essential (Primary) Hypertension,0,0,0,0,1
+Maret,2016,Klinik Jantung,I11.0,Hypertensive Heart Disease With (Congestive) Heart Failure,0,0,0,101,213
+Maret,2016,Klinik Jantung,I25.1,Atherosclerotic Heart Disease,0,0,0,261,641
+Maret,2016,Klinik Jantung,I48,Atrial Fibrillation And Flutter,0,0,0,1,10
+Maret,2016,Klinik Jantung,I50.0,Congestive Heart Failure,4,2,2,531,797
+Maret,2016,Klinik Jantung,I50.1,Left Ventricular Failure,0,0,1,1,1
+Maret,2016,Klinik Jantung,J45.9,"Asthma, Unspecified",0,0,0,0,2
+Maret,2016,Klinik Jantung,R07.3,Other Chest Pain,0,0,0,5,0
+Maret,2016,Klinik Kandungan,D25.0,Submucous Leiomyoma Of Uterus,0,0,0,30,1
+Maret,2016,Klinik Kandungan,N83.2,Other And Unspecified Ovarian Cysts,0,0,0,81,7
+Maret,2016,Klinik Kandungan,O32.1,Maternal Care For Breech Presentation,0,0,0,25,0
+Maret,2016,Klinik Kandungan,Z09.8,Follow-Up Examination After Other Treatment For Other Conditions,0,0,0,23,1
+Maret,2016,Klinik Kandungan,Z30.1,Insertion Of (Intrauterine) Contraceptive Device,0,0,0,46,0
+Maret,2016,Klinik Kandungan,Z30.5,Surveillance Of (Intrauterine) Contraceptive Device,0,0,0,121,7
+Maret,2016,Klinik Kandungan,Z34.0,Supervision Of Normal First Pregnancy,0,0,0,128,0
+Maret,2016,Klinik Kandungan,Z34.8,Supervision Of Other Normal Pregnancy,0,0,2,640,0
+Maret,2016,Klinik Kandungan,Z35.8,Supervision Of Other High-Risk Pregnancies,0,0,0,108,0
+Maret,2016,Klinik Kandungan,Z39.2,Routine Postpartum Follow-Up,1,0,1,312,1
+Maret,2016,Klinik Mata,H02.9,"Disorder Of Eyelid, Unspecified",0,2,0,14,23
+Maret,2016,Klinik Mata,H10.9,"Conjunctivitis, Unspecified",3,9,26,85,11
+Maret,2016,Klinik Mata,H11.0,Pterygium,0,0,0,41,35
+Maret,2016,Klinik Mata,H25.0,Senile Incipient Cataract,1,0,4,99,741
+Maret,2016,Klinik Mata,H25.1,Senile Nuclear Cataract,0,0,1,23,74
+Maret,2016,Klinik Mata,H27.8,Other Specified Disorders Of Lens,0,0,0,39,209
+Maret,2016,Klinik Mata,H52.1,Myopia,0,0,42,158,33
+Maret,2016,Klinik Mata,H52.2,Astigmatism,0,0,22,115,61
+Maret,2016,Klinik Mata,H52.4,Presbyopia,0,0,1,160,138
+Maret,2016,Klinik Mata,H52.6,Other Disorders Of Refraction,11,8,33,149,57
+Maret,2016,Klinik Orthopedi,L97,"Ulcer Of Lower Limb, Not Elsewhere Classified",0,0,0,10,3
+Maret,2016,Klinik Orthopedi,L98.4,"Chronic Ulcer Of Skin, Not Elsewhere Classified",0,0,2,30,12
+Maret,2016,Klinik Orthopedi,M17.9,"Gonarthrosis, Unspecified",0,0,0,8,13
+Maret,2016,Klinik Orthopedi,M43.16,"Spondylolisthesis, Lumbar Region",0,0,0,0,8
+Maret,2016,Klinik Orthopedi,M54.16,"Radiculopathy, Lumbar Region",0,0,0,0,15
+Maret,2016,Klinik Orthopedi,M96.6,"Fracture Of Bone Following Insertion Of Orthopaedic Implant, Joint Prosthesis, Or Bone Plate",0,2,4,31,11
+Maret,2016,Klinik Orthopedi,M96.9,"Postprocedural Musculoskeletal Disorder, Unspecified",0,4,4,37,11
+Maret,2016,Klinik Orthopedi,S42.00,"Fracture Of Clavicle, Closed",0,0,0,15,2
+Maret,2016,Klinik Orthopedi,S52.50,"Fracture Of Lower End Of Radius, Closed",0,0,2,19,8
+Maret,2016,Klinik Orthopedi,S82.20,"Fracture Of Shaft Of Tibia, Closed",0,0,0,7,4
+Maret,2016,Klinik Psikiatri,F06.8,Other Specified Mental Disorders Due To Brain Damage And Dysfunction And To Physical Disease,0,0,1,1,1
+Maret,2016,Klinik Psikiatri,F20.0,Paranoid Schizophrenia,0,0,0,40,1
+Maret,2016,Klinik Psikiatri,F20.1,Hebephrenic Schizophrenia,0,0,0,22,0
+Maret,2016,Klinik Psikiatri,F20.9,"Schizophrenia, Unspecified",0,0,0,74,17
+Maret,2016,Klinik Psikiatri,F25.1,"Schizoaffective Disorder, Depressive Type",0,0,0,42,3
+Maret,2016,Klinik Psikiatri,F31.7,"Bipolar Affective Disorder, Currently In Remission",0,0,0,23,7
+Maret,2016,Klinik Psikiatri,F33.1,"Recurrent Depressive Disorder, Current Episode Moderate",0,0,0,8,0
+Maret,2016,Klinik Psikiatri,F33.3,"Recurrent Depressive Disorder, Current Episode Severe With Psychotic Symptoms",0,0,0,1,5
+Maret,2016,Klinik Psikiatri,F41.1,Generalized Anxiety Disorder,0,0,0,29,13
+Maret,2016,Klinik Psikiatri,F41.2,Mixed Anxiety And Depressive Disorder,0,0,0,16,12
+Maret,2016,Klinik Rehab Medik,M17.0,"Primary Gonarthrosis, Bilateral",0,0,0,263,534
+Maret,2016,Klinik Rehab Medik,M19.0,Primary Arthrosis Of Other Joints,0,0,0,39,119
+Maret,2016,Klinik Rehab Medik,M25.6,"Stiffness Of Joint, Not Elsewhere Classified",0,0,1,32,15
+Maret,2016,Klinik Rehab Medik,M54.1,Radiculopathy,0,0,0,65,117
+Maret,2016,Klinik Rehab Medik,M54.2,Cervicalgia,0,0,0,52,39
+Maret,2016,Klinik Rehab Medik,M54.5,Low Back Pain,0,0,0,124,155
+Maret,2016,Klinik Rehab Medik,M62.83,"Other Specified Disorders Of Muscle, Forearm",0,0,1,38,16
+Maret,2016,Klinik Rehab Medik,M75.1,Rotator Cuff Syndrome,0,0,0,17,42
+Maret,2016,Klinik Rehab Medik,M79.1,Myalgia,0,0,2,111,85
+Maret,2016,Klinik Rehab Medik,M96.6,"Fracture Of Bone Following Insertion Of Orthopaedic Implant, Joint Prosthesis, Or Bone Plate",0,1,6,138,60
+Maret,2016,Klinik Syaraf,E11.4,Non-Insulin-Dependent Diabetes Mellitus With Neurological Complications,0,0,0,31,84
+Maret,2016,Klinik Syaraf,G20,Parkinson'S Disease,0,0,0,28,108
+Maret,2016,Klinik Syaraf,G40.9,"Epilepsy, Unspecified",0,0,43,641,110
+Maret,2016,Klinik Syaraf,G63.2,Diabetic Polyneuropathy,0,0,0,32,83
+Maret,2016,Klinik Syaraf,H81.4,Vertigo Of Central Origin,0,0,0,43,58
+Maret,2016,Klinik Syaraf,I10,Essential (Primary) Hypertension,0,0,0,21,71
+Maret,2016,Klinik Syaraf,I69.4,"Sequelae Of Stroke, Not Specified As Haemorrhage Or Infarction",0,0,1,680,1668
+Maret,2016,Klinik Syaraf,M17.9,"Gonarthrosis, Unspecified",0,0,1,72,219
+Maret,2016,Klinik Syaraf,M54.12,"Radiculopathy, Cervical Region",0,0,0,217,212
+Maret,2016,Klinik Syaraf,M54.16,"Radiculopathy, Lumbar Region",0,0,1,398,666
+Maret,2016,Klinik Tht,A98.1,Omsk Haemorrhagic Fever,0,4,6,19,6
+Maret,2016,Klinik Tht,H60.8,Other Otitis Externa,3,8,22,91,17
+Maret,2016,Klinik Tht,H60.9,"Otitis Externa, Unspecified",1,3,7,23,8
+Maret,2016,Klinik Tht,H61.2,Impacted Cerumen,2,45,119,281,119
+Maret,2016,Klinik Tht,H65.0,Acute Serous Otitis Media,9,16,26,55,10
+Maret,2016,Klinik Tht,H72.8,Other Perforations Of Tympanic Membrane,1,0,1,16,1
+Maret,2016,Klinik Tht,H93.1,Tinnitus,0,0,2,33,30
+Maret,2016,Klinik Tht,J02.9,"Acute Pharyngitis, Unspecified",0,1,4,12,9
+Maret,2016,Klinik Tht,J30.3,Other Allergic Rhinitis,0,0,6,27,10
+Maret,2016,Klinik Tht,J35.0,Chronic Tonsillitis,0,2,26,32,1

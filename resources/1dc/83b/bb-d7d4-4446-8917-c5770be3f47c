@@ -1,0 +1,38 @@
+bulan,tahun,kamar,kode_icd,nama_penyakit,kelompok_usia_bayi,kelompok_usia_balita,kelompok_usia_anak,kelompok_usia_dewasa,kelompok_usia_manula
+May,2019,gawat darurat,A90,Dengue fever (classical dengue),3,13,38,48,7
+May,2019,gawat darurat,N39.0,"Urinary tract infection, site not specified",0,0,4,29,6
+May,2019,klinik akupuntur,E73.1,Secondary lactase deficiency,0,0,0,5,0
+May,2019,klinik akupuntur,H81.4,Vertigo of central origin,0,0,0,2,0
+May,2019,klinik akupuntur,I64,"Stroke, not specified as haemorrhage or infarction",0,0,0,0,3
+May,2019,klinik akupuntur,J01.9,"Acute sinusitis, unspecified",0,0,0,1,0
+May,2019,klinik akupuntur,J45.9,"Asthma, unspecified",0,0,0,0,1
+May,2019,klinik akupuntur,K29.7,"Gastritis, unspecified",0,0,0,0,5
+May,2019,klinik anak,A16.2,"Tuberculosis of lung, without mention of bacteriological or histological confirmation",2,28,19,1,0
+May,2019,klinik anak,A17.0,Tuberculous meningitis,5,15,10,3,0
+May,2019,klinik bedah anak,D12.9,Benign neoplasm of anus and anal canal,1,0,0,0,0
+May,2019,klinik bedah mulut,K08.2,Atrophy of edentulous alveolar ridge,0,0,0,0,1
+May,2019,klinik bedah mulut,Q37.5,Cleft hard and soft palate with unilateral cleft lip,0,0,0,1,0
+May,2019,klinik bedah mulut,S02.3,Fracture of orbital floor,0,0,0,1,0
+May,2019,klinik bedah syaraf,G40.8,Other epilepsy,0,0,0,0,1
+May,2019,klinik bedah syaraf,G50.0,Trigeminal neuralgia,0,0,0,0,1
+May,2019,klinik bedah syaraf,G91.9,"Hydrocephalus, unspecified",0,0,0,1,0
+May,2019,klinik bedah syaraf,I28.0,Arteriovenous fistula of pulmonary vessels,0,0,0,1,0
+May,2019,klinik bedah syaraf,M50.1,Cervical disc disorder with radiculopathy,0,0,0,1,0
+May,2019,klinik bedah syaraf,Z03.9,"Observation for suspected disease or condition, unspecified",0,0,0,1,0
+May,2019,klinik dalam,E11.2,Non-insulin-dependent diabetes mellitus with renal complications,0,0,0,10,27
+May,2019,klinik gigi,K08.1,"Loss of teeth due to accident, extraction or local periodontal disease",0,0,0,13,2
+May,2019,klinik kandungan,O02.0,Blighted ovum and nonhydatidiform mole,0,0,0,11,0
+May,2019,klinik kandungan,O03.4,"Spontaneous abortion, incomplete, without complication",0,0,0,9,0
+May,2019,klinik kandungan,Z09.8,Follow-up examination after other treatment for other conditions,0,0,0,16,0
+May,2019,klinik kemuning,A02.0,Salmonella enteritis,0,0,0,3,0
+May,2019,klinik kemuning,B20.9,HIV disease resulting in unspecified infectious or parasitic disease,0,0,0,299,0
+May,2019,klinik mata,H10.2,Other acute conjunctivitis,2,0,6,8,0
+May,2019,klinik mata,H10.3,"Acute conjunctivitis, unspecified",0,0,0,8,2
+May,2019,klinik mata,H10.8,Other conjunctivitis,2,0,2,5,0
+May,2019,klinik orthopedi,M41.2,Other idiopathic scoliosis,0,0,0,4,1
+May,2019,klinik orthopedi,S72.00,"Fracture of neck of femur, closed",0,0,0,0,6
+May,2019,klinik orthopedi,S82.40,"Fracture of fibula alone, closed",0,0,0,4,2
+May,2019,klinik psikiatri,F19.0,"Mental and behavioural disorders due to multiple drug use and use of psychoactive substances, acute intoxication",0,0,0,1,0
+May,2019,klinik rehab medik,M25.51,"Pain in joint, shouder region",0,0,0,33,17
+May,2019,klinik rehab medik,M25.6,"Stiffness of joint, not elsewhere classified",3,0,6,15,8
+May,2019,klinik tht,J30.4,"Allergic rhinitis, unspecified",0,0,1,5,1

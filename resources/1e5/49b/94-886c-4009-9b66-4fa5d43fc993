@@ -1,0 +1,67 @@
+Bulan,Tahun,Jenis Kamar,Kode ICD,Nama Penyakit,Laki-laki,Perempuan
+Agustus,2017,Gawat Darurat,O13,Gestational (Pregnancy-Induced) Hypertension Without Significant Proteinuria,0,28
+Agustus,2017,Gawat Darurat,O14.1,Severe Pre-Eclampsia,0,12
+Agustus,2017,Gawat Darurat,O21.9,"Vomiting Of Pregnancy, Unspecified",0,20
+Agustus,2017,Gawat Darurat,O23.4,Unspecified Infection Of Urinary Tract In Pregnancy,0,13
+Agustus,2017,Gawat Darurat,O26.0,Excessive Weight Gain In Pregnancy,0,20
+Agustus,2017,Gawat Darurat,O42.0,"Premature Rupture Of Membranes, Onset Of Labour Within 24 Hours",1,255
+Agustus,2017,Gawat Darurat,O64.1,Obstructed Labour Due To Breech Presentation,0,14
+Agustus,2017,Gawat Darurat,O80.0,Spontaneous Vertex Delivery,0,77
+Agustus,2017,Gawat Darurat,O80.9,"Single Spontaneous Delivery, Unspecified",0,52
+Agustus,2017,Gawat Darurat,O82.1,Delivery By Emergency Caesarean Section,0,18
+Agustus,2017,Klinik Anak,A15.3,"Tuberculosis Of Lung, Confirmed By Unspecified Means",38,35
+Agustus,2017,Klinik Anak,A16.7,Primary Respiratory Tuberculosis Without Mention Of Bacteriological Or Histological Confirmation,40,40
+Agustus,2017,Klinik Anak,A17.0,Tuberculous Meningitis,27,9
+Agustus,2017,Klinik Anak,Z03.0,Observation For Suspected Tuberculosis,50,46
+Agustus,2017,Klinik Anak,Z38.0,"Singleton, Born In Hospital",77,60
+Agustus,2017,Klinik Bedah Anak,N47,"Redundant Prepuce, Phimosis And Paraphimosis",3,0
+Agustus,2017,Klinik Bedah Anak,Q53.1,"Undescended Testicle, Unilateral",3,0
+Agustus,2017,Klinik Bedah Anak,Q54.0,"Hypospadias, Balanic",2,0
+Agustus,2017,Klinik Bedah Anak,Q54.1,"Hypospadias, Penile",18,0
+Agustus,2017,Klinik Bedah Mulut,D10.0,Benign Neoplasm Of Lip,1,6
+Agustus,2017,Klinik Bedah Mulut,D10.2,Benign Neoplasm Of Floor Of Mouth,0,4
+Agustus,2017,Klinik Bedah Mulut,K04.5,Chronic Apical Periodontitis,0,4
+Agustus,2017,Klinik Bedah Mulut,K06.8,Other Specified Disorders Of Gingiva And Edentulous Alveolar Ridge,4,1
+Agustus,2017,Klinik Bedah Mulut,S02.6,Fracture Of Mandible,3,1
+Agustus,2017,Klinik Bedah Syaraf,G94.1,Hydrocephalus In Neoplastic Disease,2,1
+Agustus,2017,Klinik Dahlia,N18.0,End-Stage Renal Disease,123,199
+Agustus,2017,Klinik Dalam,I25.1,Atherosclerotic Heart Disease,26,32
+Agustus,2017,Klinik Dalam,J44.9,"Chronic Obstructive Pulmonary Disease, Unspecified",166,52
+Agustus,2017,Klinik Gigi,K00.6,Disturbances In Tooth Eruption,5,5
+Agustus,2017,Klinik Gigi,K02.9,"Dental Caries, Unspecified",15,19
+Agustus,2017,Klinik Gigi,K05.1,Chronic Gingivitis,17,35
+Agustus,2017,Klinik Gizi,E66.8,Other Obesity,1,2
+Agustus,2017,Klinik Gizi,E66.9,"Obesity, Unspecified",2,9
+Agustus,2017,Klinik Gizi,K29.7,"Gastritis, Unspecified",2,4
+Agustus,2017,Klinik Gizi,Z13.2,Special Screening Examination For Nutritional Disorders,34,45
+Agustus,2017,Klinik Jantung,E11.9,Non-Insulin-Dependent Diabetes Mellitus Without Complications,0,2
+Agustus,2017,Klinik Jantung,I21.9,"Acute Myocardial Infarction, Unspecified",8,0
+Agustus,2017,Klinik Jantung,J45.9,"Asthma, Unspecified",0,2
+Agustus,2017,Klinik Jantung,K21.0,Gastro-Oesophageal Reflux Disease With Oesophagitis,18,55
+Agustus,2017,Klinik Kandungan,D25.9,"Leiomyoma Of Uterus, Unspecified",0,30
+Agustus,2017,Klinik Kandungan,N93.8,Other Specified Abnormal Uterine And Vaginal Bleeding,0,20
+Agustus,2017,Klinik Kandungan,Z03.8,Observation For Other Suspected Diseases And Conditions,1,43
+Agustus,2017,Klinik Kandungan,Z30.0,General Counselling And Advice On Contraception,0,32
+Agustus,2017,Klinik Konservasi Gigi,K04.0,Pulpitis,20,41
+Agustus,2017,Klinik Konservasi Gigi,K04.1,Necrosis Of Pulp,45,63
+Agustus,2017,Klinik Mata,H40.1,Primary Open-Angle Glaucoma,39,35
+Agustus,2017,Klinik Mata,I10,Essential (Primary) Hypertension,11,34
+Agustus,2017,Klinik Mata,Z96.1,Presence Of Intraocular Lens,69,84
+Agustus,2017,Klinik Orthopedi,G56.0,Carpal Tunnel Syndrome,1,8
+Agustus,2017,Klinik Orthopedi,M41.2,Other Idiopathic Scoliosis,12,8
+Agustus,2017,Klinik Orthopedi,R02,"Gangrene, Not Elsewhere Classified",25,17
+Agustus,2017,Klinik Orthopedi,S42.00,"Fracture Of Clavicle, Closed",5,6
+Agustus,2017,Klinik Orthopedi,S42.40,"Fracture Of Lower End Of Humerus, Closed",7,3
+Agustus,2017,Klinik Orthopedi,S68.1,Traumatic Amputation Of Other Single Finger (Complete) (Partial),8,1
+Agustus,2017,Klinik Psikiatri,F31.1,"Bipolar Affective Disorder, Current Episode Manic Without Psychotic Symptoms",7,10
+Agustus,2017,Klinik Psikiatri,Z00.0,General Medical Examination,18,13
+Agustus,2017,Klinik Rehab Medik,M19.0,Primary Arthrosis Of Other Joints,23,40
+Agustus,2017,Klinik Rehab Medik,M25.56,"Pain In Joint, Lower Leg",31,264
+Agustus,2017,Klinik Rehab Medik,M65.34,"Trigger Finger, Hand",24,85
+Agustus,2017,Klinik Syaraf,G50.0,Trigeminal Neuralgia,20,31
+Agustus,2017,Klinik Syaraf,G56.0,Carpal Tunnel Syndrome,8,40
+Agustus,2017,Klinik Syaraf,H81.4,Vertigo Of Central Origin,12,37
+Agustus,2017,Klinik Syaraf,I69.4,"Sequelae Of Stroke, Not Specified As Haemorrhage Or Infarction",742,707
+Agustus,2017,Klinik Tht,H66.1,Chronic Tubotympanic Suppurative Otitis Media,16,21
+Agustus,2017,Klinik Tht,J35.1,Hypertrophy Of Tonsils,3,24
+Agustus,2017,Klinik Tht,Z00.0,General Medical Examination,10,4

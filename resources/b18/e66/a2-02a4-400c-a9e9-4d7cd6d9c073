@@ -1,0 +1,67 @@
+Bulan,Tahun,Jenis Kamar,Kode ICD,Nama Penyakit,Kelompok Usia Bayi,Kelompok Usia Balita,Kelompok Usia Anak,Kelompok Usia Dewasa,Kelompok Usia Manula
+Agustus,2017,Gawat Darurat,O13,Gestational (Pregnancy-Induced) Hypertension Without Significant Proteinuria,0,0,0,28,0
+Agustus,2017,Gawat Darurat,O14.1,Severe Pre-Eclampsia,0,0,0,12,0
+Agustus,2017,Gawat Darurat,O21.9,"Vomiting Of Pregnancy, Unspecified",0,0,0,20,0
+Agustus,2017,Gawat Darurat,O23.4,Unspecified Infection Of Urinary Tract In Pregnancy,0,0,0,13,0
+Agustus,2017,Gawat Darurat,O26.0,Excessive Weight Gain In Pregnancy,0,0,0,20,0
+Agustus,2017,Gawat Darurat,O42.0,"Premature Rupture Of Membranes, Onset Of Labour Within 24 Hours",0,0,0,256,0
+Agustus,2017,Gawat Darurat,O64.1,Obstructed Labour Due To Breech Presentation,0,0,0,14,0
+Agustus,2017,Gawat Darurat,O80.0,Spontaneous Vertex Delivery,0,0,0,77,0
+Agustus,2017,Gawat Darurat,O80.9,"Single Spontaneous Delivery, Unspecified",0,0,0,52,0
+Agustus,2017,Gawat Darurat,O82.1,Delivery By Emergency Caesarean Section,0,0,0,18,0
+Agustus,2017,Klinik Anak,A15.3,"Tuberculosis Of Lung, Confirmed By Unspecified Means",10,32,31,0,0
+Agustus,2017,Klinik Anak,A16.7,Primary Respiratory Tuberculosis Without Mention Of Bacteriological Or Histological Confirmation,12,40,28,0,0
+Agustus,2017,Klinik Anak,A17.0,Tuberculous Meningitis,3,14,19,0,0
+Agustus,2017,Klinik Anak,Z03.0,Observation For Suspected Tuberculosis,19,38,39,0,0
+Agustus,2017,Klinik Anak,Z38.0,"Singleton, Born In Hospital",137,0,0,0,0
+Agustus,2017,Klinik Bedah Anak,N47,"Redundant Prepuce, Phimosis And Paraphimosis",2,1,0,0,0
+Agustus,2017,Klinik Bedah Anak,Q53.1,"Undescended Testicle, Unilateral",1,2,0,0,0
+Agustus,2017,Klinik Bedah Anak,Q54.0,"Hypospadias, Balanic",0,0,2,0,0
+Agustus,2017,Klinik Bedah Anak,Q54.1,"Hypospadias, Penile",3,6,7,2,0
+Agustus,2017,Klinik Bedah Mulut,D10.0,Benign Neoplasm Of Lip,0,0,0,3,4
+Agustus,2017,Klinik Bedah Mulut,D10.2,Benign Neoplasm Of Floor Of Mouth,0,0,0,3,1
+Agustus,2017,Klinik Bedah Mulut,K04.5,Chronic Apical Periodontitis,0,0,0,2,2
+Agustus,2017,Klinik Bedah Mulut,K06.8,Other Specified Disorders Of Gingiva And Edentulous Alveolar Ridge,0,0,0,1,4
+Agustus,2017,Klinik Bedah Mulut,S02.6,Fracture Of Mandible,0,0,0,3,1
+Agustus,2017,Klinik Bedah Syaraf,G94.1,Hydrocephalus In Neoplastic Disease,3,0,0,0,0
+Agustus,2017,Klinik Dahlia,N18.0,End-Stage Renal Disease,0,0,0,133,189
+Agustus,2017,Klinik Dalam,I25.1,Atherosclerotic Heart Disease,1,0,0,13,44
+Agustus,2017,Klinik Dalam,J44.9,"Chronic Obstructive Pulmonary Disease, Unspecified",0,0,0,55,163
+Agustus,2017,Klinik Gigi,K00.6,Disturbances In Tooth Eruption,0,0,10,0,0
+Agustus,2017,Klinik Gigi,K02.9,"Dental Caries, Unspecified",0,1,12,17,4
+Agustus,2017,Klinik Gigi,K05.1,Chronic Gingivitis,0,0,4,40,8
+Agustus,2017,Klinik Gizi,E66.8,Other Obesity,0,0,0,1,2
+Agustus,2017,Klinik Gizi,E66.9,"Obesity, Unspecified",0,0,0,8,3
+Agustus,2017,Klinik Gizi,K29.7,"Gastritis, Unspecified",0,0,0,6,0
+Agustus,2017,Klinik Gizi,Z13.2,Special Screening Examination For Nutritional Disorders,2,1,2,31,43
+Agustus,2017,Klinik Jantung,E11.9,Non-Insulin-Dependent Diabetes Mellitus Without Complications,0,0,0,0,2
+Agustus,2017,Klinik Jantung,I21.9,"Acute Myocardial Infarction, Unspecified",0,0,0,3,5
+Agustus,2017,Klinik Jantung,J45.9,"Asthma, Unspecified",0,0,0,0,2
+Agustus,2017,Klinik Jantung,K21.0,Gastro-Oesophageal Reflux Disease With Oesophagitis,0,0,0,30,43
+Agustus,2017,Klinik Kandungan,D25.9,"Leiomyoma Of Uterus, Unspecified",0,0,0,29,1
+Agustus,2017,Klinik Kandungan,N93.8,Other Specified Abnormal Uterine And Vaginal Bleeding,0,0,0,16,4
+Agustus,2017,Klinik Kandungan,Z03.8,Observation For Other Suspected Diseases And Conditions,0,0,0,44,0
+Agustus,2017,Klinik Kandungan,Z30.0,General Counselling And Advice On Contraception,0,0,0,30,2
+Agustus,2017,Klinik Konservasi Gigi,K04.0,Pulpitis,0,0,10,51,0
+Agustus,2017,Klinik Konservasi Gigi,K04.1,Necrosis Of Pulp,0,0,11,73,24
+Agustus,2017,Klinik Mata,H40.1,Primary Open-Angle Glaucoma,0,0,0,13,61
+Agustus,2017,Klinik Mata,I10,Essential (Primary) Hypertension,0,0,0,0,45
+Agustus,2017,Klinik Mata,Z96.1,Presence Of Intraocular Lens,0,0,1,30,122
+Agustus,2017,Klinik Orthopedi,G56.0,Carpal Tunnel Syndrome,0,0,0,8,1
+Agustus,2017,Klinik Orthopedi,M41.2,Other Idiopathic Scoliosis,0,0,13,7,0
+Agustus,2017,Klinik Orthopedi,R02,"Gangrene, Not Elsewhere Classified",0,0,1,23,18
+Agustus,2017,Klinik Orthopedi,S42.00,"Fracture Of Clavicle, Closed",0,0,0,11,0
+Agustus,2017,Klinik Orthopedi,S42.40,"Fracture Of Lower End Of Humerus, Closed",0,0,7,0,3
+Agustus,2017,Klinik Orthopedi,S68.1,Traumatic Amputation Of Other Single Finger (Complete) (Partial),0,2,0,3,4
+Agustus,2017,Klinik Psikiatri,F31.1,"Bipolar Affective Disorder, Current Episode Manic Without Psychotic Symptoms",0,0,0,13,4
+Agustus,2017,Klinik Psikiatri,Z00.0,General Medical Examination,0,0,0,31,0
+Agustus,2017,Klinik Rehab Medik,M19.0,Primary Arthrosis Of Other Joints,0,0,0,13,50
+Agustus,2017,Klinik Rehab Medik,M25.56,"Pain In Joint, Lower Leg",0,0,0,99,196
+Agustus,2017,Klinik Rehab Medik,M65.34,"Trigger Finger, Hand",0,0,0,56,53
+Agustus,2017,Klinik Syaraf,G50.0,Trigeminal Neuralgia,0,0,0,10,41
+Agustus,2017,Klinik Syaraf,G56.0,Carpal Tunnel Syndrome,0,0,0,32,16
+Agustus,2017,Klinik Syaraf,H81.4,Vertigo Of Central Origin,0,0,0,18,31
+Agustus,2017,Klinik Syaraf,I69.4,"Sequelae Of Stroke, Not Specified As Haemorrhage Or Infarction",0,0,0,416,1033
+Agustus,2017,Klinik Tht,H66.1,Chronic Tubotympanic Suppurative Otitis Media,1,4,7,16,9
+Agustus,2017,Klinik Tht,J35.1,Hypertrophy Of Tonsils,0,1,13,13,0
+Agustus,2017,Klinik Tht,Z00.0,General Medical Examination,0,0,0,14,0

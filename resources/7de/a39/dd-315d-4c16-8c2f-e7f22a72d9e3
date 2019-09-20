@@ -1,0 +1,65 @@
+Bulan,Tahun,Jenis Kamar,Kode ICD,Nama Penyakit,Laki-laki,Perempuan
+Februari,2018,Gawat Darurat,R06.0,Dyspnoea,57,43
+Februari,2018,Gawat Darurat,T14.0,Superficial Injury Of Unspecified Body Region,34,23
+Februari,2018,Gawat Darurat,Z03.9,"Observation For Suspected Disease Or Condition, Unspecified",87,84
+Februari,2018,Klinik Akupuntur,E78.5,"Hyperlipidaemia, Unspecified",0,4
+Februari,2018,Klinik Akupuntur,G47.0,Disorders Of Initiating And Maintaining Sleep [Insomnias],3,0
+Februari,2018,Klinik Akupuntur,G56.0,Carpal Tunnel Syndrome,0,5
+Februari,2018,Klinik Akupuntur,H81.4,Vertigo Of Central Origin,0,2
+Februari,2018,Klinik Akupuntur,H93.1,Tinnitus,2,0
+Februari,2018,Klinik Akupuntur,L70.9,"Acne, Unspecified",0,7
+Februari,2018,Klinik Akupuntur,M10.07,"Idiopathic Gout, Ankle And Foot",3,0
+Februari,2018,Klinik Akupuntur,R53,Malaise And Fatigue,2,2
+Februari,2018,Klinik Anak,A15.3,"Tuberculosis Of Lung, Confirmed By Unspecified Means",23,15
+Februari,2018,Klinik Anak,A18.2,Tuberculous Peripheral Lymphadenopathy,23,22
+Februari,2018,Klinik Bedah Anak,K40.0,"Bilateral Inguinal Hernia, With Obstruction, Without Gangrene",8,0
+Februari,2018,Klinik Bedah Anak,L02.8,"Cutaneous Abscess, Furuncle And Carbuncle Of Other Sites",1,0
+Februari,2018,Klinik Bedah Anak,Q53.1,"Undescended Testicle, Unilateral",6,0
+Februari,2018,Klinik Bedah Anak,Q54.0,"Hypospadias, Balanic",2,0
+Februari,2018,Klinik Bedah Mulut,D17.0,"Benign Lipomatous Neoplasm Of Skin And Subcutaneous Tissue Of Head, Face And Neck",2,0
+Februari,2018,Klinik Bedah Mulut,K04.8,Radicular Cyst,6,3
+Februari,2018,Klinik Bedah Mulut,K06.8,Other Specified Disorders Of Gingiva And Edentulous Alveolar Ridge,1,1
+Februari,2018,Klinik Bedah Mulut,K07.6,Temporomandibular Joint Disorders,0,3
+Februari,2018,Klinik Bedah Mulut,K10.8,Other Specified Diseases Of Jaws,3,0
+Februari,2018,Klinik Bedah Syaraf,M51.0,Lumbar And Other Intervertebral Disc Disorders With Myelopathy,0,2
+Februari,2018,Klinik Bedah Syaraf,M54.5,Low Back Pain,1,0
+Februari,2018,Klinik Dalam,J44.9,"Chronic Obstructive Pulmonary Disease, Unspecified",97,49
+Februari,2018,Klinik Dalam,N18.9,"Chronic Renal Failure, Unspecified",56,73
+Februari,2018,Klinik Gizi,E11.9,Non-Insulin-Dependent Diabetes Mellitus Without Complications,5,11
+Februari,2018,Klinik Gizi,E66.9,"Obesity, Unspecified",1,4
+Februari,2018,Klinik Gizi,K29.7,"Gastritis, Unspecified",1,4
+Februari,2018,Klinik Gizi,M06.09,"Seronegative Rheumatoid Arthritis, Unspecified Site",1,1
+Februari,2018,Klinik Gizi,Z13.2,Special Screening Examination For Nutritional Disorders,4,16
+Februari,2018,Klinik Jantung,I11.9,Hypertensive Heart Disease Without (Congestive) Heart Failure,0,1
+Februari,2018,Klinik Jantung,I20.9,"Angina Pectoris, Unspecified",3,0
+Februari,2018,Klinik Jantung,R07.3,Other Chest Pain,6,1
+Februari,2018,Klinik Kandungan,O05.0,"Other Abortion, Incomplete, Complicated By Genital Tract And Pelvic Infection",0,18
+Februari,2018,Klinik Kandungan,O86.1,Other Infection Of Genital Tract Following Delivery,0,35
+Februari,2018,Klinik Konservasi Gigi,K04.0,Pulpitis,13,35
+Februari,2018,Klinik Konservasi Gigi,K04.1,Necrosis Of Pulp,15,36
+Februari,2018,Klinik Konservasi Gigi,K04.5,Chronic Apical Periodontitis,1,0
+Februari,2018,Klinik Konservasi Gigi,K04.6,Periapical Abscess With Sinus,0,2
+Februari,2018,Klinik Konservasi Gigi,K04.7,Periapical Abscess Without Sinus,0,4
+Februari,2018,Klinik Mata,E11.9,Non-Insulin-Dependent Diabetes Mellitus Without Complications,15,28
+Februari,2018,Klinik Mata,Z96.1,Presence Of Intraocular Lens,91,104
+Februari,2018,Klinik Orthopedi,L02.4,"Cutaneous Abscess, Furuncle And Carbuncle Of Limb",6,0
+Februari,2018,Klinik Orthopedi,M17.9,"Gonarthrosis, Unspecified",7,3
+Februari,2018,Klinik Orthopedi,M41.2,Other Idiopathic Scoliosis,4,5
+Februari,2018,Klinik Orthopedi,M54.17,"Radiculopathy, Lumbosacral Region",2,4
+Februari,2018,Klinik Psikiatri,F31.6,"Bipolar Affective Disorder, Current Episode Mixed",5,3
+Februari,2018,Klinik Psikiatri,F99,"Mental Disorder, Not Otherwise Specified",90,74
+Februari,2018,Klinik Rehab Medik,M54.16,"Radiculopathy, Lumbar Region",21,41
+Februari,2018,Klinik Rehab Medik,M65.34,"Trigger Finger, Hand",16,79
+Februari,2018,Klinik Syaraf,G62.9,"Polyneuropathy, Unspecified",12,7
+Februari,2018,Klinik Tht,H66.1,Chronic Tubotympanic Suppurative Otitis Media,24,14
+Februari,2018,Klinik Tht,J35.1,Hypertrophy Of Tonsils,11,16
+Februari,2018,Klinik Vct,A09,Diarrhoea And Gastroenteritis Of Presumed Infectious Origin,46,53
+Februari,2018,Klinik Vct,J45.9,"Asthma, Unspecified",55,42
+Februari,2018,Klinik Vct,K30,Dyspepsia,60,102
+Februari,2018,Klinik Vct,O42.0,"Premature Rupture Of Membranes, Onset Of Labour Within 24 Hours",0,58
+Februari,2018,Klinik Vct,R06.0,Dyspnoea,34,20
+Februari,2018,Klinik Vct,R10.4,Other And Unspecified Abdominal Pain,45,63
+Februari,2018,Klinik Vct,R50.9,"Fever, Unspecified",208,225
+Februari,2018,Klinik Vct,T14.0,Superficial Injury Of Unspecified Body Region,34,23
+Februari,2018,Klinik Vct,T14.1,Open Wound Of Unspecified Body Region,48,32
+Februari,2018,Klinik Vct,Z03.9,"Observation For Suspected Disease Or Condition, Unspecified",58,52

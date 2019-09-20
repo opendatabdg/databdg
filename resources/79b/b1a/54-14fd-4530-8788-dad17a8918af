@@ -1,0 +1,57 @@
+Bulan,Tahun,Jenis Kamar,Kode ICD,Nama Penyakit,Laki-laki,Perempuan
+May,2018,Gawat Darurat,A09,Diarrhoea And Gastroenteritis Of Presumed Infectious Origin,82,101
+May,2018,Gawat Darurat,J45.9,"Asthma, Unspecified",124,137
+May,2018,Gawat Darurat,K30,Dyspepsia,136,223
+May,2018,Gawat Darurat,R10.4,Other And Unspecified Abdominal Pain,36,85
+May,2018,Gawat Darurat,R11,Nausea And Vomiting,17,26
+May,2018,Gawat Darurat,R50.9,"Fever, Unspecified",419,392
+May,2018,Gawat Darurat,T14.1,Open Wound Of Unspecified Body Region,76,43
+May,2018,Gawat Darurat,Z03.9,"Observation For Suspected Disease Or Condition, Unspecified",55,65
+May,2018,Klinik Akupuntur,E66.8,Other Obesity,0,1
+May,2018,Klinik Akupuntur,E66.9,"Obesity, Unspecified",0,10
+May,2018,Klinik Akupuntur,G56.0,Carpal Tunnel Syndrome,0,7
+May,2018,Klinik Akupuntur,L70.9,"Acne, Unspecified",0,1
+May,2018,Klinik Akupuntur,M17.9,"Gonarthrosis, Unspecified",2,11
+May,2018,Klinik Akupuntur,M54.5,Low Back Pain,10,1
+May,2018,Klinik Akupuntur,M77.3,Calcaneal Spur,0,2
+May,2018,Klinik Anak,A18.2,Tuberculous Peripheral Lymphadenopathy,20,16
+May,2018,Klinik Bedah Anak,D18.1,"Lymphangioma, Any Site",0,2
+May,2018,Klinik Bedah Anak,D24,Benign Neoplasm Of Breast,1,2
+May,2018,Klinik Bedah Anak,N35.0,Post-Traumatic Urethral Stricture,1,0
+May,2018,Klinik Bedah Anak,S09.8,Other Specified Injuries Of Head,1,1
+May,2018,Klinik Bedah Mulut,D37.0,"Neoplasm Of Uncertain Or Unknown Behavior Of Lip, Oral Cavity And Pharynx",1,2
+May,2018,Klinik Bedah Mulut,K06.8,Other Specified Disorders Of Gingiva And Edentulous Alveolar Ridge,0,3
+May,2018,Klinik Bedah Mulut,K10.8,Other Specified Diseases Of Jaws,0,2
+May,2018,Klinik Bedah Mulut,S01.5,Open Wound Of Lip And Oral Cavity,9,15
+May,2018,Klinik Bedah Mulut,S02.4,Fracture Of Malar And Maxillary Bones,0,4
+May,2018,Klinik Bedah Mulut,S02.6,Fracture Of Mandible,0,3
+May,2018,Klinik Bedah Syaraf,M51.2,Other Specified Intervertebral Disc Displacement,0,1
+May,2018,Klinik Bedah Syaraf,M54.5,Low Back Pain,2,0
+May,2018,Klinik Bedah Syaraf,S09.8,Other Specified Injuries Of Head,8,2
+May,2018,Klinik Dalam,E11.7,Non-Insulin-Dependent Diabetes Mellitus With Multiple Complications,50,83
+May,2018,Klinik Dalam,J45.0,Predominantly Allergic Asthma,14,38
+May,2018,Klinik Dalam,Z09.8,Follow-Up Examination After Other Treatment For Other Conditions,23,23
+May,2018,Klinik Gigi,K00.6,Disturbances In Tooth Eruption,7,10
+May,2018,Klinik Jantung,E11.9,Non-Insulin-Dependent Diabetes Mellitus Without Complications,0,3
+May,2018,Klinik Jantung,I20.9,"Angina Pectoris, Unspecified",4,0
+May,2018,Klinik Jantung,R07.3,Other Chest Pain,3,2
+May,2018,Klinik Kandungan,N85.0,Endometrial Glandular Hyperplasia,0,20
+May,2018,Klinik Kandungan,O05.0,"Other Abortion, Incomplete, Complicated By Genital Tract And Pelvic Infection",0,31
+May,2018,Klinik Kandungan,O15.0,Eclampsia In Pregnancy,0,17
+May,2018,Klinik Konservasi Gigi,K04.6,Periapical Abscess With Sinus,1,3
+May,2018,Klinik Konservasi Gigi,K04.7,Periapical Abscess Without Sinus,1,2
+May,2018,Klinik Mata,E11.9,Non-Insulin-Dependent Diabetes Mellitus Without Complications,7,27
+May,2018,Klinik Mata,Z96.1,Presence Of Intraocular Lens,84,106
+May,2018,Klinik Orthopedi,D21.2,"Other Benign Neoplasm Of Connective And Other Soft Tissue Of Lower Limb, Including Hip",0,4
+May,2018,Klinik Orthopedi,M21.16,"Varus Deformity, Not Elsewhere Classified, Lower Leg",0,4
+May,2018,Klinik Orthopedi,M21.75,"Unequal Limb Length (Acquired), Pelvic And Thigh",1,3
+May,2018,Klinik Orthopedi,M54.55,"Low Back Pain, Thoracolumbar Region",0,5
+May,2018,Klinik Orthopedi,M84.15,"Nonunion Of Fracture [Pseudarthrosis], Pelvic And Thigh",7,3
+May,2018,Klinik Psikiatri,F20.5,Residual Schizophrenia,3,4
+May,2018,Klinik Psikiatri,F29,Unspecified Nonorganic Psychosis,5,2
+May,2018,Klinik Psikiatri,F31.0,"Bipolar Affective Disorder, Current Episode Hypomanic",6,5
+May,2018,Klinik Rehab Medik,M65.34,"Trigger Finger, Hand",9,36
+May,2018,Klinik Rehab Medik,M72.57,"Fasciitis, Not Elsewhere Classified, Ankle And Foot",9,68
+May,2018,Klinik Tht,H65.1,Other Acute Nonsuppurative Otitis Media,11,11
+May,2018,Klinik Tht,H66.1,Chronic Tubotympanic Suppurative Otitis Media,13,15
+May,2018,Klinik Vct,B20.9,Hiv Disease Resulting In Unspecified Infectious Or Parasitic Disease,4,0

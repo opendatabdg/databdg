@@ -1,0 +1,51 @@
+Bulan,Tahun,Jenis Kamar,Kode ICD,Nama Penyakit,Laki-laki,Perempuan
+November,2018,Gawat Darurat,R06.0,Dyspnoea,35,14
+November,2018,Gawat Darurat,R10.4,Other And Unspecified Abdominal Pain,32,48
+November,2018,Gawat Darurat,R11,Nausea And Vomiting,9,29
+November,2018,Gawat Darurat,T14.1,Open Wound Of Unspecified Body Region,47,23
+November,2018,Gawat Darurat,Z03.9,"Observation For Suspected Disease Or Condition, Unspecified",35,41
+November,2018,Klinik Akupuntur,G20,Parkinson'S Disease,0,3
+November,2018,Klinik Akupuntur,M17.0,"Primary Gonarthrosis, Bilateral",0,1
+November,2018,Klinik Akupuntur,M17.9,"Gonarthrosis, Unspecified",0,1
+November,2018,Klinik Bedah Anak,A50.9,"Congenital Syphilis, Unspecified",3,0
+November,2018,Klinik Bedah Anak,I84.9,Unspecified Haemorrhoids Without Complication,0,2
+November,2018,Klinik Bedah Anak,Q42.9,"Congenital Absence, Atresia And Stenosis Of Large Intestine, Part Unspecified",2,0
+November,2018,Klinik Bedah Anak,Q45.9,"Congenital Malformation Of Digestive System, Unspecified",1,0
+November,2018,Klinik Bedah Mulut,C06.0,Malignant Neoplasm Of Cheek Mucosa,0,1
+November,2018,Klinik Bedah Mulut,K04.0,Pulpitis,0,1
+November,2018,Klinik Bedah Mulut,K10.2,Inflammatory Conditions Of Jaws,0,1
+November,2018,Klinik Bedah Mulut,K10.8,Other Specified Diseases Of Jaws,1,0
+November,2018,Klinik Bedah Syaraf,G20,Parkinson Disease,1,0
+November,2018,Klinik Bedah Syaraf,G50.0,Trigeminal Neuralgia,0,1
+November,2018,Klinik Bedah Syaraf,G94.1,Hydrocephalus In Neoplastic Disease,1,0
+November,2018,Klinik Bedah Syaraf,I28.0,Arteriovenous Fistula Of Pulmonary Vessels,1,0
+November,2018,Klinik Bedah Syaraf,Z03.9,"Observation For Suspected Disease Or Condition, Unspecified",0,1
+November,2018,Klinik Dalam,E11.0,Non-Insulin-Dependent Diabetes Mellitus With Coma,31,71
+November,2018,Klinik Dalam,I25.9,"Chronic Ischaemic Heart Disease, Unspecified",10,10
+November,2018,Klinik Gigi,K07.4,"Malocclusion, Unspecified",1,10
+November,2018,Klinik Gigi,K08.3,Retained Dental Root,1,5
+November,2018,Klinik Gizi,I10,Essential (Primary) Hypertension,0,2
+November,2018,Klinik Jantung,R07.4,"Chest Pain, Unspecified",2,0
+November,2018,Klinik Kandungan,M65.23,"Calcific Tendinitis, Forearm",0,15
+November,2018,Klinik Kandungan,Z03.8,Observation For Other Suspected Diseases And Conditions,0,14
+November,2018,Klinik Kemuning,A02.0,Salmonella Enteritis,1,0
+November,2018,Klinik Kemuning,B20.9,Hiv Disease Resulting In Unspecified Infectious Or Parasitic Disease,216,41
+November,2018,Klinik Konservasi Gigi,K04.5,Chronic Apical Periodontitis,0,1
+November,2018,Klinik Mata,H10.1,Acute Atopic Conjunctivitis,8,2
+November,2018,Klinik Mata,H10.3,"Acute Conjunctivitis, Unspecified",1,6
+November,2018,Klinik Mata,H40.1,Primary Open-Angle Glaucoma,7,10
+November,2018,Klinik Orthopedi,M84.15,"Nonunion Of Fracture [Pseudarthrosis], Pelvic And Thigh",7,0
+November,2018,Klinik Orthopedi,S62.60,"Fracture Of Other Finger , Closed",3,3
+November,2018,Klinik Orthopedi,S72.3,Fracture Of Shaft Of Femur,5,2
+November,2018,Klinik Orthopedi,S82.30,"Fracture Of Lower End Of Tibia, Closed",6,0
+November,2018,Klinik Orthopedi,S82.40,"Fracture Of Fibula Alone, Closed",4,3
+November,2018,Klinik Psikiatri,F31.0,"Bipolar Affective Disorder, Current Episode Hypomanic",3,4
+November,2018,Klinik Rehab Medik,M25.51,"Pain In Joint, Shouder Region",14,45
+November,2018,Klinik Rehab Medik,M54.8,Other Dorsalgia,18,18
+November,2018,Klinik Rehab Medik,M65.34,"Trigger Finger, Hand",8,39
+November,2018,Klinik Syaraf,G56.0,Carpal Tunnel Syndrome,0,11
+November,2018,Klinik Syaraf,I10,Essential (Primary) Hypertension,5,6
+November,2018,Klinik Tht,H65.1,Other Acute Nonsuppurative Otitis Media,4,4
+November,2018,Klinik Tht,T16,Foreign Body In Ear,5,4
+November,2018,Klinik Tht,Z09.0,Follow-Up Examination After Surgery For Other Conditions,5,2
+November,2018,Klinik Vct,B20.9,Hiv Disease Resulting In Unspecified Infectious Or Parasitic Disease,7,0

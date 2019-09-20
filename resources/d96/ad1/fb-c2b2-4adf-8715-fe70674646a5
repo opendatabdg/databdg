@@ -1,0 +1,57 @@
+Bulan,Tahun,Jenis Kamar,Kode ICD,Nama Penyakit,Laki-laki,Perempuan
+Juli,2018,Gawat Darurat,A09,Diarrhoea And Gastroenteritis Of Presumed Infectious Origin,42,41
+Juli,2018,Gawat Darurat,J45.9,"Asthma, Unspecified",69,77
+Juli,2018,Gawat Darurat,K30,Dyspepsia,45,79
+Juli,2018,Gawat Darurat,R06.0,Dyspnoea,21,18
+Juli,2018,Gawat Darurat,R10.4,Other And Unspecified Abdominal Pain,30,35
+Juli,2018,Gawat Darurat,R11,Nausea And Vomiting,23,27
+Juli,2018,Gawat Darurat,R50.9,"Fever, Unspecified",100,110
+Juli,2018,Gawat Darurat,T14.1,Open Wound Of Unspecified Body Region,48,31
+Juli,2018,Gawat Darurat,Z03.9,"Observation For Suspected Disease Or Condition, Unspecified",38,37
+Juli,2018,Klinik Akupuntur,E66.8,Other Obesity,0,1
+Juli,2018,Klinik Akupuntur,G56.0,Carpal Tunnel Syndrome,0,2
+Juli,2018,Klinik Akupuntur,M54.5,Low Back Pain,0,4
+Juli,2018,Klinik Akupuntur,M79.1,Myalgia,0,4
+Juli,2018,Klinik Akupuntur,N83.2,Other And Unspecified Ovarian Cysts,0,3
+Juli,2018,Klinik Anak,A15.3,"Tuberculosis Of Lung, Confirmed By Unspecified Means",19,14
+Juli,2018,Klinik Anak,A18.2,Tuberculous Peripheral Lymphadenopathy,15,17
+Juli,2018,Klinik Bedah Anak,D21.0,"Other Benign Neoplasm Of Connective And Other Soft Tissue Of Head, Face And Neck",3,2
+Juli,2018,Klinik Bedah Anak,K40.0,"Bilateral Inguinal Hernia, With Obstruction, Without Gangrene",3,2
+Juli,2018,Klinik Bedah Anak,K40.3,"Unilateral Or Unspecified Inguinal Hernia, With Obstruction, Without Gangrene",5,0
+Juli,2018,Klinik Bedah Anak,Q53.2,"Undescended Testicle, Bilateral",5,0
+Juli,2018,Klinik Bedah Anak,Q54.0,"Hypospadias, Balanic",8,0
+Juli,2018,Klinik Bedah Mulut,D16.5,Benign Neoplasm Of Lower Jaw Bone,4,1
+Juli,2018,Klinik Bedah Mulut,D37.0,"Neoplasm Of Uncertain Or Unknown Behavior Of Lip, Oral Cavity And Pharynx",3,1
+Juli,2018,Klinik Bedah Mulut,S01.5,Open Wound Of Lip And Oral Cavity,1,9
+Juli,2018,Klinik Bedah Syaraf,D24,Benign Neoplasm Of Breast,0,4
+Juli,2018,Klinik Bedah Syaraf,D31.9,"Benign Neoplasm Of Eye, Unspecified",0,3
+Juli,2018,Klinik Bedah Syaraf,I64,"Stroke, Not Specified As Haemorrhage Or Infarction",3,0
+Juli,2018,Klinik Bedah Syaraf,Q54.1,"Hypospadias, Penile",3,0
+Juli,2018,Klinik Bedah Syaraf,S09.9,Unspecified Injury Of Head,1,2
+Juli,2018,Klinik Bedah Syaraf,Z09.8,Follow-Up Examination After Other Treatment For Other Conditions,6,2
+Juli,2018,Klinik Dalam,E05.9,"Thyrotoxicosis, Unspecified",6,25
+Juli,2018,Klinik Dalam,Z08.9,Follow-Up Examination After Unspecified Treatment For Malignant Neoplasm,12,22
+Juli,2018,Klinik Gizi,E11.9,Non-Insulin-Dependent Diabetes Mellitus Without Complications,2,4
+Juli,2018,Klinik Gizi,I64,"Stroke, Not Specified As Haemorrhage Or Infarction",1,0
+Juli,2018,Klinik Gizi,N18.8,Other Chronic Renal Failure,1,0
+Juli,2018,Klinik Gizi,N18.9,"Chronic Renal Failure, Unspecified",0,1
+Juli,2018,Klinik Jantung,I20.9,"Angina Pectoris, Unspecified",2,0
+Juli,2018,Klinik Jantung,R07.3,Other Chest Pain,1,2
+Juli,2018,Klinik Kandungan,Z00.0,General Medical Examination,0,20
+Juli,2018,Klinik Konservasi Gigi,K00.1,Supernumerary Teeth,0,1
+Juli,2018,Klinik Mata,E11.9,Non-Insulin-Dependent Diabetes Mellitus Without Complications,13,24
+Juli,2018,Klinik Mata,H40.1,Primary Open-Angle Glaucoma,19,27
+Juli,2018,Klinik Mata,H52.0,Hypermetropia,9,20
+Juli,2018,Klinik Mata,I49.9,"Cardiac Arrhythmia, Unspecified",11,16
+Juli,2018,Klinik Orthopedi,M17.1,Other Primary Gonarthrosis,2,12
+Juli,2018,Klinik Orthopedi,M21.75,"Unequal Limb Length (Acquired), Pelvic And Thigh",6,3
+Juli,2018,Klinik Orthopedi,M54.57,"Low Back Pain, Lumbosacral Region",2,10
+Juli,2018,Klinik Orthopedi,M84.15,"Nonunion Of Fracture [Pseudarthrosis], Pelvic And Thigh",6,6
+Juli,2018,Klinik Orthopedi,S82.60,"Fracture Of Lateral Malleolus, Closed",3,5
+Juli,2018,Klinik Orthopedi,Y83.5,Amputation Of Limb(S),5,3
+Juli,2018,Klinik Psikiatri,F20.5,Residual Schizophrenia,6,3
+Juli,2018,Klinik Rehab Medik,I64,"Stroke, Not Specified As Haemorrhage Or Infarction",15,43
+Juli,2018,Klinik Rehab Medik,M25.51,"Pain In Joint, Shouder Region",18,72
+Juli,2018,Klinik Syaraf,M54.5,Low Back Pain,9,17
+Juli,2018,Klinik Tht,J01.0,Acute Maxillary Sinusitis,9,4
+Juli,2018,Klinik Tht,J31.2,Chronic Pharyngitis,3,8

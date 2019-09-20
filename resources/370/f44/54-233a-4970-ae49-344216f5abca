@@ -1,0 +1,58 @@
+Bulan,Tahun,Jenis Kamar,Kode ICD,Nama Penyakit,Laki-laki,Perempuan
+Desember,2017,Gawat Darurat,J45.9,"Asthma, Unspecified",73,92
+Desember,2017,Gawat Darurat,O13,Gestational (Pregnancy-Induced) Hypertension Without Significant Proteinuria,0,52
+Desember,2017,Gawat Darurat,O14.1,Severe Pre-Eclampsia,0,29
+Desember,2017,Gawat Darurat,O26.0,Excessive Weight Gain In Pregnancy,0,25
+Desember,2017,Gawat Darurat,O42.0,"Premature Rupture Of Membranes, Onset Of Labour Within 24 Hours",4,247
+Desember,2017,Gawat Darurat,O64.1,Obstructed Labour Due To Breech Presentation,0,15
+Desember,2017,Gawat Darurat,O80.0,Spontaneous Vertex Delivery,4,75
+Desember,2017,Gawat Darurat,O80.9,"Single Spontaneous Delivery, Unspecified",0,27
+Desember,2017,Gawat Darurat,O82.1,Delivery By Emergency Caesarean Section,0,46
+Desember,2017,Gawat Darurat,R50.9,"Fever, Unspecified",376,301
+Desember,2017,Klinik Anak,A15.0,"Tuberculosis Of Lung, Confirmed By Sputum Microscopy With Or Without Culture",26,28
+Desember,2017,Klinik Anak,A15.7,"Primary Respiratory Tuberculosis, Confirmed Bacteriologically And Histologically",20,17
+Desember,2017,Klinik Anak,A16.7,Primary Respiratory Tuberculosis Without Mention Of Bacteriological Or Histological Confirmation,50,41
+Desember,2017,Klinik Anak,Z38.0,"Singleton, Born In Hospital",67,70
+Desember,2017,Klinik Bedah Anak,Q53.1,"Undescended Testicle, Unilateral",3,0
+Desember,2017,Klinik Bedah Anak,Q53.2,"Undescended Testicle, Bilateral",4,0
+Desember,2017,Klinik Bedah Anak,Q54.0,"Hypospadias, Balanic",3,0
+Desember,2017,Klinik Bedah Anak,Q54.1,"Hypospadias, Penile",10,0
+Desember,2017,Klinik Bedah Mulut,K00.1,Supernumerary Teeth,0,2
+Desember,2017,Klinik Bedah Mulut,K09.0,Developmental Odontogenic Cysts,1,1
+Desember,2017,Klinik Bedah Mulut,S02.6,Fracture Of Mandible,1,3
+Desember,2017,Klinik Bedah Syaraf,S09.0,"Injury Of Blood Vessels Of Head, Not Elsewhere Classified",0,1
+Desember,2017,Klinik Dalam,N18.9,"Chronic Renal Failure, Unspecified",66,70
+Desember,2017,Klinik Gizi,E66.8,Other Obesity,0,1
+Desember,2017,Klinik Jantung,E11.9,Non-Insulin-Dependent Diabetes Mellitus Without Complications,0,2
+Desember,2017,Klinik Jantung,I21.9,"Acute Myocardial Infarction, Unspecified",4,1
+Desember,2017,Klinik Jantung,I35.1,Aortic (Valve) Insufficiency,0,1
+Desember,2017,Klinik Kandungan,D25.9,"Leiomyoma Of Uterus, Unspecified",0,25
+Desember,2017,Klinik Kandungan,N93.8,Other Specified Abnormal Uterine And Vaginal Bleeding,0,24
+Desember,2017,Klinik Kandungan,O05.0,"Other Abortion, Incomplete, Complicated By Genital Tract And Pelvic Infection",1,22
+Desember,2017,Klinik Kandungan,O86.1,Other Infection Of Genital Tract Following Delivery,0,16
+Desember,2017,Klinik Kandungan,Z03.8,Observation For Other Suspected Diseases And Conditions,0,34
+Desember,2017,Klinik Konservasi Gigi,K04.0,Pulpitis,6,22
+Desember,2017,Klinik Konservasi Gigi,K04.1,Necrosis Of Pulp,13,28
+Desember,2017,Klinik Konservasi Gigi,K04.5,Chronic Apical Periodontitis,0,1
+Desember,2017,Klinik Konservasi Gigi,K04.6,Periapical Abscess With Sinus,2,0
+Desember,2017,Klinik Konservasi Gigi,K04.7,Periapical Abscess Without Sinus,2,1
+Desember,2017,Klinik Konservasi Gigi,K05.1,Chronic Gingivitis,1,0
+Desember,2017,Klinik Mata,E11.9,Non-Insulin-Dependent Diabetes Mellitus Without Complications,12,38
+Desember,2017,Klinik Mata,Z96.1,Presence Of Intraocular Lens,100,73
+Desember,2017,Klinik Orthopedi,M17.1,Other Primary Gonarthrosis,0,12
+Desember,2017,Klinik Orthopedi,M54.17,"Radiculopathy, Lumbosacral Region",1,13
+Desember,2017,Klinik Orthopedi,S52.50,"Fracture Of Lower End Of Radius, Closed",17,10
+Desember,2017,Klinik Orthopedi,S62.61,"Fracture Of Other Finger , Open",10,3
+Desember,2017,Klinik Orthopedi,S82.30,"Fracture Of Lower End Of Tibia, Closed",5,4
+Desember,2017,Klinik Psikiatri,F31.1,"Bipolar Affective Disorder, Current Episode Manic Without Psychotic Symptoms",9,3
+Desember,2017,Klinik Psikiatri,F33.1,"Recurrent Depressive Disorder, Current Episode Moderate",4,6
+Desember,2017,Klinik Rehab Medik,M19.0,Primary Arthrosis Of Other Joints,33,47
+Desember,2017,Klinik Rehab Medik,M25.51,"Pain In Joint, Shouder Region",29,22
+Desember,2017,Klinik Rehab Medik,M54.12,"Radiculopathy, Cervical Region",14,40
+Desember,2017,Klinik Rehab Medik,M54.5,Low Back Pain,8,47
+Desember,2017,Klinik Rehab Medik,M79.10,"Myalgia, Multiple Sites",33,111
+Desember,2017,Klinik Syaraf,G20,Parkinson'S Disease,31,18
+Desember,2017,Klinik Syaraf,G62.9,"Polyneuropathy, Unspecified",48,33
+Desember,2017,Klinik Tht,H60.3,Other Infective Otitis Externa,2,3
+Desember,2017,Klinik Tht,H66.1,Chronic Tubotympanic Suppurative Otitis Media,16,13
+Desember,2017,Klinik Tht,J35.1,Hypertrophy Of Tonsils,2,10

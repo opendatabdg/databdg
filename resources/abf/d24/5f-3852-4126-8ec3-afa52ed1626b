@@ -1,0 +1,115 @@
+Bulan,Tahun,Jenis Kamar,Kode ICD,Nama Penyakit,Kelompok Usia Bayi,Kelompok Usia Balita,Kelompok Usia Anak,Kelompok Usia Dewasa,Kelompok Usia Manula
+Januari,2016,Klinik Anak,A09,Diarrhoea And Gastroenteritis Of Presumed Infectious Origin,65,66,12,0,0
+Januari,2016,Klinik Anak,A16.9,"Respiratory Tuberculosis Unspecified, Without Mention Of Bacteriological Or Histological Confirmation",89,424,301,1,0
+Januari,2016,Klinik Anak,G40.9,"Epilepsy, Unspecified",6,140,182,3,0
+Januari,2016,Klinik Anak,J18.0,"Bronchopneumonia, Unspecified",75,58,12,0,0
+Januari,2016,Klinik Anak,J39.9,"Disease Of Upper Respiratory Tract, Unspecified",33,74,36,0,0
+Januari,2016,Klinik Anak,J45.9,"Asthma, Unspecified",22,47,50,0,0
+Januari,2016,Klinik Anak,N39.0,"Urinary Tract Infection, Site Not Specified",3,4,6,0,0
+Januari,2016,Klinik Anak,P59.9,"Neonatal Jaundice, Unspecified",307,5,1,0,0
+Januari,2016,Klinik Anak,Z24.0,Need For Immunization Against Poliomyelitis,73,1,0,0,0
+Januari,2016,Klinik Anak,Z24.6,Need For Immunization Against Viral Hepatitis,73,1,0,0,0
+Januari,2016,Klinik Bedah Anak,I84.9,Unspecified Haemorrhoids Without Complication,0,3,1,0,0
+Januari,2016,Klinik Bedah Anak,K40.9,"Unilateral Or Unspecified Inguinal Hernia, Without Obstruction Or Gangrene",15,21,26,0,0
+Januari,2016,Klinik Bedah Anak,N43.3,"Hydrocele, Unspecified",2,8,5,0,0
+Januari,2016,Klinik Bedah Anak,N47,"Redundant Prepuce, Phimosis And Paraphimosis",5,6,2,0,0
+Januari,2016,Klinik Bedah Anak,Q54.9,"Hypospadias, Unspecified",0,1,5,0,0
+Januari,2016,Klinik Bedah Mulut,K01.1,Impacted Teeth,0,0,4,338,23
+Januari,2016,Klinik Bedah Mulut,K04.7,Periapical Abscess Without Sinus,0,0,4,138,35
+Januari,2016,Klinik Bedah Mulut,K11.6,Mucocele Of Salivary Gland,0,3,16,11,0
+Januari,2016,Klinik Bedah Mulut,K12.2,Cellulitis And Abscess Of Mouth,0,0,8,13,1
+Januari,2016,Klinik Bedah Mulut,Q37.4,Cleft Hard And Soft Palate With Bilateral Cleft Lip,0,6,2,0,0
+Januari,2016,Klinik Bedah Mulut,Q37.5,Cleft Hard And Soft Palate With Unilateral Cleft Lip,0,1,2,0,0
+Januari,2016,Klinik Bedah Mulut,S01.5,Open Wound Of Lip And Oral Cavity,0,1,1,29,0
+Januari,2016,Klinik Bedah Mulut,S02.60,"Fracture Of Mandible, Closed",0,0,0,3,3
+Januari,2016,Klinik Bedah Mulut,S02.61,"Fracture Of Mandible, Open",0,0,0,1,3
+Januari,2016,Klinik Bedah Mulut,S02.8,Fractures Of Other Skull And Facial Bones,0,0,0,13,0
+Januari,2016,Klinik Dalam,E11.9,Non-Insulin-Dependent Diabetes Mellitus Without Complications,0,0,1,533,1232
+Januari,2016,Klinik Dalam,I10,Essential (Primary) Hypertension,0,0,0,215,577
+Januari,2016,Klinik Dalam,I11.0,Hypertensive Heart Disease With (Congestive) Heart Failure,0,0,0,0,14
+Januari,2016,Klinik Dalam,I25.0,"Atherosclerotic Cardiovascular Disease, So Described",0,0,0,4,6
+Januari,2016,Klinik Dalam,I50.0,Congestive Heart Failure,0,0,0,0,9
+Januari,2016,Klinik Dalam,J40,"Bronchitis, Not Specified As Acute Or Chronic",0,0,0,30,18
+Januari,2016,Klinik Dalam,J45.0,Predominantly Allergic Asthma,0,0,1,29,38
+Januari,2016,Klinik Dalam,J45.9,"Asthma, Unspecified",0,0,1,153,133
+Januari,2016,Klinik Dalam,K30,Dyspepsia,0,0,0,130,78
+Januari,2016,Klinik Dalam,N18.9,"Chronic Renal Failure, Unspecified",0,0,0,65,101
+Januari,2016,Klinik Gigi,K00.0,Anodontia,0,0,1,7,5
+Januari,2016,Klinik Gigi,K00.1,Supernumerary Teeth,0,0,1,0,0
+Januari,2016,Klinik Gigi,K01.1,Impacted Teeth,0,0,6,88,2
+Januari,2016,Klinik Gigi,K02.1,Caries Of Dentine,0,4,5,47,21
+Januari,2016,Klinik Gigi,K03.1,Abrasion Of Teeth,0,0,1,3,1
+Januari,2016,Klinik Gigi,K04.0,Pulpitis,0,4,66,215,35
+Januari,2016,Klinik Gigi,K04.1,Necrosis Of Pulp,0,1,88,268,91
+Januari,2016,Klinik Gigi,K04.5,Chronic Apical Periodontitis,0,2,78,367,122
+Januari,2016,Klinik Gigi,K04.7,Periapical Abscess Without Sinus,0,6,55,124,33
+Januari,2016,Klinik Gigi,K05.3,Chronic Periodontitis,0,0,0,18,8
+Januari,2016,Klinik Jantung,I11.0,Hypertensive Heart Disease With (Congestive) Heart Failure,0,0,0,264,628
+Januari,2016,Klinik Jantung,I25.1,Atherosclerotic Heart Disease,0,0,0,584,1469
+Januari,2016,Klinik Jantung,I48,Atrial Fibrillation And Flutter,0,0,0,12,25
+Januari,2016,Klinik Jantung,I50.0,Congestive Heart Failure,3,3,10,1270,2112
+Januari,2016,Klinik Jantung,I50.1,Left Ventricular Failure,0,0,0,0,1
+Januari,2016,Klinik Jantung,R00.0,"Tachycardia, Unspecified",0,0,0,1,0
+Januari,2016,Klinik Kandungan,N83.2,Other And Unspecified Ovarian Cysts,0,0,1,78,3
+Januari,2016,Klinik Kandungan,O32.1,Maternal Care For Breech Presentation,0,0,0,60,0
+Januari,2016,Klinik Kandungan,Z09.0,Follow-Up Examination After Surgery For Other Conditions,0,0,0,219,6
+Januari,2016,Klinik Kandungan,Z09.8,Follow-Up Examination After Other Treatment For Other Conditions,0,0,0,65,0
+Januari,2016,Klinik Kandungan,Z30.1,Insertion Of (Intrauterine) Contraceptive Device,0,0,0,72,0
+Januari,2016,Klinik Kandungan,Z30.5,Surveillance Of (Intrauterine) Contraceptive Device,0,0,0,142,5
+Januari,2016,Klinik Kandungan,Z34.0,Supervision Of Normal First Pregnancy,1,0,2,105,0
+Januari,2016,Klinik Kandungan,Z34.8,Supervision Of Other Normal Pregnancy,0,0,0,607,1
+Januari,2016,Klinik Kandungan,Z35.8,Supervision Of Other High-Risk Pregnancies,0,0,0,156,0
+Januari,2016,Klinik Kandungan,Z39.2,Routine Postpartum Follow-Up,0,0,0,416,0
+Januari,2016,Klinik Mata,H10.9,"Conjunctivitis, Unspecified",2,15,51,52,22
+Januari,2016,Klinik Mata,H11.0,Pterygium,0,0,0,62,29
+Januari,2016,Klinik Mata,H25.0,Senile Incipient Cataract,1,0,4,118,693
+Januari,2016,Klinik Mata,H25.1,Senile Nuclear Cataract,0,0,0,22,55
+Januari,2016,Klinik Mata,H27.8,Other Specified Disorders Of Lens,0,0,0,27,127
+Januari,2016,Klinik Mata,H52.1,Myopia,0,0,81,214,23
+Januari,2016,Klinik Mata,H52.2,Astigmatism,1,0,43,186,33
+Januari,2016,Klinik Mata,H52.4,Presbyopia,1,0,0,131,86
+Januari,2016,Klinik Mata,H52.6,Other Disorders Of Refraction,12,14,81,199,109
+Januari,2016,Klinik Mata,H53.1,Subjective Visual Disturbances,0,0,1,112,0
+Januari,2016,Klinik Orthopedi,E10.5,Insulin-Dependent Diabetes Mellitus With Peripheral Circulatory Complications,0,0,0,4,9
+Januari,2016,Klinik Orthopedi,L97,"Ulcer Of Lower Limb, Not Elsewhere Classified",0,0,0,13,10
+Januari,2016,Klinik Orthopedi,L98.4,"Chronic Ulcer Of Skin, Not Elsewhere Classified",0,0,0,30,16
+Januari,2016,Klinik Orthopedi,M17.9,"Gonarthrosis, Unspecified",0,0,0,25,18
+Januari,2016,Klinik Orthopedi,M54.5,Low Back Pain,0,0,0,9,12
+Januari,2016,Klinik Orthopedi,M96.6,"Fracture Of Bone Following Insertion Of Orthopaedic Implant, Joint Prosthesis, Or Bone Plate",0,2,2,32,12
+Januari,2016,Klinik Orthopedi,M96.9,"Postprocedural Musculoskeletal Disorder, Unspecified",0,2,4,18,15
+Januari,2016,Klinik Orthopedi,R02,"Gangrene, Not Elsewhere Classified",0,0,0,19,31
+Januari,2016,Klinik Orthopedi,S22.00,"Fracture Of Thoracic Vertebra, Closed",0,0,0,5,3
+Januari,2016,Klinik Orthopedi,S32.00,"Fracture Of Lumbar Vertebra, Closed",0,0,0,5,3
+Januari,2016,Klinik Psikiatri,F20.0,Paranoid Schizophrenia,0,0,0,41,2
+Januari,2016,Klinik Psikiatri,F20.1,Hebephrenic Schizophrenia,0,0,0,32,0
+Januari,2016,Klinik Psikiatri,F20.9,"Schizophrenia, Unspecified",0,0,0,88,24
+Januari,2016,Klinik Psikiatri,F25.1,"Schizoaffective Disorder, Depressive Type",0,0,0,45,0
+Januari,2016,Klinik Psikiatri,F31.7,"Bipolar Affective Disorder, Currently In Remission",0,0,0,22,5
+Januari,2016,Klinik Psikiatri,F33.1,"Recurrent Depressive Disorder, Current Episode Moderate",0,0,0,0,11
+Januari,2016,Klinik Psikiatri,F33.3,"Recurrent Depressive Disorder, Current Episode Severe With Psychotic Symptoms",0,0,0,2,2
+Januari,2016,Klinik Psikiatri,F33.4,"Recurrent Depressive Disorder, Currently In Remission",0,0,0,0,3
+Januari,2016,Klinik Psikiatri,F41.1,Generalized Anxiety Disorder,0,0,0,31,9
+Januari,2016,Klinik Psikiatri,F41.2,Mixed Anxiety And Depressive Disorder,0,0,0,15,10
+Januari,2016,Klinik Rehab Medik,A00.0,"Cholera Due To Vibrio Cholerae 01, Biovar Cholerae",0,0,0,0,1
+Januari,2016,Klinik Rehab Medik,F01.0,Vascular Dementia Of Acute Onset,0,0,0,1,0
+Januari,2016,Klinik Rehab Medik,M54.1,Radiculopathy,0,0,0,22,20
+Januari,2016,Klinik Syaraf,E11.4,Non-Insulin-Dependent Diabetes Mellitus With Neurological Complications,0,0,0,57,90
+Januari,2016,Klinik Syaraf,G40.9,"Epilepsy, Unspecified",0,0,47,627,117
+Januari,2016,Klinik Syaraf,G63.2,Diabetic Polyneuropathy,0,0,0,54,86
+Januari,2016,Klinik Syaraf,H81.4,Vertigo Of Central Origin,0,0,0,21,49
+Januari,2016,Klinik Syaraf,I10,Essential (Primary) Hypertension,0,0,0,26,88
+Januari,2016,Klinik Syaraf,I63.9,"Cerebral Infarction, Unspecified",0,0,0,22,41
+Januari,2016,Klinik Syaraf,I69.4,"Sequelae Of Stroke, Not Specified As Haemorrhage Or Infarction",0,0,0,591,1681
+Januari,2016,Klinik Syaraf,M17.9,"Gonarthrosis, Unspecified",0,0,0,57,180
+Januari,2016,Klinik Syaraf,M54.12,"Radiculopathy, Cervical Region",0,0,0,199,209
+Januari,2016,Klinik Syaraf,M54.16,"Radiculopathy, Lumbar Region",0,0,0,387,657
+Januari,2016,Klinik Tht,A98.1,Omsk Haemorrhagic Fever,0,1,2,18,6
+Januari,2016,Klinik Tht,H60.9,"Otitis Externa, Unspecified",0,0,9,28,2
+Januari,2016,Klinik Tht,H61.2,Impacted Cerumen,1,19,114,200,92
+Januari,2016,Klinik Tht,H65.0,Acute Serous Otitis Media,13,14,14,48,6
+Januari,2016,Klinik Tht,H91.9,"Hearing Loss, Unspecified",1,0,3,6,15
+Januari,2016,Klinik Tht,H93.1,Tinnitus,0,0,2,34,31
+Januari,2016,Klinik Tht,J30.3,Other Allergic Rhinitis,0,2,9,41,8
+Januari,2016,Klinik Tht,J31.0,Chronic Rhinitis,0,2,2,10,3
+Januari,2016,Klinik Tht,J35.0,Chronic Tonsillitis,0,1,31,33,1
+Januari,2016,Klinik Tht,T16,Foreign Body In Ear,0,3,3,8,1

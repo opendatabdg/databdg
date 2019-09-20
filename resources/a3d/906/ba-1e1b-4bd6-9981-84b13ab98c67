@@ -1,0 +1,54 @@
+Bulan,Tahun,Jenis Kamar,Kode ICD,Nama Penyakit,Laki-laki,Perempuan
+Maret,2018,Gawat Darurat,R06.0,Dyspnoea,46,42
+Maret,2018,Gawat Darurat,R10.4,Other And Unspecified Abdominal Pain,34,65
+Maret,2018,Gawat Darurat,Z03.9,"Observation For Suspected Disease Or Condition, Unspecified",72,80
+Maret,2018,Klinik Akupuntur,E78.5,"Hyperlipidaemia, Unspecified",0,1
+Maret,2018,Klinik Akupuntur,G56.0,Carpal Tunnel Syndrome,0,1
+Maret,2018,Klinik Akupuntur,H93.1,Tinnitus,1,0
+Maret,2018,Klinik Akupuntur,I15.8,Other Secondary Hypertension,0,4
+Maret,2018,Klinik Akupuntur,L70.9,"Acne, Unspecified",0,3
+Maret,2018,Klinik Akupuntur,M17.9,"Gonarthrosis, Unspecified",5,3
+Maret,2018,Klinik Akupuntur,M54.5,Low Back Pain,0,9
+Maret,2018,Klinik Akupuntur,N97.9,"Female Infertility, Unspecified",0,5
+Maret,2018,Klinik Anak,A15.3,"Tuberculosis Of Lung, Confirmed By Unspecified Means",74,46
+Maret,2018,Klinik Anak,A17.0,Tuberculous Meningitis,31,7
+Maret,2018,Klinik Anak,A18.2,Tuberculous Peripheral Lymphadenopathy,23,18
+Maret,2018,Klinik Bedah Anak,D24,Benign Neoplasm Of Breast,1,1
+Maret,2018,Klinik Bedah Anak,K40.0,"Bilateral Inguinal Hernia, With Obstruction, Without Gangrene",4,0
+Maret,2018,Klinik Bedah Anak,Q53.1,"Undescended Testicle, Unilateral",13,0
+Maret,2018,Klinik Bedah Mulut,D10.1,Benign Neoplasm Of Tongue,0,2
+Maret,2018,Klinik Bedah Mulut,D10.2,Benign Neoplasm Of Floor Of Mouth,0,3
+Maret,2018,Klinik Bedah Mulut,D37.0,"Neoplasm Of Uncertain Or Unknown Behavior Of Lip, Oral Cavity And Pharynx",0,4
+Maret,2018,Klinik Bedah Mulut,K07.4,"Malocclusion, Unspecified",1,2
+Maret,2018,Klinik Bedah Syaraf,M47.2,Other Spondylosis With Radiculopathy,0,2
+Maret,2018,Klinik Bedah Syaraf,R51,Headache,0,2
+Maret,2018,Klinik Bedah Syaraf,S09.8,Other Specified Injuries Of Head,10,6
+Maret,2018,Klinik Dalam,E11.7,Non-Insulin-Dependent Diabetes Mellitus With Multiple Complications,59,100
+Maret,2018,Klinik Gizi,E11.9,Non-Insulin-Dependent Diabetes Mellitus Without Complications,6,14
+Maret,2018,Klinik Gizi,E46,Unspecified Protein-Energy Malnutrition,1,0
+Maret,2018,Klinik Gizi,I10,Essential (Primary) Hypertension,1,2
+Maret,2018,Klinik Gizi,K29.7,"Gastritis, Unspecified",1,5
+Maret,2018,Klinik Gizi,K30,Dyspepsia,0,1
+Maret,2018,Klinik Gizi,Z13.2,Special Screening Examination For Nutritional Disorders,10,26
+Maret,2018,Klinik Jantung,I11.9,Hypertensive Heart Disease Without (Congestive) Heart Failure,0,1
+Maret,2018,Klinik Kandungan,O05.0,"Other Abortion, Incomplete, Complicated By Genital Tract And Pelvic Infection",0,50
+Maret,2018,Klinik Kandungan,O15.0,Eclampsia In Pregnancy,0,22
+Maret,2018,Klinik Kandungan,O86.1,Other Infection Of Genital Tract Following Delivery,0,21
+Maret,2018,Klinik Konservasi Gigi,K04.0,Pulpitis,13,16
+Maret,2018,Klinik Konservasi Gigi,K04.1,Necrosis Of Pulp,16,39
+Maret,2018,Klinik Konservasi Gigi,K04.7,Periapical Abscess Without Sinus,0,4
+Maret,2018,Klinik Mata,E11.9,Non-Insulin-Dependent Diabetes Mellitus Without Complications,6,49
+Maret,2018,Klinik Mata,Z96.1,Presence Of Intraocular Lens,76,95
+Maret,2018,Klinik Orthopedi,D16.0,Benign Neoplasm Of Scapula And Long Bones Of Upper Limb,2,4
+Maret,2018,Klinik Orthopedi,M41.2,Other Idiopathic Scoliosis,2,5
+Maret,2018,Klinik Orthopedi,M54.17,"Radiculopathy, Lumbosacral Region",0,8
+Maret,2018,Klinik Orthopedi,M84.15,"Nonunion Of Fracture [Pseudarthrosis], Pelvic And Thigh",5,4
+Maret,2018,Klinik Psikiatri,F20.5,Residual Schizophrenia,2,5
+Maret,2018,Klinik Psikiatri,F33.0,"Recurrent Depressive Disorder, Current Episode Mild",2,7
+Maret,2018,Klinik Rehab Medik,G56.0,Carpal Tunnel Syndrome,9,56
+Maret,2018,Klinik Rehab Medik,M65.34,"Trigger Finger, Hand",10,62
+Maret,2018,Klinik Syaraf,G62.9,"Polyneuropathy, Unspecified",10,9
+Maret,2018,Klinik Tht,H65.1,Other Acute Nonsuppurative Otitis Media,15,27
+Maret,2018,Klinik Tht,H66.1,Chronic Tubotympanic Suppurative Otitis Media,26,18
+Maret,2018,Klinik Tht,J31.2,Chronic Pharyngitis,3,8
+Maret,2018,Klinik Tht,J33.0,Polyp Of Nasal Cavity,7,4

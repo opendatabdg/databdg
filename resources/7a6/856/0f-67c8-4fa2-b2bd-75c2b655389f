@@ -1,0 +1,73 @@
+Bulan,Tahun,Jenis Kamar,Kode ICD,Nama Penyakit,Laki-laki,Perempuan
+Oktober,2017,Gawat Darurat,A09,Diarrhoea And Gastroenteritis Of Presumed Infectious Origin,103,121
+Oktober,2017,Gawat Darurat,J45.9,"Asthma, Unspecified",80,95
+Oktober,2017,Gawat Darurat,K30,Dyspepsia,116,168
+Oktober,2017,Gawat Darurat,O13,Gestational (Pregnancy-Induced) Hypertension Without Significant Proteinuria,0,43
+Oktober,2017,Gawat Darurat,O14.1,Severe Pre-Eclampsia,0,54
+Oktober,2017,Gawat Darurat,O42.0,"Premature Rupture Of Membranes, Onset Of Labour Within 24 Hours",1,217
+Oktober,2017,Gawat Darurat,O80.0,Spontaneous Vertex Delivery,0,64
+Oktober,2017,Gawat Darurat,R10.4,Other And Unspecified Abdominal Pain,46,84
+Oktober,2017,Gawat Darurat,R11,Nausea And Vomiting,13,13
+Oktober,2017,Gawat Darurat,R50.9,"Fever, Unspecified",295,310
+Oktober,2017,Klinik Akupuntur,G51.0,Bell'S Palsy,0,5
+Oktober,2017,Klinik Anak,A15.7,"Primary Respiratory Tuberculosis, Confirmed Bacteriologically And Histologically",42,31
+Oktober,2017,Klinik Anak,A16.7,Primary Respiratory Tuberculosis Without Mention Of Bacteriological Or Histological Confirmation,74,67
+Oktober,2017,Klinik Anak,J18.0,"Bronchopneumonia, Unspecified",58,46
+Oktober,2017,Klinik Bedah Anak,D18.0,"Haemangioma, Any Site",1,0
+Oktober,2017,Klinik Bedah Anak,N47,"Redundant Prepuce, Phimosis And Paraphimosis",3,1
+Oktober,2017,Klinik Bedah Anak,Q53.1,"Undescended Testicle, Unilateral",3,0
+Oktober,2017,Klinik Bedah Anak,Q54.1,"Hypospadias, Penile",11,0
+Oktober,2017,Klinik Bedah Anak,Q54.3,"Hypospadias, Perineal",3,0
+Oktober,2017,Klinik Bedah Mulut,D10.0,Benign Neoplasm Of Lip,0,3
+Oktober,2017,Klinik Bedah Mulut,K00.6,Disturbances In Tooth Eruption,1,2
+Oktober,2017,Klinik Bedah Mulut,K10.2,Inflammatory Conditions Of Jaws,0,3
+Oktober,2017,Klinik Bedah Mulut,S02.6,Fracture Of Mandible,5,0
+Oktober,2017,Klinik Bedah Syaraf,D21.9,"Other Benign Neoplasm Of Connective And Other Soft Tissue, Unspecified",2,0
+Oktober,2017,Klinik Bedah Syaraf,G40.0,Localization-Related (Focal) (Partial) Idiopathic Epilepsy And Epileptic Syndromes With Seizures Of Localized Onset,0,2
+Oktober,2017,Klinik Bedah Syaraf,G91.9,"Hydrocephalus, Unspecified",1,2
+Oktober,2017,Klinik Bedah Syaraf,S09.0,"Injury Of Blood Vessels Of Head, Not Elsewhere Classified",3,0
+Oktober,2017,Klinik Dalam,I25.1,Atherosclerotic Heart Disease,40,36
+Oktober,2017,Klinik Dalam,J44.9,"Chronic Obstructive Pulmonary Disease, Unspecified",107,61
+Oktober,2017,Klinik Dalam,K29.0,Acute Haemorrhagic Gastritis,27,73
+Oktober,2017,Klinik Gigi,K00.0,Anodontia,5,7
+Oktober,2017,Klinik Gizi,E46,Unspecified Protein-Energy Malnutrition,1,0
+Oktober,2017,Klinik Gizi,E66.8,Other Obesity,0,1
+Oktober,2017,Klinik Jantung,I21.9,"Acute Myocardial Infarction, Unspecified",8,0
+Oktober,2017,Klinik Jantung,I64,"Stroke, Not Specified As Haemorrhage Or Infarction",0,1
+Oktober,2017,Klinik Jantung,K21.0,Gastro-Oesophageal Reflux Disease With Oesophagitis,23,55
+Oktober,2017,Klinik Jantung,R07.3,Other Chest Pain,4,3
+Oktober,2017,Klinik Kandungan,M65.23,"Calcific Tendinitis, Forearm",0,42
+Oktober,2017,Klinik Kandungan,N93.8,Other Specified Abnormal Uterine And Vaginal Bleeding,0,29
+Oktober,2017,Klinik Kandungan,O05.0,"Other Abortion, Incomplete, Complicated By Genital Tract And Pelvic Infection",1,51
+Oktober,2017,Klinik Kandungan,Z09.0,Follow-Up Examination After Surgery For Other Conditions,0,204
+Oktober,2017,Klinik Kemuning,B20.0,Hiv Disease Resulting In Mycobacterial Infection,219,48
+Oktober,2017,Klinik Kemuning,B23.8,Hiv Disease Resulting In Other Specified Conditions,6,2
+Oktober,2017,Klinik Konservasi Gigi,K04.0,Pulpitis,6,20
+Oktober,2017,Klinik Konservasi Gigi,K04.1,Necrosis Of Pulp,24,37
+Oktober,2017,Klinik Konservasi Gigi,K04.4,Acute Apical Periodontitis Of Pulpal Origin,0,1
+Oktober,2017,Klinik Konservasi Gigi,K04.6,Periapical Abscess With Sinus,1,0
+Oktober,2017,Klinik Konservasi Gigi,K04.7,Periapical Abscess Without Sinus,0,3
+Oktober,2017,Klinik Mata,E11.9,Non-Insulin-Dependent Diabetes Mellitus Without Complications,20,40
+Oktober,2017,Klinik Mata,H40.1,Primary Open-Angle Glaucoma,23,45
+Oktober,2017,Klinik Mata,I10,Essential (Primary) Hypertension,18,42
+Oktober,2017,Klinik Mata,I49.9,"Cardiac Arrhythmia, Unspecified",26,18
+Oktober,2017,Klinik Mata,Z96.1,Presence Of Intraocular Lens,90,137
+Oktober,2017,Klinik Orthopedi,M17.1,Other Primary Gonarthrosis,8,12
+Oktober,2017,Klinik Orthopedi,M41.2,Other Idiopathic Scoliosis,2,14
+Oktober,2017,Klinik Orthopedi,R02,"Gangrene, Not Elsewhere Classified",28,18
+Oktober,2017,Klinik Orthopedi,S52.50,"Fracture Of Lower End Of Radius, Closed",16,3
+Oktober,2017,Klinik Orthopedi,S62.61,"Fracture Of Other Finger , Open",9,2
+Oktober,2017,Klinik Psikiatri,F33.1,"Recurrent Depressive Disorder, Current Episode Moderate",1,9
+Oktober,2017,Klinik Rehab Medik,M25.56,"Pain In Joint, Lower Leg",36,261
+Oktober,2017,Klinik Rehab Medik,M54.17,"Radiculopathy, Lumbosacral Region",42,95
+Oktober,2017,Klinik Rehab Medik,M54.22,"Cervicalgia, Cervical Region",18,41
+Oktober,2017,Klinik Rehab Medik,M65.34,"Trigger Finger, Hand",14,112
+Oktober,2017,Klinik Rehab Medik,M79.10,"Myalgia, Multiple Sites",42,139
+Oktober,2017,Klinik Syaraf,G20,Parkinson'S Disease,49,33
+Oktober,2017,Klinik Syaraf,G50.0,Trigeminal Neuralgia,20,22
+Oktober,2017,Klinik Syaraf,G62.9,"Polyneuropathy, Unspecified",88,84
+Oktober,2017,Klinik Syaraf,I69.4,"Sequelae Of Stroke, Not Specified As Haemorrhage Or Infarction",724,636
+Oktober,2017,Klinik Tht,H65.1,Other Acute Nonsuppurative Otitis Media,13,10
+Oktober,2017,Klinik Tht,H66.1,Chronic Tubotympanic Suppurative Otitis Media,19,25
+Oktober,2017,Klinik Tht,J01.0,Acute Maxillary Sinusitis,2,10
+Oktober,2017,Klinik Tht,J35.1,Hypertrophy Of Tonsils,9,21

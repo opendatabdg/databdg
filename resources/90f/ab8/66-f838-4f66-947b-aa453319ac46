@@ -1,0 +1,57 @@
+Bulan,Tahun,Jenis Kamar,Kode ICD,Nama Penyakit,Laki-laki,Perempuan
+September,2018,Gawat Darurat,A09,Diarrhoea And Gastroenteritis Of Presumed Infectious Origin,88,89
+September,2018,Gawat Darurat,J45.9,"Asthma, Unspecified",47,72
+September,2018,Gawat Darurat,K29.7,"Gastritis, Unspecified",16,30
+September,2018,Gawat Darurat,K30,Dyspepsia,49,116
+September,2018,Gawat Darurat,N39.0,"Urinary Tract Infection, Site Not Specified",8,33
+September,2018,Gawat Darurat,R10.4,Other And Unspecified Abdominal Pain,22,43
+September,2018,Gawat Darurat,T14.1,Open Wound Of Unspecified Body Region,63,24
+September,2018,Gawat Darurat,Z03.9,"Observation For Suspected Disease Or Condition, Unspecified",51,44
+September,2018,Klinik Akupuntur,G56.0,Carpal Tunnel Syndrome,0,1
+September,2018,Klinik Akupuntur,J01.9,"Acute Sinusitis, Unspecified",0,1
+September,2018,Klinik Akupuntur,M50.1,Cervical Disc Disorder With Radiculopathy,0,3
+September,2018,Klinik Akupuntur,M54.5,Low Back Pain,1,2
+September,2018,Klinik Akupuntur,N83.2,Other And Unspecified Ovarian Cysts,0,3
+September,2018,Klinik Akupuntur,R53,Malaise And Fatigue,1,0
+September,2018,Klinik Anak,A01.0,Typhoid Fever,14,13
+September,2018,Klinik Anak,A18.2,Tuberculous Peripheral Lymphadenopathy,20,15
+September,2018,Klinik Bedah Anak,A50.9,"Congenital Syphilis, Unspecified",2,0
+September,2018,Klinik Bedah Anak,K40.0,"Bilateral Inguinal Hernia, With Obstruction, Without Gangrene",2,0
+September,2018,Klinik Bedah Anak,Q40.9,"Congenital Malformation Of Upper Alimentary Tract, Unspecified",2,0
+September,2018,Klinik Bedah Mulut,D10.2,Benign Neoplasm Of Floor Of Mouth,2,1
+September,2018,Klinik Bedah Mulut,K07.4,"Malocclusion, Unspecified",3,0
+September,2018,Klinik Bedah Mulut,K12.1,Other Forms Of Stomatitis,0,2
+September,2018,Klinik Bedah Syaraf,G20,Parkinson Disease,1,0
+September,2018,Klinik Bedah Syaraf,G50.0,Trigeminal Neuralgia,0,1
+September,2018,Klinik Bedah Syaraf,G54.1,Lumbosacral Plexus Disorders,0,1
+September,2018,Klinik Bedah Syaraf,Z03.9,"Observation For Suspected Disease Or Condition, Unspecified",1,1
+September,2018,Klinik Dalam,E05.9,"Thyrotoxicosis, Unspecified",6,24
+September,2018,Klinik Dalam,E11.0,Non-Insulin-Dependent Diabetes Mellitus With Coma,62,99
+September,2018,Klinik Dalam,N18.9,"Chronic Renal Failure, Unspecified",37,39
+September,2018,Klinik Gizi,E11.9,Non-Insulin-Dependent Diabetes Mellitus Without Complications,2,5
+September,2018,Klinik Gizi,E78.2,Mixed Hyperlipidaemia,1,2
+September,2018,Klinik Gizi,M06.09,"Seronegative Rheumatoid Arthritis, Unspecified Site",1,1
+September,2018,Klinik Jantung,I01.9,"Acute Rheumatic Heart Disease, Unspecified",2,0
+September,2018,Klinik Jantung,I10,Essential (Primary) Hypertension,0,2
+September,2018,Klinik Kandungan,O15.0,Eclampsia In Pregnancy,0,20
+September,2018,Klinik Kandungan,Z03.8,Observation For Other Suspected Diseases And Conditions,0,20
+September,2018,Klinik Kemuning,B20.9,Hiv Disease Resulting In Unspecified Infectious Or Parasitic Disease,219,42
+September,2018,Klinik Konservasi Gigi,K00.1,Supernumerary Teeth,0,1
+September,2018,Klinik Konservasi Gigi,K01.1,Impacted Teeth,0,1
+September,2018,Klinik Konservasi Gigi,K05.3,Chronic Periodontitis,0,1
+September,2018,Klinik Mata,H10.1,Acute Atopic Conjunctivitis,11,9
+September,2018,Klinik Mata,H52.0,Hypermetropia,11,11
+September,2018,Klinik Orthopedi,M54.17,"Radiculopathy, Lumbosacral Region",0,5
+September,2018,Klinik Orthopedi,M62.6,Muscle Strain,1,5
+September,2018,Klinik Orthopedi,M84.15,"Nonunion Of Fracture [Pseudarthrosis], Pelvic And Thigh",3,2
+September,2018,Klinik Orthopedi,M96.8,Other Postprocedural Musculoskeletal Disorders,2,4
+September,2018,Klinik Orthopedi,S72.3,Fracture Of Shaft Of Femur,5,1
+September,2018,Klinik Psikiatri,F20.5,Residual Schizophrenia,5,5
+September,2018,Klinik Psikiatri,F31.0,"Bipolar Affective Disorder, Current Episode Hypomanic",2,10
+September,2018,Klinik Rehab Medik,M25.51,"Pain In Joint, Shouder Region",17,56
+September,2018,Klinik Rehab Medik,R62.0,Delayed Milestone,26,15
+September,2018,Klinik Syaraf,M54.5,Low Back Pain,9,8
+September,2018,Klinik Tht,H62.2,Otitis Externa In Mycoses,4,8
+September,2018,Klinik Tht,J31.2,Chronic Pharyngitis,5,6
+September,2018,Klinik Tht,Z09.0,Follow-Up Examination After Surgery For Other Conditions,5,6
+September,2018,Klinik Vct,B20.9,Hiv Disease Resulting In Unspecified Infectious Or Parasitic Disease,2,3

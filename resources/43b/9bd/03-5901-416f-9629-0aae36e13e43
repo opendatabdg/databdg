@@ -1,0 +1,33 @@
+bulan,tahun,kamar,kode_icd,nama_penyakit,kelompok_usia_bayi,kelompok_usia_balita,kelompok_usia_anak,kelompok_usia_dewasa,kelompok_usia_manula
+Jan,2019,gawat darurat,Z03.9,"Observation for suspected disease or condition, unspecified",0,3,6,32,18
+Jan,2019,klinik anak,A01.0,Typhoid fever,0,8,16,1,0
+Jan,2019,klinik anak,A91,Dengue haemorrhagic fever,4,8,25,2,0
+Jan,2019,klinik bedah anak,Q42.9,"Congenital absence, atresia and stenosis of large intestine, part unspecified",4,0,0,0,0
+Jan,2019,klinik bedah mulut,B26.8,Mumps with other complications,0,0,1,0,0
+Jan,2019,klinik bedah mulut,S03.0,Dislocation of jaw,0,0,0,2,0
+Jan,2019,klinik bedah syaraf,G50.0,Trigeminal neuralgia,0,0,0,0,2
+Jan,2019,klinik bedah syaraf,G91.9,"Hydrocephalus, unspecified",0,0,0,1,0
+Jan,2019,klinik bedah syaraf,I28.0,Arteriovenous fistula of pulmonary vessels,0,0,0,1,0
+Jan,2019,klinik bedah syaraf,Z03.9,"Observation for suspected disease or condition, unspecified",0,0,0,1,0
+Jan,2019,klinik dalam,E11.0,Non-insulin-dependent diabetes mellitus with coma,0,0,0,21,52
+Jan,2019,klinik dalam,N18.0,End-stage renal disease,0,0,0,7,13
+Jan,2019,Klinik Jantung,E21.3,"Hyperparathyroidism, unspecified",0,0,0,2,0
+Jan,2019,Klinik Jantung,R07.4,"Chest pain, unspecified",0,0,0,1,1
+Jan,2019,klinik kandungan,M65.23,"Calcific tendinitis, forearm",0,0,0,21,0
+Jan,2019,klinik kandungan,O72.0,Third-stage haemorrhage,0,0,0,15,0
+Jan,2019,klinik kandungan,Z03.8,Observation for other suspected diseases and conditions,0,0,0,23,0
+Jan,2019,klinik kemuning,A02.0,Salmonella enteritis,0,0,0,12,0
+Jan,2019,klinik kemuning,B20.3,HIV disease resulting in other viral infections,0,0,0,21,1
+Jan,2019,klinik konservasi gigi,K05.5,Other periodontal diseases,0,0,0,1,0
+Jan,2019,klinik mata,H00.0,Hordeolum and other deep inflammation of eyelid,0,1,2,8,2
+Jan,2019,klinik mata,H10.3,"Acute conjunctivitis, unspecified",0,0,2,4,3
+Jan,2019,klinik mata,T15.0,Foreign body in cornea,0,0,0,8,0
+Jan,2019,klinik orthopedi,B35.9,"Dermatophytosis, unspecified",0,0,0,2,3
+Jan,2019,klinik orthopedi,M41.2,Other idiopathic scoliosis,0,0,3,6,0
+Jan,2019,klinik orthopedi,S92.30,"Fracture of metatarsal bone, closed",0,0,0,4,2
+Jan,2019,klinik orthopedi,Y83.5,Amputation of limb(s),0,0,0,2,5
+Jan,2019,klinik psikiatri,F25.0,"Schizoaffective disorder, manic type",0,0,0,1,0
+Jan,2019,klinik psikiatri,F31.0,"Bipolar affective disorder, current episode hypomanic",0,0,0,0,1
+Jan,2019,klinik rehab medik,M25.51,"Pain in joint, shouder region",0,0,0,14,31
+Jan,2019,klinik rehab medik,M54.8,Other dorsalgia,0,0,0,18,21
+Jan,2019,klinik vct,B20.9,HIV disease resulting in unspecified infectious or parasitic disease,0,0,0,7,0

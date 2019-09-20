@@ -1,0 +1,57 @@
+Bulan,Tahun,Jenis Kamar,Kode ICD,Nama Penyakit,Kelompok Usia Bayi,Kelompok Usia Balita,Kelompok Usia Anak,Kelompok Usia Dewasa,Kelompok Usia Manula
+Desember,2018,Gawat Darurat,A09,Diarrhoea And Gastroenteritis Of Presumed Infectious Origin,15,18,8,61,34
+Desember,2018,Gawat Darurat,K30,Dyspepsia,1,1,8,183,109
+Desember,2018,Gawat Darurat,N39.0,"Urinary Tract Infection, Site Not Specified",0,1,0,38,6
+Desember,2018,Gawat Darurat,R06.0,Dyspnoea,1,0,0,7,18
+Desember,2018,Gawat Darurat,R10.4,Other And Unspecified Abdominal Pain,1,1,0,50,15
+Desember,2018,Gawat Darurat,T14.1,Open Wound Of Unspecified Body Region,0,4,17,54,17
+Desember,2018,Gawat Darurat,Z03.9,"Observation For Suspected Disease Or Condition, Unspecified",1,3,3,36,13
+Desember,2018,Klinik Akupuntur,J30.4,"Allergic Rhinitis, Unspecified",0,0,0,3,0
+Desember,2018,Klinik Akupuntur,L70.9,"Acne, Unspecified",0,0,0,0,1
+Desember,2018,Klinik Akupuntur,M17.9,"Gonarthrosis, Unspecified",0,0,0,0,4
+Desember,2018,Klinik Anak,A01.0,Typhoid Fever,1,14,13,0,0
+Desember,2018,Klinik Bedah Anak,A50.9,"Congenital Syphilis, Unspecified",2,0,0,0,0
+Desember,2018,Klinik Bedah Anak,I84.9,Unspecified Haemorrhoids Without Complication,0,0,0,3,0
+Desember,2018,Klinik Bedah Anak,Q45.9,"Congenital Malformation Of Digestive System, Unspecified",0,3,0,0,0
+Desember,2018,Klinik Bedah Mulut,D17.0,"Benign Lipomatous Neoplasm Of Skin And Subcutaneous Tissue Of Head, Face And Neck",0,0,1,0,0
+Desember,2018,Klinik Bedah Mulut,K07.6,Temporomandibular Joint Disorders,0,0,0,1,0
+Desember,2018,Klinik Bedah Mulut,Q37.5,Cleft Hard And Soft Palate With Unilateral Cleft Lip,1,0,0,0,0
+Desember,2018,Klinik Bedah Mulut,S01.5,Open Wound Of Lip And Oral Cavity,0,0,0,12,1
+Desember,2018,Klinik Bedah Syaraf,G50.0,Trigeminal Neuralgia,0,0,0,0,1
+Desember,2018,Klinik Bedah Syaraf,G91.9,"Hydrocephalus, Unspecified",0,0,0,2,0
+Desember,2018,Klinik Bedah Syaraf,I28.0,Arteriovenous Fistula Of Pulmonary Vessels,0,0,0,1,0
+Desember,2018,Klinik Bedah Syaraf,Z03.9,"Observation For Suspected Disease Or Condition, Unspecified",0,0,0,1,0
+Desember,2018,Klinik Dalam,E11.0,Non-Insulin-Dependent Diabetes Mellitus With Coma,0,0,0,14,50
+Desember,2018,Klinik Dalam,J90,"Pleural Effusion, Not Elsewhere Classified",0,0,0,14,2
+Desember,2018,Klinik Gigi,K00.0,Anodontia,0,0,1,3,1
+Desember,2018,Klinik Gigi,K07.4,"Malocclusion, Unspecified",0,0,6,5,0
+Desember,2018,Klinik Gizi,E11.9,Non-Insulin-Dependent Diabetes Mellitus Without Complications,0,0,0,1,3
+Desember,2018,Klinik Gizi,I10,Essential (Primary) Hypertension,0,0,0,0,1
+Desember,2018,Klinik Gizi,K29.7,"Gastritis, Unspecified",0,0,0,2,1
+Desember,2018,Klinik Gizi,N18.8,Other Chronic Renal Failure,0,0,0,3,0
+Desember,2018,Klinik Kandungan,M65.23,"Calcific Tendinitis, Forearm",0,0,0,14,0
+Desember,2018,Klinik Kandungan,O72.0,Third-Stage Haemorrhage,0,0,0,12,0
+Desember,2018,Klinik Kandungan,Z34.0,Supervision Of Normal First Pregnancy,0,0,0,29,0
+Desember,2018,Klinik Kemuning,A00.0,"Cholera Due To Vibrio Cholerae 01, Biovar Cholerae",0,0,0,1,0
+Desember,2018,Klinik Kemuning,A02.0,Salmonella Enteritis,0,0,0,2,0
+Desember,2018,Klinik Kemuning,B20.9,Hiv Disease Resulting In Unspecified Infectious Or Parasitic Disease,0,0,0,263,2
+Desember,2018,Klinik Mata,H00.1,Chalazion,0,1,3,1,1
+Desember,2018,Klinik Mata,H10.1,Acute Atopic Conjunctivitis,0,0,8,2,1
+Desember,2018,Klinik Orthopedi,M41.2,Other Idiopathic Scoliosis,0,0,3,5,0
+Desember,2018,Klinik Orthopedi,M62.6,Muscle Strain,0,0,0,5,3
+Desember,2018,Klinik Orthopedi,Q66.0,Talipes Equinovarus,7,0,0,0,0
+Desember,2018,Klinik Orthopedi,Y83.5,Amputation Of Limb(S),0,0,0,2,6
+Desember,2018,Klinik Psikiatri,F19.8,"Mental And Behavioural Disorders Due To Multiple Drug Use And Use Of Psychoactive Substances, Other Mental And Behavioural Disorders",0,0,0,2,0
+Desember,2018,Klinik Psikiatri,F20.5,Residual Schizophrenia,0,0,0,1,1
+Desember,2018,Klinik Psikiatri,F31.0,"Bipolar Affective Disorder, Current Episode Hypomanic",0,0,0,3,0
+Desember,2018,Klinik Rehab Medik,M25.64,"Stiffness Of Joint, Not Elsewhere Classified, Hand",0,4,0,14,8
+Desember,2018,Klinik Rehab Medik,M54.1,Radiculopathy,0,0,0,26,7
+Desember,2018,Klinik Rehab Medik,M54.8,Other Dorsalgia,0,0,0,23,13
+Desember,2018,Klinik Syaraf,G56.0,Carpal Tunnel Syndrome,0,0,0,8,3
+Desember,2018,Klinik Syaraf,I10,Essential (Primary) Hypertension,0,0,0,5,8
+Desember,2018,Klinik Tht,H65.1,Other Acute Nonsuppurative Otitis Media,0,1,4,3,2
+Desember,2018,Klinik Tht,J02.9,"Acute Pharyngitis, Unspecified",1,0,1,7,0
+Desember,2018,Klinik Tht,J35.3,Hypertrophy Of Tonsils With Hypertrophy Of Adenoids,0,0,6,0,0
+Desember,2018,Klinik Tht,Z00.0,General Medical Examination,1,0,3,3,0
+Desember,2018,Klinik Vct,A00.0,"Cholera Due To Vibrio Cholerae 01, Biovar Cholerae",0,0,0,1,0
+Desember,2018,Klinik Vct,B20.9,Hiv Disease Resulting In Unspecified Infectious Or Parasitic Disease,0,0,0,2,0

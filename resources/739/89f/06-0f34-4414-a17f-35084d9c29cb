@@ -1,0 +1,43 @@
+Bulan,Tahun,Jenis Kamar,Kode ICD,Nama Penyakit,Laki-laki,Perempuan
+Februari,2019,Gawat Darurat,A90,Dengue Fever (Classical Dengue),29,28
+Februari,2019,Klinik Akupuntur,E66.9,"Obesity, Unspecified",0,6
+Februari,2019,Klinik Akupuntur,J30.4,"Allergic Rhinitis, Unspecified",0,1
+Februari,2019,Klinik Akupuntur,K29.7,"Gastritis, Unspecified",0,1
+Februari,2019,Klinik Akupuntur,M05.3,Rheumatoid Arthritis With Involvement Of Other Organs And Systems,0,3
+Februari,2019,Klinik Akupuntur,M06.84,"Other Specified Rheumatoid Arthritis, Hand",0,1
+Februari,2019,Klinik Akupuntur,M17.9,"Gonarthrosis, Unspecified",8,0
+Februari,2019,Klinik Akupuntur,M54.12,"Radiculopathy, Cervical Region",0,1
+Februari,2019,Klinik Akupuntur,N83.2,Other And Unspecified Ovarian Cysts,0,4
+Februari,2019,Klinik Anak,Z11.1,Special Screening Examination For Respiratory Tuberculosis,24,25
+Februari,2019,Klinik Bedah Mulut,K04.0,Pulpitis,1,0
+Februari,2019,Klinik Bedah Syaraf,G50.0,Trigeminal Neuralgia,0,2
+Februari,2019,Klinik Bedah Syaraf,G91.9,"Hydrocephalus, Unspecified",0,1
+Februari,2019,Klinik Bedah Syaraf,I28.0,Arteriovenous Fistula Of Pulmonary Vessels,1,0
+Februari,2019,Klinik Bedah Syaraf,Z03.9,"Observation For Suspected Disease Or Condition, Unspecified",0,1
+Februari,2019,Klinik Dalam,E10.0,Insulin-Dependent Diabetes Mellitus With Coma,7,15
+Februari,2019,Klinik Gigi,K00.0,Anodontia,0,6
+Februari,2019,Klinik Gizi,K30,Dyspepsia,0,1
+Februari,2019,Klinik Jantung,I50.9,"Heart Failure, Unspecified",1,0
+Februari,2019,Klinik Kandungan,M65.23,"Calcific Tendinitis, Forearm",0,14
+Februari,2019,Klinik Kemuning,A02.0,Salmonella Enteritis,2,2
+Februari,2019,Klinik Kemuning,B20.3,Hiv Disease Resulting In Other Viral Infections,1,0
+Februari,2019,Klinik Kemuning,B20.9,Hiv Disease Resulting In Unspecified Infectious Or Parasitic Disease,200,31
+Februari,2019,Klinik Mata,H00.0,Hordeolum And Other Deep Inflammation Of Eyelid,2,10
+Februari,2019,Klinik Mata,H10.1,Acute Atopic Conjunctivitis,6,1
+Februari,2019,Klinik Mata,H10.2,Other Acute Conjunctivitis,4,6
+Februari,2019,Klinik Mata,H10.3,"Acute Conjunctivitis, Unspecified",3,4
+Februari,2019,Klinik Orthopedi,A18.0,Tuberculosis Of Bones And Joints,0,5
+Februari,2019,Klinik Orthopedi,E10.5,Insulin-Dependent Diabetes Mellitus With Peripheral Circulatory Complications,2,2
+Februari,2019,Klinik Orthopedi,M21.75,"Unequal Limb Length (Acquired), Pelvic And Thigh",4,0
+Februari,2019,Klinik Orthopedi,M84.15,"Nonunion Of Fracture [Pseudarthrosis], Pelvic And Thigh",8,0
+Februari,2019,Klinik Orthopedi,S82.60,"Fracture Of Lateral Malleolus, Closed",3,2
+Februari,2019,Klinik Psikiatri,F19.8,"Mental And Behavioural Disorders Due To Multiple Drug Use And Use Of Psychoactive Substances, Other Mental And Behavioural Disorders",2,0
+Februari,2019,Klinik Psikiatri,F31.0,"Bipolar Affective Disorder, Current Episode Hypomanic",2,1
+Februari,2019,Klinik Psikiatri,F31.1,"Bipolar Affective Disorder, Current Episode Manic Without Psychotic Symptoms",3,1
+Februari,2019,Klinik Psikiatri,F33.0,"Recurrent Depressive Disorder, Current Episode Mild",0,1
+Februari,2019,Klinik Rehab Medik,M54.8,Other Dorsalgia,10,47
+Februari,2019,Klinik Tht,J02.9,"Acute Pharyngitis, Unspecified",8,14
+Februari,2019,Klinik Tht,T16,Foreign Body In Ear,7,3
+Februari,2019,Klinik Tht,Z00.0,General Medical Examination,3,7
+Februari,2019,Klinik Tht,Z09.0,Follow-Up Examination After Surgery For Other Conditions,7,5
+Februari,2019,Klinik Vct,B20.9,Hiv Disease Resulting In Unspecified Infectious Or Parasitic Disease,13,5

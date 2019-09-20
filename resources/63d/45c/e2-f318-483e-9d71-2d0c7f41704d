@@ -1,0 +1,72 @@
+Bulan,Tahun,Jenis Kamar,Kode ICD,Nama Penyakit,Laki-laki,Perempuan
+September,2017,Gawat Darurat,O03.4,"Spontaneous Abortion, Incomplete, Without Complication",0,14
+September,2017,Gawat Darurat,O13,Gestational (Pregnancy-Induced) Hypertension Without Significant Proteinuria,1,49
+September,2017,Gawat Darurat,O14.1,Severe Pre-Eclampsia,0,22
+September,2017,Gawat Darurat,O26.0,Excessive Weight Gain In Pregnancy,0,44
+September,2017,Gawat Darurat,O42.0,"Premature Rupture Of Membranes, Onset Of Labour Within 24 Hours",1,241
+September,2017,Gawat Darurat,O46.9,"Antepartum Haemorrhage, Unspecified",0,13
+September,2017,Gawat Darurat,O80.0,Spontaneous Vertex Delivery,0,59
+September,2017,Gawat Darurat,O80.9,"Single Spontaneous Delivery, Unspecified",0,16
+September,2017,Gawat Darurat,O82.1,Delivery By Emergency Caesarean Section,0,18
+September,2017,Gawat Darurat,R50.9,"Fever, Unspecified",203,215
+September,2017,Klinik Akupuntur,G43.0,Migraine Without Aura [Common Migraine],0,2
+September,2017,Klinik Akupuntur,G51.0,Bell'S Palsy,0,1
+September,2017,Klinik Akupuntur,M06.9,"Rheumatoid Arthritis, Unspecified",0,1
+September,2017,Klinik Anak,A16.7,Primary Respiratory Tuberculosis Without Mention Of Bacteriological Or Histological Confirmation,105,77
+September,2017,Klinik Anak,P59.9,"Neonatal Jaundice, Unspecified",73,67
+September,2017,Klinik Anak,Z24.6,Need For Immunization Against Viral Hepatitis,46,33
+September,2017,Klinik Bedah Anak,N47,"Redundant Prepuce, Phimosis And Paraphimosis",2,0
+September,2017,Klinik Bedah Anak,Q53.1,"Undescended Testicle, Unilateral",5,0
+September,2017,Klinik Bedah Anak,Q54.0,"Hypospadias, Balanic",8,0
+September,2017,Klinik Bedah Anak,Q54.1,"Hypospadias, Penile",12,0
+September,2017,Klinik Bedah Mulut,D16.5,Benign Neoplasm Of Lower Jaw Bone,0,5
+September,2017,Klinik Bedah Mulut,D17.0,"Benign Lipomatous Neoplasm Of Skin And Subcutaneous Tissue Of Head, Face And Neck",1,4
+September,2017,Klinik Bedah Mulut,E11.6,Non-Insulin-Dependent Diabetes Mellitus With Other Specified Complications,0,3
+September,2017,Klinik Bedah Mulut,K00.6,Disturbances In Tooth Eruption,4,3
+September,2017,Klinik Bedah Syaraf,Q03.9,"Congenital Hydrocephalus, Unspecified",0,1
+September,2017,Klinik Dalam,E11.7,Non-Insulin-Dependent Diabetes Mellitus With Multiple Complications,43,67
+September,2017,Klinik Dalam,I25.1,Atherosclerotic Heart Disease,35,24
+September,2017,Klinik Dalam,K29.0,Acute Haemorrhagic Gastritis,19,35
+September,2017,Klinik Gigi,K00.6,Disturbances In Tooth Eruption,8,11
+September,2017,Klinik Gigi,K02.9,"Dental Caries, Unspecified",21,17
+September,2017,Klinik Gizi,E66.8,Other Obesity,0,1
+September,2017,Klinik Jantung,I21.9,"Acute Myocardial Infarction, Unspecified",6,0
+September,2017,Klinik Jantung,R07.3,Other Chest Pain,1,2
+September,2017,Klinik Kandungan,D25.9,"Leiomyoma Of Uterus, Unspecified",0,19
+September,2017,Klinik Kandungan,M65.23,"Calcific Tendinitis, Forearm",0,22
+September,2017,Klinik Kandungan,N83.2,Other And Unspecified Ovarian Cysts,0,51
+September,2017,Klinik Kandungan,N93.8,Other Specified Abnormal Uterine And Vaginal Bleeding,0,40
+September,2017,Klinik Kandungan,O05.0,"Other Abortion, Incomplete, Complicated By Genital Tract And Pelvic Infection",0,42
+September,2017,Klinik Kemuning,B20.0,Hiv Disease Resulting In Mycobacterial Infection,194,53
+September,2017,Klinik Kemuning,B22.0,Hiv Disease Resulting In Encephalopathy,0,1
+September,2017,Klinik Konservasi Gigi,K04.0,Pulpitis,17,40
+September,2017,Klinik Konservasi Gigi,K04.1,Necrosis Of Pulp,28,59
+September,2017,Klinik Konservasi Gigi,K04.6,Periapical Abscess With Sinus,0,1
+September,2017,Klinik Konservasi Gigi,K04.7,Periapical Abscess Without Sinus,0,4
+September,2017,Klinik Mata,E11.9,Non-Insulin-Dependent Diabetes Mellitus Without Complications,22,48
+September,2017,Klinik Mata,H25.1,Senile Nuclear Cataract,43,13
+September,2017,Klinik Mata,I10,Essential (Primary) Hypertension,12,35
+September,2017,Klinik Mata,Z96.1,Presence Of Intraocular Lens,93,109
+September,2017,Klinik Orthopedi,M41.2,Other Idiopathic Scoliosis,1,10
+September,2017,Klinik Orthopedi,M54.57,"Low Back Pain, Lumbosacral Region",2,15
+September,2017,Klinik Orthopedi,S52.50,"Fracture Of Lower End Of Radius, Closed",7,9
+September,2017,Klinik Orthopedi,S62.61,"Fracture Of Other Finger , Open",7,0
+September,2017,Klinik Psikiatri,F31.1,"Bipolar Affective Disorder, Current Episode Manic Without Psychotic Symptoms",7,14
+September,2017,Klinik Psikiatri,F31.2,"Bipolar Affective Disorder, Current Episode Manic With Psychotic Symptoms",7,0
+September,2017,Klinik Psikiatri,F33.1,"Recurrent Depressive Disorder, Current Episode Moderate",1,6
+September,2017,Klinik Psikiatri,F99,"Mental Disorder, Not Otherwise Specified",30,31
+September,2017,Klinik Rehab Medik,M19.0,Primary Arthrosis Of Other Joints,26,62
+September,2017,Klinik Rehab Medik,M25.56,"Pain In Joint, Lower Leg",44,225
+September,2017,Klinik Rehab Medik,M54.12,"Radiculopathy, Cervical Region",12,46
+September,2017,Klinik Rehab Medik,M54.56,"Low Back Pain, Lumbar Region",15,54
+September,2017,Klinik Rehab Medik,M65.34,"Trigger Finger, Hand",17,96
+September,2017,Klinik Syaraf,G50.0,Trigeminal Neuralgia,17,18
+September,2017,Klinik Syaraf,G56.0,Carpal Tunnel Syndrome,8,45
+September,2017,Klinik Syaraf,G62.9,"Polyneuropathy, Unspecified",94,88
+September,2017,Klinik Syaraf,H81.4,Vertigo Of Central Origin,4,22
+September,2017,Klinik Syaraf,I69.4,"Sequelae Of Stroke, Not Specified As Haemorrhage Or Infarction",681,575
+September,2017,Klinik Tht,G61.1,Serum Neuropathy,10,7
+September,2017,Klinik Tht,H65.1,Other Acute Nonsuppurative Otitis Media,14,15
+September,2017,Klinik Tht,H66.1,Chronic Tubotympanic Suppurative Otitis Media,15,14
+September,2017,Klinik Tht,J35.1,Hypertrophy Of Tonsils,3,22
+September,2017,Klinik Vct,B20.0,Hiv Disease Resulting In Mycobacterial Infection,11,6

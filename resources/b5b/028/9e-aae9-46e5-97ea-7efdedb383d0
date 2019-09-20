@@ -1,0 +1,122 @@
+Bulan,Tahun,Jenis Kamar,Kode ICD,Nama Penyakit,Laki-laki,Perempuan
+April,2016,Klinik Akupuntur,L81.4,Other Melanin Hyperpigmentation,1,9
+April,2016,Klinik Anak,A09,Diarrhoea And Gastroenteritis Of Presumed Infectious Origin,38,27
+April,2016,Klinik Anak,A16.9,"Respiratory Tuberculosis Unspecified, Without Mention Of Bacteriological Or Histological Confirmation",381,346
+April,2016,Klinik Anak,A17.0,Tuberculous Meningitis,33,16
+April,2016,Klinik Anak,A90,Dengue Fever [Classical Dengue],39,26
+April,2016,Klinik Anak,G40.9,"Epilepsy, Unspecified",171,137
+April,2016,Klinik Anak,J18.0,"Bronchopneumonia, Unspecified",136,86
+April,2016,Klinik Anak,J39.9,"Disease Of Upper Respiratory Tract, Unspecified",93,74
+April,2016,Klinik Anak,J45.9,"Asthma, Unspecified",57,45
+April,2016,Klinik Anak,P59.9,"Neonatal Jaundice, Unspecified",134,119
+April,2016,Klinik Anak,Z24.6,Need For Immunization Against Viral Hepatitis,42,30
+April,2016,Klinik Bedah Mulut,D16.4,Benign Neoplasm Of Bones Of Skull And Face,5,0
+April,2016,Klinik Bedah Mulut,J32.0,Chronic Maxillary Sinusitis,6,1
+April,2016,Klinik Bedah Mulut,K01.1,Impacted Teeth,89,194
+April,2016,Klinik Bedah Mulut,K04.6,Periapical Abscess With Sinus,18,30
+April,2016,Klinik Bedah Mulut,K04.7,Periapical Abscess Without Sinus,46,90
+April,2016,Klinik Bedah Mulut,K09.0,Developmental Odontogenic Cysts,4,2
+April,2016,Klinik Bedah Mulut,K11.6,Mucocele Of Salivary Gland,10,16
+April,2016,Klinik Bedah Mulut,Q35.3,Cleft Soft Palate,4,1
+April,2016,Klinik Bedah Mulut,Q37.5,Cleft Hard And Soft Palate With Unilateral Cleft Lip,2,9
+April,2016,Klinik Bedah Mulut,S02.80,"Fractures Of Other Skull And Facial Bones, Closed",2,3
+April,2016,Klinik Dalam,E05.1,Thyrotoxicosis With Toxic Single Thyroid Nodule,0,1
+April,2016,Klinik Dalam,E11.0,Non-Insulin-Dependent Diabetes Mellitus With Coma,5,15
+April,2016,Klinik Dalam,E11.1,Non-Insulin-Dependent Diabetes Mellitus With Ketoacidosis,1,2
+April,2016,Klinik Dalam,E11.9,Non-Insulin-Dependent Diabetes Mellitus Without Complications,490,915
+April,2016,Klinik Dalam,I10,Essential (Primary) Hypertension,240,429
+April,2016,Klinik Dalam,I11.0,Hypertensive Heart Disease With (Congestive) Heart Failure,0,1
+April,2016,Klinik Dalam,I25.1,Atherosclerotic Heart Disease,26,30
+April,2016,Klinik Dalam,J44.9,"Chronic Obstructive Pulmonary Disease, Unspecified",139,62
+April,2016,Klinik Dalam,J45.9,"Asthma, Unspecified",87,161
+April,2016,Klinik Dalam,R50.9,"Fever, Unspecified",1,0
+April,2016,Klinik Gigi,K00.0,Anodontia,2,10
+April,2016,Klinik Gigi,K01.1,Impacted Teeth,35,71
+April,2016,Klinik Gigi,K02.1,Caries Of Dentine,26,52
+April,2016,Klinik Gigi,K03.1,Abrasion Of Teeth,0,1
+April,2016,Klinik Gigi,K04.0,Pulpitis,125,247
+April,2016,Klinik Gigi,K04.1,Necrosis Of Pulp,164,331
+April,2016,Klinik Gigi,K04.5,Chronic Apical Periodontitis,203,439
+April,2016,Klinik Gigi,K04.7,Periapical Abscess Without Sinus,74,111
+April,2016,Klinik Gigi,K05.3,Chronic Periodontitis,6,14
+April,2016,Klinik Gigi,K07.4,"Malocclusion, Unspecified",0,6
+April,2016,Klinik Jantung,I10,Essential (Primary) Hypertension,0,1
+April,2016,Klinik Jantung,I11.0,Hypertensive Heart Disease With (Congestive) Heart Failure,124,157
+April,2016,Klinik Jantung,I25.1,Atherosclerotic Heart Disease,580,405
+April,2016,Klinik Jantung,I25.2,Old Myocardial Infarction,1,0
+April,2016,Klinik Jantung,I25.9,"Chronic Ischaemic Heart Disease, Unspecified",0,1
+April,2016,Klinik Jantung,I48,Atrial Fibrillation And Flutter,4,13
+April,2016,Klinik Jantung,I50.0,Congestive Heart Failure,554,623
+April,2016,Klinik Kandungan,D25.0,Submucous Leiomyoma Of Uterus,0,38
+April,2016,Klinik Kandungan,N83.2,Other And Unspecified Ovarian Cysts,1,97
+April,2016,Klinik Kandungan,O32.1,Maternal Care For Breech Presentation,0,27
+April,2016,Klinik Kandungan,Z09.0,Follow-Up Examination After Surgery For Other Conditions,1,286
+April,2016,Klinik Kandungan,Z30.1,Insertion Of (Intrauterine) Contraceptive Device,0,32
+April,2016,Klinik Kandungan,Z30.5,Surveillance Of (Intrauterine) Contraceptive Device,3,87
+April,2016,Klinik Kandungan,Z34.0,Supervision Of Normal First Pregnancy,0,101
+April,2016,Klinik Kandungan,Z34.8,Supervision Of Other Normal Pregnancy,6,632
+April,2016,Klinik Kandungan,Z35.8,Supervision Of Other High-Risk Pregnancies,2,103
+April,2016,Klinik Kandungan,Z39.2,Routine Postpartum Follow-Up,3,349
+April,2016,Klinik Mata,H10.9,"Conjunctivitis, Unspecified",55,43
+April,2016,Klinik Mata,H11.0,Pterygium,14,40
+April,2016,Klinik Mata,H25.0,Senile Incipient Cataract,332,496
+April,2016,Klinik Mata,H25.1,Senile Nuclear Cataract,17,15
+April,2016,Klinik Mata,H27.8,Other Specified Disorders Of Lens,103,116
+April,2016,Klinik Mata,H52.1,Myopia,74,216
+April,2016,Klinik Mata,H52.2,Astigmatism,56,142
+April,2016,Klinik Mata,H52.4,Presbyopia,93,159
+April,2016,Klinik Mata,H52.6,Other Disorders Of Refraction,133,160
+April,2016,Klinik Mata,H53.1,Subjective Visual Disturbances,32,17
+April,2016,Klinik Orthopedi,L97,"Ulcer Of Lower Limb, Not Elsewhere Classified",1,7
+April,2016,Klinik Orthopedi,L98.4,"Chronic Ulcer Of Skin, Not Elsewhere Classified",14,13
+April,2016,Klinik Orthopedi,M17.9,"Gonarthrosis, Unspecified",7,19
+April,2016,Klinik Orthopedi,M54.5,Low Back Pain,5,7
+April,2016,Klinik Orthopedi,M96.6,"Fracture Of Bone Following Insertion Of Orthopaedic Implant, Joint Prosthesis, Or Bone Plate",28,13
+April,2016,Klinik Orthopedi,M96.9,"Postprocedural Musculoskeletal Disorder, Unspecified",34,27
+April,2016,Klinik Orthopedi,S42.00,"Fracture Of Clavicle, Closed",10,5
+April,2016,Klinik Orthopedi,S52.50,"Fracture Of Lower End Of Radius, Closed",7,10
+April,2016,Klinik Orthopedi,S61.1,Open Wound Of Finger(S) With Damage To Nail,5,5
+April,2016,Klinik Orthopedi,S72.00,"Fracture Of Neck Of Femur, Closed",1,6
+April,2016,Klinik Psikiatri,F20.0,Paranoid Schizophrenia,35,12
+April,2016,Klinik Psikiatri,F20.1,Hebephrenic Schizophrenia,18,7
+April,2016,Klinik Psikiatri,F20.9,"Schizophrenia, Unspecified",69,31
+April,2016,Klinik Psikiatri,F25.1,"Schizoaffective Disorder, Depressive Type",38,14
+April,2016,Klinik Psikiatri,F29,Unspecified Nonorganic Psychosis,1,5
+April,2016,Klinik Psikiatri,F31.3,"Bipolar Affective Disorder, Current Episode Mild Or Moderate Depression",2,3
+April,2016,Klinik Psikiatri,F31.4,"Bipolar Affective Disorder, Current Episode Severe Depression Without Psychotic Symptoms",0,5
+April,2016,Klinik Psikiatri,F31.7,"Bipolar Affective Disorder, Currently In Remission",16,16
+April,2016,Klinik Psikiatri,F33.1,"Recurrent Depressive Disorder, Current Episode Moderate",1,6
+April,2016,Klinik Psikiatri,F41.2,Mixed Anxiety And Depressive Disorder,11,19
+April,2016,Klinik Rehab Medik,M17.0,"Primary Gonarthrosis, Bilateral",74,798
+April,2016,Klinik Rehab Medik,M19.0,Primary Arthrosis Of Other Joints,38,114
+April,2016,Klinik Rehab Medik,M25.6,"Stiffness Of Joint, Not Elsewhere Classified",25,41
+April,2016,Klinik Rehab Medik,M50.1,Cervical Disc Disorder With Radiculopathy,11,48
+April,2016,Klinik Rehab Medik,M54.1,Radiculopathy,81,211
+April,2016,Klinik Rehab Medik,M54.2,Cervicalgia,26,106
+April,2016,Klinik Rehab Medik,M54.5,Low Back Pain,61,196
+April,2016,Klinik Rehab Medik,M75.1,Rotator Cuff Syndrome,14,80
+April,2016,Klinik Rehab Medik,M79.1,Myalgia,57,238
+April,2016,Klinik Rehab Medik,M96.6,"Fracture Of Bone Following Insertion Of Orthopaedic Implant, Joint Prosthesis, Or Bone Plate",141,163
+April,2016,Klinik Syaraf,E11.4,Non-Insulin-Dependent Diabetes Mellitus With Neurological Complications,42,106
+April,2016,Klinik Syaraf,G40.9,"Epilepsy, Unspecified",409,393
+April,2016,Klinik Syaraf,G62.9,"Polyneuropathy, Unspecified",26,43
+April,2016,Klinik Syaraf,G63.2,Diabetic Polyneuropathy,42,103
+April,2016,Klinik Syaraf,H81.4,Vertigo Of Central Origin,39,66
+April,2016,Klinik Syaraf,I10,Essential (Primary) Hypertension,54,74
+April,2016,Klinik Syaraf,I69.4,"Sequelae Of Stroke, Not Specified As Haemorrhage Or Infarction",1110,1157
+April,2016,Klinik Syaraf,M17.9,"Gonarthrosis, Unspecified",61,228
+April,2016,Klinik Syaraf,M54.12,"Radiculopathy, Cervical Region",86,345
+April,2016,Klinik Syaraf,M54.16,"Radiculopathy, Lumbar Region",357,692
+April,2016,Klinik Tht,H60.8,Other Otitis Externa,55,83
+April,2016,Klinik Tht,H60.9,"Otitis Externa, Unspecified",17,13
+April,2016,Klinik Tht,H61.2,Impacted Cerumen,219,255
+April,2016,Klinik Tht,H65.3,Chronic Mucoid Otitis Media,29,31
+April,2016,Klinik Tht,H66.9,"Otitis Media, Unspecified",19,20
+April,2016,Klinik Tht,H72.8,Other Perforations Of Tympanic Membrane,6,20
+April,2016,Klinik Tht,H93.1,Tinnitus,18,42
+April,2016,Klinik Tht,J30.3,Other Allergic Rhinitis,31,62
+April,2016,Klinik Tht,J31.2,Chronic Pharyngitis,11,23
+April,2016,Klinik Tht,J35.0,Chronic Tonsillitis,25,61
+April,2016,Klinik Vct,B20.0,Hiv Disease Resulting In Mycobacterial Infection,39,18
+April,2016,Klinik Vct,B20.1,Hiv Disease Resulting In Other Bacterial Infections,1,0
+April,2016,Klinik Vct,B20.4,Hiv Disease Resulting In Candidiasis,0,1

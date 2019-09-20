@@ -1,0 +1,48 @@
+Bulan,Tahun,Jenis Kamar,Kode ICD,Nama Penyakit,Kelompok Usia Bayi,Kelompok Usia Balita,Kelompok Usia Anak,Kelompok Usia Dewasa,Kelompok Usia Manula
+Juni,2018,Gawat Darurat,A09,Diarrhoea And Gastroenteritis Of Presumed Infectious Origin,15,31,19,97,74
+Juni,2018,Gawat Darurat,J45.9,"Asthma, Unspecified",2,8,49,129,61
+Juni,2018,Gawat Darurat,K30,Dyspepsia,0,2,14,244,110
+Juni,2018,Gawat Darurat,R10.4,Other And Unspecified Abdominal Pain,0,0,6,64,14
+Juni,2018,Gawat Darurat,R11,Nausea And Vomiting,1,5,10,18,8
+Juni,2018,Gawat Darurat,R50.9,"Fever, Unspecified",27,107,155,312,81
+Juni,2018,Gawat Darurat,T14.1,Open Wound Of Unspecified Body Region,0,12,22,40,15
+Juni,2018,Gawat Darurat,Z03.9,"Observation For Suspected Disease Or Condition, Unspecified",4,3,11,85,23
+Juni,2018,Klinik Akupuntur,E66.9,"Obesity, Unspecified",0,0,0,9,0
+Juni,2018,Klinik Akupuntur,G56.0,Carpal Tunnel Syndrome,0,0,0,2,0
+Juni,2018,Klinik Akupuntur,M17.9,"Gonarthrosis, Unspecified",0,0,0,1,4
+Juni,2018,Klinik Akupuntur,M54.5,Low Back Pain,0,0,0,5,0
+Juni,2018,Klinik Akupuntur,M79.1,Myalgia,0,0,0,0,2
+Juni,2018,Klinik Anak,A15.3,"Tuberculosis Of Lung, Confirmed By Unspecified Means",4,36,23,0,0
+Juni,2018,Klinik Anak,A15.4,"Tuberculosis Of Intrathoracic Lymph Nodes, Confirmed Bacteriologically And Histologically",1,8,11,1,0
+Juni,2018,Klinik Anak,Z24.0,Need For Immunization Against Poliomyelitis,19,0,0,1,2
+Juni,2018,Klinik Anak,Z24.6,Need For Immunization Against Viral Hepatitis,19,0,0,1,2
+Juni,2018,Klinik Bedah Anak,Q53.1,"Undescended Testicle, Unilateral",1,3,0,0,0
+Juni,2018,Klinik Bedah Mulut,C03.0,Malignant Neoplasm Of Upper Gum,0,0,0,1,0
+Juni,2018,Klinik Bedah Mulut,D10.0,Benign Neoplasm Of Lip,0,0,1,0,0
+Juni,2018,Klinik Bedah Mulut,K00.1,Supernumerary Teeth,0,0,0,1,0
+Juni,2018,Klinik Bedah Mulut,K07.6,Temporomandibular Joint Disorders,0,0,0,1,0
+Juni,2018,Klinik Bedah Mulut,K10.8,Other Specified Diseases Of Jaws,0,0,0,1,0
+Juni,2018,Klinik Dalam,E11.7,Non-Insulin-Dependent Diabetes Mellitus With Multiple Complications,0,0,0,48,146
+Juni,2018,Klinik Dalam,J45.0,Predominantly Allergic Asthma,0,0,0,18,14
+Juni,2018,Klinik Gigi,K07.4,"Malocclusion, Unspecified",0,0,1,14,0
+Juni,2018,Klinik Gizi,E11.9,Non-Insulin-Dependent Diabetes Mellitus Without Complications,0,0,0,9,7
+Juni,2018,Klinik Gizi,E46,Unspecified Protein-Energy Malnutrition,0,0,1,1,0
+Juni,2018,Klinik Gizi,E66.2,Extreme Obesity With Alveolar Hypoventilation,0,0,0,0,1
+Juni,2018,Klinik Gizi,I64,"Stroke, Not Specified As Haemorrhage Or Infarction",0,0,0,0,1
+Juni,2018,Klinik Gizi,K29.6,Other Gastritis,0,0,0,0,1
+Juni,2018,Klinik Gizi,N18.0,End-Stage Renal Disease,0,0,0,0,1
+Juni,2018,Klinik Jantung,E11.9,Non-Insulin-Dependent Diabetes Mellitus Without Complications,0,0,0,0,1
+Juni,2018,Klinik Jantung,I20.9,"Angina Pectoris, Unspecified",0,0,0,0,2
+Juni,2018,Klinik Kandungan,O05.0,"Other Abortion, Incomplete, Complicated By Genital Tract And Pelvic Infection",0,0,0,20,0
+Juni,2018,Klinik Kandungan,Z30.5,Surveillance Of (Intrauterine) Contraceptive Device,0,0,0,16,0
+Juni,2018,Klinik Mata,H52.0,Hypermetropia,0,0,1,4,11
+Juni,2018,Klinik Mata,I10,Essential (Primary) Hypertension,0,0,0,0,16
+Juni,2018,Klinik Mata,Z96.1,Presence Of Intraocular Lens,0,0,0,13,79
+Juni,2018,Klinik Orthopedi,M17.1,Other Primary Gonarthrosis,0,0,0,5,11
+Juni,2018,Klinik Orthopedi,M54.17,"Radiculopathy, Lumbosacral Region",0,0,0,3,6
+Juni,2018,Klinik Orthopedi,S67.0,Crushing Injury Of Thumb And Other Finger(S),0,0,0,5,0
+Juni,2018,Klinik Orthopedi,S72.3,Fracture Of Shaft Of Femur,0,0,0,6,0
+Juni,2018,Klinik Rehab Medik,M25.51,"Pain In Joint, Shouder Region",0,0,0,7,27
+Juni,2018,Klinik Rehab Medik,R62.0,Delayed Milestone,0,56,2,0,0
+Juni,2018,Klinik Tht,H65.1,Other Acute Nonsuppurative Otitis Media,0,3,5,14,3
+Juni,2018,Klinik Tht,J31.2,Chronic Pharyngitis,1,0,0,9,4

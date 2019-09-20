@@ -1,0 +1,57 @@
+Bulan,Tahun,Jenis Kamar,Kode ICD,Nama Penyakit,Kelompok Usia Bayi,Kelompok Usia Balita,Kelompok Usia Anak,Kelompok Usia Dewasa,Kelompok Usia Manula
+September,2018,Gawat Darurat,A09,Diarrhoea And Gastroenteritis Of Presumed Infectious Origin,31,34,13,67,32
+September,2018,Gawat Darurat,J45.9,"Asthma, Unspecified",3,8,27,60,21
+September,2018,Gawat Darurat,K29.7,"Gastritis, Unspecified",0,0,1,33,12
+September,2018,Gawat Darurat,K30,Dyspepsia,0,1,3,108,53
+September,2018,Gawat Darurat,N39.0,"Urinary Tract Infection, Site Not Specified",0,0,1,29,11
+September,2018,Gawat Darurat,R10.4,Other And Unspecified Abdominal Pain,0,1,7,44,13
+September,2018,Gawat Darurat,T14.1,Open Wound Of Unspecified Body Region,2,8,11,48,18
+September,2018,Gawat Darurat,Z03.9,"Observation For Suspected Disease Or Condition, Unspecified",3,5,6,56,25
+September,2018,Klinik Akupuntur,G56.0,Carpal Tunnel Syndrome,0,0,0,1,0
+September,2018,Klinik Akupuntur,J01.9,"Acute Sinusitis, Unspecified",0,0,0,1,0
+September,2018,Klinik Akupuntur,M50.1,Cervical Disc Disorder With Radiculopathy,0,0,0,3,0
+September,2018,Klinik Akupuntur,M54.5,Low Back Pain,0,0,0,1,2
+September,2018,Klinik Akupuntur,N83.2,Other And Unspecified Ovarian Cysts,0,0,0,3,0
+September,2018,Klinik Akupuntur,R53,Malaise And Fatigue,0,0,0,1,0
+September,2018,Klinik Anak,A01.0,Typhoid Fever,0,13,14,0,0
+September,2018,Klinik Anak,A18.2,Tuberculous Peripheral Lymphadenopathy,1,18,16,0,0
+September,2018,Klinik Bedah Anak,A50.9,"Congenital Syphilis, Unspecified",2,0,0,0,0
+September,2018,Klinik Bedah Anak,K40.0,"Bilateral Inguinal Hernia, With Obstruction, Without Gangrene",0,2,0,0,0
+September,2018,Klinik Bedah Anak,Q40.9,"Congenital Malformation Of Upper Alimentary Tract, Unspecified",0,2,0,0,0
+September,2018,Klinik Bedah Mulut,D10.2,Benign Neoplasm Of Floor Of Mouth,0,0,0,3,0
+September,2018,Klinik Bedah Mulut,K07.4,"Malocclusion, Unspecified",0,0,0,3,0
+September,2018,Klinik Bedah Mulut,K12.1,Other Forms Of Stomatitis,0,0,0,1,1
+September,2018,Klinik Bedah Syaraf,G20,Parkinson Disease,0,0,0,1,0
+September,2018,Klinik Bedah Syaraf,G50.0,Trigeminal Neuralgia,0,0,0,0,1
+September,2018,Klinik Bedah Syaraf,G54.1,Lumbosacral Plexus Disorders,0,0,0,1,0
+September,2018,Klinik Bedah Syaraf,Z03.9,"Observation For Suspected Disease Or Condition, Unspecified",0,0,0,2,0
+September,2018,Klinik Dalam,E05.9,"Thyrotoxicosis, Unspecified",0,0,0,25,5
+September,2018,Klinik Dalam,E11.0,Non-Insulin-Dependent Diabetes Mellitus With Coma,0,0,0,50,111
+September,2018,Klinik Dalam,N18.9,"Chronic Renal Failure, Unspecified",0,0,0,28,48
+September,2018,Klinik Gizi,E11.9,Non-Insulin-Dependent Diabetes Mellitus Without Complications,0,1,0,1,5
+September,2018,Klinik Gizi,E78.2,Mixed Hyperlipidaemia,0,0,0,0,3
+September,2018,Klinik Gizi,M06.09,"Seronegative Rheumatoid Arthritis, Unspecified Site",0,0,0,1,1
+September,2018,Klinik Jantung,I01.9,"Acute Rheumatic Heart Disease, Unspecified",0,0,0,0,2
+September,2018,Klinik Jantung,I10,Essential (Primary) Hypertension,0,0,0,0,2
+September,2018,Klinik Kandungan,O15.0,Eclampsia In Pregnancy,0,0,0,20,0
+September,2018,Klinik Kandungan,Z03.8,Observation For Other Suspected Diseases And Conditions,0,0,0,20,0
+September,2018,Klinik Kemuning,B20.9,Hiv Disease Resulting In Unspecified Infectious Or Parasitic Disease,0,1,0,257,3
+September,2018,Klinik Konservasi Gigi,K00.1,Supernumerary Teeth,0,0,1,0,0
+September,2018,Klinik Konservasi Gigi,K01.1,Impacted Teeth,0,0,1,0,0
+September,2018,Klinik Konservasi Gigi,K05.3,Chronic Periodontitis,0,0,0,1,0
+September,2018,Klinik Mata,H10.1,Acute Atopic Conjunctivitis,0,1,13,5,1
+September,2018,Klinik Mata,H52.0,Hypermetropia,0,0,1,8,13
+September,2018,Klinik Orthopedi,M54.17,"Radiculopathy, Lumbosacral Region",0,0,0,2,3
+September,2018,Klinik Orthopedi,M62.6,Muscle Strain,0,0,0,5,1
+September,2018,Klinik Orthopedi,M84.15,"Nonunion Of Fracture [Pseudarthrosis], Pelvic And Thigh",0,0,0,5,0
+September,2018,Klinik Orthopedi,M96.8,Other Postprocedural Musculoskeletal Disorders,0,0,0,5,1
+September,2018,Klinik Orthopedi,S72.3,Fracture Of Shaft Of Femur,0,0,1,5,0
+September,2018,Klinik Psikiatri,F20.5,Residual Schizophrenia,0,0,0,7,3
+September,2018,Klinik Psikiatri,F31.0,"Bipolar Affective Disorder, Current Episode Hypomanic",0,0,0,10,2
+September,2018,Klinik Rehab Medik,M25.51,"Pain In Joint, Shouder Region",0,0,0,12,61
+September,2018,Klinik Rehab Medik,R62.0,Delayed Milestone,1,40,0,0,0
+September,2018,Klinik Syaraf,M54.5,Low Back Pain,0,0,0,12,5
+September,2018,Klinik Tht,H62.2,Otitis Externa In Mycoses,0,0,1,9,2
+September,2018,Klinik Tht,J31.2,Chronic Pharyngitis,0,0,0,9,2
+September,2018,Klinik Tht,Z09.0,Follow-Up Examination After Surgery For Other Conditions,0,0,6,4,1
+September,2018,Klinik Vct,B20.9,Hiv Disease Resulting In Unspecified Infectious Or Parasitic Disease,0,0,0,5,0

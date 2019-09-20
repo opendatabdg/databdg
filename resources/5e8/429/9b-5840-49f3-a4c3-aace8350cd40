@@ -1,0 +1,37 @@
+Bulan,Tahun,Jenis Kamar,Kode ICD,Nama Penyakit,Laki-laki,Perempuan
+April,2019,Gawat Darurat,A90,Dengue Fever (Classical Dengue),57,49
+April,2019,Gawat Darurat,N39.0,"Urinary Tract Infection, Site Not Specified",11,42
+April,2019,Klinik Akupuntur,J45.9,"Asthma, Unspecified",0,2
+April,2019,Klinik Akupuntur,K29.7,"Gastritis, Unspecified",0,1
+April,2019,Klinik Akupuntur,L70.9,"Acne, Unspecified",0,1
+April,2019,Klinik Akupuntur,M54.12,"Radiculopathy, Cervical Region",0,3
+April,2019,Klinik Akupuntur,T67.0,Effects Of Heatstroke And Sunstroke,0,3
+April,2019,Klinik Anak,A91,Dengue Haemorrhagic Fever,18,13
+April,2019,Klinik Anak,Z11.1,Special Screening Examination For Respiratory Tuberculosis,27,15
+April,2019,Klinik Bedah Anak,N43.1,Infected Hydrocele,1,1
+April,2019,Klinik Bedah Anak,Q54.9,"Hypospadias, Unspecified",2,0
+April,2019,Klinik Bedah Mulut,D16.5,Benign Neoplasm Of Lower Jaw Bone,0,1
+April,2019,Klinik Bedah Mulut,D68.9,"Coagulation Defect, Unspecified",0,1
+April,2019,Klinik Bedah Mulut,I88.8,Other Nonspecific Lymphadenitis,2,0
+April,2019,Klinik Bedah Mulut,K07.4,"Malocclusion, Unspecified",1,2
+April,2019,Klinik Bedah Syaraf,G50.0,Trigeminal Neuralgia,0,1
+April,2019,Klinik Bedah Syaraf,G91.9,"Hydrocephalus, Unspecified",0,1
+April,2019,Klinik Bedah Syaraf,I28.0,Arteriovenous Fistula Of Pulmonary Vessels,1,0
+April,2019,Klinik Bedah Syaraf,Z03.9,"Observation For Suspected Disease Or Condition, Unspecified",1,1
+April,2019,Klinik Dalam,N18.9,"Chronic Renal Failure, Unspecified",34,34
+April,2019,Klinik Jantung,I50.9,"Heart Failure, Unspecified",1,0
+April,2019,Klinik Jantung,R07.4,"Chest Pain, Unspecified",0,3
+April,2019,Klinik Kandungan,M65.23,"Calcific Tendinitis, Forearm",0,11
+April,2019,Klinik Kemuning,A02.0,Salmonella Enteritis,1,2
+April,2019,Klinik Kemuning,B20.9,Hiv Disease Resulting In Unspecified Infectious Or Parasitic Disease,179,38
+April,2019,Klinik Mata,H10.3,"Acute Conjunctivitis, Unspecified",5,11
+April,2019,Klinik Mata,H11.3,Conjunctival Haemorrhage,4,3
+April,2019,Klinik Mata,H53.8,Other Visual Disturbances,2,5
+April,2019,Klinik Orthopedi,A18.0,Tuberculosis Of Bones And Joints,4,0
+April,2019,Klinik Orthopedi,S82.40,"Fracture Of Fibula Alone, Closed",5,0
+April,2019,Klinik Psikiatri,F06.8,Other Specified Mental Disorders Due To Brain Damage And Dysfunction And To Physical Disease,1,0
+April,2019,Klinik Psikiatri,F31.0,"Bipolar Affective Disorder, Current Episode Hypomanic",0,1
+April,2019,Klinik Psikiatri,F33.0,"Recurrent Depressive Disorder, Current Episode Mild",1,1
+April,2019,Klinik Rehab Medik,M25.51,"Pain In Joint, Shouder Region",4,52
+April,2019,Klinik Tht,Z01.1,Examination Of Ears And Hearing,15,9
+April,2019,Klinik Vct,B20.9,Hiv Disease Resulting In Unspecified Infectious Or Parasitic Disease,6,1

@@ -1,0 +1,47 @@
+bulan,tahun,kamar,kode_icd,nama_penyakit,kelompok_usia_bayi,kelompok_usia_balita,kelompok_usia_anak,kelompok_usia_dewasa,kelompok_usia_manula
+Jun,2019,gawat darurat,A90,Dengue fever (classical dengue),3,9,32,59,7
+Jun,2019,gawat darurat,Z03.8,Observation for other suspected diseases and conditions,1,2,4,20,10
+Jun,2019,klinik akupuntur,K29.7,"Gastritis, unspecified",0,0,0,0,3
+Jun,2019,klinik akupuntur,L70.9,"Acne, unspecified",0,0,0,1,0
+Jun,2019,klinik akupuntur,M54.12,"Radiculopathy, cervical region",0,0,0,3,0
+Jun,2019,klinik anak,A16.2,"Tuberculosis of lung, without mention of bacteriological or histological confirmation",6,22,18,4,0
+Jun,2019,klinik bedah anak,A58,Granuloma inguinale,1,0,0,0,0
+Jun,2019,klinik bedah anak,S09.8,Other specified injuries of head,0,2,0,0,0
+Jun,2019,klinik bedah mulut,D16.4,Benign neoplasm of bones of skull and face,0,0,0,1,0
+Jun,2019,klinik bedah mulut,K06.8,Other specified disorders of gingiva and edentulous alveolar ridge,0,0,0,0,1
+Jun,2019,klinik bedah mulut,S00.5,Superficial injury of lip and oral cavity,0,0,0,1,0
+Jun,2019,klinik bedah mulut,S02.40,"Fracture of malar and maxillary bones, closed",0,0,0,0,1
+Jun,2019,klinik bedah syaraf,G50.0,Trigeminal neuralgia,0,0,0,0,1
+Jun,2019,klinik bedah syaraf,G91.9,"Hydrocephalus, unspecified",0,0,0,1,0
+Jun,2019,klinik bedah syaraf,M50.1,Cervical disc disorder with radiculopathy,0,0,0,0,1
+Jun,2019,klinik bedah syaraf,Z03.9,"Observation for suspected disease or condition, unspecified",0,0,0,1,0
+Jun,2019,klinik dahlia,D64.8,Other specified anaemias,0,0,0,2,4
+Jun,2019,klinik dahlia,J44.1,"Chronic obstructive pulmonary disease with acute exacerbation, unspecified",0,0,0,0,2
+Jun,2019,klinik dahlia,N18.8,Other chronic renal failure,0,0,0,0,2
+Jun,2019,klinik dahlia,N40,Hyperplasia of prostate,0,0,0,0,2
+Jun,2019,klinik dalam,E10.7,Insulin-dependent diabetes mellitus with multiple complications,0,0,0,9,11
+Jun,2019,klinik gigi,K08.1,"Loss of teeth due to accident, extraction or local periodontal disease",0,0,0,4,5
+Jun,2019,Klinik Jantung,Q21.1,Atrial septal defect,0,0,0,0,1
+Jun,2019,Klinik Jantung,Q25.0,Patent ductus arteriosus,0,0,0,1,0
+Jun,2019,Klinik Jantung,R07.4,"Chest pain, unspecified",0,0,0,1,1
+Jun,2019,klinik kandungan,N81.4,"Uterovaginal prolapse, unspecified",0,0,0,0,4
+Jun,2019,klinik kandungan,O03.4,"Spontaneous abortion, incomplete, without complication",0,0,0,8,0
+Jun,2019,klinik kemuning,B20.9,HIV disease resulting in unspecified infectious or parasitic disease,0,0,0,163,0
+Jun,2019,klinik konservasi gigi,K05.5,Other periodontal diseases,0,0,0,2,0
+Jun,2019,klinik mata,H00.0,Hordeolum and other deep inflammation of eyelid,0,1,2,7,0
+Jun,2019,klinik mata,H10.1,Acute atopic conjunctivitis,0,5,5,1,0
+Jun,2019,klinik mata,H10.2,Other acute conjunctivitis,0,1,1,5,2
+Jun,2019,klinik mata,H10.3,"Acute conjunctivitis, unspecified",0,2,1,2,3
+Jun,2019,klinik orthopedi,G56.0,Carpal tunnel syndrome,0,0,0,4,0
+Jun,2019,klinik orthopedi,S42.00,"Fracture of clavicle, closed",0,0,0,4,1
+Jun,2019,klinik orthopedi,T81.3,"Disruption of operation wound, not elsewhere classified",0,0,0,3,2
+Jun,2019,klinik psikiatri,F19.8,"Mental and behavioural disorders due to multiple drug use and use of psychoactive substances, other mental and behavioural disorders",0,0,0,2,0
+Jun,2019,klinik psikiatri,F31.0,"Bipolar affective disorder, current episode hypomanic",0,0,0,3,0
+Jun,2019,klinik psikiatri,F51.0,Nonorganic insomnia,0,0,0,0,2
+Jun,2019,klinik rehab medik,F80.9,"Developmental disorder of speech and language, unspecified",0,13,1,0,0
+Jun,2019,klinik rehab medik,M25.6,"Stiffness of joint, not elsewhere classified",0,0,3,6,8
+Jun,2019,klinik rehab medik,M25.64,"Stiffness of joint, not elsewhere classified, hand",0,4,0,0,13
+Jun,2019,klinik rehab medik,R54,Senility,0,0,0,0,18
+Jun,2019,klinik syaraf,M65.3,Trigger finger,0,0,0,2,5
+Jun,2019,klinik tht,Z01.1,Examination of ears and hearing,1,2,0,20,0
+Jun,2019,klinik vct,B20.9,HIV disease resulting in unspecified infectious or parasitic disease,0,0,0,5,0

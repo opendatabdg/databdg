@@ -1,0 +1,43 @@
+bulan,tahun,kamar,kode_icd,nama_penyakit,kelompok_usia_bayi,kelompok_usia_balita,kelompok_usia_anak,kelompok_usia_dewasa,kelompok_usia_manula
+Feb,2019,gawat darurat,A90,Dengue fever (classical dengue),1,6,14,34,2
+Feb,2019,klinik akupuntur,E66.9,"Obesity, unspecified",0,0,0,6,0
+Feb,2019,klinik akupuntur,J30.4,"Allergic rhinitis, unspecified",0,0,0,1,0
+Feb,2019,klinik akupuntur,K29.7,"Gastritis, unspecified",0,0,0,1,0
+Feb,2019,klinik akupuntur,M05.3,Rheumatoid arthritis with involvement of other organs and systems,0,0,0,0,3
+Feb,2019,klinik akupuntur,M06.84,"Other specified rheumatoid arthritis, hand",0,0,0,0,1
+Feb,2019,klinik akupuntur,M17.9,"Gonarthrosis, unspecified",0,0,0,4,4
+Feb,2019,klinik akupuntur,M54.12,"Radiculopathy, cervical region",0,0,0,1,0
+Feb,2019,klinik akupuntur,N83.2,Other and unspecified ovarian cysts,0,0,0,4,0
+Feb,2019,klinik anak,Z11.1,Special screening examination for respiratory tuberculosis,11,20,16,2,0
+Feb,2019,klinik bedah mulut,K04.0,Pulpitis,0,0,0,0,1
+Feb,2019,klinik bedah syaraf,G50.0,Trigeminal neuralgia,0,0,0,0,2
+Feb,2019,klinik bedah syaraf,G91.9,"Hydrocephalus, unspecified",0,0,0,1,0
+Feb,2019,klinik bedah syaraf,I28.0,Arteriovenous fistula of pulmonary vessels,0,0,0,1,0
+Feb,2019,klinik bedah syaraf,Z03.9,"Observation for suspected disease or condition, unspecified",0,0,0,1,0
+Feb,2019,klinik dalam,E10.0,Insulin-dependent diabetes mellitus with coma,0,0,0,6,16
+Feb,2019,klinik gigi,K00.0,Anodontia,0,0,0,2,4
+Feb,2019,klinik gizi,K30,Dyspepsia,0,0,1,0,0
+Feb,2019,Klinik Jantung,I50.9,"Heart failure, unspecified",0,0,0,0,1
+Feb,2019,klinik kandungan,M65.23,"Calcific tendinitis, forearm",0,0,0,14,0
+Feb,2019,klinik kemuning,A02.0,Salmonella enteritis,0,0,0,4,0
+Feb,2019,klinik kemuning,B20.3,HIV disease resulting in other viral infections,0,0,0,1,0
+Feb,2019,klinik kemuning,B20.9,HIV disease resulting in unspecified infectious or parasitic disease,0,0,0,231,0
+Feb,2019,klinik mata,H00.0,Hordeolum and other deep inflammation of eyelid,0,0,0,11,1
+Feb,2019,klinik mata,H10.1,Acute atopic conjunctivitis,0,0,6,1,0
+Feb,2019,klinik mata,H10.2,Other acute conjunctivitis,0,2,1,6,1
+Feb,2019,klinik mata,H10.3,"Acute conjunctivitis, unspecified",1,0,0,6,0
+Feb,2019,klinik orthopedi,A18.0,Tuberculosis of bones and joints,0,2,0,0,3
+Feb,2019,klinik orthopedi,E10.5,Insulin-dependent diabetes mellitus with peripheral circulatory complications,0,0,0,0,4
+Feb,2019,klinik orthopedi,M21.75,"Unequal limb length (acquired), pelvic and thigh",0,0,0,4,0
+Feb,2019,klinik orthopedi,M84.15,"Nonunion of fracture [pseudarthrosis], pelvic and thigh",0,0,0,8,0
+Feb,2019,klinik orthopedi,S82.60,"Fracture of lateral malleolus, closed",0,0,0,3,2
+Feb,2019,klinik psikiatri,F19.8,"Mental and behavioural disorders due to multiple drug use and use of psychoactive substances, other mental and behavioural disorders",0,0,0,2,0
+Feb,2019,klinik psikiatri,F31.0,"Bipolar affective disorder, current episode hypomanic",0,0,0,2,1
+Feb,2019,klinik psikiatri,F31.1,"Bipolar affective disorder, current episode manic without psychotic symptoms",0,0,0,4,0
+Feb,2019,klinik psikiatri,F33.0,"Recurrent depressive disorder, current episode mild",0,0,0,1,0
+Feb,2019,klinik rehab medik,M54.8,Other dorsalgia,0,0,0,20,37
+Feb,2019,klinik tht,J02.9,"Acute pharyngitis, unspecified",0,1,2,14,5
+Feb,2019,klinik tht,T16,Foreign body in ear,0,2,2,5,1
+Feb,2019,klinik tht,Z00.0,General medical examination,0,0,5,5,0
+Feb,2019,klinik tht,Z09.0,Follow-up examination after surgery for other conditions,0,0,2,9,1
+Feb,2019,klinik vct,B20.9,HIV disease resulting in unspecified infectious or parasitic disease,0,0,0,18,0

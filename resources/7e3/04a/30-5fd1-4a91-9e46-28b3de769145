@@ -1,0 +1,42 @@
+bulan,tahun,kamar,kode_icd,nama_penyakit,kelompok_usia_bayi,kelompok_usia_balita,kelompok_usia_anak,kelompok_usia_dewasa,kelompok_usia_manula
+Mar,2019,gawat darurat,A90,Dengue fever (classical dengue),3,9,26,49,2
+Mar,2019,gawat darurat,R11,Nausea and vomiting,0,3,4,20,10
+Mar,2019,klinik akupuntur,E66.9,"Obesity, unspecified",0,0,0,6,0
+Mar,2019,klinik akupuntur,G24.5,Blepharospasm,0,0,0,0,1
+Mar,2019,klinik akupuntur,L50.0,Allergic urticaria,0,0,0,0,2
+Mar,2019,klinik akupuntur,M05.3,Rheumatoid arthritis with involvement of other organs and systems,0,0,0,0,1
+Mar,2019,klinik akupuntur,M06.84,"Other specified rheumatoid arthritis, hand",0,0,0,0,1
+Mar,2019,klinik akupuntur,M25.57,"Pain in joint, ankle and foot",0,0,0,0,2
+Mar,2019,klinik akupuntur,M54.12,"Radiculopathy, cervical region",0,0,0,3,0
+Mar,2019,klinik akupuntur,T67.0,Effects of heatstroke and sunstroke,0,0,0,6,0
+Mar,2019,klinik anak,A01.0,Typhoid fever,0,7,21,2,0
+Mar,2019,klinik anak,Z11.1,Special screening examination for respiratory tuberculosis,7,27,23,1,0
+Mar,2019,klinik bedah anak,N43.0,Encysted hydrocele,0,1,0,0,0
+Mar,2019,klinik bedah anak,N43.1,Infected hydrocele,0,0,1,0,0
+Mar,2019,klinik bedah mulut,D10.0,Benign neoplasm of lip,0,0,0,0,1
+Mar,2019,klinik bedah mulut,I88.8,Other nonspecific lymphadenitis,0,0,1,0,0
+Mar,2019,klinik bedah mulut,S01.5,Open wound of lip and oral cavity,0,1,1,21,2
+Mar,2019,klinik bedah mulut,S02.60,"Fracture of mandible, closed",0,0,0,2,0
+Mar,2019,klinik bedah syaraf,G50.0,Trigeminal neuralgia,0,0,0,0,1
+Mar,2019,klinik bedah syaraf,I28.0,Arteriovenous fistula of pulmonary vessels,0,0,0,1,0
+Mar,2019,klinik bedah syaraf,Z03.9,"Observation for suspected disease or condition, unspecified",0,0,0,1,0
+Mar,2019,klinik dalam,E11.0,Non-insulin-dependent diabetes mellitus with coma,0,0,0,4,15
+Mar,2019,klinik dalam,I50.0,Congestive heart failure,0,0,0,7,7
+Mar,2019,klinik gigi,K08.1,"Loss of teeth due to accident, extraction or local periodontal disease",0,0,0,8,3
+Mar,2019,klinik kandungan,M65.23,"Calcific tendinitis, forearm",0,0,0,15,0
+Mar,2019,klinik kemuning,A02.0,Salmonella enteritis,0,0,0,2,0
+Mar,2019,klinik kemuning,B20.9,HIV disease resulting in unspecified infectious or parasitic disease,0,0,0,238,0
+Mar,2019,klinik mata,H00.0,Hordeolum and other deep inflammation of eyelid,0,0,1,8,0
+Mar,2019,klinik mata,H10.1,Acute atopic conjunctivitis,0,1,4,5,0
+Mar,2019,klinik mata,H10.3,"Acute conjunctivitis, unspecified",0,0,3,5,1
+Mar,2019,klinik orthopedi,A18.0,Tuberculosis of bones and joints,0,0,0,7,0
+Mar,2019,klinik orthopedi,L03.1,Cellulitis of other parts of limb,0,0,0,3,2
+Mar,2019,klinik orthopedi,M75.0,Adhesive capsulitis of shoulder,0,0,0,1,6
+Mar,2019,klinik orthopedi,Q66.0,Talipes equinovarus,3,0,2,1,0
+Mar,2019,klinik psikiatri,F25.0,"Schizoaffective disorder, manic type",0,0,0,2,0
+Mar,2019,klinik psikiatri,F31.0,"Bipolar affective disorder, current episode hypomanic",0,0,0,1,1
+Mar,2019,klinik psikiatri,F31.3,"Bipolar affective disorder, current episode mild or moderate depression",0,0,0,2,0
+Mar,2019,klinik rehab medik,M25.51,"Pain in joint, shouder region",0,0,0,11,40
+Mar,2019,klinik rehab medik,M54.22,"Cervicalgia, cervical region",0,0,0,21,24
+Mar,2019,klinik tht,Z09.0,Follow-up examination after surgery for other conditions,0,0,3,6,1
+Mar,2019,klinik vct,B20.9,HIV disease resulting in unspecified infectious or parasitic disease,0,0,0,10,0

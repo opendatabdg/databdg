@@ -1,0 +1,47 @@
+Bulan,Tahun,Jenis Kamar,Kode ICD,Nama Penyakit,Laki-laki,Perempuan
+Juni,2019,Gawat Darurat,A90,Dengue Fever (Classical Dengue),52,58
+Juni,2019,Gawat Darurat,Z03.8,Observation For Other Suspected Diseases And Conditions,21,16
+Juni,2019,Klinik Akupuntur,K29.7,"Gastritis, Unspecified",0,3
+Juni,2019,Klinik Akupuntur,L70.9,"Acne, Unspecified",0,1
+Juni,2019,Klinik Akupuntur,M54.12,"Radiculopathy, Cervical Region",0,3
+Juni,2019,Klinik Anak,A16.2,"Tuberculosis Of Lung, Without Mention Of Bacteriological Or Histological Confirmation",23,27
+Juni,2019,Klinik Bedah Anak,A58,Granuloma Inguinale,0,1
+Juni,2019,Klinik Bedah Anak,S09.8,Other Specified Injuries Of Head,2,0
+Juni,2019,Klinik Bedah Mulut,D16.4,Benign Neoplasm Of Bones Of Skull And Face,1,0
+Juni,2019,Klinik Bedah Mulut,K06.8,Other Specified Disorders Of Gingiva And Edentulous Alveolar Ridge,1,0
+Juni,2019,Klinik Bedah Mulut,S00.5,Superficial Injury Of Lip And Oral Cavity,0,1
+Juni,2019,Klinik Bedah Mulut,S02.40,"Fracture Of Malar And Maxillary Bones, Closed",0,1
+Juni,2019,Klinik Bedah Syaraf,G50.0,Trigeminal Neuralgia,0,1
+Juni,2019,Klinik Bedah Syaraf,G91.9,"Hydrocephalus, Unspecified",0,1
+Juni,2019,Klinik Bedah Syaraf,M50.1,Cervical Disc Disorder With Radiculopathy,0,1
+Juni,2019,Klinik Bedah Syaraf,Z03.9,"Observation For Suspected Disease Or Condition, Unspecified",0,1
+Juni,2019,Klinik Dahlia,D64.8,Other Specified Anaemias,3,3
+Juni,2019,Klinik Dahlia,J44.1,"Chronic Obstructive Pulmonary Disease With Acute Exacerbation, Unspecified",2,0
+Juni,2019,Klinik Dahlia,N18.8,Other Chronic Renal Failure,2,0
+Juni,2019,Klinik Dahlia,N40,Hyperplasia Of Prostate,2,0
+Juni,2019,Klinik Dalam,E10.7,Insulin-Dependent Diabetes Mellitus With Multiple Complications,8,12
+Juni,2019,Klinik Gigi,K08.1,"Loss Of Teeth Due To Accident, Extraction Or Local Periodontal Disease",3,6
+Juni,2019,Klinik Jantung,Q21.1,Atrial Septal Defect,1,0
+Juni,2019,Klinik Jantung,Q25.0,Patent Ductus Arteriosus,0,1
+Juni,2019,Klinik Jantung,R07.4,"Chest Pain, Unspecified",0,2
+Juni,2019,Klinik Kandungan,N81.4,"Uterovaginal Prolapse, Unspecified",0,4
+Juni,2019,Klinik Kandungan,O03.4,"Spontaneous Abortion, Incomplete, Without Complication",0,8
+Juni,2019,Klinik Kemuning,B20.9,Hiv Disease Resulting In Unspecified Infectious Or Parasitic Disease,138,25
+Juni,2019,Klinik Konservasi Gigi,K05.5,Other Periodontal Diseases,2,0
+Juni,2019,Klinik Mata,H00.0,Hordeolum And Other Deep Inflammation Of Eyelid,2,8
+Juni,2019,Klinik Mata,H10.1,Acute Atopic Conjunctivitis,11,0
+Juni,2019,Klinik Mata,H10.2,Other Acute Conjunctivitis,7,2
+Juni,2019,Klinik Mata,H10.3,"Acute Conjunctivitis, Unspecified",5,3
+Juni,2019,Klinik Orthopedi,G56.0,Carpal Tunnel Syndrome,0,4
+Juni,2019,Klinik Orthopedi,S42.00,"Fracture Of Clavicle, Closed",5,0
+Juni,2019,Klinik Orthopedi,T81.3,"Disruption Of Operation Wound, Not Elsewhere Classified",3,2
+Juni,2019,Klinik Psikiatri,F19.8,"Mental And Behavioural Disorders Due To Multiple Drug Use And Use Of Psychoactive Substances, Other Mental And Behavioural Disorders",2,0
+Juni,2019,Klinik Psikiatri,F31.0,"Bipolar Affective Disorder, Current Episode Hypomanic",2,1
+Juni,2019,Klinik Psikiatri,F51.0,Nonorganic Insomnia,2,0
+Juni,2019,Klinik Rehab Medik,F80.9,"Developmental Disorder Of Speech And Language, Unspecified",4,10
+Juni,2019,Klinik Rehab Medik,M25.6,"Stiffness Of Joint, Not Elsewhere Classified",8,9
+Juni,2019,Klinik Rehab Medik,M25.64,"Stiffness Of Joint, Not Elsewhere Classified, Hand",4,13
+Juni,2019,Klinik Rehab Medik,R54,Senility,12,6
+Juni,2019,Klinik Syaraf,M65.3,Trigger Finger,2,5
+Juni,2019,Klinik Tht,Z01.1,Examination Of Ears And Hearing,14,9
+Juni,2019,Klinik Vct,B20.9,Hiv Disease Resulting In Unspecified Infectious Or Parasitic Disease,4,1

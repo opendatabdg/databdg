@@ -1,0 +1,60 @@
+Bulan,Tahun,Jenis Kamar,Kode ICD,Nama Penyakit,Kelompok Usia Bayi,Kelompok Usia Balita,Kelompok Usia Anak,Kelompok Usia Dewasa,Kelompok Usia Manula
+Januari,2018,Gawat Darurat,A15.0,"Tuberculosis Of Lung, Confirmed By Sputum Microscopy With Or Without Culture",0,0,1,22,8
+Januari,2018,Gawat Darurat,I10,Essential (Primary) Hypertension,0,0,0,23,19
+Januari,2018,Gawat Darurat,T14.0,Superficial Injury Of Unspecified Body Region,1,5,14,72,12
+Januari,2018,Klinik Akupuntur,E78.5,"Hyperlipidaemia, Unspecified",0,0,0,1,0
+Januari,2018,Klinik Akupuntur,H81.4,Vertigo Of Central Origin,0,0,0,2,1
+Januari,2018,Klinik Akupuntur,L70.9,"Acne, Unspecified",0,0,0,0,5
+Januari,2018,Klinik Akupuntur,M25.74,"Osteophyte, Hand",0,0,0,0,1
+Januari,2018,Klinik Akupuntur,M50.1,Cervical Disc Disorder With Radiculopathy,0,0,0,1,0
+Januari,2018,Klinik Anak,A15.7,"Primary Respiratory Tuberculosis, Confirmed Bacteriologically And Histologically",5,29,7,0,0
+Januari,2018,Klinik Anak,A16.7,Primary Respiratory Tuberculosis Without Mention Of Bacteriological Or Histological Confirmation,15,44,22,0,0
+Januari,2018,Klinik Anak,Z38.0,"Singleton, Born In Hospital",105,2,0,0,0
+Januari,2018,Klinik Bedah Anak,K40.0,"Bilateral Inguinal Hernia, With Obstruction, Without Gangrene",3,1,3,0,0
+Januari,2018,Klinik Bedah Anak,Q53.1,"Undescended Testicle, Unilateral",0,3,2,0,0
+Januari,2018,Klinik Bedah Anak,Q54.0,"Hypospadias, Balanic",0,0,7,0,0
+Januari,2018,Klinik Bedah Anak,Q54.1,"Hypospadias, Penile",0,7,9,0,0
+Januari,2018,Klinik Bedah Mulut,D10.3,Benign Neoplasm Of Other And Unspecified Parts Of Mouth,0,0,0,3,0
+Januari,2018,Klinik Bedah Mulut,D17.0,"Benign Lipomatous Neoplasm Of Skin And Subcutaneous Tissue Of Head, Face And Neck",0,0,0,2,1
+Januari,2018,Klinik Bedah Mulut,J32.0,Chronic Maxillary Sinusitis,0,0,0,1,1
+Januari,2018,Klinik Bedah Mulut,S02.5,Fracture Of Tooth,0,0,1,5,0
+Januari,2018,Klinik Bedah Syaraf,G44.1,"Vascular Headache, Not Elsewhere Classified",0,0,0,1,0
+Januari,2018,Klinik Bedah Syaraf,G54.1,Lumbosacral Plexus Disorders,0,0,0,1,0
+Januari,2018,Klinik Bedah Syaraf,I60.9,"Subarachnoid Haemorrhage, Unspecified",0,0,0,0,1
+Januari,2018,Klinik Bedah Syaraf,M51.2,Other Specified Intervertebral Disc Displacement,0,0,0,1,0
+Januari,2018,Klinik Gigi,K00.6,Disturbances In Tooth Eruption,0,0,8,2,0
+Januari,2018,Klinik Gigi,K07.4,"Malocclusion, Unspecified",0,0,9,18,0
+Januari,2018,Klinik Gizi,E10.1,Insulin-Dependent Diabetes Mellitus With Ketoacidosis,0,0,0,0,1
+Januari,2018,Klinik Gizi,E10.2,Insulin-Dependent Diabetes Mellitus With Renal Complications,0,0,0,1,0
+Januari,2018,Klinik Gizi,E11.9,Non-Insulin-Dependent Diabetes Mellitus Without Complications,0,0,0,7,10
+Januari,2018,Klinik Gizi,I10,Essential (Primary) Hypertension,0,0,0,0,1
+Januari,2018,Klinik Gizi,I64,"Stroke, Not Specified As Haemorrhage Or Infarction",0,0,0,0,1
+Januari,2018,Klinik Gizi,K29.7,"Gastritis, Unspecified",0,0,0,2,0
+Januari,2018,Klinik Gizi,M06.09,"Seronegative Rheumatoid Arthritis, Unspecified Site",0,0,0,1,4
+Januari,2018,Klinik Jantung,I11.9,Hypertensive Heart Disease Without (Congestive) Heart Failure,0,0,0,0,8
+Januari,2018,Klinik Jantung,I20.9,"Angina Pectoris, Unspecified",0,0,0,0,15
+Januari,2018,Klinik Kandungan,D25.9,"Leiomyoma Of Uterus, Unspecified",0,0,0,28,2
+Januari,2018,Klinik Kandungan,N93.8,Other Specified Abnormal Uterine And Vaginal Bleeding,0,0,2,34,2
+Januari,2018,Klinik Kandungan,O05.0,"Other Abortion, Incomplete, Complicated By Genital Tract And Pelvic Infection",0,0,0,26,0
+Januari,2018,Klinik Kandungan,O86.1,Other Infection Of Genital Tract Following Delivery,0,0,0,23,0
+Januari,2018,Klinik Konservasi Gigi,K04.0,Pulpitis,0,0,0,32,15
+Januari,2018,Klinik Konservasi Gigi,K04.1,Necrosis Of Pulp,0,1,5,41,15
+Januari,2018,Klinik Konservasi Gigi,K04.4,Acute Apical Periodontitis Of Pulpal Origin,0,0,0,1,0
+Januari,2018,Klinik Konservasi Gigi,K04.6,Periapical Abscess With Sinus,0,0,1,2,0
+Januari,2018,Klinik Konservasi Gigi,K04.7,Periapical Abscess Without Sinus,0,0,0,4,1
+Januari,2018,Klinik Mata,E11.9,Non-Insulin-Dependent Diabetes Mellitus Without Complications,0,0,0,4,35
+Januari,2018,Klinik Mata,H53.8,Other Visual Disturbances,0,0,8,18,19
+Januari,2018,Klinik Mata,Z96.1,Presence Of Intraocular Lens,0,0,1,20,129
+Januari,2018,Klinik Orthopedi,M17.1,Other Primary Gonarthrosis,0,0,0,9,13
+Januari,2018,Klinik Orthopedi,S80.0,Contusion Of Knee,0,0,1,8,0
+Januari,2018,Klinik Psikiatri,F31.1,"Bipolar Affective Disorder, Current Episode Manic Without Psychotic Symptoms",0,0,2,11,1
+Januari,2018,Klinik Psikiatri,F99,"Mental Disorder, Not Otherwise Specified",0,0,2,96,11
+Januari,2018,Klinik Rehab Medik,G56.0,Carpal Tunnel Syndrome,0,0,0,33,38
+Januari,2018,Klinik Rehab Medik,M19.0,Primary Arthrosis Of Other Joints,0,0,0,35,85
+Januari,2018,Klinik Rehab Medik,M54.22,"Cervicalgia, Cervical Region",0,0,0,37,38
+Januari,2018,Klinik Rehab Medik,M65.34,"Trigger Finger, Hand",2,0,0,65,41
+Januari,2018,Klinik Rehab Medik,M79.10,"Myalgia, Multiple Sites",0,0,0,89,84
+Januari,2018,Klinik Syaraf,G62.9,"Polyneuropathy, Unspecified",0,0,0,7,23
+Januari,2018,Klinik Tht,H65.1,Other Acute Nonsuppurative Otitis Media,0,0,3,10,4
+Januari,2018,Klinik Tht,H66.1,Chronic Tubotympanic Suppurative Otitis Media,1,4,1,11,7
+Januari,2018,Klinik Tht,J33.0,Polyp Of Nasal Cavity,0,0,0,8,5

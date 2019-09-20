@@ -1,0 +1,57 @@
+Bulan,Tahun,Jenis Kamar,Kode ICD,Nama Penyakit,Kelompok Usia Bayi,Kelompok Usia Balita,Kelompok Usia Anak,Kelompok Usia Dewasa,Kelompok Usia Manula
+Juli,2018,Gawat Darurat,A09,Diarrhoea And Gastroenteritis Of Presumed Infectious Origin,9,16,5,34,19
+Juli,2018,Gawat Darurat,J45.9,"Asthma, Unspecified",1,4,32,68,41
+Juli,2018,Gawat Darurat,K30,Dyspepsia,0,0,3,83,38
+Juli,2018,Gawat Darurat,R06.0,Dyspnoea,1,2,2,16,18
+Juli,2018,Gawat Darurat,R10.4,Other And Unspecified Abdominal Pain,0,0,4,36,25
+Juli,2018,Gawat Darurat,R11,Nausea And Vomiting,0,6,10,24,10
+Juli,2018,Gawat Darurat,R50.9,"Fever, Unspecified",8,21,49,112,20
+Juli,2018,Gawat Darurat,T14.1,Open Wound Of Unspecified Body Region,2,6,12,41,18
+Juli,2018,Gawat Darurat,Z03.9,"Observation For Suspected Disease Or Condition, Unspecified",1,5,10,43,16
+Juli,2018,Klinik Akupuntur,E66.8,Other Obesity,0,0,0,1,0
+Juli,2018,Klinik Akupuntur,G56.0,Carpal Tunnel Syndrome,0,0,0,2,0
+Juli,2018,Klinik Akupuntur,M54.5,Low Back Pain,0,0,0,4,0
+Juli,2018,Klinik Akupuntur,M79.1,Myalgia,0,0,0,0,4
+Juli,2018,Klinik Akupuntur,N83.2,Other And Unspecified Ovarian Cysts,0,0,0,3,0
+Juli,2018,Klinik Anak,A15.3,"Tuberculosis Of Lung, Confirmed By Unspecified Means",3,16,14,0,0
+Juli,2018,Klinik Anak,A18.2,Tuberculous Peripheral Lymphadenopathy,0,15,16,1,0
+Juli,2018,Klinik Bedah Anak,D21.0,"Other Benign Neoplasm Of Connective And Other Soft Tissue Of Head, Face And Neck",2,0,3,0,0
+Juli,2018,Klinik Bedah Anak,K40.0,"Bilateral Inguinal Hernia, With Obstruction, Without Gangrene",0,2,3,0,0
+Juli,2018,Klinik Bedah Anak,K40.3,"Unilateral Or Unspecified Inguinal Hernia, With Obstruction, Without Gangrene",0,2,3,0,0
+Juli,2018,Klinik Bedah Anak,Q53.2,"Undescended Testicle, Bilateral",0,3,2,0,0
+Juli,2018,Klinik Bedah Anak,Q54.0,"Hypospadias, Balanic",0,3,5,0,0
+Juli,2018,Klinik Bedah Mulut,D16.5,Benign Neoplasm Of Lower Jaw Bone,0,0,4,1,0
+Juli,2018,Klinik Bedah Mulut,D37.0,"Neoplasm Of Uncertain Or Unknown Behavior Of Lip, Oral Cavity And Pharynx",0,0,0,4,0
+Juli,2018,Klinik Bedah Mulut,S01.5,Open Wound Of Lip And Oral Cavity,0,1,0,8,1
+Juli,2018,Klinik Bedah Syaraf,D24,Benign Neoplasm Of Breast,0,0,0,4,0
+Juli,2018,Klinik Bedah Syaraf,D31.9,"Benign Neoplasm Of Eye, Unspecified",0,0,0,3,0
+Juli,2018,Klinik Bedah Syaraf,I64,"Stroke, Not Specified As Haemorrhage Or Infarction",0,0,0,0,3
+Juli,2018,Klinik Bedah Syaraf,Q54.1,"Hypospadias, Penile",0,0,0,3,0
+Juli,2018,Klinik Bedah Syaraf,S09.9,Unspecified Injury Of Head,0,0,0,3,0
+Juli,2018,Klinik Bedah Syaraf,Z09.8,Follow-Up Examination After Other Treatment For Other Conditions,0,0,7,1,0
+Juli,2018,Klinik Dalam,E05.9,"Thyrotoxicosis, Unspecified",0,0,0,25,6
+Juli,2018,Klinik Dalam,Z08.9,Follow-Up Examination After Unspecified Treatment For Malignant Neoplasm,0,0,0,20,14
+Juli,2018,Klinik Gizi,E11.9,Non-Insulin-Dependent Diabetes Mellitus Without Complications,0,0,0,1,5
+Juli,2018,Klinik Gizi,I64,"Stroke, Not Specified As Haemorrhage Or Infarction",0,0,0,1,0
+Juli,2018,Klinik Gizi,N18.8,Other Chronic Renal Failure,0,0,0,0,1
+Juli,2018,Klinik Gizi,N18.9,"Chronic Renal Failure, Unspecified",0,0,0,1,0
+Juli,2018,Klinik Jantung,I20.9,"Angina Pectoris, Unspecified",0,0,0,0,2
+Juli,2018,Klinik Jantung,R07.3,Other Chest Pain,0,0,0,2,1
+Juli,2018,Klinik Kandungan,Z00.0,General Medical Examination,0,0,0,19,1
+Juli,2018,Klinik Konservasi Gigi,K00.1,Supernumerary Teeth,0,0,1,0,0
+Juli,2018,Klinik Mata,E11.9,Non-Insulin-Dependent Diabetes Mellitus Without Complications,0,0,0,4,33
+Juli,2018,Klinik Mata,H40.1,Primary Open-Angle Glaucoma,0,0,0,4,42
+Juli,2018,Klinik Mata,H52.0,Hypermetropia,0,0,2,9,18
+Juli,2018,Klinik Mata,I49.9,"Cardiac Arrhythmia, Unspecified",0,0,0,0,27
+Juli,2018,Klinik Orthopedi,M17.1,Other Primary Gonarthrosis,0,0,0,4,10
+Juli,2018,Klinik Orthopedi,M21.75,"Unequal Limb Length (Acquired), Pelvic And Thigh",0,0,0,9,0
+Juli,2018,Klinik Orthopedi,M54.57,"Low Back Pain, Lumbosacral Region",0,0,0,6,6
+Juli,2018,Klinik Orthopedi,M84.15,"Nonunion Of Fracture [Pseudarthrosis], Pelvic And Thigh",0,0,0,11,1
+Juli,2018,Klinik Orthopedi,S82.60,"Fracture Of Lateral Malleolus, Closed",0,0,0,4,4
+Juli,2018,Klinik Orthopedi,Y83.5,Amputation Of Limb(S),0,0,0,3,5
+Juli,2018,Klinik Psikiatri,F20.5,Residual Schizophrenia,0,0,0,7,2
+Juli,2018,Klinik Rehab Medik,I64,"Stroke, Not Specified As Haemorrhage Or Infarction",0,0,0,12,46
+Juli,2018,Klinik Rehab Medik,M25.51,"Pain In Joint, Shouder Region",0,0,0,15,75
+Juli,2018,Klinik Syaraf,M54.5,Low Back Pain,0,0,0,15,11
+Juli,2018,Klinik Tht,J01.0,Acute Maxillary Sinusitis,0,0,0,8,5
+Juli,2018,Klinik Tht,J31.2,Chronic Pharyngitis,0,0,0,8,3

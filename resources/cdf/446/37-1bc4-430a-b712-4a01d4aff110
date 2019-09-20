@@ -1,0 +1,33 @@
+Bulan,Tahun,Jenis Kamar,Kode ICD,Nama Penyakit,Laki-laki,Perempuan
+Januari,2019,Gawat Darurat,Z03.9,"Observation For Suspected Disease Or Condition, Unspecified",28,31
+Januari,2019,Klinik Anak,A01.0,Typhoid Fever,15,10
+Januari,2019,Klinik Anak,A91,Dengue Haemorrhagic Fever,20,19
+Januari,2019,Klinik Bedah Anak,Q42.9,"Congenital Absence, Atresia And Stenosis Of Large Intestine, Part Unspecified",4,0
+Januari,2019,Klinik Bedah Mulut,B26.8,Mumps With Other Complications,0,1
+Januari,2019,Klinik Bedah Mulut,S03.0,Dislocation Of Jaw,0,2
+Januari,2019,Klinik Bedah Syaraf,G50.0,Trigeminal Neuralgia,0,2
+Januari,2019,Klinik Bedah Syaraf,G91.9,"Hydrocephalus, Unspecified",0,1
+Januari,2019,Klinik Bedah Syaraf,I28.0,Arteriovenous Fistula Of Pulmonary Vessels,1,0
+Januari,2019,Klinik Bedah Syaraf,Z03.9,"Observation For Suspected Disease Or Condition, Unspecified",0,1
+Januari,2019,Klinik Dalam,E11.0,Non-Insulin-Dependent Diabetes Mellitus With Coma,18,55
+Januari,2019,Klinik Dalam,N18.0,End-Stage Renal Disease,8,12
+Januari,2019,Klinik Jantung,E21.3,"Hyperparathyroidism, Unspecified",0,2
+Januari,2019,Klinik Jantung,R07.4,"Chest Pain, Unspecified",0,2
+Januari,2019,Klinik Kandungan,M65.23,"Calcific Tendinitis, Forearm",0,21
+Januari,2019,Klinik Kandungan,O72.0,Third-Stage Haemorrhage,0,15
+Januari,2019,Klinik Kandungan,Z03.8,Observation For Other Suspected Diseases And Conditions,0,22
+Januari,2019,Klinik Kemuning,A02.0,Salmonella Enteritis,4,8
+Januari,2019,Klinik Kemuning,B20.3,Hiv Disease Resulting In Other Viral Infections,19,3
+Januari,2019,Klinik Konservasi Gigi,K05.5,Other Periodontal Diseases,1,0
+Januari,2019,Klinik Mata,H00.0,Hordeolum And Other Deep Inflammation Of Eyelid,5,8
+Januari,2019,Klinik Mata,H10.3,"Acute Conjunctivitis, Unspecified",1,8
+Januari,2019,Klinik Mata,T15.0,Foreign Body In Cornea,8,0
+Januari,2019,Klinik Orthopedi,B35.9,"Dermatophytosis, Unspecified",5,0
+Januari,2019,Klinik Orthopedi,M41.2,Other Idiopathic Scoliosis,4,5
+Januari,2019,Klinik Orthopedi,S92.30,"Fracture Of Metatarsal Bone, Closed",5,1
+Januari,2019,Klinik Orthopedi,Y83.5,Amputation Of Limb(S),2,5
+Januari,2019,Klinik Psikiatri,F25.0,"Schizoaffective Disorder, Manic Type",1,0
+Januari,2019,Klinik Psikiatri,F31.0,"Bipolar Affective Disorder, Current Episode Hypomanic",0,1
+Januari,2019,Klinik Rehab Medik,M25.51,"Pain In Joint, Shouder Region",5,40
+Januari,2019,Klinik Rehab Medik,M54.8,Other Dorsalgia,4,35
+Januari,2019,Klinik Vct,B20.9,Hiv Disease Resulting In Unspecified Infectious Or Parasitic Disease,6,1

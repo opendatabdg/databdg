@@ -1,0 +1,54 @@
+Bulan,Tahun,Jenis Kamar,Kode ICD,Nama Penyakit,Kelompok Usia Bayi,Kelompok Usia Balita,Kelompok Usia Anak,Kelompok Usia Dewasa,Kelompok Usia Manula
+Maret,2018,Gawat Darurat,R06.0,Dyspnoea,4,7,6,43,28
+Maret,2018,Gawat Darurat,R10.4,Other And Unspecified Abdominal Pain,1,3,7,60,28
+Maret,2018,Gawat Darurat,Z03.9,"Observation For Suspected Disease Or Condition, Unspecified",1,6,8,90,47
+Maret,2018,Klinik Akupuntur,E78.5,"Hyperlipidaemia, Unspecified",0,0,0,1,0
+Maret,2018,Klinik Akupuntur,G56.0,Carpal Tunnel Syndrome,0,0,0,0,1
+Maret,2018,Klinik Akupuntur,H93.1,Tinnitus,0,0,0,0,1
+Maret,2018,Klinik Akupuntur,I15.8,Other Secondary Hypertension,0,0,0,4,0
+Maret,2018,Klinik Akupuntur,L70.9,"Acne, Unspecified",0,0,0,0,3
+Maret,2018,Klinik Akupuntur,M17.9,"Gonarthrosis, Unspecified",0,0,0,5,3
+Maret,2018,Klinik Akupuntur,M54.5,Low Back Pain,0,0,0,9,0
+Maret,2018,Klinik Akupuntur,N97.9,"Female Infertility, Unspecified",0,0,0,5,0
+Maret,2018,Klinik Anak,A15.3,"Tuberculosis Of Lung, Confirmed By Unspecified Means",17,66,37,0,0
+Maret,2018,Klinik Anak,A17.0,Tuberculous Meningitis,7,11,20,0,0
+Maret,2018,Klinik Anak,A18.2,Tuberculous Peripheral Lymphadenopathy,3,18,19,1,0
+Maret,2018,Klinik Bedah Anak,D24,Benign Neoplasm Of Breast,1,0,1,0,0
+Maret,2018,Klinik Bedah Anak,K40.0,"Bilateral Inguinal Hernia, With Obstruction, Without Gangrene",3,1,0,0,0
+Maret,2018,Klinik Bedah Anak,Q53.1,"Undescended Testicle, Unilateral",2,9,1,1,0
+Maret,2018,Klinik Bedah Mulut,D10.1,Benign Neoplasm Of Tongue,0,0,0,0,2
+Maret,2018,Klinik Bedah Mulut,D10.2,Benign Neoplasm Of Floor Of Mouth,0,0,0,0,3
+Maret,2018,Klinik Bedah Mulut,D37.0,"Neoplasm Of Uncertain Or Unknown Behavior Of Lip, Oral Cavity And Pharynx",0,0,0,3,1
+Maret,2018,Klinik Bedah Mulut,K07.4,"Malocclusion, Unspecified",0,0,0,3,0
+Maret,2018,Klinik Bedah Syaraf,M47.2,Other Spondylosis With Radiculopathy,0,0,0,0,2
+Maret,2018,Klinik Bedah Syaraf,R51,Headache,0,0,0,2,0
+Maret,2018,Klinik Bedah Syaraf,S09.8,Other Specified Injuries Of Head,0,3,5,7,1
+Maret,2018,Klinik Dalam,E11.7,Non-Insulin-Dependent Diabetes Mellitus With Multiple Complications,0,0,0,40,119
+Maret,2018,Klinik Gizi,E11.9,Non-Insulin-Dependent Diabetes Mellitus Without Complications,0,0,0,9,11
+Maret,2018,Klinik Gizi,E46,Unspecified Protein-Energy Malnutrition,1,0,0,0,0
+Maret,2018,Klinik Gizi,I10,Essential (Primary) Hypertension,0,0,0,0,3
+Maret,2018,Klinik Gizi,K29.7,"Gastritis, Unspecified",0,0,0,5,1
+Maret,2018,Klinik Gizi,K30,Dyspepsia,0,0,0,1,0
+Maret,2018,Klinik Gizi,Z13.2,Special Screening Examination For Nutritional Disorders,1,0,0,19,16
+Maret,2018,Klinik Jantung,I11.9,Hypertensive Heart Disease Without (Congestive) Heart Failure,0,0,0,0,1
+Maret,2018,Klinik Kandungan,O05.0,"Other Abortion, Incomplete, Complicated By Genital Tract And Pelvic Infection",0,0,0,50,0
+Maret,2018,Klinik Kandungan,O15.0,Eclampsia In Pregnancy,0,0,0,22,0
+Maret,2018,Klinik Kandungan,O86.1,Other Infection Of Genital Tract Following Delivery,0,0,0,21,0
+Maret,2018,Klinik Konservasi Gigi,K04.0,Pulpitis,0,0,1,25,3
+Maret,2018,Klinik Konservasi Gigi,K04.1,Necrosis Of Pulp,0,0,1,30,24
+Maret,2018,Klinik Konservasi Gigi,K04.7,Periapical Abscess Without Sinus,0,0,0,2,2
+Maret,2018,Klinik Mata,E11.9,Non-Insulin-Dependent Diabetes Mellitus Without Complications,0,0,0,12,43
+Maret,2018,Klinik Mata,Z96.1,Presence Of Intraocular Lens,0,0,0,15,156
+Maret,2018,Klinik Orthopedi,D16.0,Benign Neoplasm Of Scapula And Long Bones Of Upper Limb,0,0,0,1,5
+Maret,2018,Klinik Orthopedi,M41.2,Other Idiopathic Scoliosis,0,0,0,7,0
+Maret,2018,Klinik Orthopedi,M54.17,"Radiculopathy, Lumbosacral Region",0,0,0,3,5
+Maret,2018,Klinik Orthopedi,M84.15,"Nonunion Of Fracture [Pseudarthrosis], Pelvic And Thigh",0,0,0,9,0
+Maret,2018,Klinik Psikiatri,F20.5,Residual Schizophrenia,0,0,0,4,3
+Maret,2018,Klinik Psikiatri,F33.0,"Recurrent Depressive Disorder, Current Episode Mild",0,0,0,3,6
+Maret,2018,Klinik Rehab Medik,G56.0,Carpal Tunnel Syndrome,0,0,0,32,33
+Maret,2018,Klinik Rehab Medik,M65.34,"Trigger Finger, Hand",0,0,0,41,31
+Maret,2018,Klinik Syaraf,G62.9,"Polyneuropathy, Unspecified",0,0,0,7,12
+Maret,2018,Klinik Tht,H65.1,Other Acute Nonsuppurative Otitis Media,0,2,11,24,5
+Maret,2018,Klinik Tht,H66.1,Chronic Tubotympanic Suppurative Otitis Media,2,3,5,22,12
+Maret,2018,Klinik Tht,J31.2,Chronic Pharyngitis,0,0,0,6,5
+Maret,2018,Klinik Tht,J33.0,Polyp Of Nasal Cavity,0,0,0,10,1

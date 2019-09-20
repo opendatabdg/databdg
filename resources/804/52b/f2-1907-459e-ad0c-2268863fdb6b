@@ -1,0 +1,80 @@
+Bulan,Tahun,Jenis Kamar,Kode ICD,Nama Penyakit,Kelompok Usia Bayi,Kelompok Usia Balita,Kelompok Usia Anak,Kelompok Usia Dewasa,Kelompok Usia Manula
+Juli,2017,Gawat Darurat,O13,Gestational (Pregnancy-Induced) Hypertension Without Significant Proteinuria,0,0,1,48,0
+Juli,2017,Gawat Darurat,O14.1,Severe Pre-Eclampsia,0,0,0,26,0
+Juli,2017,Gawat Darurat,O20.0,Threatened Abortion,0,0,0,15,0
+Juli,2017,Gawat Darurat,O21.9,"Vomiting Of Pregnancy, Unspecified",0,0,0,14,0
+Juli,2017,Gawat Darurat,O26.0,Excessive Weight Gain In Pregnancy,0,0,0,20,0
+Juli,2017,Gawat Darurat,O42.0,"Premature Rupture Of Membranes, Onset Of Labour Within 24 Hours",1,0,1,224,0
+Juli,2017,Gawat Darurat,O64.1,Obstructed Labour Due To Breech Presentation,0,0,0,14,0
+Juli,2017,Gawat Darurat,O80.0,Spontaneous Vertex Delivery,0,0,0,32,0
+Juli,2017,Gawat Darurat,O80.9,"Single Spontaneous Delivery, Unspecified",0,0,0,31,1
+Juli,2017,Gawat Darurat,O82.1,Delivery By Emergency Caesarean Section,0,0,0,21,0
+Juli,2017,Klinik Akupuntur,M54.1,Radiculopathy,0,0,0,2,0
+Juli,2017,Klinik Akupuntur,M54.52,"Low Back Pain, Cervical Region",0,0,0,0,4
+Juli,2017,Klinik Anak,A16.7,Primary Respiratory Tuberculosis Without Mention Of Bacteriological Or Histological Confirmation,16,62,29,0,0
+Juli,2017,Klinik Anak,Z03.0,Observation For Suspected Tuberculosis,14,37,35,0,1
+Juli,2017,Klinik Anak,Z24.0,Need For Immunization Against Poliomyelitis,91,0,0,1,0
+Juli,2017,Klinik Anak,Z24.6,Need For Immunization Against Viral Hepatitis,91,0,0,1,0
+Juli,2017,Klinik Anak,Z38.0,"Singleton, Born In Hospital",224,2,0,1,0
+Juli,2017,Klinik Bedah Anak,N47,"Redundant Prepuce, Phimosis And Paraphimosis",1,0,0,0,0
+Juli,2017,Klinik Bedah Anak,Q53.1,"Undescended Testicle, Unilateral",1,0,0,0,0
+Juli,2017,Klinik Bedah Anak,Q54.1,"Hypospadias, Penile",0,10,14,2,0
+Juli,2017,Klinik Bedah Anak,Z00.0,General Medical Examination,42,35,66,1,1
+Juli,2017,Klinik Bedah Mulut,D10.0,Benign Neoplasm Of Lip,0,0,0,2,2
+Juli,2017,Klinik Bedah Mulut,D10.1,Benign Neoplasm Of Tongue,0,0,0,3,1
+Juli,2017,Klinik Bedah Mulut,I10,Essential (Primary) Hypertension,0,0,0,4,2
+Juli,2017,Klinik Bedah Mulut,K06.8,Other Specified Disorders Of Gingiva And Edentulous Alveolar Ridge,0,0,0,8,1
+Juli,2017,Klinik Bedah Mulut,K09.0,Developmental Odontogenic Cysts,0,0,4,1,0
+Juli,2017,Klinik Bedah Syaraf,A88.1,Epidemic Vertigo,0,0,0,2,0
+Juli,2017,Klinik Bedah Syaraf,D21.9,"Other Benign Neoplasm Of Connective And Other Soft Tissue, Unspecified",1,0,0,2,3
+Juli,2017,Klinik Bedah Syaraf,G40.9,"Epilepsy, Unspecified",0,0,0,1,0
+Juli,2017,Klinik Bedah Syaraf,G94.1,Hydrocephalus In Neoplastic Disease,1,0,0,0,0
+Juli,2017,Klinik Bedah Syaraf,M51.2,Other Specified Intervertebral Disc Displacement,0,0,0,1,0
+Juli,2017,Klinik Dahlia,N18.0,End-Stage Renal Disease,0,0,0,335,504
+Juli,2017,Klinik Dalam,I11.9,Hypertensive Heart Disease Without (Congestive) Heart Failure,0,0,0,62,238
+Juli,2017,Klinik Dalam,I25.1,Atherosclerotic Heart Disease,0,0,0,20,55
+Juli,2017,Klinik Dalam,Z00.0,General Medical Examination,0,0,0,41,22
+Juli,2017,Klinik Gigi,K00.6,Disturbances In Tooth Eruption,0,1,27,3,0
+Juli,2017,Klinik Gigi,K01.1,Impacted Teeth,0,0,8,73,0
+Juli,2017,Klinik Gigi,K02.9,"Dental Caries, Unspecified",0,0,24,27,11
+Juli,2017,Klinik Gigi,K04.4,Acute Apical Periodontitis Of Pulpal Origin,0,0,0,7,1
+Juli,2017,Klinik Gigi,K05.1,Chronic Gingivitis,0,0,3,48,19
+Juli,2017,Klinik Gizi,E46,Unspecified Protein-Energy Malnutrition,0,0,1,0,0
+Juli,2017,Klinik Gizi,E66.0,Obesity Due To Excess Calories,0,0,0,1,0
+Juli,2017,Klinik Gizi,K29.7,"Gastritis, Unspecified",0,0,0,1,0
+Juli,2017,Klinik Jantung,E11.9,Non-Insulin-Dependent Diabetes Mellitus Without Complications,0,0,0,0,2
+Juli,2017,Klinik Jantung,I21.9,"Acute Myocardial Infarction, Unspecified",0,0,0,6,5
+Juli,2017,Klinik Jantung,I64,"Stroke, Not Specified As Haemorrhage Or Infarction",0,0,0,0,2
+Juli,2017,Klinik Jantung,K21.0,Gastro-Oesophageal Reflux Disease With Oesophagitis,0,0,0,31,51
+Juli,2017,Klinik Kandungan,D25.9,"Leiomyoma Of Uterus, Unspecified",0,0,0,27,2
+Juli,2017,Klinik Kandungan,N93.8,Other Specified Abnormal Uterine And Vaginal Bleeding,0,0,2,59,0
+Juli,2017,Klinik Kandungan,O05.0,"Other Abortion, Incomplete, Complicated By Genital Tract And Pelvic Infection",0,0,0,52,0
+Juli,2017,Klinik Kandungan,Z30.0,General Counselling And Advice On Contraception,0,0,0,29,0
+Juli,2017,Klinik Konservasi Gigi,K04.0,Pulpitis,0,0,4,37,11
+Juli,2017,Klinik Konservasi Gigi,K04.1,Necrosis Of Pulp,0,0,19,76,12
+Juli,2017,Klinik Konservasi Gigi,K04.7,Periapical Abscess Without Sinus,0,0,1,3,0
+Juli,2017,Klinik Mata,I10,Essential (Primary) Hypertension,0,0,3,13,44
+Juli,2017,Klinik Mata,Z96.1,Presence Of Intraocular Lens,0,0,0,29,168
+Juli,2017,Klinik Orthopedi,M41.2,Other Idiopathic Scoliosis,0,0,11,12,0
+Juli,2017,Klinik Orthopedi,M65.34,"Trigger Finger, Hand",0,0,0,7,8
+Juli,2017,Klinik Orthopedi,M86.66,"Other Chronic Osteomyelitis, Lower Leg",0,0,0,5,5
+Juli,2017,Klinik Orthopedi,S42.00,"Fracture Of Clavicle, Closed",0,0,6,7,0
+Juli,2017,Klinik Orthopedi,S52.50,"Fracture Of Lower End Of Radius, Closed",0,0,4,11,1
+Juli,2017,Klinik Orthopedi,S82.30,"Fracture Of Lower End Of Tibia, Closed",0,0,2,5,2
+Juli,2017,Klinik Psikiatri,F31.1,"Bipolar Affective Disorder, Current Episode Manic Without Psychotic Symptoms",0,0,0,16,4
+Juli,2017,Klinik Psikiatri,F31.5,"Bipolar Affective Disorder, Current Episode Severe Depression With Psychotic Symptoms",0,0,0,9,0
+Juli,2017,Klinik Psikiatri,F99,"Mental Disorder, Not Otherwise Specified",0,0,1,378,88
+Juli,2017,Klinik Psikiatri,Z00.0,General Medical Examination,0,0,0,9,0
+Juli,2017,Klinik Psikiatri,Z04.0,Blood-Alcohol And Blood-Drug Test,0,0,1,136,0
+Juli,2017,Klinik Rehab Medik,M25.56,"Pain In Joint, Lower Leg",0,0,0,103,181
+Juli,2017,Klinik Rehab Medik,M54.16,"Radiculopathy, Lumbar Region",0,0,0,74,58
+Juli,2017,Klinik Rehab Medik,M79.10,"Myalgia, Multiple Sites",0,0,0,97,40
+Juli,2017,Klinik Rehab Medik,R62.0,Delayed Milestone,3,90,18,0,0
+Juli,2017,Klinik Syaraf,G56.0,Carpal Tunnel Syndrome,0,0,0,30,22
+Juli,2017,Klinik Syaraf,H81.4,Vertigo Of Central Origin,0,0,0,21,31
+Juli,2017,Klinik Syaraf,I69.4,"Sequelae Of Stroke, Not Specified As Haemorrhage Or Infarction",0,0,0,372,977
+Juli,2017,Klinik Tht,H66.1,Chronic Tubotympanic Suppurative Otitis Media,3,6,5,22,10
+Juli,2017,Klinik Tht,J02.9,"Acute Pharyngitis, Unspecified",0,0,1,20,10
+Juli,2017,Klinik Tht,J30.3,Other Allergic Rhinitis,1,2,7,29,9
+Juli,2017,Klinik Tht,J31.0,Chronic Rhinitis,0,0,3,15,4
+Juli,2017,Klinik Tht,Z00.0,General Medical Examination,0,0,1,63,0

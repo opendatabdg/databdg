@@ -1,0 +1,67 @@
+Bulan,Tahun,Jenis Kamar,Kode ICD,Nama Penyakit,Laki-laki,Perempuan
+November,2017,Gawat Darurat,A09,Diarrhoea And Gastroenteritis Of Presumed Infectious Origin,50,60
+November,2017,Gawat Darurat,J45.9,"Asthma, Unspecified",40,64
+November,2017,Gawat Darurat,K30,Dyspepsia,66,122
+November,2017,Gawat Darurat,O14.1,Severe Pre-Eclampsia,0,40
+November,2017,Gawat Darurat,O26.0,Excessive Weight Gain In Pregnancy,0,40
+November,2017,Gawat Darurat,O42.0,"Premature Rupture Of Membranes, Onset Of Labour Within 24 Hours",1,255
+November,2017,Gawat Darurat,O80.0,Spontaneous Vertex Delivery,0,48
+November,2017,Gawat Darurat,O80.9,"Single Spontaneous Delivery, Unspecified",1,37
+November,2017,Gawat Darurat,O82.1,Delivery By Emergency Caesarean Section,0,31
+November,2017,Gawat Darurat,R50.9,"Fever, Unspecified",203,151
+November,2017,Klinik Anak,A15.7,"Primary Respiratory Tuberculosis, Confirmed Bacteriologically And Histologically",53,33
+November,2017,Klinik Anak,A16.7,Primary Respiratory Tuberculosis Without Mention Of Bacteriological Or Histological Confirmation,59,68
+November,2017,Klinik Anak,Z38.0,"Singleton, Born In Hospital",71,68
+November,2017,Klinik Bedah Anak,Q53.1,"Undescended Testicle, Unilateral",5,0
+November,2017,Klinik Bedah Anak,Q53.2,"Undescended Testicle, Bilateral",1,0
+November,2017,Klinik Bedah Anak,Q54.0,"Hypospadias, Balanic",3,0
+November,2017,Klinik Bedah Anak,Q54.1,"Hypospadias, Penile",6,0
+November,2017,Klinik Bedah Anak,Q54.3,"Hypospadias, Perineal",1,0
+November,2017,Klinik Bedah Mulut,B23.8,Hiv Disease Resulting In Other Specified Conditions,1,0
+November,2017,Klinik Bedah Mulut,D16.5,Benign Neoplasm Of Lower Jaw Bone,2,3
+November,2017,Klinik Bedah Mulut,K04.5,Chronic Apical Periodontitis,0,2
+November,2017,Klinik Bedah Mulut,S02.4,Fracture Of Malar And Maxillary Bones,0,2
+November,2017,Klinik Bedah Syaraf,G40.0,Localization-Related (Focal) (Partial) Idiopathic Epilepsy And Epileptic Syndromes With Seizures Of Localized Onset,0,2
+November,2017,Klinik Bedah Syaraf,M51.1,Lumbar And Other Intervertebral Disc Disorders With Radiculopathy,1,0
+November,2017,Klinik Dalam,J44.9,"Chronic Obstructive Pulmonary Disease, Unspecified",117,49
+November,2017,Klinik Dalam,K29.0,Acute Haemorrhagic Gastritis,32,70
+November,2017,Klinik Dalam,K30,Dyspepsia,45,70
+November,2017,Klinik Gigi,K00.0,Anodontia,1,10
+November,2017,Klinik Gizi,E11.9,Non-Insulin-Dependent Diabetes Mellitus Without Complications,1,9
+November,2017,Klinik Gizi,E46,Unspecified Protein-Energy Malnutrition,2,1
+November,2017,Klinik Gizi,E66.9,"Obesity, Unspecified",2,10
+November,2017,Klinik Gizi,I64,"Stroke, Not Specified As Haemorrhage Or Infarction",0,1
+November,2017,Klinik Gizi,K29.7,"Gastritis, Unspecified",0,5
+November,2017,Klinik Gizi,K30,Dyspepsia,0,1
+November,2017,Klinik Jantung,I01.8,Other Acute Rheumatic Heart Disease,1,0
+November,2017,Klinik Jantung,I21.9,"Acute Myocardial Infarction, Unspecified",9,1
+November,2017,Klinik Kandungan,D25.9,"Leiomyoma Of Uterus, Unspecified",0,28
+November,2017,Klinik Kandungan,N93.8,Other Specified Abnormal Uterine And Vaginal Bleeding,0,36
+November,2017,Klinik Kandungan,O05.0,"Other Abortion, Incomplete, Complicated By Genital Tract And Pelvic Infection",0,36
+November,2017,Klinik Kandungan,O32.1,Maternal Care For Breech Presentation,0,20
+November,2017,Klinik Konservasi Gigi,K04.0,Pulpitis,16,19
+November,2017,Klinik Konservasi Gigi,K04.1,Necrosis Of Pulp,20,53
+November,2017,Klinik Konservasi Gigi,K04.6,Periapical Abscess With Sinus,0,2
+November,2017,Klinik Konservasi Gigi,K04.7,Periapical Abscess Without Sinus,0,5
+November,2017,Klinik Mata,E11.9,Non-Insulin-Dependent Diabetes Mellitus Without Complications,27,38
+November,2017,Klinik Mata,I10,Essential (Primary) Hypertension,13,38
+November,2017,Klinik Mata,I49.9,"Cardiac Arrhythmia, Unspecified",23,20
+November,2017,Klinik Mata,Z96.1,Presence Of Intraocular Lens,116,119
+November,2017,Klinik Orthopedi,D23.7,"Other Benign Neoplasm Of Skin Of Lower Limb, Including Hip",0,8
+November,2017,Klinik Orthopedi,G56.0,Carpal Tunnel Syndrome,0,9
+November,2017,Klinik Orthopedi,M17.1,Other Primary Gonarthrosis,8,12
+November,2017,Klinik Orthopedi,R02,"Gangrene, Not Elsewhere Classified",23,16
+November,2017,Klinik Orthopedi,S42.00,"Fracture Of Clavicle, Closed",5,4
+November,2017,Klinik Orthopedi,S42.40,"Fracture Of Lower End Of Humerus, Closed",7,3
+November,2017,Klinik Orthopedi,S82.21,"Fracture Of Shaft Of Tibia , Open",9,2
+November,2017,Klinik Psikiatri,F31.1,"Bipolar Affective Disorder, Current Episode Manic Without Psychotic Symptoms",13,10
+November,2017,Klinik Rehab Medik,M19.0,Primary Arthrosis Of Other Joints,52,56
+November,2017,Klinik Rehab Medik,M54.1,Radiculopathy,10,52
+November,2017,Klinik Rehab Medik,M54.22,"Cervicalgia, Cervical Region",10,48
+November,2017,Klinik Rehab Medik,M54.5,Low Back Pain,29,67
+November,2017,Klinik Rehab Medik,M79.10,"Myalgia, Multiple Sites",36,94
+November,2017,Klinik Syaraf,G50.0,Trigeminal Neuralgia,22,17
+November,2017,Klinik Syaraf,I69.4,"Sequelae Of Stroke, Not Specified As Haemorrhage Or Infarction",705,605
+November,2017,Klinik Tht,H66.1,Chronic Tubotympanic Suppurative Otitis Media,16,26
+November,2017,Klinik Tht,J02.9,"Acute Pharyngitis, Unspecified",8,14
+November,2017,Klinik Tht,J35.1,Hypertrophy Of Tonsils,10,17

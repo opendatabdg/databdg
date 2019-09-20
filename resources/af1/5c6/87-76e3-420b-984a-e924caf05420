@@ -1,0 +1,61 @@
+Bulan,Tahun,Jenis Kamar,Kode ICD,Nama Penyakit,Laki-laki,Perempuan
+Oktober,2018,Gawat Darurat,N39.0,"Urinary Tract Infection, Site Not Specified",11,41
+Oktober,2018,Gawat Darurat,R06.0,Dyspnoea,34,19
+Oktober,2018,Gawat Darurat,T14.1,Open Wound Of Unspecified Body Region,67,25
+Oktober,2018,Gawat Darurat,Z03.9,"Observation For Suspected Disease Or Condition, Unspecified",58,43
+Oktober,2018,Klinik Akupuntur,E66.9,"Obesity, Unspecified",0,6
+Oktober,2018,Klinik Akupuntur,G20,Parkinson'S Disease,0,2
+Oktober,2018,Klinik Akupuntur,J01.9,"Acute Sinusitis, Unspecified",0,1
+Oktober,2018,Klinik Akupuntur,J30.4,"Allergic Rhinitis, Unspecified",0,3
+Oktober,2018,Klinik Akupuntur,M17.9,"Gonarthrosis, Unspecified",0,2
+Oktober,2018,Klinik Akupuntur,M50.1,Cervical Disc Disorder With Radiculopathy,0,2
+Oktober,2018,Klinik Akupuntur,O92.7,Other And Unspecified Disorders Of Lactation,0,2
+Oktober,2018,Klinik Anak,A01.0,Typhoid Fever,14,17
+Oktober,2018,Klinik Bedah Anak,A50.9,"Congenital Syphilis, Unspecified",3,0
+Oktober,2018,Klinik Bedah Anak,K40.0,"Bilateral Inguinal Hernia, With Obstruction, Without Gangrene",1,1
+Oktober,2018,Klinik Bedah Anak,Q45.9,"Congenital Malformation Of Digestive System, Unspecified",2,0
+Oktober,2018,Klinik Bedah Mulut,B20.1,Hiv Disease Resulting In Other Bacterial Infections,0,1
+Oktober,2018,Klinik Bedah Mulut,D17.0,"Benign Lipomatous Neoplasm Of Skin And Subcutaneous Tissue Of Head, Face And Neck",1,2
+Oktober,2018,Klinik Bedah Mulut,K08.2,Atrophy Of Edentulous Alveolar Ridge,0,2
+Oktober,2018,Klinik Bedah Mulut,Q35.1,Cleft Hard Palate,1,1
+Oktober,2018,Klinik Bedah Mulut,R20.2,Paraesthesia Of Skin,0,2
+Oktober,2018,Klinik Bedah Mulut,S01.5,Open Wound Of Lip And Oral Cavity,13,33
+Oktober,2018,Klinik Bedah Syaraf,G20,Parkinson Disease,1,0
+Oktober,2018,Klinik Bedah Syaraf,G50.0,Trigeminal Neuralgia,0,1
+Oktober,2018,Klinik Bedah Syaraf,I28.0,Arteriovenous Fistula Of Pulmonary Vessels,2,0
+Oktober,2018,Klinik Bedah Syaraf,Z03.9,"Observation For Suspected Disease Or Condition, Unspecified",0,1
+Oktober,2018,Klinik Dalam,E11.0,Non-Insulin-Dependent Diabetes Mellitus With Coma,56,105
+Oktober,2018,Klinik Dalam,I25.9,"Chronic Ischaemic Heart Disease, Unspecified",14,15
+Oktober,2018,Klinik Dalam,N18.9,"Chronic Renal Failure, Unspecified",46,49
+Oktober,2018,Klinik Gigi,K00.6,Disturbances In Tooth Eruption,1,6
+Oktober,2018,Klinik Gizi,E11.9,Non-Insulin-Dependent Diabetes Mellitus Without Complications,1,4
+Oktober,2018,Klinik Gizi,E78.2,Mixed Hyperlipidaemia,0,2
+Oktober,2018,Klinik Gizi,I25.1,Atherosclerotic Heart Disease,0,1
+Oktober,2018,Klinik Gizi,M06.07,"Seronegative Rheumatoid Arthritis, Ankle And Foot",0,1
+Oktober,2018,Klinik Gizi,N18.8,Other Chronic Renal Failure,1,0
+Oktober,2018,Klinik Jantung,E21.3,"Hyperparathyroidism, Unspecified",0,2
+Oktober,2018,Klinik Jantung,I10,Essential (Primary) Hypertension,0,2
+Oktober,2018,Klinik Kandungan,O30.0,Twin Pregnancy,0,16
+Oktober,2018,Klinik Kandungan,Z03.8,Observation For Other Suspected Diseases And Conditions,1,32
+Oktober,2018,Klinik Kandungan,Z34.0,Supervision Of Normal First Pregnancy,0,27
+Oktober,2018,Klinik Kemuning,B20.9,Hiv Disease Resulting In Unspecified Infectious Or Parasitic Disease,248,53
+Oktober,2018,Klinik Konservasi Gigi,K04.5,Chronic Apical Periodontitis,0,1
+Oktober,2018,Klinik Konservasi Gigi,K05.4,Periodontosis,1,0
+Oktober,2018,Klinik Mata,H00.1,Chalazion,4,12
+Oktober,2018,Klinik Mata,H10.1,Acute Atopic Conjunctivitis,20,3
+Oktober,2018,Klinik Orthopedi,M13.16,"Monoarthritis, Not Elsewhere Classified, Lower Leg",5,0
+Oktober,2018,Klinik Orthopedi,M62.6,Muscle Strain,0,6
+Oktober,2018,Klinik Orthopedi,M84.15,"Nonunion Of Fracture [Pseudarthrosis], Pelvic And Thigh",6,0
+Oktober,2018,Klinik Orthopedi,S42.20,"Fracture Of Upper End Of Humerus, Closed",0,6
+Oktober,2018,Klinik Orthopedi,S82.30,"Fracture Of Lower End Of Tibia, Closed",4,2
+Oktober,2018,Klinik Psikiatri,F19.8,"Mental And Behavioural Disorders Due To Multiple Drug Use And Use Of Psychoactive Substances, Other Mental And Behavioural Disorders",6,0
+Oktober,2018,Klinik Psikiatri,F31.0,"Bipolar Affective Disorder, Current Episode Hypomanic",6,5
+Oktober,2018,Klinik Psikiatri,F31.1,"Bipolar Affective Disorder, Current Episode Manic Without Psychotic Symptoms",6,8
+Oktober,2018,Klinik Rehab Medik,M19.0,Primary Arthrosis Of Other Joints,24,47
+Oktober,2018,Klinik Rehab Medik,M25.51,"Pain In Joint, Shouder Region",10,74
+Oktober,2018,Klinik Rehab Medik,M72.57,"Fasciitis, Not Elsewhere Classified, Ankle And Foot",0,57
+Oktober,2018,Klinik Syaraf,G56.0,Carpal Tunnel Syndrome,2,16
+Oktober,2018,Klinik Tht,J02.9,"Acute Pharyngitis, Unspecified",3,7
+Oktober,2018,Klinik Tht,J35.3,Hypertrophy Of Tonsils With Hypertrophy Of Adenoids,9,2
+Oktober,2018,Klinik Tht,Z09.8,Follow-Up Examination After Other Treatment For Other Conditions,4,6
+Oktober,2018,Klinik Vct,B20.9,Hiv Disease Resulting In Unspecified Infectious Or Parasitic Disease,4,6

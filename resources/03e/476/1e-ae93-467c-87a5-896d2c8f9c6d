@@ -1,0 +1,156 @@
+Bulan,Tahun,Jenis Kamar,Kode ICD,Nama Penyakit,Laki-laki,Perempuan
+Agustus,2016,Gawat Darurat,A90,Dengue Fever (Classical Dengue),32,20
+Agustus,2016,Gawat Darurat,R56.0,Febrile Convulsions,13,16
+Agustus,2016,Klinik Akupuntur,E66.8,Other Obesity,0,1
+Agustus,2016,Klinik Akupuntur,E66.9,"Obesity, Unspecified",1,10
+Agustus,2016,Klinik Akupuntur,E73.1,Secondary Lactase Deficiency,0,1
+Agustus,2016,Klinik Akupuntur,G43.8,Other Migraine,0,1
+Agustus,2016,Klinik Akupuntur,I64,"Stroke, Not Specified As Haemorrhage Or Infarction",2,0
+Agustus,2016,Klinik Akupuntur,K29.7,"Gastritis, Unspecified",0,1
+Agustus,2016,Klinik Akupuntur,L81.4,Other Melanin Hyperpigmentation,0,14
+Agustus,2016,Klinik Akupuntur,M06.84,"Other Specified Rheumatoid Arthritis, Hand",0,1
+Agustus,2016,Klinik Akupuntur,M25.74,"Osteophyte, Hand",0,2
+Agustus,2016,Klinik Akupuntur,M54.5,Low Back Pain,0,1
+Agustus,2016,Klinik Anak,A09,Diarrhoea And Gastroenteritis Of Presumed Infectious Origin,109,66
+Agustus,2016,Klinik Anak,A16.9,"Respiratory Tuberculosis Unspecified, Without Mention Of Bacteriological Or Histological Confirmation",274,266
+Agustus,2016,Klinik Anak,A90,Dengue Fever [Classical Dengue],27,20
+Agustus,2016,Klinik Anak,G40.9,"Epilepsy, Unspecified",135,106
+Agustus,2016,Klinik Anak,J06.9,"Acute Upper Respiratory Infection, Unspecified",199,181
+Agustus,2016,Klinik Anak,J18.0,"Bronchopneumonia, Unspecified",16,17
+Agustus,2016,Klinik Anak,J45.9,"Asthma, Unspecified",62,65
+Agustus,2016,Klinik Anak,P59.9,"Neonatal Jaundice, Unspecified",121,94
+Agustus,2016,Klinik Anak,Z24.0,Need For Immunization Against Poliomyelitis,24,18
+Agustus,2016,Klinik Anak,Z24.6,Need For Immunization Against Viral Hepatitis,23,18
+Agustus,2016,Klinik Bedah Anak,D18.0,"Haemangioma, Any Site",0,2
+Agustus,2016,Klinik Bedah Anak,D21.9,"Other Benign Neoplasm Of Connective And Other Soft Tissue, Unspecified",32,26
+Agustus,2016,Klinik Bedah Anak,I84.9,Unspecified Haemorrhoids Without Complication,1,1
+Agustus,2016,Klinik Bedah Anak,K40.9,"Unilateral Or Unspecified Inguinal Hernia, Without Obstruction Or Gangrene",33,18
+Agustus,2016,Klinik Bedah Anak,K42.9,Umbilical Hernia Without Obstruction Or Gangrene,3,0
+Agustus,2016,Klinik Bedah Anak,L02.9,"Cutaneous Abscess, Furuncle And Carbuncle, Unspecified",0,4
+Agustus,2016,Klinik Bedah Anak,N43.3,"Hydrocele, Unspecified",25,0
+Agustus,2016,Klinik Bedah Anak,Q43.1,Hirschsprung Disease,13,11
+Agustus,2016,Klinik Bedah Anak,Q53.9,"Undescended Testicle, Unspecified",3,0
+Agustus,2016,Klinik Bedah Anak,Z00.0,General Medical Examination,84,43
+Agustus,2016,Klinik Bedah Mulut,D10.3,Benign Neoplasm Of Other And Unspecified Parts Of Mouth,3,2
+Agustus,2016,Klinik Bedah Mulut,K01.1,Impacted Teeth,99,203
+Agustus,2016,Klinik Bedah Mulut,K04.6,Periapical Abscess With Sinus,9,19
+Agustus,2016,Klinik Bedah Mulut,K04.7,Periapical Abscess Without Sinus,38,88
+Agustus,2016,Klinik Bedah Mulut,K04.8,Radicular Cyst,0,3
+Agustus,2016,Klinik Bedah Mulut,K11.6,Mucocele Of Salivary Gland,10,12
+Agustus,2016,Klinik Bedah Mulut,K12.2,Cellulitis And Abscess Of Mouth,8,11
+Agustus,2016,Klinik Bedah Mulut,Q36.9,"Cleft Lip, Unilateral",4,0
+Agustus,2016,Klinik Bedah Mulut,Q37.4,Cleft Hard And Soft Palate With Bilateral Cleft Lip,3,0
+Agustus,2016,Klinik Bedah Mulut,S01.8,Open Wound Of Other Parts Of Head,4,5
+Agustus,2016,Klinik Bedah Syaraf,D21.9,"Other Benign Neoplasm Of Connective And Other Soft Tissue, Unspecified",8,4
+Agustus,2016,Klinik Bedah Syaraf,F03,Unspecified Dementia,1,0
+Agustus,2016,Klinik Bedah Syaraf,G40.0,Localization-Related (Focal) (Partial) Idiopathic Epilepsy And Epileptic Syndromes With Seizures Of Localized Onset,1,5
+Agustus,2016,Klinik Bedah Syaraf,G40.1,Localization-Related (Focal) (Partial) Symptomatic Epilepsy And Epileptic Syndromes With Simple Partial Seizures,1,0
+Agustus,2016,Klinik Bedah Syaraf,G91.9,"Hydrocephalus, Unspecified",1,2
+Agustus,2016,Klinik Bedah Syaraf,M51.2,Other Specified Intervertebral Disc Displacement,1,1
+Agustus,2016,Klinik Bedah Syaraf,M54.1,Radiculopathy,2,0
+Agustus,2016,Klinik Bedah Syaraf,R90.0,Intracranial Space-Occupying Lesion,8,8
+Agustus,2016,Klinik Bedah Syaraf,S09.8,Other Specified Injuries Of Head,9,11
+Agustus,2016,Klinik Bedah Syaraf,Z00.0,General Medical Examination,125,95
+Agustus,2016,Klinik Dalam,A15.9,"Respiratory Tuberculosis Unspecified, Confirmed Bacteriologically And Histologically",206,200
+Agustus,2016,Klinik Dalam,E11.9,Non-Insulin-Dependent Diabetes Mellitus Without Complications,691,1248
+Agustus,2016,Klinik Dalam,I10,Essential (Primary) Hypertension,310,564
+Agustus,2016,Klinik Dalam,I11.0,Hypertensive Heart Disease With (Congestive) Heart Failure,18,35
+Agustus,2016,Klinik Dalam,I11.9,Hypertensive Heart Disease Without (Congestive) Heart Failure,132,194
+Agustus,2016,Klinik Dalam,J40,"Bronchitis, Not Specified As Acute Or Chronic",31,40
+Agustus,2016,Klinik Dalam,J45.9,"Asthma, Unspecified",143,284
+Agustus,2016,Klinik Dalam,K30,Dyspepsia,61,150
+Agustus,2016,Klinik Dalam,N18.9,"Chronic Renal Failure, Unspecified",151,116
+Agustus,2016,Klinik Dalam,Z00.0,General Medical Examination,48,81
+Agustus,2016,Klinik Gigi,K00.0,Anodontia,0,3
+Agustus,2016,Klinik Gigi,K01.1,Impacted Teeth,17,40
+Agustus,2016,Klinik Gigi,K02.1,Caries Of Dentine,14,48
+Agustus,2016,Klinik Gigi,K03.0,Excessive Attrition Of Teeth,0,1
+Agustus,2016,Klinik Gigi,K03.1,Abrasion Of Teeth,0,1
+Agustus,2016,Klinik Gigi,K04.0,Pulpitis,73,213
+Agustus,2016,Klinik Gigi,K04.1,Necrosis Of Pulp,119,296
+Agustus,2016,Klinik Gigi,K04.5,Chronic Apical Periodontitis,154,292
+Agustus,2016,Klinik Gigi,K04.7,Periapical Abscess Without Sinus,48,84
+Agustus,2016,Klinik Gigi,K05.3,Chronic Periodontitis,16,18
+Agustus,2016,Klinik Jantung,I10,Essential (Primary) Hypertension,0,1
+Agustus,2016,Klinik Jantung,I11.0,Hypertensive Heart Disease With (Congestive) Heart Failure,108,146
+Agustus,2016,Klinik Jantung,I25.0,"Atherosclerotic Cardiovascular Disease, So Described",78,61
+Agustus,2016,Klinik Jantung,I25.1,Atherosclerotic Heart Disease,551,313
+Agustus,2016,Klinik Jantung,I48,Atrial Fibrillation And Flutter,3,12
+Agustus,2016,Klinik Jantung,I50.0,Congestive Heart Failure,400,533
+Agustus,2016,Klinik Jantung,I50.1,Left Ventricular Failure,0,1
+Agustus,2016,Klinik Jantung,R07.3,Other Chest Pain,3,1
+Agustus,2016,Klinik Jantung,R07.4,"Chest Pain, Unspecified",2,1
+Agustus,2016,Klinik Kandungan,D25.0,Submucous Leiomyoma Of Uterus,0,39
+Agustus,2016,Klinik Kandungan,N83.2,Other And Unspecified Ovarian Cysts,0,101
+Agustus,2016,Klinik Kandungan,O32.1,Maternal Care For Breech Presentation,0,45
+Agustus,2016,Klinik Kandungan,Z09.0,Follow-Up Examination After Surgery For Other Conditions,1,211
+Agustus,2016,Klinik Kandungan,Z30.1,Insertion Of (Intrauterine) Contraceptive Device,0,48
+Agustus,2016,Klinik Kandungan,Z30.2,Sterilization,0,26
+Agustus,2016,Klinik Kandungan,Z30.5,Surveillance Of (Intrauterine) Contraceptive Device,0,51
+Agustus,2016,Klinik Kandungan,Z34.8,Supervision Of Other Normal Pregnancy,0,334
+Agustus,2016,Klinik Kandungan,Z35.8,Supervision Of Other High-Risk Pregnancies,0,211
+Agustus,2016,Klinik Kandungan,Z39.2,Routine Postpartum Follow-Up,1,322
+Agustus,2016,Klinik Kemuning,B20.0,Hiv Disease Resulting In Mycobacterial Infection,228,46
+Agustus,2016,Klinik Kemuning,B20.1,Hiv Disease Resulting In Other Bacterial Infections,112,28
+Agustus,2016,Klinik Mata,H02.9,"Disorder Of Eyelid, Unspecified",8,16
+Agustus,2016,Klinik Mata,H10.9,"Conjunctivitis, Unspecified",35,58
+Agustus,2016,Klinik Mata,H25.0,Senile Incipient Cataract,372,527
+Agustus,2016,Klinik Mata,H25.1,Senile Nuclear Cataract,52,20
+Agustus,2016,Klinik Mata,H27.8,Other Specified Disorders Of Lens,101,66
+Agustus,2016,Klinik Mata,H36.0,Diabetic Retinopathy,6,20
+Agustus,2016,Klinik Mata,H52.1,Myopia,89,206
+Agustus,2016,Klinik Mata,H52.2,Astigmatism,56,138
+Agustus,2016,Klinik Mata,H52.4,Presbyopia,77,134
+Agustus,2016,Klinik Mata,H52.6,Other Disorders Of Refraction,110,162
+Agustus,2016,Klinik Orthopedi,L97,"Ulcer Of Lower Limb, Not Elsewhere Classified",2,8
+Agustus,2016,Klinik Orthopedi,L98.4,"Chronic Ulcer Of Skin, Not Elsewhere Classified",9,10
+Agustus,2016,Klinik Orthopedi,M17.0,"Primary Gonarthrosis, Bilateral",3,54
+Agustus,2016,Klinik Orthopedi,M17.9,"Gonarthrosis, Unspecified",3,16
+Agustus,2016,Klinik Orthopedi,M54.17,"Radiculopathy, Lumbosacral Region",0,7
+Agustus,2016,Klinik Orthopedi,M96.6,"Fracture Of Bone Following Insertion Of Orthopaedic Implant, Joint Prosthesis, Or Bone Plate",30,17
+Agustus,2016,Klinik Orthopedi,M96.9,"Postprocedural Musculoskeletal Disorder, Unspecified",25,25
+Agustus,2016,Klinik Orthopedi,S52.5,Fracture Of Lower End Of Radius,6,1
+Agustus,2016,Klinik Orthopedi,S72.30,"Fracture Of Shaft Of Femur, Closed",13,4
+Agustus,2016,Klinik Orthopedi,S82.1,Fracture Of Upper End Of Tibia,9,0
+Agustus,2016,Klinik Psikiatri,F20.0,Paranoid Schizophrenia,67,11
+Agustus,2016,Klinik Psikiatri,F20.1,Hebephrenic Schizophrenia,29,13
+Agustus,2016,Klinik Psikiatri,F20.9,"Schizophrenia, Unspecified",84,31
+Agustus,2016,Klinik Psikiatri,F25.1,"Schizoaffective Disorder, Depressive Type",29,15
+Agustus,2016,Klinik Psikiatri,F31.3,"Bipolar Affective Disorder, Current Episode Mild Or Moderate Depression",3,2
+Agustus,2016,Klinik Psikiatri,F31.7,"Bipolar Affective Disorder, Currently In Remission",3,6
+Agustus,2016,Klinik Psikiatri,F41.1,Generalized Anxiety Disorder,24,12
+Agustus,2016,Klinik Psikiatri,F41.2,Mixed Anxiety And Depressive Disorder,19,25
+Agustus,2016,Klinik Psikiatri,F99,"Mental Disorder, Not Otherwise Specified",61,37
+Agustus,2016,Klinik Psikiatri,Z04.0,Blood-Alcohol And Blood-Drug Test,78,75
+Agustus,2016,Klinik Rehab Medik,M17.0,"Primary Gonarthrosis, Bilateral",69,470
+Agustus,2016,Klinik Rehab Medik,M25.6,"Stiffness Of Joint, Not Elsewhere Classified",16,18
+Agustus,2016,Klinik Rehab Medik,M54.1,Radiculopathy,26,67
+Agustus,2016,Klinik Rehab Medik,M54.17,"Radiculopathy, Lumbosacral Region",44,89
+Agustus,2016,Klinik Rehab Medik,M54.5,Low Back Pain,55,126
+Agustus,2016,Klinik Rehab Medik,M54.56,"Low Back Pain, Lumbar Region",36,102
+Agustus,2016,Klinik Rehab Medik,M75.1,Rotator Cuff Syndrome,4,48
+Agustus,2016,Klinik Rehab Medik,M79.1,Myalgia,20,123
+Agustus,2016,Klinik Rehab Medik,M79.10,"Myalgia, Multiple Sites",53,172
+Agustus,2016,Klinik Rehab Medik,M96.6,"Fracture Of Bone Following Insertion Of Orthopaedic Implant, Joint Prosthesis, Or Bone Plate",125,141
+Agustus,2016,Klinik Syaraf,E11.4,Non-Insulin-Dependent Diabetes Mellitus With Neurological Complications,31,96
+Agustus,2016,Klinik Syaraf,F01.9,"Vascular Dementia, Unspecified",32,27
+Agustus,2016,Klinik Syaraf,G20,Parkinson'S Disease,79,45
+Agustus,2016,Klinik Syaraf,G40.9,"Epilepsy, Unspecified",441,395
+Agustus,2016,Klinik Syaraf,G62.9,"Polyneuropathy, Unspecified",60,101
+Agustus,2016,Klinik Syaraf,G63.2,Diabetic Polyneuropathy,31,96
+Agustus,2016,Klinik Syaraf,I63.9,"Cerebral Infarction, Unspecified",430,510
+Agustus,2016,Klinik Syaraf,M17.9,"Gonarthrosis, Unspecified",66,242
+Agustus,2016,Klinik Syaraf,M54.12,"Radiculopathy, Cervical Region",112,360
+Agustus,2016,Klinik Syaraf,M54.16,"Radiculopathy, Lumbar Region",394,809
+Agustus,2016,Klinik Tht,H60.8,Other Otitis Externa,32,57
+Agustus,2016,Klinik Tht,H61.2,Impacted Cerumen,156,153
+Agustus,2016,Klinik Tht,H65.0,Acute Serous Otitis Media,19,21
+Agustus,2016,Klinik Tht,H65.3,Chronic Mucoid Otitis Media,27,35
+Agustus,2016,Klinik Tht,H93.1,Tinnitus,23,19
+Agustus,2016,Klinik Tht,J01.8,Other Acute Sinusitis,8,8
+Agustus,2016,Klinik Tht,J30.3,Other Allergic Rhinitis,25,33
+Agustus,2016,Klinik Tht,J32.9,"Chronic Sinusitis, Unspecified",13,6
+Agustus,2016,Klinik Tht,J35.0,Chronic Tonsillitis,25,58
+Agustus,2016,Klinik Tht,T16,Foreign Body In Ear,10,5
+Agustus,2016,Klinik Vct,B20.0,Hiv Disease Resulting In Mycobacterial Infection,27,5
+Agustus,2016,Klinik Vct,B20.1,Hiv Disease Resulting In Other Bacterial Infections,11,5

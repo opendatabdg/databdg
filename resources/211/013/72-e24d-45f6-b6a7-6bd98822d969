@@ -1,0 +1,63 @@
+Bulan,Tahun,Jenis Kamar,Kode ICD,Nama Penyakit,Laki-laki,Perempuan
+Agustus,2018,Gawat Darurat,A09,Diarrhoea And Gastroenteritis Of Presumed Infectious Origin,137,129
+Agustus,2018,Gawat Darurat,J45.9,"Asthma, Unspecified",100,109
+Agustus,2018,Gawat Darurat,K30,Dyspepsia,118,213
+Agustus,2018,Gawat Darurat,R06.0,Dyspnoea,34,26
+Agustus,2018,Gawat Darurat,R07.4,"Chest Pain, Unspecified",32,26
+Agustus,2018,Gawat Darurat,R10.4,Other And Unspecified Abdominal Pain,48,67
+Agustus,2018,Gawat Darurat,R50.9,"Fever, Unspecified",283,250
+Agustus,2018,Gawat Darurat,T14.1,Open Wound Of Unspecified Body Region,69,38
+Agustus,2018,Gawat Darurat,Z03.9,"Observation For Suspected Disease Or Condition, Unspecified",50,52
+Agustus,2018,Klinik Akupuntur,G43.0,Migraine Without Aura [Common Migraine],0,1
+Agustus,2018,Klinik Akupuntur,L70.0,Acne Vulgaris,0,3
+Agustus,2018,Klinik Akupuntur,M17.9,"Gonarthrosis, Unspecified",0,2
+Agustus,2018,Klinik Akupuntur,N83.2,Other And Unspecified Ovarian Cysts,0,4
+Agustus,2018,Klinik Akupuntur,O92.7,Other And Unspecified Disorders Of Lactation,0,1
+Agustus,2018,Klinik Anak,A18.2,Tuberculous Peripheral Lymphadenopathy,29,16
+Agustus,2018,Klinik Bedah Anak,A50.9,"Congenital Syphilis, Unspecified",2,0
+Agustus,2018,Klinik Bedah Anak,K40.3,"Unilateral Or Unspecified Inguinal Hernia, With Obstruction, Without Gangrene",3,0
+Agustus,2018,Klinik Bedah Anak,Q42.9,"Congenital Absence, Atresia And Stenosis Of Large Intestine, Part Unspecified",3,0
+Agustus,2018,Klinik Bedah Anak,Q53.2,"Undescended Testicle, Bilateral",3,0
+Agustus,2018,Klinik Bedah Mulut,C06.0,Malignant Neoplasm Of Cheek Mucosa,0,1
+Agustus,2018,Klinik Bedah Mulut,K07.4,"Malocclusion, Unspecified",1,1
+Agustus,2018,Klinik Bedah Mulut,K10.8,Other Specified Diseases Of Jaws,0,4
+Agustus,2018,Klinik Bedah Mulut,S01.5,Open Wound Of Lip And Oral Cavity,12,15
+Agustus,2018,Klinik Bedah Syaraf,G50.0,Trigeminal Neuralgia,0,2
+Agustus,2018,Klinik Bedah Syaraf,I10,Essential (Primary) Hypertension,0,3
+Agustus,2018,Klinik Bedah Syaraf,Q54.1,"Hypospadias, Penile",3,0
+Agustus,2018,Klinik Bedah Syaraf,R51,Headache,0,2
+Agustus,2018,Klinik Dalam,E11.0,Non-Insulin-Dependent Diabetes Mellitus With Coma,28,53
+Agustus,2018,Klinik Dalam,Z08.9,Follow-Up Examination After Unspecified Treatment For Malignant Neoplasm,15,24
+Agustus,2018,Klinik Gigi,K06.9,"Disorder Of Gingiva And Edentulous Alveolar Ridge, Unspecified",4,5
+Agustus,2018,Klinik Gizi,E11.9,Non-Insulin-Dependent Diabetes Mellitus Without Complications,12,10
+Agustus,2018,Klinik Gizi,K29.9,"Gastroduodenitis, Unspecified",0,1
+Agustus,2018,Klinik Gizi,K30,Dyspepsia,0,2
+Agustus,2018,Klinik Jantung,I20.9,"Angina Pectoris, Unspecified",2,0
+Agustus,2018,Klinik Kandungan,O05.0,"Other Abortion, Incomplete, Complicated By Genital Tract And Pelvic Infection",0,27
+Agustus,2018,Klinik Kandungan,O15.0,Eclampsia In Pregnancy,0,22
+Agustus,2018,Klinik Kandungan,Z34.0,Supervision Of Normal First Pregnancy,0,34
+Agustus,2018,Klinik Kemuning,B20.9,Hiv Disease Resulting In Unspecified Infectious Or Parasitic Disease,218,43
+Agustus,2018,Klinik Konservasi Gigi,K04.6,Periapical Abscess With Sinus,0,1
+Agustus,2018,Klinik Konservasi Gigi,K05.3,Chronic Periodontitis,1,0
+Agustus,2018,Klinik Mata,E11.9,Non-Insulin-Dependent Diabetes Mellitus Without Complications,9,17
+Agustus,2018,Klinik Mata,H52.0,Hypermetropia,11,14
+Agustus,2018,Klinik Mata,H53.8,Other Visual Disturbances,7,13
+Agustus,2018,Klinik Orthopedi,M17.1,Other Primary Gonarthrosis,0,9
+Agustus,2018,Klinik Orthopedi,M21.75,"Unequal Limb Length (Acquired), Pelvic And Thigh",5,2
+Agustus,2018,Klinik Orthopedi,M54.55,"Low Back Pain, Thoracolumbar Region",0,8
+Agustus,2018,Klinik Orthopedi,M62.65,"Muscle Strain, Pelvic Region And Thigh",4,2
+Agustus,2018,Klinik Orthopedi,M84.15,"Nonunion Of Fracture [Pseudarthrosis], Pelvic And Thigh",9,2
+Agustus,2018,Klinik Orthopedi,S52.50,"Fracture Of Lower End Of Radius, Closed",4,3
+Agustus,2018,Klinik Psikiatri,F20.5,Residual Schizophrenia,5,4
+Agustus,2018,Klinik Rehab Medik,I64,"Stroke, Not Specified As Haemorrhage Or Infarction",21,21
+Agustus,2018,Klinik Rehab Medik,M25.51,"Pain In Joint, Shouder Region",11,56
+Agustus,2018,Klinik Rehab Medik,M54.16,"Radiculopathy, Lumbar Region",21,43
+Agustus,2018,Klinik Syaraf,I10,Essential (Primary) Hypertension,6,16
+Agustus,2018,Klinik Syaraf,M54.5,Low Back Pain,9,11
+Agustus,2018,Klinik Tht,H65.1,Other Acute Nonsuppurative Otitis Media,2,11
+Agustus,2018,Klinik Tht,J00,Acute Nasopharyngitis [Common Cold],5,7
+Agustus,2018,Klinik Tht,J01.0,Acute Maxillary Sinusitis,8,3
+Agustus,2018,Klinik Tht,J02.9,"Acute Pharyngitis, Unspecified",8,13
+Agustus,2018,Klinik Tht,J31.2,Chronic Pharyngitis,3,12
+Agustus,2018,Klinik Tht,J35.3,Hypertrophy Of Tonsils With Hypertrophy Of Adenoids,10,9
+Agustus,2018,Klinik Vct,B20.9,Hiv Disease Resulting In Unspecified Infectious Or Parasitic Disease,7,1

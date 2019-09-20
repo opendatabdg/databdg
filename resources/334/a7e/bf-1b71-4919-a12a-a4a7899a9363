@@ -1,0 +1,213 @@
+No,Nama Jabatan,Satuan Kerja,Nama,Jenis Kelamin,Golongan,Eselon
+1,Lurah Campaka,Kelurahan Campaka,"Asep Aceng, S.Sos.",Laki-laki,III/d,IV.a
+2,Lurah Kebon Jeruk,Kelurahan Kebon Jeruk,"Denni Syaefudin, S.Sos",Laki-laki,III/d,IV.a
+3,Lurah Maleber,Kelurahan Maleber,"Dodi Mochamad Romdon, S.Sos.",Laki-laki,IV/a,IV.a
+4,Lurah Ciroyom,Kelurahan Ciroyom,"Moch. Agus Firmansyah, S.IP",Laki-laki,III/c,IV.a
+5,Lurah Garuda,Kelurahan Garuda,"Sandra Devi Abri Viana, S.STP.",Perempuan,III/d,IV.a
+6,Lurah Antapani Kidul,Kelurahan Antapani Kidul,"Ahmad Sujani, S.Sos., MM",Laki-laki,IV/a,IV.a
+7,Lurah Antapani Wetan,Kelurahan Antapani Wetan,"Maman Suparman, SKM.",Laki-laki,III/d,IV.a
+8,Lurah Antapani Kulon,Kelurahan Antapani Kulon,"Shinta Parmawati, S.STP. MSi",Perempuan,IV/a,IV.a
+9,Lurah Antapani Tengah,Kelurahan Antapani Tengah,"Teguh Haris Pathon, S.STP, M.AP",Laki-laki,III/c,IV.a
+10,Lurah Cisaranten Bina Harapan,Kelurahan Cisaranten Bina Harapan,"Deden Mardeni, A.Md",Laki-laki,III/d,IV.a
+11,Lurah Sukamiskin,Kelurahan Sukamiskin,"Farida Agustini, S.Pd.MM",Perempuan,IV/a,IV.a
+12,Lurah Cisaranten Endah,Kelurahan Cisaranten Endah,"Drs.Jajang Kurnia, M.AP",Laki-laki,IV/a,IV.a
+13,Lurah Cisaranten Kulon,Kelurahan Cisaranten Kulon,"Mohamad Tresna Mursid, S.Sos. MSi.",Laki-laki,IV/a,IV.a
+14,Lurah Panjunan,Kelurahan Panjunan,"Dedi Supriyadi, S.Sos.",Laki-laki,III/d,IV.a
+15,Lurah Karang Anyar,Kelurahan Karang Anyar,Drs. Jejen Suwarjan,Laki-laki,III/d,IV.a
+16,Lurah Cibadak,Kelurahan Cibadak,Dedi Subarna,Laki-laki,III/d,IV.a
+17,Lurah Karasak,Kelurahan Karasak,"Ahmad Sopian, S.Pd.",Laki-laki,III/d,IV.a
+18,Lurah Nyengseret,Kelurahan Nyengseret,"Suparno, S.iP",Laki-laki,III/c,IV.a
+19,Lurah Pelindung Hewan,Kelurahan Pelindung Hewan,"Hendra Yulianto, SE",Laki-laki,III/c,IV.a
+20,Lurah Cirangrang,Kelurahan Cirangrang,Ir.Agus Dewanto,Laki-laki,III/d,IV.a
+21,Lurah Sukahaji,Kelurahan Sukahaji,"Ahmad Roni, S.Ip.",Laki-laki,III/d,IV.a
+22,Lurah Margasuka,Kelurahan Margasuka,"Dra.Eulis Robbijah, M.Si",Perempuan,IV/a,IV.a
+23,Lurah Babakan,Kelurahan Babakan,"Ridwan Hermansah, S.Sos",Laki-laki,III/d,IV.a
+24,Lurah Margahayu Utara,Kelurahan Margahayu Utara,"Agus Susanto, S.Pt.",Laki-laki,III/c,IV.a
+25,Lurah Babakan Ciparay,Kelurahan Babakan Ciparay,"Tonny Sukmana, S.E. ",Laki-laki,III/c,IV.a
+26,Lurah Mengger,Kelurahan Mengger,Benny Sundawa,Laki-laki,III/d,IV.a
+27,Lurah Kujangsari,Kelurahan Kujangsari,Dra.Inne Nur'aini Febriati,Perempuan,III/d,IV.a
+28,Lurah Wates,Kelurahan Wates,"Beti Setiamah, S.P., M.M.",Perempuan,III/d,IV.a
+29,Lurah Batununggal,Kelurahan Batununggal,"Asep Syaripudin, S.Sos.",Laki-laki,III/d,IV.a
+30,Lurah Cigondewah Kaler,Kelurahan Cigondewah Kaler,"Dadang Muhamad Arifin, S.H.",Laki-laki,III/c,IV.a
+31,Lurah Warungmuncang,Kelurahan Warungmuncang,"Dede Junaedi, S.H",Laki-laki,III/d,IV.a
+32,Lurah Gempolsari,Kelurahan Gempolsari,"Dra.Tri Setya Handayani, M.Si.",Perempuan,III/d,IV.a
+33,Lurah Cibuntu,Kelurahan Cibuntu,Drs.Moch Edi Purwadi,Laki-laki,III/d,IV.a
+34,Lurah Cijerah,Kelurahan Cijerah,"Kartila Muna Elza, S.Pd.",Perempuan,III/d,IV.a
+35,Lurah Caringin,Kelurahan Caringin,"Farhan Akbar, S.Si., M.IL.",Laki-laki,III/d,IV.a
+36,Lurah Cigondewah Rahayu,Kelurahan Cigondewah Rahayu,"Dani Buldani Ardabili, S.Ip., M.Si.",Laki-laki,III/d,IV.a
+37,Lurah Cigondewah Kidul,Kelurahan Cigondewah Kidul,"Wahyu Achmad Affandi, S.IP., M.Si.",Laki-laki,III/d,IV.a
+38,Lurah Tamansari,Kelurahan Tamansari,Dra. Ellis Suprihatin,Perempuan,III/d,IV.a
+39,Lurah Citarum,Kelurahan Citarum,"Nia Kurniati, SAP, M.SI.",Perempuan,III/c,IV.a
+40,Lurah Cihapit,Kelurahan Cihapit,Dra.Inda Choerul Bariah,Perempuan,III/d,IV.a
+41,Lurah Binong,Kelurahan Binong,"Afif Diana, S.Pd.",Laki-laki,III/c,IV.a
+42,Lurah Kebon Gedang,Kelurahan Kebon Gedang,Deni Sirajudin,Laki-laki,III/d,IV.a
+43,Lurah Kebon Waru,Kelurahan Kebon Waru,Drs.Wawan Hirawan,Laki-laki,III/d,IV.a
+44,Lurah Samoja,Kelurahan Samoja,"Murni Hidayah Nasution, S.H., M.AP.",Perempuan,IV/a,IV.a
+45,Lurah Cibangkong,Kelurahan Cibangkong,"Drs.Jana Surjana, M.Si.",Laki-laki,IV/a,IV.a
+46,Lurah Maleer,Kelurahan Maleer,"Wawan Hermawan, S.Sos.",Laki-laki,IV/a,IV.a
+47,Lurah Kacapiring,Kelurahan Kacapiring,"Aden Solihin, S.IP., M.Si.",Laki-laki,III/d,IV.a
+48,Lurah Gumuruh,Kelurahan Gumuruh,"Nurma Safarini, A.KS., M.M.",Perempuan,IV/a,IV.a
+49,Lurah Kopo,Kelurahan Kopo,"Bubun Bunyamin, S.H., M.Si.",Laki-laki,III/d,IV.a
+50,Lurah Jamika,Kelurahan Jamika,Drs.Fajar Siliwangi,Laki-laki,III/d,IV.a
+51,Lurah Babakan Tarogong,Kelurahan Babakan Tarogong,"Opi Hanapi, S.Sos.",Laki-laki,III/d,IV.a
+52,Lurah Sukaasih,Kelurahan Sukaasih,"Ade Rahayu, S.Sos.",Laki-laki,III/c,IV.a
+53,Lurah Babakan Asih,Kelurahan Babakan Asih,"Hendra Suhendar, S.H., M.H.",Laki-laki,III/d,IV.a
+54,Lurah Cibaduyut,Kelurahan Cibaduyut,"Tisna, S.Sos., M.Si.",Laki-laki,IV/a,IV.a
+55,Lurah Cibaduyut Kidul,Kelurahan Cibaduyut Kidul,"Herry Hermawan, S.IP.",Laki-laki,III/d,IV.a
+56,Lurah Mekarwangi,Kelurahan Mekarwangi,Drs.Yusup Sambalawini,Laki-laki,III/d,IV.a
+57,Lurah Cibaduyut Wetan,Kelurahan Cibaduyut Wetan,"Maulana Kustiawan, S.Sos., M.Si.",Laki-laki,III/d,IV.a
+58,Lurah Kel. Kebonlega,Kelurahan Kebonlega,"Moch. Irfan Ishak, S.Ag.",Laki-laki,III/c,IV.a
+59,Lurah Situsaeur,Kelurahan Situsaeur,"Deni Setiabudi, S.STP., M.AP.",Laki-laki,III/d,IV.a
+60,Lurah Jatisari,Kelurahan Jatisari,"Umar Salim, S.E.",Laki-laki,III/d,IV.a
+61,Lurah Sekejati,Kelurahan Sekejati,"Dadang Husein, S.Ip.",Laki-laki,III/c,IV.a
+62,Lurah Cijawura,Kelurahan Cijawura,"Embam Rusli, S.Sos.",Laki-laki,III/d,IV.a
+63,Lurah Margasari,Kelurahan Margasari,"Memed, S.Sos., M.Si.",Laki-laki,III/d,IV.a
+64,Lurah Sukaluyu,Kelurahan Sukaluyu,"Japar Solihin, S.Sos., M.Si.",Laki-laki,III/d,IV.a
+65,Lurah Neglasari,Kelurahan Neglasari,"Indra Bayu Kamajaya, S.ST.",Laki-laki,III/c,IV.a
+66,Lurah Cigadung,Kelurahan Cigadung,"Gugun Gunawan, S. Sos., M.Si.",Laki-laki,III/c,IV.a
+67,Lurah Pasirlayung,Kelurahan Pasirlayung,Dedi Hidayat,Laki-laki,III/d,IV.a
+68,Lurah Cicadas,Kelurahan Cicadas,"Sopandi, S.Sos.",Laki-laki,IV/a,IV.a
+69,Lurah Padasuka,Kelurahan Padasuka,Mochamad Enoh,Laki-laki,III/c,IV.a
+70,Lurah Sukamaju,Kelurahan Sukamaju,"Rudi Syafarudin, S.A.P",Laki-laki,III/d,IV.a
+71,Lurah Sukapada,Kelurahan Sukapada,"Suhartomo, S.Sos.",Laki-laki,III/d,IV.a
+72,Lurah Cikutra,Kelurahan Cikutra,"Asri Desiyani, S.IP.",Perempuan,III/c,IV.a
+73,Lurah Cisurupan,Kelurahan Cisurupan,"Yaya Sutaryadi, S.Pd., M.Si.",Laki-laki,III/d,IV.a
+74,Lurah Pasir Biru,Kelurahan Pasir Biru,"Adad Mujahidin, S.E., M.M.",Laki-laki,III/d,IV.a
+75,Lurah Cipadung,Kelurahan Cipadung,"Lukman Ependi, S.Pd.",Laki-laki,III/d,IV.a
+76,Lurah Palasari,Kelurahan Palasari,"Eman Sulaeman, S.AB. ",Laki-laki,III/c,IV.a
+77,Lurah Pajajaran,Kelurahan Pajajaran,"Hj.Naning Yuningsih, S.Ip.",Perempuan,III/d,IV.a
+78,Lurah Pamoyanan,Kelurahan Pamoyanan,"Sumirat, S.E.",Laki-laki,III/d,IV.a
+79,Lurah Arjuna,Kelurahan Arjuna,"Nunung Nurnaningsih, S.IP.",Perempuan,III/d,IV.a
+80,Lurah Husein Sastranegara,Kelurahan Husein Sastranegara,"Ganjar Arimukti, S.Sos.",Laki-laki,III/d,IV.a
+81,Lurah Pasir Kaliki,Kelurahan Pasir Kaliki,"Cecep Rohmat Soleh, S.S. ",Laki-laki,III/d,IV.a
+82,Lurah Sukaraja,Kelurahan Sukaraja,"Evy Oktaviyanti, S.STP.",Perempuan,III/d,IV.a
+83,Lurah Kel. Ledeng,Kelurahan Ledeng,Drs.Suprapto,Laki-laki,III/d,IV.a
+84,Lurah Kel. Ciumbuleuit,Kelurahan Ciumbuleuit,"Purkon, S.Pd.",Laki-laki,III/d,IV.a
+85,Lurah Babakan Penghulu,Kelurahan Babakan Penghulu,"Ajat Sudrajat, S.E.",Laki-laki,III/d,IV.a
+86,Lurah Pakemitan,Kelurahan Pakemitan,"Tochid, S.E.",Laki-laki,III/d,IV.a
+87,Lurah Cisaranten Wetan,Kelurahan Cisaranten Wetan,"H.Dayat, S.IP. MSi.",Laki-laki,IV/a,IV.a
+88,Lurah Sukamulya,Kelurahan Sukamulya,"Ihsan Furqon, S.E.",Laki-laki,III/d,IV.a
+89,Lurah Lebak Gede,Kelurahan Lebak Gede,Tri Nurhayati Endang,Perempuan,III/d,IV.a
+90,Lurah Dago,Kelurahan Dago,Dra.Nurliawati Affandi,Perempuan,IV/a,IV.a
+91,Lurah Cipaganti,Kelurahan Cipaganti,"Agus Susilo, S.H.",Laki-laki,III/d,IV.a
+92,Lurah Sadang Serang,Kelurahan Sadang Serang,"Hasan Arifin, S.E., M.M.",Laki-laki,III/c,IV.a
+93,Lurah Lebak Siliwangi,Kelurahan Lebak Siliwangi,"Nur Shomaddin,S.STP. M.Si",Laki-laki,IV/a,IV.a
+94,Lurah Sekeloa,Kelurahan Sekeloa,"Tirta Gumelar, S.STP. ",Laki-laki,III/c,IV.a
+95,Lurah Rancabolang,Kelurahan Rancabolang,"Didin Tajudin, S.IP.",Laki-laki,III/d,IV.a
+96,Lurah Cimincrang,Kelurahan Cimincrang,Dra.Puji Rahayuningtias,Perempuan,III/d,IV.a
+97,Lurah Rancanumpang,Kelurahan Rancanumpang,"Ir.Rd. Slamet Boedhi Hermawan Wiradikoesoemah, S.P.",Laki-laki,III/d,IV.a
+98,Lurah Cisaranten Kidul,Kelurahan Cisaranten Kidul,"Dadang Sobandi, S.IP.",Laki-laki,III/c,IV.a
+99,Lurah Sukapura,Kelurahan Sukapura,"Asep Darojat, S.H.",Laki-laki,III/d,IV.a
+100,Lurah Kel. Cicaheum,Kelurahan Cicaheum,"H.Sobirin, S.Pd.",Laki-laki,III/d,IV.a
+101,Lurah Kel. Babakan Surabaya,Kelurahan Babakan Surabaya,Triyono,Laki-laki,III/d,IV.a
+102,Lurah Kel. Kebon Jayanti,Kelurahan Kebon Jayanti,"Abdul Manaf, S.AP.",Laki-laki,III/d,IV.a
+103,Lurah Babakan Sari,Kelurahan Babakan Sari,"Heri Susanto, S.Sos., M.M.",Laki-laki,IV/a,IV.a
+104,Lurah Kel. Kebon Kangkung,Kelurahan Kebon Kangkung,"Rakhmat Taufiq, S.ST., M.M.",Laki-laki,III/c,IV.a
+105,Lurah Paledang,Kelurahan Paledang,"Supriatna, S.Sos.",Laki-laki,III/d,IV.a
+106,Lurah Turangga,Kelurahan Turangga,"Gun Gun Ginanjar, S.Sos.",Laki-laki,III/d,IV.a
+107,Lurah Cijagra,Kelurahan Cijagra,"Jajang Afipudin, S.Sos., M.Si.",Laki-laki,IV/a,IV.a
+108,Lurah Malabar,Kelurahan Malabar,"Roaida Thalib, S.E, MAP",Perempuan,IV/a,IV.a
+109,Lurah Lingkar Selatan,Kelurahan Lingkar Selatan,"Asep Achmad Arifin, S.E.",Laki-laki,III/d,IV.a
+110,Lurah Burangrang,Kelurahan Burangrang,"Mochamad Arief Budiman, S.STP.",Laki-laki,III/d,IV.a
+111,Lurah Cikawao,Kelurahan Cikawao,"Maulana Fatahudin, S.STP. M.Si",Laki-laki,IV/a,IV.a
+112,Lurah Karang Pamulang,Kelurahan Karang Pamulang,Drs.Dadang Hermawan,Laki-laki,III/d,IV.a
+113,Lurah Pasir Impun,Kelurahan Pasir Impun,"Sakim, S.Sos, M.Si.",Laki-laki,IV/a,IV.a
+114,Lurah Jatihandap,Kelurahan Jatihandap,"Dra.Een Haryani,M.M.",Perempuan,III/d,IV.a
+115,Lurah Sindangjaya,Kelurahan Sindangjaya,"Agus Mulyana, S.E.",Laki-laki,III/d,IV.a
+116,Lurah Mekarmulya,Kelurahan Mekarmulya,"Muhammad Karim, S.Ip.",Laki-laki,III/d,IV.a
+117,Lurah Cipadung Kulon,Kelurahan Cipadung Kulon,"Henda Suhenda, S.Pd.",Laki-laki,III/d,IV.a
+118,Lurah Cipadung Kidul,Kelurahan Cipadung Kidul,Drs.Bachrudim,Laki-laki,IV/a,IV.a
+119,Lurah Cipadung Wetan,Kelurahan Cipadung Wetan,"Tarsujono, S.Sos.",Laki-laki,III/d,IV.a
+120,Lurah Mekarjaya,Kelurahan Mekarjaya,"Taty Rohayati, S.E., M.Si.",Perempuan,IV/a,IV.a
+121,Lurah Derwati,Kelurahan Derwati,"Sapa'at, S.Sos., M.A.P.",Laki-laki,IV/a,IV.a
+122,Lurah Cipamokolan,Kelurahan Cipamokolan,"Aditya Khamanda, S.Sos., M.AP.",Laki-laki,III/c,IV.a
+123,Lurah Manjahlega,Kelurahan Manjahlega,"Eka Prasetya, S.H.",Laki-laki,III/c,IV.a
+124,Lurah Pasirluyu,Kelurahan Pasirluyu,Asep Muslihat,Laki-laki,III/d,IV.a
+125,Lurah Ciseureuh,Kelurahan Cisereuh,"Aat Supriatna, S.H.",Laki-laki,III/d,IV.a
+126,Lurah Pungkur,Kelurahan Pungkur,Drs.Agus Saptono,Laki-laki,III/d,IV.a
+127,Lurah Ciateul,Kelurahan Ciateul,Matahun Binairi DS,Perempuan,III/d,IV.a
+128,Lurah Balonggede,Kelurahan Balonggede,"Muhamad Sohib, S.Ip.",Laki-laki,III/d,IV.a
+129,Lurah Kel. Ancol,Kelurahan Ancol,"Budi Haedar Mukti, S.Sos.",Laki-laki,III/d,IV.a
+130,Lurah Cigereleng,Kelurahan Cigereleng,"Asep Yuda Hasanudin, S.Pd.",Laki-laki,III/c,IV.a
+131,Lurah Pasteur,Kelurahan Pasteur,Kuniya,Laki-laki,III/d,IV.a
+132,Lurah Sukagalih,Kelurahan Sukagalih,"Aep Sahri, S.Sos.",Laki-laki,IV/a,IV.a
+133,Lurah Cipedes,Kelurahan Cipedes,"Dedi Rustandi, S.H.",Laki-laki,III/d,IV.a
+134,Lurah Sukabungah,Kelurahan Sukabungah,"Nani Mulyani, S.AP.",Perempuan,III/d,IV.a
+135,Lurah Sukawarna,Kelurahan Sukawarna,"Raden Nana Hadiana, S.E., M.M.",Laki-laki,III/d,IV.a
+136,Lurah Sukarasa,Kelurahan Sukarasa,"Nur Amir Nurdin, A.Md.",Laki-laki,III/c,IV.a
+137,Lurah Sarijadi,Kelurahan Sarijadi,"Evi Sjopiah Tusti, S.AP., M.AP.",Perempuan,III/d,IV.a
+138,Lurah Isola,Kelurahan Isola,"Irvan Alamsyah, S.IP.",Laki-laki,III/c,IV.a
+139,Lurah Kebon Pisang,Kelurahan Kebon Pisang,"Bayu Wiranta, S.E.",Laki-laki,III/d,IV.a
+140,Lurah Braga,Kelurahan Braga,"Dra.Yunika Wihastini, M.Si",Perempuan,III/d,IV.a
+141,Lurah Babakan Ciamis,Kelurahan Babakan Ciamis,"Doni Hansyah, S.STP.",Laki-laki,III/d,IV.a
+142,Lurah Pasanggrahan,Kelurahan Pasanggrahan,"Amirudin, S.Sos., M.M.",Laki-laki,IV/a,IV.a
+143,Lurah Pasirendah,Kelurahan Pasirendah,Karsono Adi Suseno,Laki-laki,III/d,IV.a
+144,Lurah Cigending,Kelurahan Cigending,"Karna Suherman, S.T., M.M.",Laki-laki,III/d,IV.a
+145,Lurah Pasirjati,Kelurahan Pasirjati,Dra.Omi Rusmiati,Perempuan,III/d,IV.a
+146,Lurah Pasirwangi,Kelurahan Pasirwangi,"Meli Susanti, A.Ks",Perempuan,III/d,IV.a
+147,Camat Andir,Kecamatan Andir,"Dr. H.Enjang Mulyana, M.Si.",Laki-laki,IV/b,III.a
+148,Camat Antapani,Kecamatan Antapani,"Dra.Rahmawati Mulia, M.Si",Perempuan,IV/a,III.a
+149,Camat Arcamanik,Kecamatan Arcamanik,"Drs.Firman Nugraha, M.M.",Laki-laki,IV/b,III.a
+150,Camat Astana Anyar,Kecamatan Astana Anyar,Drs.Syukur Sabar,Laki-laki,IV/b,III.a
+151,Camat Babakan Ciparay,Kecamatan Babakan Ciparay,"Drs.Momon Ahmad Imron Sutisna, M.M.",Laki-laki,IV/b,III.a
+152,Camat Bandung Kidul,Kecamatan Bandung Kidul,"Evi Hendarin, S.Sos., M.AP.",Laki-laki,IV/b,III.a
+153,Camat Bandung Kulon,Kecamatan Bandung Kulon,"Drs.Asmara Hadi, MO., M.AP.",Laki-laki,IV/a,III.a
+154,Camat Bandung Wetan,Kecamatan Bandung Wetan,Drs.Hilda Hendrawan,Laki-laki,IV/b,III.a
+155,Camat Batununggal,Kecamatan Batununggal,Drs.Tarya,Laki-laki,IV/b,III.a
+156,Camat Bojongloa Kaler,Kecamatan Bojongloa Kaler,Drs.Ayi Sutarsa,Laki-laki,IV/b,III.a
+157,Camat Bojongloa Kidul,Kecamatan Bojongloa Kidul,"Dra.Aniya Rachmawati Soerya Poetri, M.Si.",Perempuan,IV/b,III.a
+158,Camat Buahbatu,Kecamatan Buahbatu,"Drs.Denny Sany, M.Si.",Laki-laki,IV/b,III.a
+159,Camat Cibeunying Kaler,Kecamatan Cibeunying Kaler,"Drs.Suardi, M.M.",Laki-laki,IV/a,III.a
+160,Camat Cibeunying Kidul,Kecamatan Cibeunying Kidul,"Drs. H.Aris Rusdianto, M.Si",Laki-laki,IV/b,III.a
+161,Camat Cibiru,Kecamatan Cibiru,Drs.Didin Dikayuana,Laki-laki,IV/a,III.a
+162,Camat Cicendo,Kecamatan Cicendo,"Drs. Bira Gumbira, S.STP., M.Si.",Laki-laki,IV/a,III.a
+163,Camat Cidadap,Kecamatan Cidadap,"H. Yasa Hanafiah, SE., M.M.",Laki-laki,IV/b,III.a
+164,Camat Cinambo,Kecamatan Cinambo,"Drs.DADANG IRADI, M.Pd. ",Laki-laki,IV/b,III.a
+165,Camat Coblong,Kecamatan Coblong,"Krinda Hamidipradja, S.H., M.Si.",Laki-laki,IV/a,III.a
+166,Camat Gedebage,Kecamatan Gedebage,"Dodit Ardian Pancapana, S.T., M.Sc.",Laki-laki,IV/b,III.a
+167,Camat Kiaracondong,Kecamatan Kiaracondong,"Dra.RINA DEWI YANTI, M.Si.",Perempuan,IV/b,III.a
+168,Camat Lengkong,Kecamatan Lengkong,"Tubagus Agus Mulyadi, S.Sos.",Laki-laki,IV/b,III.a
+169,Camat Mandalajati,Kecamatan Mandalajati,"Drs.Pepen Efendi, M.Si.",Laki-laki,IV/b,III.a
+170,Camat Panyileukan,Kecamatan Panyileukan,Drs.Hamdani,Laki-laki,IV/b,III.a
+171,Camat Rancasari,Kecamatan Rancasari,"Dra.Sri Kurniasih, M.Si.",Perempuan,IV/b,III.a
+172,Camat Regol,Kecamatan Regol,"Drs.Iwan Sumaryana, M.M.",Laki-laki,IV/b,III.a
+173,Camat Sukajadi,Kecamatan Sukajadi,Drs. Yudy Hermawan,Laki-laki,IV/b,III.a
+174,Camat Sukasari,Kecamatan Sukasari,"Drs. H.Raden Sarjani Saleh, M.Si.",Laki-laki,IV/b,III.a
+175,Camat Sumur Bandung,Kecamatan Sumur Bandung,"Dra. Hj.Sri Mayaningsih, M.Si.",Perempuan,IV/b,III.a
+176,Camat Ujungberung,Kecamatan Ujungberung,"Drs.Taufik, M.M.",Laki-laki,IV/b,III.a
+177,Sekretaris Daerah,Sekretariat Daerah,"Drs. H. Ema Sumarna, M.Si.",Laki-laki,IV/c,II.a
+178,Asisten Pemerintahan dan Kesra,Sekretariat Daerah,"Drs.Priana Wirasaputra, M.M.",Laki-laki,IV/c,II.b
+179,Staf Ahli Walikota Bidang Kemasyarakatan dan Sumber Daya Manusia,Sekretariat Daerah,"Drs.Kelly Solihin, M.Si.",Laki-laki,IV/c,II.b
+180,Asisten Administrasi Umum dan Kepegawaian,Sekretariat Daerah,"Dadang Gantina, S.H., M.AP.",Laki-laki,IV/c,II.b
+181,"Staf Ahli Walikota Bidang Pembangunan, Ekonomi dan Keuangan",Sekretariat Daerah,"H.Dodi Ridwansyah, S.Sos, M.Si",Laki-laki,IV/c,II.b
+182,"Staf Ahli Walikota Bidang Pemerintahan, Hukum dan Politik",Sekretariat Daerah,"Dr.Asep Cucu Cahyadi, M.Si",Laki-laki,IV/c,II.b
+183,Asisten Perekonomian dan Pembangunan,Sekretariat Daerah,"Eric Mohamad Atthauriq, S.H.",Laki-laki,IV/c,II.b
+184,Sekretaris Dewan Perwakilan Rakyat Daerah,Sekretariat Dewan Perwakilan Rakyat Daerah,"Mohamad Salman Fauzi, S.Ip., M.Si.",Laki-laki,IV/c,II.b
+185,Inspektur,Inspektorat,"Drs.H.Fajar Kurniawan, M.Si.",Laki-laki,IV/c,II.b
+186,"Kepala Badan Kepegawaian, Pendidikan dan Pelatihan","Badan Kepegawaian, Pendidikan dan Pelatihan","Y. Ahmad Brilyana, S.Sos., M.Si. ",Laki-laki,IV/c,II.b
+187,Kepala Badan Kesatuan Bangsa dan Politik,Badan Kesatuan Bangsa dan Politik,"H. Entol Akhmad Ferdi Ligaswara, S.H., M.H.",Laki-laki,IV/c,II.b
+188,Kepala Badan Pengelolaan Keuangan dan Aset,Badan Pengelolaan Keuangan dan Aset,"Drs. H.Dadang Supriatna, M.H.",Laki-laki,IV/c,II.b
+189,Kepala Badan Pengelolaan Pendapatan Daerah,Badan Pengelolaan Pendapatan Daerah,"Ir. H. Arif Prasetya S, M.M.",Laki-laki,IV/c,II.b
+190,"Kepala Badan Perencanaan Pembangunan, Penelitian dan Pengembangan","Badan Perencanaan Pembangunan, Penelitian dan Pengembangan","dr.Ahyani Raksanagara, M.Kes.",Perempuan,IV/c,II.b
+191,Kepala Dinas Kebakaran dan Penanggulangan Bencana,Dinas Kebakaran dan Penanggulangan Bencana,"H.Dadang Iriana, S.H., M.Si.",Laki-laki,IV/c,II.b
+192,Kepala Dinas Kebudayaan dan Pariwisata,Dinas Kebudayaan dan Pariwisata,"Dewi Kaniasari, S.Sos., M.A.",Perempuan,IV/b,II.b
+193,Kepala Dinas Kependudukan dan Pencatatan Sipil,Dinas Kependudukan dan Pencatatan Sipil,"Dra.Popong Warliati Nuraeni, M.MPd.",Perempuan,IV/c,II.b
+194,Kepala Dinas Kesehatan,Dinas Kesehatan,"dr. Hj.Rita Verita Sri Hasniarty, M.M., MH.Kes.",Perempuan,IV/c,II.b
+195,Kepala Dinas Komunikasi dan Informatika,Dinas Komunikasi dan Informatika,"Anton Sunarwibowo, S.T., M.T.",Laki-laki,IV/b,II.b
+196,"Kepala Dinas Koperasi, Usaha Mikro, Kecil dan Menengah","Dinas Koperasi, Usaha Mikro, Kecil dan Menengah",Drs.Atet Dedi Handiman,Laki-laki,IV/b,II.b
+197,Kepala Dinas Lingkungan Hidup dan Kebersihan,Dinas Lingkungan Hidup dan Kebersihan,"Dr.Kamalia Purbani, M.T.",Perempuan,IV/c,II.b
+198,Kepala Dinas Pangan dan Pertanian,Dinas Pangan dan Pertanian,"Ir.Gin Gin Ginanjar, M.Eng.",Laki-laki,IV/b,II.b
+199,Kepala Dinas Pekerjaan Umum,Dinas Pekerjaan Umum,"Ir.Didi Ruswandi, M.T.",Laki-laki,IV/c,II.b
+200,"Kepala Dinas Pemberdayaan Perempuan, Perlindungan Anak, dan Pemberdayaan Masyarakat","Dinas Pemberdayaan Perempuan, Perlindungan Anak, dan Pemberdayaan Masyarakat","H. Tatang Muhtar, S.Sos., M.Si.",Laki-laki,IV/b,II.b
+201,Kepala Dinas Pemuda dan Olahraga,Dinas Pemuda dan Olahraga,"Drs.H. Eddy Marwoto, M.Si.",Laki-laki,IV/c,II.b
+202,Kepala Dinas Penanaman Modal dan PTSP,Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu,Drs.Ronny Ahmad Nurudin,Laki-laki,IV/b,II.b
+203,Kepala Dinas Penataan Ruang,Dinas Penataan Ruang,"H.Iskandar Zulkarnain, S.T., M.M.",Laki-laki,IV/c,II.b
+204,Kepala Dinas Pendidikan,Dinas Pendidikan,"Drs.Hikmat Ginanjar, M.Si. ",Laki-laki,IV/c,II.b
+205,Kepala Dinas Pengendalian Kependudukan dan Keluarga Berencana,Dinas Pengendalian Penduduk dan Keluarga Berencana,"Drs. H.Andri Darusman, M.Si.",Laki-laki,IV/b,II.b
+206,Kepala Dinas Perdagangan dan Perindustrian,Dinas Perdagangan dan Perindustrian,Ir. Hj.Elly Wasliah,Perempuan,IV/c,II.b
+207,Kepala Dinas Perhubungan,Dinas Perhubungan,"E.M. Ricky Gustiadi, ATD., S.E., M.T.",Laki-laki,IV/c,II.b
+208,Kepala Dinas Perpustakaan dan Kearsipan,Dinas Perpustakaan dan Kearsipan,"Dr. H.A. Maryun Sastrakusumah, M.H.",Laki-laki,IV/c,II.b
+209,"Kepala Dinas Perumahan dan Kawasan Permukiman, Pertanahan dan Pertamanan","Dinas Perumahan dan Kawasan Permukiman, Pertanahan dan Pertamanan","Ir. H. Dadang Darmawan, M.Si. ",Laki-laki,IV/b,II.b
+210,Kepala Dinas Sosial dan Penanggulangan Kemiskinan,Dinas Sosial dan Penanggulangan Kemiskinan,"Dr. Tono Rusdiantono Hendroyono, M.Si. ",Laki-laki,IV/c,II.b
+211,Kepala Dinas Tenaga Kerja,Dinas Tenaga Kerja,"Drs.Arief Syaifudin, S.H.",Laki-laki,IV/c,II.b
+212,Kepala Satuan Polisi Pamong Praja,Satuan Polisi Pamong Praja,"Rasdian Setiadi, S.IP.",Laki-laki,IV/c,II.b

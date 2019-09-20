@@ -1,0 +1,37 @@
+bulan,tahun,kamar,kode_icd,nama_penyakit,kelompok_usia_bayi,kelompok_usia_balita,kelompok_usia_anak,kelompok_usia_dewasa,kelompok_usia_manula
+Apr,2019,gawat darurat,A90,Dengue fever (classical dengue),1,13,22,64,6
+Apr,2019,gawat darurat,N39.0,"Urinary tract infection, site not specified",0,2,2,42,7
+Apr,2019,klinik akupuntur,J45.9,"Asthma, unspecified",0,0,0,0,2
+Apr,2019,klinik akupuntur,K29.7,"Gastritis, unspecified",0,0,0,0,1
+Apr,2019,klinik akupuntur,L70.9,"Acne, unspecified",0,0,0,0,1
+Apr,2019,klinik akupuntur,M54.12,"Radiculopathy, cervical region",0,0,0,3,0
+Apr,2019,klinik akupuntur,T67.0,Effects of heatstroke and sunstroke,0,0,0,3,0
+Apr,2019,klinik anak,A91,Dengue haemorrhagic fever,1,8,16,6,0
+Apr,2019,klinik anak,Z11.1,Special screening examination for respiratory tuberculosis,6,19,15,2,0
+Apr,2019,klinik bedah anak,N43.1,Infected hydrocele,0,0,2,0,0
+Apr,2019,klinik bedah anak,Q54.9,"Hypospadias, unspecified",0,0,2,0,0
+Apr,2019,klinik bedah mulut,D16.5,Benign neoplasm of lower jaw bone,0,0,0,1,0
+Apr,2019,klinik bedah mulut,D68.9,"Coagulation defect, unspecified",0,0,0,1,0
+Apr,2019,klinik bedah mulut,I88.8,Other nonspecific lymphadenitis,0,0,0,2,0
+Apr,2019,klinik bedah mulut,K07.4,"Malocclusion, unspecified",0,0,0,3,0
+Apr,2019,klinik bedah syaraf,G50.0,Trigeminal neuralgia,0,0,0,0,1
+Apr,2019,klinik bedah syaraf,G91.9,"Hydrocephalus, unspecified",0,0,0,1,0
+Apr,2019,klinik bedah syaraf,I28.0,Arteriovenous fistula of pulmonary vessels,0,0,0,1,0
+Apr,2019,klinik bedah syaraf,Z03.9,"Observation for suspected disease or condition, unspecified",0,0,0,2,0
+Apr,2019,klinik dalam,N18.9,"Chronic renal failure, unspecified",0,0,0,19,49
+Apr,2019,Klinik Jantung,I50.9,"Heart failure, unspecified",0,0,0,0,1
+Apr,2019,Klinik Jantung,R07.4,"Chest pain, unspecified",0,0,0,2,1
+Apr,2019,klinik kandungan,M65.23,"Calcific tendinitis, forearm",0,0,0,11,0
+Apr,2019,klinik kemuning,A02.0,Salmonella enteritis,0,0,0,3,0
+Apr,2019,klinik kemuning,B20.9,HIV disease resulting in unspecified infectious or parasitic disease,0,0,0,217,0
+Apr,2019,klinik mata,H10.3,"Acute conjunctivitis, unspecified",0,1,3,12,0
+Apr,2019,klinik mata,H11.3,Conjunctival haemorrhage,0,0,1,2,4
+Apr,2019,klinik mata,H53.8,Other visual disturbances,0,0,3,2,2
+Apr,2019,klinik orthopedi,A18.0,Tuberculosis of bones and joints,0,0,0,4,0
+Apr,2019,klinik orthopedi,S82.40,"Fracture of fibula alone, closed",0,0,0,3,2
+Apr,2019,klinik psikiatri,F06.8,Other specified mental disorders due to brain damage and dysfunction and to physical disease,0,0,0,1,0
+Apr,2019,klinik psikiatri,F31.0,"Bipolar affective disorder, current episode hypomanic",0,0,0,1,0
+Apr,2019,klinik psikiatri,F33.0,"Recurrent depressive disorder, current episode mild",0,0,0,0,2
+Apr,2019,klinik rehab medik,M25.51,"Pain in joint, shouder region",0,0,0,32,24
+Apr,2019,klinik tht,Z01.1,Examination of ears and hearing,3,0,0,21,0
+Apr,2019,klinik vct,B20.9,HIV disease resulting in unspecified infectious or parasitic disease,0,0,0,7,0

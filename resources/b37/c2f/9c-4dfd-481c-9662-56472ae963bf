@@ -1,0 +1,50 @@
+Bulan,Tahun,Jenis Kamar,Kode ICD,Nama Penyakit,Laki-laki,Perempuan
+April,2018,Gawat Darurat,A09,Diarrhoea And Gastroenteritis Of Presumed Infectious Origin,110,113
+April,2018,Gawat Darurat,J45.9,"Asthma, Unspecified",144,175
+April,2018,Gawat Darurat,K30,Dyspepsia,149,262
+April,2018,Gawat Darurat,R06.0,Dyspnoea,25,22
+April,2018,Gawat Darurat,R10.4,Other And Unspecified Abdominal Pain,50,56
+April,2018,Gawat Darurat,R11,Nausea And Vomiting,23,23
+April,2018,Gawat Darurat,R50.9,"Fever, Unspecified",576,524
+April,2018,Gawat Darurat,T14.1,Open Wound Of Unspecified Body Region,105,56
+April,2018,Gawat Darurat,Z03.9,"Observation For Suspected Disease Or Condition, Unspecified",93,92
+April,2018,Klinik Akupuntur,E10.9,Insulin-Dependent Diabetes Mellitus Without Complications,1,0
+April,2018,Klinik Akupuntur,E66.8,Other Obesity,0,4
+April,2018,Klinik Akupuntur,E66.9,"Obesity, Unspecified",0,9
+April,2018,Klinik Akupuntur,G47.0,Disorders Of Initiating And Maintaining Sleep [Insomnias],2,0
+April,2018,Klinik Akupuntur,H81.4,Vertigo Of Central Origin,0,5
+April,2018,Klinik Akupuntur,M10.07,"Idiopathic Gout, Ankle And Foot",2,0
+April,2018,Klinik Akupuntur,M17.9,"Gonarthrosis, Unspecified",2,7
+April,2018,Klinik Akupuntur,M54.5,Low Back Pain,5,2
+April,2018,Klinik Akupuntur,N97.9,"Female Infertility, Unspecified",0,5
+April,2018,Klinik Anak,A15.3,"Tuberculosis Of Lung, Confirmed By Unspecified Means",47,31
+April,2018,Klinik Anak,A18.2,Tuberculous Peripheral Lymphadenopathy,21,17
+April,2018,Klinik Bedah Anak,D24,Benign Neoplasm Of Breast,0,3
+April,2018,Klinik Bedah Anak,N47,"Redundant Prepuce, Phimosis And Paraphimosis",6,0
+April,2018,Klinik Bedah Anak,Q54.1,"Hypospadias, Penile",10,0
+April,2018,Klinik Bedah Mulut,D37.0,"Neoplasm Of Uncertain Or Unknown Behavior Of Lip, Oral Cavity And Pharynx",1,1
+April,2018,Klinik Bedah Mulut,Q37.1,Cleft Hard Palate With Unilateral Cleft Lip,3,0
+April,2018,Klinik Bedah Syaraf,M54.5,Low Back Pain,2,0
+April,2018,Klinik Bedah Syaraf,S09.8,Other Specified Injuries Of Head,8,3
+April,2018,Klinik Dalam,E11.7,Non-Insulin-Dependent Diabetes Mellitus With Multiple Complications,40,62
+April,2018,Klinik Dalam,K30,Dyspepsia,28,50
+April,2018,Klinik Dalam,N18.0,End-Stage Renal Disease,30,38
+April,2018,Klinik Gizi,E11.9,Non-Insulin-Dependent Diabetes Mellitus Without Complications,5,9
+April,2018,Klinik Gizi,M06.09,"Seronegative Rheumatoid Arthritis, Unspecified Site",0,1
+April,2018,Klinik Jantung,I20.9,"Angina Pectoris, Unspecified",3,0
+April,2018,Klinik Jantung,M54.5,Low Back Pain,2,0
+April,2018,Klinik Kandungan,O15.0,Eclampsia In Pregnancy,0,16
+April,2018,Klinik Konservasi Gigi,K04.0,Pulpitis,10,19
+April,2018,Klinik Konservasi Gigi,K04.1,Necrosis Of Pulp,28,46
+April,2018,Klinik Konservasi Gigi,K04.7,Periapical Abscess Without Sinus,1,1
+April,2018,Klinik Konservasi Gigi,K05.0,Acute Gingivitis,1,0
+April,2018,Klinik Mata,Z96.1,Presence Of Intraocular Lens,71,85
+April,2018,Klinik Orthopedi,M21.75,"Unequal Limb Length (Acquired), Pelvic And Thigh",3,2
+April,2018,Klinik Orthopedi,M54.17,"Radiculopathy, Lumbosacral Region",2,5
+April,2018,Klinik Orthopedi,S52.6,Fracture Of Lower End Of Both Ulna And Radius,0,6
+April,2018,Klinik Orthopedi,S67.0,Crushing Injury Of Thumb And Other Finger(S),7,0
+April,2018,Klinik Psikiatri,F20.5,Residual Schizophrenia,2,6
+April,2018,Klinik Rehab Medik,M65.34,"Trigger Finger, Hand",5,56
+April,2018,Klinik Rehab Medik,M72.57,"Fasciitis, Not Elsewhere Classified, Ankle And Foot",11,88
+April,2018,Klinik Tht,H65.1,Other Acute Nonsuppurative Otitis Media,15,13
+April,2018,Klinik Tht,J02.9,"Acute Pharyngitis, Unspecified",13,17

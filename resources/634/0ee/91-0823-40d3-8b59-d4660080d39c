@@ -1,0 +1,95 @@
+Bulan,Tahun,Jenis Kamar,Kode ICD,Nama Penyakit,Kelompok Usia Bayi,Kelompok Usia Balita,Kelompok Usia Anak,Kelompok Usia Dewasa,Kelompok Usia Manula
+Maret,2017,Gawat Darurat,A09,Diarrhoea And Gastroenteritis Of Presumed Infectious Origin,33,49,15,98,60
+Maret,2017,Gawat Darurat,J45.9,"Asthma, Unspecified",4,14,64,147,51
+Maret,2017,Gawat Darurat,K30,Dyspepsia,0,0,20,301,120
+Maret,2017,Gawat Darurat,O14.1,Severe Pre-Eclampsia,0,0,0,26,0
+Maret,2017,Gawat Darurat,O26.0,Excessive Weight Gain In Pregnancy,0,0,0,30,0
+Maret,2017,Gawat Darurat,O42.0,"Premature Rupture Of Membranes, Onset Of Labour Within 24 Hours",0,0,1,240,0
+Maret,2017,Gawat Darurat,O80.0,Spontaneous Vertex Delivery,0,0,0,85,0
+Maret,2017,Gawat Darurat,O82.1,Delivery By Emergency Caesarean Section,0,0,0,27,0
+Maret,2017,Gawat Darurat,R50.9,"Fever, Unspecified",54,208,296,470,89
+Maret,2017,Gawat Darurat,T14.1,Open Wound Of Unspecified Body Region,0,14,19,110,16
+Maret,2017,Klinik Akupuntur,A88.1,Epidemic Vertigo,0,0,0,0,1
+Maret,2017,Klinik Akupuntur,E66.8,Other Obesity,0,0,0,0,3
+Maret,2017,Klinik Akupuntur,E78.0,Pure Hypercholesterolaemia,0,0,0,9,0
+Maret,2017,Klinik Akupuntur,L70.0,Acne Vulgaris,0,0,0,15,0
+Maret,2017,Klinik Akupuntur,L80,Vitiligo,0,0,0,2,0
+Maret,2017,Klinik Akupuntur,L81.4,Other Melanin Hyperpigmentation,0,0,0,5,10
+Maret,2017,Klinik Akupuntur,M06.9,"Rheumatoid Arthritis, Unspecified",0,0,0,0,6
+Maret,2017,Klinik Akupuntur,M54.52,"Low Back Pain, Cervical Region",0,0,0,0,2
+Maret,2017,Klinik Akupuntur,M79.1,Myalgia,0,0,0,10,0
+Maret,2017,Klinik Akupuntur,M79.24,"Neuralgia And Neuritis, Unspecified, Hand",0,0,0,2,0
+Maret,2017,Klinik Anak,J06.9,"Acute Upper Respiratory Infection, Unspecified",51,85,65,4,0
+Maret,2017,Klinik Anak,Z03.0,Observation For Suspected Tuberculosis,16,40,62,0,1
+Maret,2017,Klinik Anak,Z24.0,Need For Immunization Against Poliomyelitis,44,0,0,0,0
+Maret,2017,Klinik Anak,Z38.0,"Singleton, Born In Hospital",110,0,0,0,0
+Maret,2017,Klinik Bedah Anak,D18.0,"Haemangioma, Any Site",2,2,0,0,0
+Maret,2017,Klinik Bedah Anak,D21.9,"Other Benign Neoplasm Of Connective And Other Soft Tissue, Unspecified",9,25,26,2,0
+Maret,2017,Klinik Bedah Anak,Q43.1,Hirschsprung Disease,13,10,11,0,0
+Maret,2017,Klinik Bedah Anak,Q53.9,"Undescended Testicle, Unspecified",0,0,3,0,0
+Maret,2017,Klinik Bedah Anak,Q54.1,"Hypospadias, Penile",1,8,14,0,0
+Maret,2017,Klinik Bedah Anak,T30.0,"Burn Of Unspecified Body Region, Unspecified Degree",0,1,1,0,0
+Maret,2017,Klinik Bedah Anak,Z00.0,General Medical Examination,45,49,86,1,0
+Maret,2017,Klinik Bedah Mulut,K06.8,Other Specified Disorders Of Gingiva And Edentulous Alveolar Ridge,0,0,0,7,0
+Maret,2017,Klinik Bedah Mulut,K09.0,Developmental Odontogenic Cysts,0,0,2,3,0
+Maret,2017,Klinik Bedah Mulut,Q37.1,Cleft Hard Palate With Unilateral Cleft Lip,1,0,0,3,0
+Maret,2017,Klinik Bedah Syaraf,D21.9,"Other Benign Neoplasm Of Connective And Other Soft Tissue, Unspecified",0,2,0,12,2
+Maret,2017,Klinik Bedah Syaraf,G40.9,"Epilepsy, Unspecified",0,0,1,0,0
+Maret,2017,Klinik Bedah Syaraf,G91.9,"Hydrocephalus, Unspecified",0,1,0,3,0
+Maret,2017,Klinik Bedah Syaraf,M51.2,Other Specified Intervertebral Disc Displacement,0,0,0,2,1
+Maret,2017,Klinik Bedah Syaraf,M54.1,Radiculopathy,0,0,0,0,1
+Maret,2017,Klinik Bedah Syaraf,M54.17,"Radiculopathy, Lumbosacral Region",0,0,0,0,1
+Maret,2017,Klinik Bedah Syaraf,R90.0,Intracranial Space-Occupying Lesion,0,1,0,11,9
+Maret,2017,Klinik Bedah Syaraf,Z00.0,General Medical Examination,8,14,9,101,65
+Maret,2017,Klinik Dahlia,N18.0,End-Stage Renal Disease,0,0,0,192,232
+Maret,2017,Klinik Dalam,A15.9,"Respiratory Tuberculosis Unspecified, Confirmed Bacteriologically And Histologically",0,0,0,164,56
+Maret,2017,Klinik Dalam,I11.9,Hypertensive Heart Disease Without (Congestive) Heart Failure,0,0,0,55,217
+Maret,2017,Klinik Dalam,I25.1,Atherosclerotic Heart Disease,0,0,0,12,54
+Maret,2017,Klinik Dalam,J40,"Bronchitis, Not Specified As Acute Or Chronic",0,0,0,25,25
+Maret,2017,Klinik Dalam,J44.9,"Chronic Obstructive Pulmonary Disease, Unspecified",0,0,0,53,182
+Maret,2017,Klinik Dalam,K29.0,Acute Haemorrhagic Gastritis,0,0,0,42,20
+Maret,2017,Klinik Dalam,Z00.0,General Medical Examination,0,0,0,59,28
+Maret,2017,Klinik Gigi,K00.6,Disturbances In Tooth Eruption,0,0,32,2,0
+Maret,2017,Klinik Gigi,K02.9,"Dental Caries, Unspecified",0,0,19,28,13
+Maret,2017,Klinik Gizi,E66.9,"Obesity, Unspecified",0,0,0,5,1
+Maret,2017,Klinik Jantung,E11.9,Non-Insulin-Dependent Diabetes Mellitus Without Complications,0,0,0,0,3
+Maret,2017,Klinik Jantung,I20.9,"Angina Pectoris, Unspecified",0,0,0,0,5
+Maret,2017,Klinik Jantung,I21.9,"Acute Myocardial Infarction, Unspecified",0,0,0,5,4
+Maret,2017,Klinik Jantung,I25.0,"Atherosclerotic Cardiovascular Disease, So Described",0,0,0,54,144
+Maret,2017,Klinik Jantung,I69.4,"Sequelae Of Stroke, Not Specified As Haemorrhage Or Infarction",0,0,0,2,0
+Maret,2017,Klinik Jantung,K21.0,Gastro-Oesophageal Reflux Disease With Oesophagitis,0,0,0,28,64
+Maret,2017,Klinik Kandungan,D25.9,"Leiomyoma Of Uterus, Unspecified",0,0,0,55,2
+Maret,2017,Klinik Kandungan,N93.8,Other Specified Abnormal Uterine And Vaginal Bleeding,0,0,2,31,2
+Maret,2017,Klinik Kandungan,O82.2,Delivery By Caesarean Hysterectomy,0,0,0,22,0
+Maret,2017,Klinik Kandungan,Z03.8,Observation For Other Suspected Diseases And Conditions,0,0,0,36,0
+Maret,2017,Klinik Kandungan,Z09.0,Follow-Up Examination After Surgery For Other Conditions,1,0,1,256,0
+Maret,2017,Klinik Kemuning,B20.0,Hiv Disease Resulting In Mycobacterial Infection,0,0,0,472,5
+Maret,2017,Klinik Kemuning,B20.1,Hiv Disease Resulting In Other Bacterial Infections,0,0,0,10,0
+Maret,2017,Klinik Mata,H40.1,Primary Open-Angle Glaucoma,0,0,0,11,59
+Maret,2017,Klinik Mata,H52.0,Hypermetropia,0,0,0,18,52
+Maret,2017,Klinik Orthopedi,D21.1,"Other Benign Neoplasm Of Connective And Other Soft Tissue Of Upper Limb, Including Shoulder",0,0,0,8,0
+Maret,2017,Klinik Orthopedi,D36.9,Benign Neoplasm Of Unspecified Site,0,0,0,6,2
+Maret,2017,Klinik Orthopedi,M17.0,"Primary Gonarthrosis, Bilateral",0,0,0,15,37
+Maret,2017,Klinik Orthopedi,M17.1,Other Primary Gonarthrosis,0,0,0,16,24
+Maret,2017,Klinik Orthopedi,M54.57,"Low Back Pain, Lumbosacral Region",0,0,0,5,18
+Maret,2017,Klinik Orthopedi,R02,"Gangrene, Not Elsewhere Classified",0,2,0,24,19
+Maret,2017,Klinik Orthopedi,S42.40,"Fracture Of Lower End Of Humerus, Closed",0,2,5,3,4
+Maret,2017,Klinik Psikiatri,F31.1,"Bipolar Affective Disorder, Current Episode Manic Without Psychotic Symptoms",0,0,0,10,1
+Maret,2017,Klinik Psikiatri,F99,"Mental Disorder, Not Otherwise Specified",0,0,0,65,13
+Maret,2017,Klinik Psikiatri,Z04.0,Blood-Alcohol And Blood-Drug Test,0,0,0,371,8
+Maret,2017,Klinik Rehab Medik,M25.56,"Pain In Joint, Lower Leg",0,0,0,208,343
+Maret,2017,Klinik Rehab Medik,M54.16,"Radiculopathy, Lumbar Region",0,0,0,67,116
+Maret,2017,Klinik Rehab Medik,M54.17,"Radiculopathy, Lumbosacral Region",0,0,0,69,71
+Maret,2017,Klinik Rehab Medik,M54.56,"Low Back Pain, Lumbar Region",0,0,3,108,96
+Maret,2017,Klinik Rehab Medik,M54.57,"Low Back Pain, Lumbosacral Region",0,0,0,43,35
+Maret,2017,Klinik Rehab Medik,M79.10,"Myalgia, Multiple Sites",0,0,0,120,71
+Maret,2017,Klinik Rehab Medik,R62.0,Delayed Milestone,19,181,12,0,0
+Maret,2017,Klinik Syaraf,G50.0,Trigeminal Neuralgia,0,0,0,5,38
+Maret,2017,Klinik Syaraf,G56.0,Carpal Tunnel Syndrome,0,0,0,37,24
+Maret,2017,Klinik Syaraf,M77.3,Calcaneal Spur,0,0,0,15,10
+Maret,2017,Klinik Tht,H65.3,Chronic Mucoid Otitis Media,0,8,7,15,4
+Maret,2017,Klinik Tht,J31.0,Chronic Rhinitis,0,0,3,26,4
+Maret,2017,Klinik Tht,J32.0,Chronic Maxillary Sinusitis,0,0,5,22,0
+Maret,2017,Klinik Tht,J35.1,Hypertrophy Of Tonsils,0,3,17,21,0
+Maret,2017,Klinik Tht,Z00.0,General Medical Examination,0,0,0,34,1
+Maret,2017,Klinik Vct,B20.0,Hiv Disease Resulting In Mycobacterial Infection,0,0,0,41,0
