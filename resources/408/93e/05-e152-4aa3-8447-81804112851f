@@ -1,0 +1,256 @@
+KODE REKENING,URAIAN,JUMLAH,DASAR HUKUM
+1.03 . 1.03.01 . 00 . 00 . 4,PENDAPATAN,198889000,-
+1.03 . 1.03.01 . 00 . 00 . 4 . 1,PENDAPATAN ASLI DAERAH,198889000,-
+1.03 . 1.03.01 . 00 . 00 . 4 . 1 . 4,Lain-lain Pendapatan Asli Daerah yang Sah,198889000,-
+1.03 . 1.03.01 . 00 . 00 . 5,BELANJA,902137000000,-
+1.03 . 1.03.01 . 00 . 00 . 5 . 1,BELANJA TIDAK LANGSUNG,23947742318,-
+1.03 . 1.03.01 . 00 . 00 . 5 . 1 . 1,Belanja Pegawai,23947742318,PP 12 Tahun 2006 ttg Tunjangan Umum bagi PNS
+1.03 . 1.03.01 . 01 . 02 . 5 . 2,BELANJA LANGSUNG,878189000000,-
+1.03 . 1.03.01 . 01,Program Pelayanan Administrasi Perkantoran,5564500000,-
+1.03 . 1.03.01 . 01 . 02,Penyediaan jasa komunikasi sumber daya air dan listrik,1205000000,-
+1.03 . 1.03.01 . 01 . 02 . 5 . 2 . 2,Belanja Barang dan Jasa,1205000000,-
+1.03 . 1.03.01 . 01 . 08,Penyediaan jasa kebersihan kantor,443750000,-
+1.03 . 1.03.01 . 01 . 08 . 5 . 2 . 1,Belanja Pegawai,20750000,-
+1.03 . 1.03.01 . 01 . 08 . 5 . 2 . 2,Belanja Barang dan Jasa,423000000,-
+1.03 . 1.03.01 . 01 . 09,Penyediaan jasa perbaikan peralatan kerja,150000000,-
+1.03 . 1.03.01 . 01 . 09 . 5 . 2 . 1,Belanja Pegawai,15750000,-
+1.03 . 1.03.01 . 01 . 09 . 5 . 2 . 2,Belanja Barang dan Jasa,134250000,-
+1.03 . 1.03.01 . 01 . 10,Penyediaan alat tulis kantor,250000000,-
+1.03 . 1.03.01 . 01 . 10 . 5 . 2 . 1,Belanja Pegawai,15750000,-
+1.03 . 1.03.01 . 01 . 10 . 5 . 2 . 2,Belanja Barang dan Jasa,234250000,-
+1.03 . 1.03.01 . 01 . 11,Penyediaan barang cetakan dan penggandaan,350000000,-
+1.03 . 1.03.01 . 01 . 11 . 5 . 2 . 1,Belanja Pegawai,19750000,-
+1.03 . 1.03.01 . 01 . 11 . 5 . 2 . 2,Belanja Barang dan Jasa,330250000,-
+1.03 . 1.03.01 . 01 . 12,Penyediaan komponen instalasi listrik/penerangan bangunan kantor,200000000,-
+1.03 . 1.03.01 . 01 . 12 . 5 . 2 . 1,Belanja Pegawai,15750000,-
+1.03 . 1.03.01 . 01 . 12 . 5 . 2 . 2,Belanja Barang dan Jasa,184250000,-
+1.03 . 1.03.01 . 01 . 13,Penyediaan peralatan dan perlengkapan kantor,700000000,-
+1.03 . 1.03.01 . 01 . 13 . 5 . 2 . 1,Belanja Pegawai,22750000,-
+1.03 . 1.03.01 . 01 . 13 . 5 . 2 . 3,Belanja Modal,677250000,-
+1.03 . 1.03.01 . 01 . 14,Penyediaan peralatan rumah tangga,370000000,-
+1.03 . 1.03.01 . 01 . 14 . 5 . 2 . 1,Belanja Pegawai,22750000,-
+1.03 . 1.03.01 . 01 . 14 . 5 . 2 . 2,Belanja Barang dan Jasa,167250000,-
+1.03 . 1.03.01 . 01 . 14 . 5 . 2 . 3,Belanja Modal,180000000,-
+1.03 . 1.03.01 . 01 . 15,Penyediaan bahan bacaan dan peraturan perundang-undangan,260000000,-
+1.03 . 1.03.01 . 01 . 15 . 5 . 2 . 1,Belanja Pegawai,13750000,-
+1.03 . 1.03.01 . 01 . 15 . 5 . 2 . 2,Belanja Barang dan Jasa,216250000,-
+1.03 . 1.03.01 . 01 . 15 . 5 . 2 . 3,Belanja Modal,30000000,-
+1.03 . 1.03.01 . 01 . 17,Penyediaan makanan dan minuman,200000000,-
+1.03 . 1.03.01 . 01 . 17 . 5 . 2 . 1,Belanja Pegawai,13750000,-
+1.03 . 1.03.01 . 01 . 17 . 5 . 2 . 2,Belanja Barang dan Jasa,186250000,-
+1.03 . 1.03.01 . 01 . 18,Rapat-rapat koordinasi dan konsultasi ke luar daerah,300000000,-
+1.03 . 1.03.01 . 01 . 18 . 5 . 2 . 1,Belanja Pegawai,22225000,-
+1.03 . 1.03.01 . 01 . 18 . 5 . 2 . 2,Belanja Barang dan Jasa,277775000,-
+1.03 . 1.03.01 . 01 . 20,Penyediaan Jasa Pengamanan Kantor,1135750000,-
+1.03 . 1.03.01 . 01 . 20 . 5 . 2 . 1,Belanja Pegawai,18250000,-
+1.03 . 1.03.01 . 01 . 20 . 5 . 2 . 2,Belanja Barang dan Jasa,1117500000,-
+1.03 . 1.03.01 . 02,Program Peningkatan Sarana dan Prasarana Aparatur,8287850000,-
+1.03 . 1.03.01 . 02 . 05,pengadaan Kendaraan dinas/operasional,817850000,-
+1.03 . 1.03.01 . 02 . 05 . 5 . 2 . 1,Belanja Pegawai,27275000,-
+1.03 . 1.03.01 . 02 . 05 . 5 . 2 . 3,Belanja Modal,790575000,-
+1.03 . 1.03.01 . 02 . 09,Pengadaan peralatan gedung kantor,200000000,-
+1.03 . 1.03.01 . 02 . 09 . 5 . 2 . 1,Belanja Pegawai,22850000,-
+1.03 . 1.03.01 . 02 . 09 . 5 . 2 . 2,Belanja Barang dan Jasa,27150000,-
+1.03 . 1.03.01 . 02 . 09 . 5 . 2 . 3,Belanja Modal,150000000,-
+1.03 . 1.03.01 . 02 . 10,Pengadaan mebeleur,600000000,-
+1.03 . 1.03.01 . 02 . 10 . 5 . 2 . 1,Belanja Pegawai,15750000,-
+1.03 . 1.03.01 . 02 . 10 . 5 . 2 . 2,Belanja Barang dan Jasa,3000000,-
+1.03 . 1.03.01 . 02 . 10 . 5 . 2 . 3,Belanja Modal,581250000,-
+1.03 . 1.03.01 . 02 . 12,Pengadaan Perlengkapan Peralatan Aparatur,600000000,-
+1.03 . 1.03.01 . 02 . 12 . 5 . 2 . 1,Belanja Pegawai,20750000,-
+1.03 . 1.03.01 . 02 . 12 . 5 . 2 . 2,Belanja Barang dan Jasa,430000000,-
+1.03 . 1.03.01 . 02 . 12 . 5 . 2 . 3,Belanja Modal,149250000,-
+1.03 . 1.03.01 . 02 . 22,Pemeliharaan rutin/berkala gedung kantor,2250000000,-
+1.03 . 1.03.01 . 02 . 22 . 5 . 2 . 1,Belanja Pegawai,44750000,-
+1.03 . 1.03.01 . 02 . 22 . 5 . 2 . 2,Belanja Barang dan Jasa,1100000000,-
+1.03 . 1.03.01 . 02 . 22 . 5 . 2 . 3,Belanja Modal,1105250000,-
+1.03 . 1.03.01 . 02 . 24,Pemeliharaan rutin/berkala kendaraan dinas/operasional,3820000000,-
+1.03 . 1.03.01 . 02 . 24 . 5 . 2 . 1,Belanja Pegawai,27750000,-
+1.03 . 1.03.01 . 02 . 24 . 5 . 2 . 2,Belanja Barang dan Jasa,3792250000,-
+1.03 . 1.03.01 . 03,Program peningkatan disiplin aparatur,600000000,-
+1.03 . 1.03.01 . 03 . 02,Pengadaan pakaian dinas beserta perlengkapannya,250000000,-
+1.03 . 1.03.01 . 03 . 02 . 5 . 2 . 1,Belanja Pegawai,15750000,-
+1.03 . 1.03.01 . 03 . 02 . 5 . 2 . 2,Belanja Barang dan Jasa,234250000,-
+1.03 . 1.03.01 . 03 . 05,Pengadaan pakaian khusus hari-hari tertentu,350000000,-
+1.03 . 1.03.01 . 03 . 05 . 5 . 2 . 1,Belanja Pegawai,15750000,-
+1.03 . 1.03.01 . 03 . 05 . 5 . 2 . 2,Belanja Barang dan Jasa,334250000,-
+1.03 . 1.03.01 . 05,Program Peningkatan Kapasitas Sumber Daya Aparatur,700000000,-
+1.03 . 1.03.01 . 05 . 03,Bimbingan teknis implementasi peraturan perundang-undangan,350000000,-
+1.03 . 1.03.01 . 05 . 03 . 5 . 2 . 1,Belanja Pegawai,40750000,-
+1.03 . 1.03.01 . 05 . 03 . 5 . 2 . 2,Belanja Barang dan Jasa,309250000,-
+1.03 . 1.03.01 . 05 . 04,Pembinaan Kinerja Aparatur,350000000,-
+1.03 . 1.03.01 . 05 . 04 . 5 . 2 . 1,Belanja Pegawai,30750000,-
+1.03 . 1.03.01 . 05 . 04 . 5 . 2 . 2,Belanja Barang dan Jasa,319250000,-
+1.03 . 1.03.01 . 06,Program peningkatan pengembangan sistem pelaporan capaian kinerja dan keuangan,761400000,-
+1.03 . 1.03.01 . 06 . 01,Penyusunan laporan capaian kinerja dan ikhtisar realisasi kinerja SKPD,449350000,-
+1.03 . 1.03.01 . 06 . 01 . 5 . 2 . 1,Belanja Pegawai,173050000,-
+1.03 . 1.03.01 . 06 . 01 . 5 . 2 . 2,Belanja Barang dan Jasa,276300000,-
+1.03 . 1.03.01 . 06 . 02,Penyusunan pelaporan keuangan semesteran,100000000,-
+1.03 . 1.03.01 . 06 . 02 . 5 . 2 . 1,Belanja Pegawai,84375000,-
+1.03 . 1.03.01 . 06 . 02 . 5 . 2 . 2,Belanja Barang dan Jasa,15625000,-
+1.03 . 1.03.01 . 06 . 03,Penyusunan pelaporan prognosis realisasi anggaran,100000000,-
+1.03 . 1.03.01 . 06 . 03 . 5 . 2 . 1,Belanja Pegawai,61350000,-
+1.03 . 1.03.01 . 06 . 03 . 5 . 2 . 2,Belanja Barang dan Jasa,38650000,-
+1.03 . 1.03.01 . 06 . 04,penyusunan pelaporan keuangan akhir tahun,112050000,-
+1.03 . 1.03.01 . 06 . 04 . 5 . 2 . 1,Belanja Pegawai,107400000,-
+1.03 . 1.03.01 . 06 . 04 . 5 . 2 . 2,Belanja Barang dan Jasa,4650000,-
+1.03 . 1.03.01 . 15,Program pembangunan jalan dan jembatan,322076000000,-
+1.03 . 1.03.01 . 15 . 01,Perencanaan pembangunan jalan,11500000000,-
+1.03 . 1.03.01 . 15 . 01 . 5 . 2 . 1,Belanja Pegawai,912525000,-
+1.03 . 1.03.01 . 15 . 01 . 5 . 2 . 2,Belanja Barang dan Jasa,10587475000,-
+1.03 . 1.03.01 . 15 . 03,Pembangunan jalan,261626000000,-
+1.03 . 1.03.01 . 15 . 03 . 5 . 2 . 3,Belanja Modal,261626000000,-
+1.03 . 1.03.01 . 15 . 06,Monitoring  evaluasi dan pelaporan,8000000000,-
+1.03 . 1.03.01 . 15 . 06 . 5 . 2 . 1,Belanja Pegawai,522525000,-
+1.03 . 1.03.01 . 15 . 06 . 5 . 2 . 2,Belanja Barang dan Jasa,7477475000,-
+1.03 . 1.03.01 . 15 . 19,Peningkatan Jalan Insidentil,10000000000,-
+1.03 . 1.03.01 . 15 . 19 . 5 . 2 . 1,Belanja Pegawai,376650000,-
+1.03 . 1.03.01 . 15 . 19 . 5 . 2 . 2,Belanja Barang dan Jasa,9623350000,-
+1.03 . 1.03.01 . 15 . 20,Perencanaan Program Kebinamargaan,950000000,-
+1.03 . 1.03.01 . 15 . 20 . 5 . 2 . 1,Belanja Pegawai,46775000,-
+1.03 . 1.03.01 . 15 . 20 . 5 . 2 . 2,Belanja Barang dan Jasa,903225000,-
+1.03 . 1.03.01 . 15 . 22,Infrastruktur Publik Daerah (DAK),30000000000,-
+1.03 . 1.03.01 . 15 . 22 . 5 . 2 . 3,Belanja Modal,30000000000,-
+1.24 . 1.03.01 . 15,Program perbaikan sistem administrasi kearsipan,300000000,-
+1.24 . 1.03.01 . 15 . 08,Penataan Arsip SKPD (*),300000000,-
+1.24 . 1.03.01 . 15 . 08 . 5 . 2 . 1,Belanja Pegawai,208575000,-
+1.24 . 1.03.01 . 15 . 08 . 5 . 2 . 2,Belanja Barang dan Jasa,91425000,-
+1.03 . 1.03.01 . 16,Program pembangunan saluran drainase/gorong-gorong,243078000000,-
+1.03 . 1.03.01 . 16 . 01,Perencanaan pembangunan saluran drainase/gorong-gorong,5000000000,-
+1.03 . 1.03.01 . 16 . 01 . 5 . 2 . 1,Belanja Pegawai,439500000,-
+1.03 . 1.03.01 . 16 . 01 . 5 . 2 . 2,Belanja Barang dan Jasa,4560500000,-
+1.03 . 1.03.01 . 16 . 03,Pembangunan saluran drainase/gorong-gorong,165500000000,-
+1.03 . 1.03.01 . 16 . 03 . 5 . 2 . 3,Belanja Modal,165500000000,-
+1.03 . 1.03.01 . 16 . 04,Monitoring evaluasi dan pelaporan,6520000000,-
+1.03 . 1.03.01 . 16 . 04 . 5 . 2 . 1,Belanja Pegawai,500550000,-
+1.03 . 1.03.01 . 16 . 04 . 5 . 2 . 2,Belanja Barang dan Jasa,6019450000,-
+1.03 . 1.03.01 . 16 . 05,Rehabilitasi Saluran Drainase/Gorong-Gorong,15000000000,-
+1.03 . 1.03.01 . 16 . 05 . 5 . 2 . 3,Belanja Modal,15000000000,-
+1.03 . 1.03.01 . 16 . 08,Rehabilitasi Drainase/Gorong-gorong Wilayah Bojonegara,1512500000,-
+1.03 . 1.03.01 . 16 . 08 . 5 . 2 . 1,Belanja Pegawai,173450000,-
+1.03 . 1.03.01 . 16 . 08 . 5 . 2 . 2,Belanja Barang dan Jasa,1339050000,-
+1.03 . 1.03.01 . 16 . 09,Rehabilitasi Drainase/Gorong-gorong Wilayah Cibeunying,1500000000,-
+1.03 . 1.03.01 . 16 . 09 . 5 . 2 . 1,Belanja Pegawai,149250000,-
+1.03 . 1.03.01 . 16 . 09 . 5 . 2 . 2,Belanja Barang dan Jasa,1350750000,-
+1.03 . 1.03.01 . 16 . 10,Rehabilitasi Drainase/Gorong-gorong Wilayah Karees,1500000000,-
+1.03 . 1.03.01 . 16 . 10 . 5 . 2 . 1,Belanja Pegawai,79250000,-
+1.03 . 1.03.01 . 16 . 10 . 5 . 2 . 2,Belanja Barang dan Jasa,1420750000,-
+1.03 . 1.03.01 . 16 . 11,Rehabilitasi Drainase/Gorong-gorong Wilayah Tegallega,1705000000,-
+1.03 . 1.03.01 . 16 . 11 . 5 . 2 . 1,Belanja Pegawai,149250000,-
+1.03 . 1.03.01 . 16 . 11 . 5 . 2 . 2,Belanja Barang dan Jasa,1555750000,-
+1.03 . 1.03.01 . 16 . 12,Rehabilitasi Drainase/Gorong-gorong Wilayah Ujungberung,1380000000,-
+1.03 . 1.03.01 . 16 . 12 . 5 . 2 . 1,Belanja Pegawai,149250000,-
+1.03 . 1.03.01 . 16 . 12 . 5 . 2 . 2,Belanja Barang dan Jasa,1230750000,-
+1.03 . 1.03.01 . 16 . 13,Rehabilitasi Drainase/Gorong-gorong Wilayah Gedebage,724250000,-
+1.03 . 1.03.01 . 16 . 13 . 5 . 2 . 1,Belanja Pegawai,149250000,-
+1.03 . 1.03.01 . 16 . 13 . 5 . 2 . 2,Belanja Barang dan Jasa,575000000,-
+1.03 . 1.03.01 . 16 . 14,Pemanfaatan Ruang Milik Jalan (RUMIJA),5000000000,-
+1.03 . 1.03.01 . 16 . 14 . 5 . 2 . 3,Belanja Modal,5000000000,-
+1.03 . 1.03.01 . 16 . 15,Pendestrianisasi Jalan Kota Bandung (Banprov),28000000000,-
+1.03 . 1.03.01 . 16 . 15 . 5 . 2 . 3,Belanja Modal,28000000000,-
+1.03 . 1.03.01 . 16 . 16,Pembangunan Saluran Drainase dan Gorong-gorong (Banprov),9735908000,-
+1.03 . 1.03.01 . 16 . 16 . 5 . 2 . 3,Belanja Modal,9735908000,-
+1.03 . 1.03.01 . 18,Program rehabilitasi/pemeliharaan jalan dan jembatan,34625865000,-
+1.03 . 1.03.01 . 18 . 01,Perencanaan rehabilitasi/pemeliharaan jalan,1000000000,-
+1.03 . 1.03.01 . 18 . 01 . 5 . 2 . 1,Belanja Pegawai,82325000,-
+1.03 . 1.03.01 . 18 . 01 . 5 . 2 . 2,Belanja Barang dan Jasa,917675000,-
+1.03 . 1.03.01 . 18 . 03,Rehabilitasi/pemeliharaan jalan,15000000000,-
+1.03 . 1.03.01 . 18 . 03 . 5 . 2 . 3,Belanja Modal,15000000000,-
+1.03 . 1.03.01 . 18 . 05,Monitoring evaluasi dan pelaporan,450000000,-
+1.03 . 1.03.01 . 18 . 05 . 5 . 2 . 1,Belanja Pegawai,85350000,-
+1.03 . 1.03.01 . 18 . 05 . 5 . 2 . 2,Belanja Barang dan Jasa,364650000,-
+1.03 . 1.03.01 . 18 . 07,Rehabilitasi/Pemeliharaan Jalan Wilayah Bojonegara,2810000000,-
+1.03 . 1.03.01 . 18 . 07 . 5 . 2 . 1,Belanja Pegawai,216050000,-
+1.03 . 1.03.01 . 18 . 07 . 5 . 2 . 2,Belanja Barang dan Jasa,2593950000,-
+1.03 . 1.03.01 . 18 . 08,Rehabilitasi/Pemeliharaan Jalan Wilayah Cibeunying,3026420000,-
+1.03 . 1.03.01 . 18 . 08 . 5 . 2 . 1,Belanja Pegawai,197900000,-
+1.03 . 1.03.01 . 18 . 08 . 5 . 2 . 2,Belanja Barang dan Jasa,2828520000,-
+1.03 . 1.03.01 . 18 . 09,Rehabilitasi/Pemeliharaan Jalan Wilayah Karees,3750000000,-
+1.03 . 1.03.01 . 18 . 09 . 5 . 2 . 1,Belanja Pegawai,118700000,-
+1.03 . 1.03.01 . 18 . 09 . 5 . 2 . 2,Belanja Barang dan Jasa,3631300000,-
+1.03 . 1.03.01 . 18 . 10,Rehabilitasi/Pemeliharaan Jalan Wilayah Tegallega,2739445000,-
+1.03 . 1.03.01 . 18 . 10 . 5 . 2 . 1,Belanja Pegawai,200925000,-
+1.03 . 1.03.01 . 18 . 10 . 5 . 2 . 2,Belanja Barang dan Jasa,2538520000,-
+1.03 . 1.03.01 . 18 . 11,Rehabilitasi/Pemeliharaan Jalan Wilayah Ujungberung,3020000000,-
+1.03 . 1.03.01 . 18 . 11 . 5 . 2 . 1,Belanja Pegawai,203950000,-
+1.03 . 1.03.01 . 18 . 11 . 5 . 2 . 2,Belanja Barang dan Jasa,2816050000,-
+1.03 . 1.03.01 . 18 . 12,Rehabilitasi/Pemeliharaan Jalan Wilayah Gedebage,2830000000,-
+1.03 . 1.03.01 . 18 . 12 . 5 . 2 . 1,Belanja Pegawai,188825000,-
+1.03 . 1.03.01 . 18 . 12 . 5 . 2 . 2,Belanja Barang dan Jasa,2641175000,-
+1.06 . 1.03.01 . 21,Program perencanaan pembangunan daerah,200000000,-
+1.06 . 1.03.01 . 21 . 16,Penyusunan Renstra dan Renja SKPD,200000000,-
+1.06 . 1.03.01 . 21 . 16 . 5 . 2 . 1,Belanja Pegawai,73075000,-
+1.06 . 1.03.01 . 21 . 16 . 5 . 2 . 2,Belanja Barang dan Jasa,126925000,-
+1.03 . 1.03.01 . 23,Program peningkatan sarana dan prasarana kebinamargaan,13754985000,-
+1.03 . 1.03.01 . 23 . 04,Pengadaan alat-alat berat,10000000000,-
+1.03 . 1.03.01 . 23 . 04 . 5 . 2 . 1,Belanja Pegawai,183950000,-
+1.03 . 1.03.01 . 23 . 04 . 5 . 2 . 2,Belanja Barang dan Jasa,166050000,-
+1.03 . 1.03.01 . 23 . 04 . 5 . 2 . 3,Belanja Modal,9650000000,-
+1.03 . 1.03.01 . 23 . 06,Pengadaan alat-alat ukur dan bahan laboratorium kebinamargaan,1400000000,-
+1.03 . 1.03.01 . 23 . 06 . 5 . 2 . 1,Belanja Pegawai,133575000,-
+1.03 . 1.03.01 . 23 . 06 . 5 . 2 . 2,Belanja Barang dan Jasa,316425000,-
+1.03 . 1.03.01 . 23 . 06 . 5 . 2 . 3,Belanja Modal,950000000,-
+1.03 . 1.03.01 . 23 . 08,Rehabilitasi/pemeliharaan gedung workshop,1000000000,-
+1.03 . 1.03.01 . 23 . 08 . 5 . 2 . 3,Belanja Modal,1000000000,-
+1.03 . 1.03.01 . 23 . 10,Rehabilitasi/pemeliharaan alat-alat berat,1354985000,-
+1.03 . 1.03.01 . 23 . 10 . 5 . 2 . 1,Belanja Pegawai,67450000,-
+1.03 . 1.03.01 . 23 . 10 . 5 . 2 . 2,Belanja Barang dan Jasa,1287535000,-
+1.03 . 1.03.01 . 24,Program Pengembangan dan Pengelolaan Jaringan Irigasi  Rawa dan Jaringan Pengairan lainnya,17600000000,-
+1.03 . 1.03.01 . 24 . 05,Perencanaan normalisasi saluran sungai,2000000000,-
+1.03 . 1.03.01 . 24 . 05 . 5 . 2 . 1,Belanja Pegawai,167500000,-
+1.03 . 1.03.01 . 24 . 05 . 5 . 2 . 2,Belanja Barang dan Jasa,1832500000,-
+1.03 . 1.03.01 . 24 . 09,Pelaksanaan normalisasi saluran sungai,15000000000,-
+1.03 . 1.03.01 . 24 . 09 . 5 . 2 . 3,Belanja Modal,15000000000,-
+1.03 . 1.03.01 . 24 . 17,Monitoring evaluasi dan pelaporan,600000000,-
+1.03 . 1.03.01 . 24 . 17 . 5 . 2 . 1,Belanja Pegawai,102450000,-
+1.03 . 1.03.01 . 24 . 17 . 5 . 2 . 2,Belanja Barang dan Jasa,497550000,-
+1.03 . 1.03.01 . 26,Program Pengembangan Pengelolaan dan Konservasi Sungai Danau dan Sumber Daya Air Lainnya,29425000000,-
+1.03 . 1.03.01 . 26 . 03,Rehabilitasi kawasan kritis daerah tangkapan sungai dan danau,16320000000,-
+1.03 . 1.03.01 . 26 . 03 . 5 . 2 . 3,Belanja Modal,16320000000,-
+1.03 . 1.03.01 . 26 . 05,Peningkatan partisipasi masyarakat dalam pengelolaan sungai danau dan sumber daya air lainnya,5000000000,-
+1.03 . 1.03.01 . 26 . 05 . 5 . 2 . 1,Belanja Pegawai,73325000,-
+1.03 . 1.03.01 . 26 . 05 . 5 . 2 . 2,Belanja Barang dan Jasa,4926675000,-
+1.03 . 1.03.01 . 26 . 07,Monitoring evaluasi dan pelaporan,605000000,-
+1.03 . 1.03.01 . 26 . 07 . 5 . 2 . 1,Belanja Pegawai,83000000,-
+1.03 . 1.03.01 . 26 . 07 . 5 . 2 . 2,Belanja Barang dan Jasa,522000000,-
+1.03 . 1.03.01 . 26 . 08,Perencanaan Pengembangan dan Pengelolaan SDA,1500000000,-
+1.03 . 1.03.01 . 26 . 08 . 5 . 2 . 1,Belanja Pegawai,105000000,-
+1.03 . 1.03.01 . 26 . 08 . 5 . 2 . 2,Belanja Barang dan Jasa,1395000000,-
+1.03 . 1.03.01 . 26 . 09,Pemanfaatan Daerah Aliran Sungai (DAS),5000000000,-
+1.03 . 1.03.01 . 26 . 09 . 5 . 2 . 1,Belanja Pegawai,85900000,-
+1.03 . 1.03.01 . 26 . 09 . 5 . 2 . 2,Belanja Barang dan Jasa,367100000,-
+1.03 . 1.03.01 . 26 . 09 . 5 . 2 . 3,Belanja Modal,4547000000,-
+1.03 . 1.03.01 . 26 . 10,Perencanaan Program Pengembangan Sumber Daya Air,1000000000,-
+1.03 . 1.03.01 . 26 . 10 . 5 . 2 . 1,Belanja Pegawai,48825000,-
+1.03 . 1.03.01 . 26 . 10 . 5 . 2 . 2,Belanja Barang dan Jasa,951175000,-
+1.03 . 1.03.01 . 28,Program Pengendalian Banjir,108100000000,-
+1.03 . 1.03.01 . 28 . 03,Rehabilitasi dan pemeliharaan bantaran dan tanggul sungai,15000000000,-
+1.03 . 1.03.01 . 28 . 03 . 5 . 2 . 2,Belanja Barang dan Jasa,2720100000,-
+1.03 . 1.03.01 . 28 . 03 . 5 . 2 . 3,Belanja Modal,12279900000,-
+1.03 . 1.03.01 . 28 . 06,Mengendalikan banjir pada daerah tangkapan air dan badan-badan sungai,72500000000,-
+1.03 . 1.03.01 . 28 . 06 . 5 . 2 . 2,Belanja Barang dan Jasa,620000000,-
+1.03 . 1.03.01 . 28 . 06 . 5 . 2 . 3,Belanja Modal,71880000000,-
+1.03 . 1.03.01 . 28 . 07,Peningkatan pembersihan dan pengerukan sungai/kali,15000000000,-
+1.03 . 1.03.01 . 28 . 07 . 5 . 2 . 1,Belanja Pegawai,199825000,-
+1.03 . 1.03.01 . 28 . 07 . 5 . 2 . 2,Belanja Barang dan Jasa,14800175000,-
+1.03 . 1.03.01 . 28 . 11,Monitoring evaluasi dan pelaporan,2100000000,-
+1.03 . 1.03.01 . 28 . 11 . 5 . 2 . 1,Belanja Pegawai,158850000,-
+1.03 . 1.03.01 . 28 . 11 . 5 . 2 . 2,Belanja Barang dan Jasa,1941150000,-
+1.03 . 1.03.01 . 28 . 14,Perencanaan Pengendalian Banjir,3500000000,-
+1.03 . 1.03.01 . 28 . 14 . 5 . 2 . 1,Belanja Pegawai,227000000,-
+1.03 . 1.03.01 . 28 . 14 . 5 . 2 . 2,Belanja Barang dan Jasa,3273000000,-
+1.03 . 1.03.01 . 32,Program Penerangan Jalan Umum,93116087197,-
+1.03 . 1.03.01 . 32 . 01,Perencanaan Penerangan Jalan Umum,5000000000,-
+1.03 . 1.03.01 . 32 . 01 . 5 . 2 . 1,Belanja Pegawai,304575000,-
+1.03 . 1.03.01 . 32 . 01 . 5 . 2 . 2,Belanja Barang dan Jasa,4695425000,-
+1.03 . 1.03.01 . 32 . 02,Pembangunan Penerangan Jalan Umum,52716087197,-
+1.03 . 1.03.01 . 32 . 02 . 5 . 2 . 3,Belanja Modal,52716087197,-
+1.03 . 1.03.01 . 32 . 03,Pemeliharaan Penerangan Jalan Umum,30000000000,-
+1.03 . 1.03.01 . 32 . 03 . 5 . 2 . 2,Belanja Barang dan Jasa,5000000000,-
+1.03 . 1.03.01 . 32 . 03 . 5 . 2 . 3,Belanja Modal,25000000000,-
+1.03 . 1.03.01 . 32 . 04,Monitoring Evaluasi dan Pelaporan,3300000000,-
+1.03 . 1.03.01 . 32 . 04 . 5 . 2 . 1,Belanja Pegawai,295450000,-
+1.03 . 1.03.01 . 32 . 04 . 5 . 2 . 2,Belanja Barang dan Jasa,3004550000,-
+1.03 . 1.03.01 . 32 . 06,Perencanaan Program Penerangan Jalan,2100000000,-
+1.03 . 1.03.01 . 32 . 06 . 5 . 2 . 1,Belanja Pegawai,58325000,-
+1.03 . 1.03.01 . 32 . 06 . 5 . 2 . 2,Belanja Barang dan Jasa,2041675000,-

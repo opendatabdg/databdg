@@ -1,9 +1,40 @@
-Pendidikan,Pendaftaran Laki-laki,Pendaftaran Perempuan,Total,Lowongan Laki-laki,Lowongan Perempuan,Total,Penempatan Laki-laki,Penempatan Perempuan,Total
-Tamat SD,33,9,42,11,7,18,11,7,18
-Tamat SLTP /Setingkat SLTP,101,104,205,132,148,280,14,3,17
-SLTA,846,507,1353,2235,1650,3885,612,343,955
-"SLTA Kejuruan (STM, SMK Teknik)",2491,1570,4061,2633,1833,4466,1530,1353,2883
-Diploma I dan II,13,5,18,13,23,36,4,4,8
-Diploma III / AIII,206,435,641,837,554,1391,73,65,138
-Sarjana (S1),732,896,1628,584,536,1120,108,110,218
-S2 dan S3,13,16,29,11,9,20,3,1,4
+Pendidikan  ,Keterangan,Kriteria,Jumlah_LakiLaki,Jumlah_Perempuan
+Tidak Tamat SD  ,-,Pendaftaran,0,0
+Tamat SD  ,-,Pendaftaran,27,18
+Tamat SLTP,-,Pendaftaran,81,101
+SLTA  ,-,Pendaftaran,1249,618
+"STM, SMK Teknik",SLTA Kejuruan  ,Pendaftaran,1423,194
+"SMEA, SMK Ek",SLTA Kejuruan  ,Pendaftaran,124,1296
+SPMA,SLTA Kejuruan  ,Pendaftaran,7,3
+SKKA,SLTA Kejuruan  ,Pendaftaran,4,19
+SLTA Lainnya,SLTA Kejuruan  ,Pendaftaran,229,232
+Diploma I dan II  ,-,Pendaftaran,24,29
+Diploma III IPA  ,-,Pendaftaran,1063,1665
+Sarjana (S1)  ,-,Pendaftaran,4349,4527
+S2 dan S3,-,Pendaftaran,83,90
+Tidak Tamat SD  ,-,Lowongan,0,0
+Tamat SD  ,-,Lowongan,0,7
+Tamat SLTP,-,Lowongan,352,128
+SLTA  ,-,Lowongan,1719,1212
+"STM, SMK Teknik",SLTA Kejuruan  ,Lowongan,343,53
+"SMEA, SMK Ek",SLTA Kejuruan  ,Lowongan,295,1244
+SPMA,SLTA Kejuruan  ,Lowongan,0,0
+SKKA,SLTA Kejuruan  ,Lowongan,9,3
+SLTA Lainnya,SLTA Kejuruan  ,Lowongan,127,194
+Diploma I dan II  ,-,Lowongan,73,39
+Diploma III IPA  ,-,Lowongan,551,411
+Sarjana (S1)  ,-,Lowongan,154,73
+S2 dan S3,-,Lowongan,2,0
+Tidak Tamat SD  ,-,Penempatan,0,0
+Tamat SD  ,-,Penempatan,0,7
+Tamat SLTP,-,Penempatan,1,25
+SLTA  ,-,Penempatan,252,207
+"STM, SMK Teknik",SLTA Kejuruan  ,Penempatan,206,8
+"SMEA, SMK Ek",SLTA Kejuruan  ,Penempatan,165,1099
+SPMA,SLTA Kejuruan  ,Penempatan,0,0
+SKKA,SLTA Kejuruan  ,Penempatan,0,0
+SLTA Lainnya,SLTA Kejuruan  ,Penempatan,114,175
+Diploma I dan II  ,-,Penempatan,2,1
+Diploma III IPA  ,-,Penempatan,36,31
+Sarjana (S1)  ,-,Penempatan,78,45
+S2 dan S3,-,Penempatan,0,0

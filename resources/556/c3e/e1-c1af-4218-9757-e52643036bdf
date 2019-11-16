@@ -1,31 +1,152 @@
-Kecamatan,Jumlah Kepala Keluarga
-SUKASARI,22917
-COBLONG,36169
-BABAKAN CIPARAY,38769
-BOJONGLOA KALER,35792
-ANDIR,32551
-CICENDO,29431
-SUKAJADI,30329
-CIDADAP,16159
-BANDUNG WETAN,10819
-ASTANA ANYAR,22518
-REGOL,25995
-BATUNUNGGAL,36298
-LENGKONG,23095
-CIBEUNYING KIDUL,33839
-BANDUNG KULON,37889
-KIARACONDONG,37614
-BOJONGLOA KIDUL,24417
-CIBEUNYING KALER,20971
-SUMUR BANDUNG,11097
-ANTAPANI,22217
-BANDUNG KIDUL,17165
-BUAH BATU,29540
-RANCASARI,24192
-ARCAMANIK,21190
-CIBIRU,21357
-UJUNGBERUNG,23977
-GEDEBAGE,11225
-PANYILEUKAN,10933
-CINAMBO,7329
-MANDALAJATI,20340
+Nama Kecamatan,Nama Kelurahan,Jumlah Kepala Keluarga
+Andir,Campaka,5325
+Andir,Ciroyom,5989
+Andir,Dungus Cariang,6072
+Andir,Garuda,3324
+Andir,Kebon Jeruk,5519
+Andir,Maleber,6332
+Antapani,Antapani Kidul,7196
+Antapani,Antapani Kulon,3106
+Antapani,Antapani Tengah,6726
+Antapani,Antapani Wetan,5200
+Arcamanik,Cisaranten Bina Harapan,3468
+Arcamanik,Cisaranten Endah,5333
+Arcamanik,Cisaranten Kulon,6216
+Arcamanik,Sukamiskin,6180
+Astana Anyar,Cibadak,4217
+Astana Anyar,Karanganyar,2295
+Astana Anyar,Karasak,4114
+Astana Anyar,Nyengseret,3704
+Astana Anyar,Panjunan,2288
+Astana Anyar,Pelindung Hewan,5912
+Babakan Ciparay,Babakan,8444
+Babakan Ciparay,Babakan Ciparay,8973
+Babakan Ciparay,Cirangrang,3165
+Babakan Ciparay,Margahayu Utara,6244
+Babakan Ciparay,Margasuka,3345
+Babakan Ciparay,Sukahaji,8608
+Bandung Kidul,Batununggal,5614
+Bandung Kidul,Kujangsari,6122
+Bandung Kidul,Mengger,2998
+Bandung Kidul,Wates,2443
+Bandung Kulon,Caringin,2785
+Bandung Kulon,Cibuntu,5407
+Bandung Kulon,Cigondewah Kaler,5259
+Bandung Kulon,Cigondewah Kidul,2466
+Bandung Kulon,Cigondewah Rahayu,2871
+Bandung Kulon,Cijerah,6992
+Bandung Kulon,Gempolsari,6073
+Bandung Kulon,Warung Muncang,6050
+Bandung Wetan,Cihapit,1652
+Bandung Wetan,Citarum,1350
+Bandung Wetan,Tamansari,7818
+Batununggal,Binong,5397
+Batununggal,Cibangkong,5675
+Batununggal,Gumuruh,5739
+Batununggal,Kacapiring,2871
+Batununggal,Kebongedang,3050
+Batununggal,Kebonwaru,4483
+Batununggal,Maleer,5154
+Batununggal,Samoja,3936
+Bojongloa Kaler,Babakan Asih,4896
+Bojongloa Kaler,Babakan Tarogong,8427
+Bojongloa Kaler,Jamika,8298
+Bojongloa Kaler,Kopo,8657
+Bojongloa Kaler,Sukaasih,5547
+Bojongloa Kidul,Cibaduyut,3427
+Bojongloa Kidul,Cibaduyut Kidul,2521
+Bojongloa Kidul,Cibaduyut Wetan,2174
+Bojongloa Kidul,Kebonlega,7023
+Bojongloa Kidul,Mekarwangi,2925
+Bojongloa Kidul,Situsaeur,6361
+Buah Batu,Cijawura,7930
+Buah Batu,Jatisari,2633
+Buah Batu,Margasari,11151
+Buah Batu,Sekejati,7844
+Cibeunying Kaler,Cigadung,9144
+Cibeunying Kaler,Cihaurgeulis,3905
+Cibeunying Kaler,Neglasari,2928
+Cibeunying Kaler,Sukaluyu,5001
+Cibeunying Kidul,Cicadas,4837
+Cibeunying Kidul,Cikutra,7027
+Cibeunying Kidul,Padasuka,5285
+Cibeunying Kidul,Pasirlayung,6529
+Cibeunying Kidul,Sukamaju,3624
+Cibeunying Kidul,Sukapada,6550
+Cibiru,Cipadung,6602
+Cibiru,Cisurupan,3681
+Cibiru,Palasari,6507
+Cibiru,Pasirbiru,4574
+Cicendo,Arjuna,4767
+Cicendo,Husen Sastranegara,4766
+Cicendo,Pajajaran,7488
+Cicendo,Pamoyanan,2733
+Cicendo,Pasir Kaliki,2993
+Cicendo,Sukaraja,6695
+Cidadap,Ciumbuleuit,6606
+Cidadap,Hegarmanah,6366
+Cidadap,Ledeng,3204
+Cinambo,Babakan Penghulu,2061
+Cinambo,Cisaranten Wetan,1678
+Cinambo,Pakemitan,1906
+Cinambo,Sukamulya,1690
+Coblong,Cipaganti,3973
+Coblong,Dago,10216
+Coblong,Lebak Siliwangi,1355
+Coblong,Lebakgede,3465
+Coblong,Sadangserang,8669
+Coblong,Sekeloa,8506
+Gedebage,Cimincrang,1121
+Gedebage,Cisaranten Kidul,5972
+Gedebage,Rancabolang,2851
+Gedebage,Rancanumpang,1283
+Kiaracondong,Babakan Sari,11211
+Kiaracondong,Babakan Surabaya,5733
+Kiaracondong,Cicaheum,5010
+Kiaracondong,Kebon Jayanti,4012
+Kiaracondong,Kebon Kangkung,3911
+Kiaracondong,Sukapura,7752
+Lengkong,Burangrang,3234
+Lengkong,Cijagra,3974
+Lengkong,Cikawao,2784
+Lengkong,Lingkar Selatan,3614
+Lengkong,Malabar,2755
+Lengkong,Paledang,2112
+Lengkong,Turangga,4632
+Mandalajati,Jatihandap,7722
+Mandalajati,Karang Pamulang,5114
+Mandalajati,Pasir Impun,3476
+Mandalajati,Sindang Jaya,4042
+Panyileukan,Cipadung Kidul,4114
+Panyileukan,Cipadung Kulon,3725
+Panyileukan,Cipadung Wetan,1031
+Panyileukan,Mekar Mulya,2065
+Rancasari,Cipamokolan,6688
+Rancasari,Derwati,5144
+Rancasari,Manjahlega,7316
+Rancasari,Mekarjaya,5054
+Regol,Ancol,3666
+Regol,Balonggede,2814
+Regol,Ciateul,2590
+Regol,Cigereleng,3690
+Regol,Ciseureuh,5109
+Regol,Pasirluyu,4966
+Regol,Pungkur,3178
+Sukajadi,Cipedes,8533
+Sukajadi,Pasteur,5637
+Sukajadi,Sukabungah,6633
+Sukajadi,Sukagalih,5397
+Sukajadi,Sukawarna,4147
+Sukasari,Gegerkalong,6926
+Sukasari,Isola,3923
+Sukasari,Sarijadi,8229
+Sukasari,Sukarasa,3852
+Sumur Bandung,Babakan Ciamis,2544
+Sumur Bandung,Braga,1908
+Sumur Bandung,Kebon Pisang,3684
+Sumur Bandung,Merdeka,2970
+Ujung Berung,Cigending,4764
+Ujung Berung,Pasanggrahan,5444
+Ujung Berung,Pasir Endah,4590
+Ujung Berung,Pasir Jati,4750
+Ujung Berung,Pasirwangi,4453

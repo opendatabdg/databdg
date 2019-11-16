@@ -1,6 +1,11 @@
-Jenis Industri,Jumlah Usaha,Tenaga Kerja (orang)
-Industri Kecil Pangan,516,2210
-Industri Kecil Sandang,1237,6253
-Industri Kecil Kimia Dan Bahan Bangunan,36,124
-Industri Kecil Logam Dan Elektronika,222,451
-Industri Kecil Kerajinan,711,3762
+Kegiatan,Jumlah Unit Usaha 2015,Jumlah Tenaga Kerja 2015
+Industri Makanan dan Minuman ,10458,32172
+Industri Tekstil dan PakaianJadi ,975,5758
+"Industri Kulit ,Barang dari Kulit dan Alas Kaki ",337,3564
+"Industri Kulit, Barang dari Kulit dan Alas Kaki ",43,167
+"Industri Kimia, Farmasi dan Obat Tradisional ",38,192
+"Industri Karet, Barang dari Karet dan Plastik ",55,277
+"Industri Barang dari Logam, Komputer, Barang Elektronik, Optik dan Peralatan Listrik ",44,276
+Industri Mesin dan Perlengkapan ,150,450
+Industri Furnitur ,100,400
+Industri Pengolahan Lainnya ,70,70

@@ -1,0 +1,21 @@
+No,Nama SKPD,Nama Aplikasi,Deskripsi Aplikasi,Alamat / Link Aplikasi,Platform,Fungsi dan Manfaat Aplikasi,Status Kepemilikan
+1,Badan Pengelolaan Keuangan dan Aset,Perbendaharaan (SP2D),-,-,Website,-,Milik Sendiri
+2,Dinas Kesehatan,DSS,Decision Support System,IP Private,Website,Aplikasi yang berguna untuk melihat data secara real time berdasarkan kecamatan yang berupa map ( peta ) Kota Bandung,Milik Sendiri
+3,Dinas Kesehatan,DW,Data Wharehouse,IP Private,Website,Sebagai Bank Data untuk penyambung data dari apikasi SIKDA ke DSS sebagai akhir dari output laporan di yang di input di puskesmas,Milik Sendiri
+4,Dinas Kesehatan,Clouddinkes,Storege Data Dinas Kesehatan,clouddinkes.bandung.go.id,Multiplatform,Sebagai media storege data,Milik Sendiri
+5,Dinas Kesehatan,E - LISENSI,Sistem Informasi Pengajuan PIRT,-,Website,Membantu user untuk membuat dan merekap data bagi yang mengajukan surat membuka praktek dokter dan kinik,Milik Sendiri
+6,Dinas Kesehatan,E-Prescription,-,-,Website,-,Milik Sendiri
+7,Dinas Kesehatan,Jarkom Rumah Sakit,-,-,Website,-,Milik Sendiri
+8,Dinas Kesehatan,Pelaporan Kesehatan Rutin Bersumber Puskesmas berbasis Web,-,-,Website,-,Milik Sendiri
+9,Dinas Kesehatan,Simkes Kota Bandung,-,-,Website,-,Milik Sendiri
+10,Dinas Kesehatan,Sistemn Informasi Surveilans Kota Bandung,-,-,Website,-,Milik Sendiri
+11,Dinas Komunikasi dan Informatika,Aplikasi LAPOR!,"Merupakan Aplikasi Pengaduan melalui website, SMS, mobile, twitter",https://www.lapor.go.id/,Multiplatform,-,Milik Sendiri
+12,Dinas Komunikasi dan Informatika,Surat Online,"Aplikasi disposisi surat ini berbasis web dan mobile. Aplikasi ini digunakan untuk mendokumentasikan surat masuk sehingga mudah dicari kembali, memudahkan user untuk cek status dokumen, terdapat catatan pasti berapa lama waktu pengelolaan surat, instruksi / perintah disposisi lebih cepat sampai, memudahkan pengelolaan disposisi yang ada",https://e-suratonline.bandung.go.id/,Website,-,Milik Sendiri
+13,Dinas Komunikasi dan Informatika,Jadwal KPP,"Aplikasi jadwal walikota ini merupakan aplikasi berbasis web dan mobile,karena berbasis online sehingga dapat diakses dari berbagai tempat. Aplikasi ini dibuat untuk memudahkan pengelolaan agenda Walikota Bandung, mendokumentasikan semua undangan yang masuk sehingga mudah untuk dibuka kembali jika diperlukan, memudahkan proses pengaturan jadwal Walikota, memudahkan user untuk membuka daftar undangan dan melihat jadwal.",-,Website,-,Milik Sendiri
+14,Dinas Komunikasi dan Informatika,Mobile android disposisi,Sistem akan mengelola surat disposisi pada android sehingga pengguna dapat langsung menggunakan smartphone androidnya untuk mengelola surat dimanapun berada. Dengan adanya pengembangan aplikasi disposisi eletronik atau E-Document diharapkan proses pengiriman disposisi dapat dilakukan dengan lebih cepat dan akurat. Sistem ini juga akan memudahkan pengarsipan surat  surat yang dibuat.,-,Website,-,Milik Sendiri
+15,Dinas Pemuda dan Olahraga,Database Kepemudaan,Berisikan data tentang organisasi kepemudaan Kota Bandung,none,Website,Mempermudah pendataan Kepemudaan,Milik Sendiri
+16,Dinas Pemuda dan Olahraga,Database Keolahragaan,Berisikan data mengenai organisasi keolahragaan yang ada di Kota Bandung,none,Website,Mempermudah pendataan Keolahragaan,Milik Sendiri
+17,Dinas Penataan Ruang,Aplikasi Aset Kota bandung,-,-,Website,-,Milik Sendiri
+18,Dinas Penataan Ruang,Aplikasi GIS SKPD,-,-,Website,-,Milik Sendiri
+19,Dinas Penataan Ruang,SiTARUNG,-,-,Website,-,Milik Sendiri
+20,Dinas Penataan Ruang,Aplikasi GIS Kewilayahan,-,-,Website,-,Milik Sendiri

@@ -1,31 +1,31 @@
-NamaKecamatan,Guru,Siswa
-Bandung Kulon,540,12100
-Babakan Ciparay,435,11503
-Bojongloa Kaler,234,5891
-Bojongloa Kidul,348,8114
-Astanaanyar,368,8890
-Regol,498,9793
-Lengkong,436,8575
-Bandung Kidul,180,3713
-BuahBatu,329,7668
-Rancasari,269,6904
-Gedebage,130,2613
-Cibiru,351,8680
-Panyileukan,176,3797
-UjungBerung,321,7411
-Cinambo,89,2056
-Arcamanik,479,8949
-Antapani,312,6630
-Mandalajaati,325,6620
-Kiarcondong,516,11083
-Batununggal,379,8398
-Sumur Bandung,355,6340
-Andir,483,10184
-Cicendo,503,10860
-Bandung Wetan,367,6394
-Cibeunying Kidul,470,10124
-Cibeunying Kaler,242,5469
-Coblong,564,10872
-Sukajadi,453,9134
-Cidadap,237,4242
-Sukasari,413,8167
+Kode Wilayah,Nama Kecamatan,Guru SD (L),Guru SD (P),Guru SMP (L),Guru SMP (P),Guru SMA (L),Guru SMA (P),Guru SMK (L),Guru SMK (P),Guru SLB (L),Guru SLB (P)
+32.73.05,Andir,112,368,126,229,156,166,61,62,4,3
+32.73.20,Antapani,65,260,46,85,31,50,5,4,7,22
+32.73.24,Arcamanik,134,337,73,113,11,35,27,23,0,0
+32.73.10,Astanaanyar,99,271,39,49,19,25,77,59,5,8
+32.73.03,Babakan Ciparay,113,327,60,99,24,33,0,0,6,21
+32.73.21,Bandung Kidul,41,135,30,48,9,12,4,3,1,9
+32.73.15,Bandung Kulon,131,403,47,57,20,23,30,23,5,10
+32.73.09,Bandung Wetan,103,260,126,220,82,129,45,49,0,0
+32.73.12,Batununggal,92,303,65,136,0,0,86,35,3,8
+32.73.04,Bojongloa Kaler,55,177,69,117,56,73,28,18,2,9
+32.73.17,Bojonloa Kidul,112,240,69,84,36,28,39,41,2,8
+32.73.22,Buahbatu,86,241,50,106,29,61,195,325,6,21
+32.73.18,Cibeunying Kaler,46,190,65,83,61,68,125,138,2,4
+32.73.14,Cibeunying Kidul,87,364,68,138,57,102,77,79,6,16
+32.73.25,Cibiru,69,273,41,52,78,79,37,30,5,27
+32.73.06,Cicendo,121,373,144,230,150,210,137,162,15,17
+32.73.08,Cidadap,72,160,58,62,14,16,8,11,0,0
+32.73.29,Cinambo,20,65,6,7,0,0,14,5,4,9
+32.73.02,Coblong,144,413,113,168,169,261,34,22,6,26
+32.73.27,Gedebage,40,90,7,9,24,33,104,86,0,0
+32.73.16,Kiaracondong,116,381,76,124,72,116,122,113,14,29
+32.73.13,Lengkong,127,288,121,211,173,217,281,327,3,13
+32.73.30,Mandalajati,70,255,25,38,15,15,3,4,0,0
+32.73.28,Panyileukan,38,145,53,53,5,11,17,16,3,13
+32.73.23,Rancasari,77,211,42,89,22,42,0,0,15,38
+32.73.11,Regol,143,349,131,223,68,103,45,34,4,18
+32.73.07,Sukajadi,128,310,45,49,51,78,13,23,14,26
+32.73.01,Sukasari,128,292,128,178,30,47,43,37,2,6
+32.73.19,Sumur Bandung,102,252,99,127,105,124,71,125,6,22
+32.73.26,Ujungberung,65,256,89,160,50,85,14,11,3,1

@@ -1,11 +1,11 @@
-Kegiatan,Jumlah Unit Usaha 2014,Jumlah Unit Usaha 2015,Jumlah Tenaga Kerja 2014,Jumlah Tenaga Kerja 2015
-Industri Makanan dan Minuman ,10.455,10.458,32.169,32.172
-Industri Tekstil dan PakaianJadi ,975,975,5.758,5.758
-"Industri Kulit ,Barang dari Kulit dan Alas Kaki ",337,337,3.564,3.564
-"Industri Kulit, Barang dari Kulit dan Alas Kaki ",42,43,165,167
-"Industri Kimia, Farmasi dan Obat Tradisional ",38,38,192,192
-"Industri Karet, Barang dari Karet dan Plastik ",55,55,277,277
-"Industri Barang dari Logam, Komputer, Barang Elektronik, Optik dan Peralatan Listrik ",44,44,276,276
-Industri Mesin dan Perlengkapan ,150,150,450,450
-Industri Furnitur ,100,100,400,400
-Industri Pengolahan Lainnya ,70,70,70,70
+Kegiatan,Jumlah Unit Usaha 2014,Jumlah Tenaga Kerja 2014
+Industri Makanan dan Minuman ,10455,32169
+Industri Tekstil dan PakaianJadi ,975,5758
+"Industri Kulit ,Barang dari Kulit dan Alas Kaki ",337,3564
+"Industri Kulit, Barang dari Kulit dan Alas Kaki ",42,165
+"Industri Kimia, Farmasi dan Obat Tradisional ",38,192
+"Industri Karet, Barang dari Karet dan Plastik ",55,277
+"Industri Barang dari Logam, Komputer, Barang Elektronik, Optik dan Peralatan Listrik ",44,276
+Industri Mesin dan Perlengkapan ,150,450
+Industri Furnitur ,100,400
+Industri Pengolahan Lainnya ,70,70
